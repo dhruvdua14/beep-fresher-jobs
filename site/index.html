@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fresher Ledger: internships and entry-level jobs in India</title>
+  <meta name="description" content="Internships and fresher jobs in India, collected every morning from company career pages, de-duplicated and sorted by role and city.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%231b1915'/><text x='16' y='23' font-family='Georgia' font-size='20' fill='%23f5f2eb' text-anchor='middle'>F</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="topline mono">
+      <span id="updated">Loading today's edition</span>
+      <nav aria-label="Pages">
+        <a href="./" aria-current="page">Listings</a>
+        <a href="stats.html">Numbers &amp; method</a>
+      </nav>
+    </div>
+
+    <header class="masthead">
+      <h1>Fresher <em>Ledger</em></h1>
+      <p class="dek">Internships and entry-level jobs in India, collected every morning from
+        company career pages, cleared of duplicates, and sorted by role and city.</p>
+    </header>
+
+    <div class="search" role="search">
+      <label for="q" class="visually-hidden">Search jobs</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Search roles, companies, cities">
+      <kbd aria-hidden="true">/</kbd>
+    </div>
+
+    <div class="layout">
+      <aside class="filters" aria-label="Filters">
+        <details id="filterbox">
+          <summary class="mono"><span id="filtersummary">Filter by role, city, type</span></summary>
+          <div class="facet"><h2>Type</h2><ul id="f-level"></ul></div>
+          <div class="facet"><h2>Role</h2><ul id="f-role"></ul></div>
+          <div class="facet"><h2>City</h2><ul id="f-city"></ul></div>
+        </details>
+      </aside>
+
+      <main>
+        <div class="resultbar">
+          <div class="count" id="count" aria-live="polite"></div>
+          <div class="actions">
+            <button class="linkbtn" id="clear" hidden>Clear filters</button>
+            <label class="visually-hidden" for="sort">Sort</label>
+            <select id="sort" class="sort">
+              <option value="new">Newest first</option>
+              <option value="company">Company A–Z</option>
+            </select>
+          </div>
+        </div>
+        <ol class="list" id="list"><li class="skeleton">Fetching listings…</li></ol>
+        <button class="morebtn" id="more" hidden>Show more</button>
+      </main>
+    </div>
+
+    <footer class="mono">
+      <p>Every listing links to the employer's own application page. Sources: the public job-board
+        APIs of Greenhouse, Lever, Ashby and SmartRecruiters, and the Adzuna API (Jobs by
+        <a href="https://www.adzuna.in" rel="noopener">Adzuna</a>). No site is scraped.</p>
+      <p>Role and city tags are written by an LLM and can be wrong. Hand-checked accuracy is on the
+        <a href="stats.html">Numbers</a> page.</p>
+      <p>Built by Dhruv Dua · <a href="https://github.com/100XCreatorAI/beep-fresher-jobs" rel="noopener">Source on GitHub</a></p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

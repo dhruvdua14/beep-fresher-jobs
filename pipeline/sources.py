@@ -1,0 +1,242 @@
+"""
+Fetchers: one small function per hiring platform.
+
+Each fetcher returns a list of "posts" in ONE common shape, so the rest of the
+pipeline never needs to know where a post came from:
+
+    {
+        "source":      "greenhouse",
+        "company":     "Postman",
+        "title":       "Software Engineer Intern",
+        "location":    "Bengaluru, India",      # raw text, as the company wrote it
+        "url":         "https://...",           # link to apply
+        "description": "plain text ...",        # trimmed, HTML removed
+        "posted_at":   "2026-11-10",            # or None
+        "hint_level":  "internship"             # only if the platform tells us
+    }
+"""
+
+import html
+import os
+import re
+import time
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
+
+import requests
+
+import config
+
+HEADERS = {"User-Agent": "beep-fresher-jobs/1.0 (public job-board API client)"}
+TIMEOUT = 20
+DESC_CHARS = 1500  # we never need the whole description
+
+
+# ---------------------------------------------------------------- helpers
+
+def get_json(url, params=None):
+    """GET a URL and return parsed JSON, or None on any error (logged)."""
+    for attempt in range(3):
+        try:
+            r = requests.get(url, params=params, headers=HEADERS, timeout=TIMEOUT)
+            if r.status_code == 404:
+                return None  # wrong slug / company left the platform
+            if r.status_code == 429:  # rate limited: back off and retry
+                time.sleep(5 * (attempt + 1))
+                continue
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:  # network blip: retry, then give up quietly
+            if attempt == 2:
+                print(f"   ! {url} failed: {e}")
+            time.sleep(2)
+    return None
+
+
+def clean_html(text):
+    """Turn an HTML job description into short plain text."""
+    if not text:
+        return ""
+    text = html.unescape(html.unescape(text))      # Greenhouse double-escapes
+    text = re.sub(r"<(script|style).*?</\1>", " ", text, flags=re.S)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:DESC_CHARS]
+
+
+def pretty(slug):
+    """'rebel-foods' -> 'Rebel Foods' (used when an API gives no company name)."""
+    return re.sub(r"[-_]+", " ", slug).title()
+
+
+def iso_date(value):
+    """Accept ISO strings or epoch-milliseconds and return 'YYYY-MM-DD'."""
+    if not value:
+        return None
+    try:
+        if isinstance(value, (int, float)):
+            return datetime.fromtimestamp(value / 1000, tz=timezone.utc).date().isoformat()
+        return str(value)[:10]
+    except Exception:
+        return None
+
+
+# ---------------------------------------------------------------- Greenhouse
+# Docs: https://developers.greenhouse.io/job-board.html
+
+def fetch_greenhouse(token):
+    data = get_json(f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs",
+                    params={"content": "true"})
+    if not data:
+        return []
+    board = get_json(f"https://boards-api.greenhouse.io/v1/boards/{token}") or {}
+    company = board.get("name") or pretty(token)
+    posts = []
+    for j in data.get("jobs", []):
+        posts.append({
+            "source": "greenhouse",
+            "company": company,
+            "title": j.get("title", "").strip(),
+            "location": (j.get("location") or {}).get("name", ""),
+            "url": j.get("absolute_url"),
+            "description": clean_html(j.get("content")),
+            "posted_at": iso_date(j.get("first_published") or j.get("updated_at")),
+        })
+    return posts
+
+
+# ---------------------------------------------------------------- Lever
+# Docs: https://github.com/lever/postings-api
+
+def fetch_lever(slug):
+    data = get_json(f"https://api.lever.co/v0/postings/{slug}", params={"mode": "json"})
+    if not isinstance(data, list):
+        return []
+    posts = []
+    for j in data:
+        cats = j.get("categories") or {}
+        locs = cats.get("allLocations") or [cats.get("location", "")]
+        posts.append({
+            "source": "lever",
+            "company": pretty(slug),
+            "title": j.get("text", "").strip(),
+            "location": " / ".join(l for l in locs if l),
+            "url": j.get("hostedUrl"),
+            "description": (j.get("descriptionPlain") or "")[:DESC_CHARS],
+            "posted_at": iso_date(j.get("createdAt")),
+            "hint_level": "internship" if "intern" in (cats.get("commitment") or "").lower() else None,
+        })
+    return posts
+
+
+# ---------------------------------------------------------------- Ashby
+# Docs: https://developers.ashbyhq.com/docs/public-job-posting-api
+
+def fetch_ashby(slug):
+    data = get_json(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
+    if not data:
+        return []
+    posts = []
+    for j in data.get("jobs", []):
+        locs = [j.get("location", "")] + [s.get("location", "") for s in j.get("secondaryLocations") or []]
+        posts.append({
+            "source": "ashby",
+            "company": pretty(slug),
+            "title": j.get("title", "").strip(),
+            "location": " / ".join(l for l in locs if l),
+            "url": j.get("jobUrl"),
+            "description": (j.get("descriptionPlain") or "")[:DESC_CHARS],
+            "posted_at": iso_date(j.get("publishedAt")),
+            "hint_level": "internship" if (j.get("employmentType") or "").lower() == "intern" else None,
+        })
+    return posts
+
+
+# ---------------------------------------------------------------- SmartRecruiters
+# Docs: https://developers.smartrecruiters.com/docs/posting-api
+
+def fetch_smartrecruiters(company_id):
+    posts, offset = [], 0
+    while offset < 500:  # safety cap
+        data = get_json(f"https://api.smartrecruiters.com/v1/companies/{company_id}/postings",
+                        params={"country": "in", "limit": 100, "offset": offset})
+        if not data or not data.get("content"):
+            break
+        for j in data["content"]:
+            loc = j.get("location") or {}
+            level = ((j.get("experienceLevel") or {}).get("id") or "").lower()
+            posts.append({
+                "source": "smartrecruiters",
+                "company": (j.get("company") or {}).get("name") or company_id,
+                "title": j.get("name", "").strip(),
+                "location": loc.get("fullLocation") or ", ".join(
+                    x for x in [loc.get("city"), loc.get("region"), "India"] if x),
+                "url": f"https://jobs.smartrecruiters.com/{company_id}/{j.get('id')}",
+                "description": f"Experience level: {level}. Type: "
+                               f"{(j.get('typeOfEmployment') or {}).get('label', '')}",
+                "posted_at": iso_date(j.get("releasedDate")),
+                "hint_level": {"internship": "internship", "entry_level": "fresher"}.get(level),
+            })
+        offset += 100
+        if offset >= data.get("totalFound", 0):
+            break
+    return posts
+
+
+# ---------------------------------------------------------------- Adzuna (India)
+# Docs: https://developer.adzuna.com  (free key; their terms ask for attribution,
+# which is in the site footer)
+
+def fetch_adzuna():
+    app_id, app_key = os.getenv("ADZUNA_APP_ID"), os.getenv("ADZUNA_APP_KEY")
+    if not (app_id and app_key):
+        print("   (no Adzuna key set, skipping Adzuna)")
+        return []
+    posts = []
+    for q in config.ADZUNA_QUERIES:
+        for page in range(1, config.ADZUNA_PAGES_PER_QUERY + 1):
+            data = get_json(f"https://api.adzuna.com/v1/api/jobs/in/search/{page}", params={
+                "app_id": app_id, "app_key": app_key, "what": q,
+                "results_per_page": 50, "max_days_old": config.ADZUNA_MAX_DAYS_OLD,
+                "content-type": "application/json",
+            })
+            results = (data or {}).get("results") or []
+            for j in results:
+                posts.append({
+                    "source": "adzuna",
+                    "company": (j.get("company") or {}).get("display_name", "Unknown"),
+                    "title": clean_html(j.get("title")),
+                    "location": (j.get("location") or {}).get("display_name", "") + ", India",
+                    "url": j.get("redirect_url"),
+                    "description": clean_html(j.get("description")),
+                    "posted_at": iso_date(j.get("created")),
+                })
+            if len(results) < 50:
+                break
+            time.sleep(1)  # be polite
+    return posts
+
+
+# ---------------------------------------------------------------- run all
+
+def fetch_all():
+    """Fetch every source in parallel. Returns (posts, posts_per_source, posts_per_board)."""
+    jobs = ([(fetch_greenhouse, s) for s in config.GREENHOUSE] +
+            [(fetch_lever, s) for s in config.LEVER] +
+            [(fetch_ashby, s) for s in config.ASHBY] +
+            [(fetch_smartrecruiters, s) for s in config.SMARTRECRUITERS])
+
+    posts, live_boards = [], {}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        results = pool.map(lambda job: (job, job[0](job[1])), jobs)
+        for (fn, slug), found in results:
+            # remember which boards answered, and with how many posts
+            live_boards[f"{fn.__name__.replace('fetch_', '')}:{slug}"] = len(found)
+            posts.extend(found)
+
+    posts.extend(fetch_adzuna())
+
+    counts = {}
+    for p in posts:
+        counts[p["source"]] = counts.get(p["source"], 0) + 1
+    return posts, counts, live_boards

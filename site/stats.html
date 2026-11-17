@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Numbers &amp; method · Fresher Ledger</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%231b1915'/><text x='16' y='23' font-family='Georgia' font-size='20' fill='%23f5f2eb' text-anchor='middle'>F</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="topline mono">
+      <span id="updated">Loading</span>
+      <nav aria-label="Pages">
+        <a href="./">Listings</a>
+        <a href="stats.html" aria-current="page">Numbers &amp; method</a>
+      </nav>
+    </div>
+
+    <header class="masthead">
+      <h1>The <em>numbers</em></h1>
+      <p class="dek">How many posts came in, how many survived, what the tagging costs,
+        and how often the model gets it right. Every figure below is rebuilt by the
+        same daily run that updates the listings.</p>
+    </header>
+
+    <section class="section">
+      <h2>At a glance</h2>
+      <div class="figures" id="glance"></div>
+    </section>
+
+    <section class="section">
+      <h2>Today's run, step by step</h2>
+      <p class="lead">Most of what the pipeline fetches is senior or outside India. Cheap rules
+        remove that first, so the LLM only sees posts that might be relevant.</p>
+      <div class="bars" id="funnel"></div>
+    </section>
+
+    <section class="section">
+      <h2>Tagging accuracy</h2>
+      <p class="lead" id="evalLead">Fifty posts picked at random and checked by hand against the original listing.</p>
+      <div class="figures" id="eval"></div>
+      <div id="confusions"></div>
+    </section>
+
+    <section class="section">
+      <h2>Cost</h2>
+      <p class="lead" id="costLead"></p>
+      <div class="figures" id="cost"></div>
+      <p class="note" id="costNote"></p>
+    </section>
+
+    <section class="section">
+      <h2>What's listed</h2>
+      <div class="cols">
+        <div><h3>By role</h3><div class="bars" id="byRole"></div></div>
+        <div><h3>By city</h3><div class="bars" id="byCity"></div></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Daily runs</h2>
+      <div class="tablewrap"><table class="log" id="runs"></table></div>
+    </section>
+
+    <section class="section">
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><div><b>Fetch</b><span>Every morning at 8:00 IST a GitHub Action calls the public
+          job-board APIs that Greenhouse, Lever, Ashby and SmartRecruiters publish for companies'
+          careers pages, plus the Adzuna India API. These are meant to be read by other sites,
+          so nothing is scraped and no site's terms are broken.</span></div></li>
+        <li><div><b>Filter</b><span>Regex rules keep posts located in India and drop titles like
+          Senior, Lead or Manager. A post stays if its title says intern, trainee, graduate or
+          junior, or its description says 0–1 years or freshers.</span></div></li>
+        <li><div><b>Remove duplicates</b><span>An exact pass hashes company, title and location.
+          A fuzzy pass compares titles from the same company with rapidfuzz, treating
+          “Bangalore” and “Bengaluru” as one place, and drops anything 92% similar.</span></div></li>
+        <li><div><b>Tag</b><span>Gemini reads 20 posts per request and must answer in a fixed JSON
+          schema: one role from 15 categories, cities from a fixed list, a level, and a confidence
+          score. It also acts as a second filter by rejecting posts that need experience. Posts
+          tagged on an earlier day are cached and never paid for twice.</span></div></li>
+        <li><div><b>Publish</b><span>The run writes a JSON file into the repo and redeploys this
+          static site on GitHub Pages. Search and filters run in your browser, so there is
+          no server to keep alive.</span></div></li>
+      </ol>
+    </section>
+
+    <footer class="mono">
+      <p>Built by Dhruv Dua · <a href="https://github.com/100XCreatorAI/beep-fresher-jobs" rel="noopener">Source, prompts and build log on GitHub</a></p>
+    </footer>
+  </div>
+  <script src="stats.js"></script>
+</body>
+</html>
