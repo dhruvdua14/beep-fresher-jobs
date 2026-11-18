@@ -17,6 +17,7 @@ pipeline never needs to know where a post came from:
 """
 
 import html
+import json
 import os
 import re
 import time
@@ -326,44 +327,40 @@ def fetch_adzuna():
     if not (app_id and app_key):
         print("   (no Adzuna key set, skipping Adzuna)")
         return []
-    # At most one Adzuna fetch per day, even if the workflow is run by hand
-    # several times: the free quota is tiny. Results live on in the archive.
-    marker = os.path.join(os.path.dirname(__file__), "..", "data", "adzuna_last_fetch.txt")
+    # Adzuna state: the date of the last fetch, and a cursor into the list of
+    # (query, page) searches so each fetch asks for something new.
+    state_path = os.path.join(os.path.dirname(__file__), "..", "data", "adzuna_state.json")
+    state = json.load(open(state_path)) if os.path.exists(state_path) else {"last_date": "", "cursor": 0}
     today = datetime.now(timezone.utc).date().isoformat()
-    if os.path.exists(marker) and open(marker).read().strip() == today:
+    if state["last_date"] == today:  # once a day, even if the workflow is run by hand
         print("   (Adzuna already fetched today, using the archive)")
         return []
-    with open(marker, "w") as f:
-        f.write(today)
 
-    posts, calls = [], 0
-    day = datetime.now(timezone.utc).timetuple().tm_yday
-    k = config.ADZUNA_MAX_CALLS_PER_RUN
-    todays = [config.ADZUNA_QUERIES[(day * k + i) % len(config.ADZUNA_QUERIES)] for i in range(k)]
-    for q in todays:
-        for page in range(1, config.ADZUNA_PAGES_PER_QUERY + 1):
-            if calls >= config.ADZUNA_MAX_CALLS_PER_RUN:
-                return posts  # protect the tiny free quota
-            calls += 1
-            data = get_json(f"https://api.adzuna.com/v1/api/jobs/in/search/{page}", params={
-                "app_id": app_id, "app_key": app_key, "what_or": q,
-                "results_per_page": 50, "max_days_old": config.ADZUNA_MAX_DAYS_OLD,
-                "content-type": "application/json",
+    searches = [(q, p) for p in range(1, config.ADZUNA_PAGES + 1) for q in config.ADZUNA_QUERIES]
+    todays = [searches[(state["cursor"] + i) % len(searches)] for i in range(config.ADZUNA_MAX_CALLS_PER_RUN)]
+    state = {"last_date": today, "cursor": (state["cursor"] + len(todays)) % len(searches)}
+    with open(state_path, "w") as f:
+        json.dump(state, f)
+
+    posts = []
+    for q, page in todays:
+        data = get_json(f"https://api.adzuna.com/v1/api/jobs/in/search/{page}", params={
+            "app_id": app_id, "app_key": app_key, "what_or": q,
+            "results_per_page": 50, "max_days_old": config.ADZUNA_MAX_DAYS_OLD,
+            "content-type": "application/json",
+        })
+        for j in (data or {}).get("results") or []:
+            posts.append({
+                "source": "adzuna",
+                "company": (j.get("company") or {}).get("display_name", "Unknown"),
+                "title": clean_html(j.get("title")),
+                # Safe to add the country here: this is Adzuna's India-only endpoint (/jobs/in/).
+                "location": (j.get("location") or {}).get("display_name", "") + ", India",
+                "url": j.get("redirect_url"),
+                "description": clean_html(j.get("description")),
+                "posted_at": iso_date(j.get("created")),
             })
-            results = (data or {}).get("results") or []
-            for j in results:
-                posts.append({
-                    "source": "adzuna",
-                    "company": (j.get("company") or {}).get("display_name", "Unknown"),
-                    "title": clean_html(j.get("title")),
-                    "location": (j.get("location") or {}).get("display_name", "") + ", India",
-                    "url": j.get("redirect_url"),
-                    "description": clean_html(j.get("description")),
-                    "posted_at": iso_date(j.get("created")),
-                })
-            if len(results) < 50:
-                break
-            time.sleep(1)  # be polite
+        time.sleep(1)  # be polite
     return posts
 
 

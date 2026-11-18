@@ -127,8 +127,8 @@ CAREERJET_QUERIES = ["fresher", "internship"]
 # Two different queries each day (rotating), so the archive keeps growing in variety.
 ADZUNA_QUERIES = ["fresher internship", "graduate trainee", "entry level fresher",
                   "intern", "junior associate fresher", "campus hiring"]
-ADZUNA_PAGES_PER_QUERY = 1          # 50 results per page
-ADZUNA_MAX_CALLS_PER_RUN = 6   # one-off backfill today; back to 2 after this run
+ADZUNA_PAGES = 3                    # pages 1-3 of each query (50 results per page)
+ADZUNA_MAX_CALLS_PER_RUN = 3        # searches per daily run; a cursor walks through all query/page pairs
 ADZUNA_MAX_DAYS_OLD = 30
 
 # ---------------------------------------------------------------------------
