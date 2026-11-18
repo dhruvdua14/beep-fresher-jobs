@@ -1,84 +1,189 @@
 {
- "updated_at": "2026-11-18T08:54+05:30",
- "model": "gemini-2.5-flash-lite",
+ "updated_at": "2026-11-18T09:00+05:30",
+ "model": "gemini-3.1-flash-lite",
  "price": {
-  "input_per_m": 0.1,
-  "output_per_m": 0.4,
+  "input_per_m": 0.25,
+  "output_per_m": 1.5,
   "usd_to_inr": 84.0
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "08:54",
-  "fetched": 8194,
-  "india": 1750,
-  "fresher_rules": 433,
-  "exact_dupes": 49,
+  "time": "09:00",
+  "fetched": 9115,
+  "india": 2184,
+  "fresher_rules": 519,
+  "exact_dupes": 53,
   "fuzzy_dupes": 9,
-  "rejected_by_llm": 0,
-  "published": 40,
-  "newly_tagged": 0,
+  "rejected_by_llm": 257,
+  "published": 200,
+  "newly_tagged": 457,
   "from_cache": 0,
-  "llm_calls": 0,
-  "input_tokens": 0,
-  "output_tokens": 0,
-  "cost_usd": 0.0,
-  "boards": 52,
+  "llm_calls": 12,
+  "input_tokens": 43596,
+  "output_tokens": 18842,
+  "cost_usd": 0.039162,
+  "model": "gemini-3.1-flash-lite",
+  "boards": 63,
   "by_source": {
-   "greenhouse": 6397,
+   "greenhouse": 6988,
    "lever": 642,
    "ashby": 492,
-   "smartrecruiters": 663
+   "smartrecruiters": 993
   }
  },
  "cost": {
-  "posts_tagged_all_time": 0,
-  "input_tokens": 0,
-  "output_tokens": 0,
-  "usd_all_time": 0.0,
-  "usd_per_1000": null,
-  "tokens_per_post": null
+  "posts_tagged_all_time": 457,
+  "input_tokens": 43596,
+  "output_tokens": 18842,
+  "usd_all_time": 0.039162,
+  "usd_per_1000": 0.0857,
+  "tokens_per_post": 137
  },
  "by_role": [
   [
-   "Untagged",
-   40
+   "Software Engineering",
+   83
+  ],
+  [
+   "Operations & Supply Chain",
+   24
+  ],
+  [
+   "Other",
+   16
+  ],
+  [
+   "Hardware & Electronics",
+   15
+  ],
+  [
+   "Consulting & Strategy",
+   10
+  ],
+  [
+   "Finance & Accounting",
+   9
+  ],
+  [
+   "HR & Recruiting",
+   8
+  ],
+  [
+   "Customer Success & Support",
+   8
+  ],
+  [
+   "Data & Analytics",
+   7
+  ],
+  [
+   "AI / ML",
+   6
+  ],
+  [
+   "Sales & Business Development",
+   6
+  ],
+  [
+   "Design",
+   3
+  ],
+  [
+   "Marketing",
+   3
+  ],
+  [
+   "Product",
+   1
+  ],
+  [
+   "Content & Communications",
+   1
   ]
  ],
  "by_city": [
   [
-   "Unknown",
-   40
+   "Bengaluru",
+   150
+  ],
+  [
+   "Coimbatore",
+   14
+  ],
+  [
+   "Other India",
+   11
+  ],
+  [
+   "Pune",
+   8
+  ],
+  [
+   "Noida",
+   6
+  ],
+  [
+   "Mumbai",
+   4
+  ],
+  [
+   "Hyderabad",
+   4
+  ],
+  [
+   "Gurugram",
+   3
+  ],
+  [
+   "Kochi",
+   1
   ]
  ],
  "by_level": [
   [
-   "Unknown",
-   40
+   "Fresher",
+   183
+  ],
+  [
+   "Internship",
+   17
   ]
  ],
  "by_company": [
   [
-   "Paytm",
-   12
+   "Bosch Group",
+   153
   ],
   [
-   "Bosch Group",
+   "Paytm",
    10
   ],
   [
-   "Stripe",
-   4
+   "Sutherland",
+   8
+  ],
+  [
+   "Continental",
+   7
   ],
   [
    "Rubrik Job Board",
    4
   ],
   [
-   "Fampay",
+   "SWIGGY",
    3
   ],
   [
-   "Composio",
+   "MongoDB",
+   3
+  ],
+  [
+   "Fampay",
+   2
+  ],
+  [
+   "Stripe",
    2
   ],
   [
@@ -86,38 +191,42 @@
    1
   ],
   [
+   "Composio",
+   1
+  ],
+  [
+   "Headout",
+   1
+  ],
+  [
    "Sarvam",
    1
   ],
   [
-   "Mindtickle",
+   "Smallest",
    1
   ],
   [
-   "Groww",
-   1
-  ],
-  [
-   "MongoDB",
+   "Sigmoid",
    1
   ]
  ],
  "by_source": [
   [
-   "lever",
-   16
+   "smartrecruiters",
+   171
   ],
   [
    "greenhouse",
-   11
+   13
   ],
   [
-   "smartrecruiters",
-   10
+   "lever",
+   12
   ],
   [
    "ashby",
-   3
+   4
   ]
  ],
  "history": [
@@ -167,6 +276,31 @@
     "lever": 642,
     "ashby": 492,
     "smartrecruiters": 663
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:00",
+   "fetched": 9115,
+   "india": 2184,
+   "fresher_rules": 519,
+   "exact_dupes": 53,
+   "fuzzy_dupes": 9,
+   "rejected_by_llm": 257,
+   "published": 200,
+   "newly_tagged": 457,
+   "from_cache": 0,
+   "llm_calls": 12,
+   "input_tokens": 43596,
+   "output_tokens": 18842,
+   "cost_usd": 0.039162,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 63,
+   "by_source": {
+    "greenhouse": 6988,
+    "lever": 642,
+    "ashby": 492,
+    "smartrecruiters": 993
    }
   }
  ],

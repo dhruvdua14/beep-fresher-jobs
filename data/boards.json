@@ -91,6 +91,46 @@
   "greenhouse:groyyo": 0,
   "greenhouse:zetwerk": 0,
   "greenhouse:ofbusiness": 0,
+  "greenhouse:thoughtworks": 35,
+  "greenhouse:moengage": 0,
+  "greenhouse:clevertap": 0,
+  "greenhouse:netcore": 0,
+  "greenhouse:ixigo": 0,
+  "greenhouse:cleartrip": 0,
+  "greenhouse:agoda": 348,
+  "greenhouse:sahaj": 0,
+  "greenhouse:gojek": 0,
+  "greenhouse:tide": 81,
+  "greenhouse:transferwise": 0,
+  "greenhouse:wise": 19,
+  "greenhouse:grab": 0,
+  "greenhouse:turing": 45,
+  "greenhouse:deepintent": 21,
+  "greenhouse:exotel": 0,
+  "greenhouse:medianet": 0,
+  "greenhouse:netomi": 0,
+  "greenhouse:fractal": 0,
+  "greenhouse:tigeranalytics": 0,
+  "greenhouse:mu-sigma": 0,
+  "greenhouse:quantiphi": 0,
+  "greenhouse:sigmoid": 42,
+  "greenhouse:lummo": 0,
+  "greenhouse:kotak": 0,
+  "greenhouse:angelone": 0,
+  "greenhouse:dhan": 0,
+  "greenhouse:zerodha": 0,
+  "greenhouse:indmoney": 0,
+  "greenhouse:navi": 0,
+  "greenhouse:ola": 0,
+  "greenhouse:olaelectric": 0,
+  "greenhouse:ather": 0,
+  "greenhouse:boat": 0,
+  "greenhouse:mamaearth": 0,
+  "greenhouse:sugar": 0,
+  "greenhouse:purplle": 0,
+  "greenhouse:firstcry": 0,
+  "greenhouse:pepperfry": 0,
+  "greenhouse:urbanladder": 0,
   "lever:cred": 15,
   "lever:upstox": 0,
   "lever:jar": 0,
@@ -177,6 +217,58 @@
   "smartrecruiters:Experian": 39,
   "smartrecruiters:Abbott": 0,
   "smartrecruiters:Canva": 0,
+  "smartrecruiters:NielsenIQ": 72,
+  "smartrecruiters:PublicisGroupe": 0,
+  "smartrecruiters:Sutherland": 55,
+  "smartrecruiters:TaskUs": 0,
+  "smartrecruiters:Wipro": 0,
+  "smartrecruiters:Capgemini": 0,
+  "smartrecruiters:Infosys": 0,
+  "smartrecruiters:HCLTech": 0,
+  "smartrecruiters:LTIMindtree": 0,
+  "smartrecruiters:TechMahindra": 0,
+  "smartrecruiters:Genpact": 0,
+  "smartrecruiters:WNS": 0,
+  "smartrecruiters:Concentrix": 0,
+  "smartrecruiters:Teleperformance": 0,
+  "smartrecruiters:Siemens": 0,
+  "smartrecruiters:SiemensHealthineers": 0,
+  "smartrecruiters:Philips": 0,
+  "smartrecruiters:Unilever": 0,
+  "smartrecruiters:Nestle": 0,
+  "smartrecruiters:Lenovo": 0,
+  "smartrecruiters:IKEA": 0,
+  "smartrecruiters:Decathlon": 0,
+  "smartrecruiters:Hitachi": 0,
+  "smartrecruiters:Mphasis": 0,
+  "smartrecruiters:Persistent": 0,
+  "smartrecruiters:Zensar": 0,
+  "smartrecruiters:Hexaware": 0,
+  "smartrecruiters:Coforge": 0,
+  "smartrecruiters:KPMG": 0,
+  "smartrecruiters:Deloitte": 0,
+  "smartrecruiters:EY": 0,
+  "smartrecruiters:PwC": 0,
+  "smartrecruiters:Continental": 12,
+  "smartrecruiters:ZF": 0,
+  "smartrecruiters:Valeo": 0,
+  "smartrecruiters:SchneiderElectric": 0,
+  "smartrecruiters:ABB": 0,
+  "smartrecruiters:Honeywell": 0,
+  "smartrecruiters:Mercedes-Benz": 0,
+  "smartrecruiters:Skoda": 0,
+  "smartrecruiters:Volvo": 0,
+  "smartrecruiters:Ericsson": 0,
+  "smartrecruiters:Nokia": 0,
+  "smartrecruiters:Allegis": 0,
+  "smartrecruiters:Randstad": 0,
+  "smartrecruiters:Adecco": 0,
+  "smartrecruiters:Turing": 0,
+  "smartrecruiters:BrowserStack": 0,
+  "smartrecruiters:Paytm": 0,
+  "smartrecruiters:Swiggy": 191,
+  "smartrecruiters:Zomato": 0,
+  "smartrecruiters:Myntra": 0,
   "workable:razorpay": 0,
   "workable:groww": 0,
   "workable:zepto": 0,
@@ -217,27 +309,39 @@
  },
  "listed_per_company": [
   [
-   "lever:Paytm",
-   12
+   "smartrecruiters:Bosch Group",
+   153
   ],
   [
-   "smartrecruiters:Bosch Group",
+   "lever:Paytm",
    10
   ],
   [
-   "greenhouse:Stripe",
-   4
+   "smartrecruiters:Sutherland",
+   8
+  ],
+  [
+   "smartrecruiters:Continental",
+   7
   ],
   [
    "greenhouse:Rubrik Job Board",
    4
   ],
   [
-   "lever:Fampay",
+   "smartrecruiters:SWIGGY",
    3
   ],
   [
-   "ashby:Composio",
+   "greenhouse:MongoDB",
+   3
+  ],
+  [
+   "lever:Fampay",
+   2
+  ],
+  [
+   "greenhouse:Stripe",
    2
   ],
   [
@@ -245,19 +349,31 @@
    1
   ],
   [
+   "ashby:Composio",
+   1
+  ],
+  [
+   "ashby:Headout",
+   1
+  ],
+  [
    "ashby:Sarvam",
    1
   ],
   [
-   "lever:Mindtickle",
+   "ashby:Smallest",
    1
   ],
   [
-   "greenhouse:Groww",
+   "greenhouse:Sigmoid",
    1
   ],
   [
-   "greenhouse:MongoDB",
+   "greenhouse:Agoda",
+   1
+  ],
+  [
+   "greenhouse:Datadog",
    1
   ]
  ]
