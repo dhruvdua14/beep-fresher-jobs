@@ -924,10 +924,22 @@
  "listed_per_company": [
   [
    "lever:Paytm",
-   6
+   8
   ],
   [
    "smartrecruiters:Bosch Group",
+   7
+  ],
+  [
+   "smartrecruiters:SWIGGY",
+   6
+  ],
+  [
+   "smartrecruiters:Sutherland",
+   6
+  ],
+  [
+   "adzuna:Happiest Resume",
    5
   ],
   [
@@ -940,6 +952,10 @@
   ],
   [
    "adzuna:Sid's Farm",
+   4
+  ],
+  [
+   "adzuna:nVent",
    4
   ],
   [
@@ -959,11 +975,15 @@
    3
   ],
   [
-   "smartrecruiters:SWIGGY",
+   "smartrecruiters:NielsenIQ",
    3
   ],
   [
    "adzuna:Playto Labs",
+   3
+  ],
+  [
+   "adzuna:Marriott",
    3
   ],
   [
@@ -987,10 +1007,6 @@
    2
   ],
   [
-   "smartrecruiters:NielsenIQ",
-   2
-  ],
-  [
    "adzuna:FIRST NEEDS SALES PVT LTD",
    2
   ],
@@ -1011,15 +1027,15 @@
    2
   ],
   [
-   "adzuna:BrandStory Digital",
-   2
-  ],
-  [
    "adzuna:Burns & McDonnell",
    2
   ],
   [
    "adzuna:Delhi",
+   2
+  ],
+  [
+   "adzuna:Vecmocon",
    2
   ],
   [
@@ -1043,6 +1059,10 @@
    2
   ],
   [
+   "adzuna:Xylem",
+   2
+  ],
+  [
    "adzuna:MAK",
    2
   ],
@@ -1059,6 +1079,10 @@
    2
   ],
   [
+   "adzuna:Bitdeer",
+   2
+  ],
+  [
    "adzuna:Ayush",
    2
   ],
@@ -1072,6 +1096,10 @@
   ],
   [
    "adzuna:iSmartRecruit",
+   2
+  ],
+  [
+   "ashby:Sarvam",
    2
   ],
   [
@@ -1135,6 +1163,10 @@
    1
   ],
   [
+   "adzuna:i95Dev",
+   1
+  ],
+  [
    "adzuna:WWF-India",
    1
   ],
@@ -1148,10 +1180,6 @@
   ],
   [
    "adzuna:Hadron GBS",
-   1
-  ],
-  [
-   "adzuna:Marriott",
    1
   ],
   [
@@ -1239,10 +1267,6 @@
    1
   ],
   [
-   "adzuna:Vecmocon",
-   1
-  ],
-  [
    "adzuna:Talakunchi Networks",
    1
   ],
@@ -1264,6 +1288,10 @@
   ],
   [
    "adzuna:HealthAsyst",
+   1
+  ],
+  [
+   "adzuna:BrandStory Digital",
    1
   ],
   [
@@ -1367,10 +1395,6 @@
    1
   ],
   [
-   "adzuna:Arting Digital Private Limited",
-   1
-  ],
-  [
    "adzuna:Sids Farm Hiring",
    1
   ],
@@ -1384,6 +1408,10 @@
   ],
   [
    "adzuna:QHT Clinic",
+   1
+  ],
+  [
+   "adzuna:Plansee",
    1
   ],
   [
@@ -1412,6 +1440,10 @@
   ],
   [
    "adzuna:John Crane",
+   1
+  ],
+  [
+   "adzuna:Lucy Group",
    1
   ],
   [
@@ -1463,10 +1495,6 @@
    1
   ],
   [
-   "adzuna:Happiest Resume",
-   1
-  ],
-  [
    "adzuna:NAB",
    1
   ],
@@ -1496,6 +1524,14 @@
   ],
   [
    "adzuna:Subhasis Mohanty ",
+   1
+  ],
+  [
+   "adzuna:CSC",
+   1
+  ],
+  [
+   "adzuna:GE HealthCare",
    1
   ],
   [
@@ -1567,6 +1603,10 @@
    1
   ],
   [
+   "adzuna:Episode Six",
+   1
+  ],
+  [
    "adzuna:MediaRadar",
    1
   ],
@@ -1576,10 +1616,6 @@
   ],
   [
    "adzuna:Indovance Private Limited",
-   1
-  ],
-  [
-   "adzuna:AtkinsRéalis",
    1
   ],
   [
@@ -1620,6 +1656,10 @@
   ],
   [
    "adzuna:Tibarumal Gems & Jewels",
+   1
+  ],
+  [
+   "adzuna:Sisco Jobs",
    1
   ],
   [
@@ -1671,10 +1711,6 @@
    1
   ],
   [
-   "ashby:Sarvam",
-   1
-  ],
-  [
    "adzuna:2coms",
    1
   ],
@@ -1692,10 +1728,6 @@
   ],
   [
    "adzuna:Executive Softway Guild India Private Limited",
-   1
-  ],
-  [
-   "ashby:Smallest",
    1
   ],
   [
@@ -1723,6 +1755,10 @@
    1
   ],
   [
+   "adzuna:3i Infotech Limited",
+   1
+  ],
+  [
    "adzuna:Coinsell Technology Pvt. Ltd.",
    1
   ],
@@ -1735,7 +1771,7 @@
    1
   ],
   [
-   "smartrecruiters:Sutherland",
+   "greenhouse:InMobi ",
    1
   ],
   [
@@ -1748,6 +1784,10 @@
   ],
   [
    "greenhouse:Datadog",
+   1
+  ],
+  [
+   "smartrecruiters:Continental",
    1
   ]
  ]

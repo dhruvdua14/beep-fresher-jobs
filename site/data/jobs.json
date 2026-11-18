@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T09:41+05:30",
- "count": 274,
+ "updated_at": "2026-11-18T09:45+05:30",
+ "count": 309,
  "jobs": [
   {
    "id": "2a5c48491bf7",
@@ -58,7 +58,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039884",
@@ -75,7 +75,7 @@
     "Pune"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000162070650",
    "source": "smartrecruiters",
@@ -108,7 +108,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5969243619?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-17",
@@ -122,7 +122,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "Other",
+   "role": "Software Engineering",
    "level": "Internship",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5969224109?utm_medium=api&utm_source=fe7c6c25",
@@ -154,7 +154,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5968976159?utm_medium=api&utm_source=fe7c6c25",
@@ -170,7 +170,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5968924568?utm_medium=api&utm_source=fe7c6c25",
@@ -187,7 +187,7 @@
     "Bengaluru"
    ],
    "role": "Customer Success & Support",
-   "level": "Internship",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5968732314?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -227,6 +227,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "94789dbc79d4",
+   "title": "IN_Bosch Rexroth India_Engineer / Executive_Project Management",
+   "company": "Bosch Group",
+   "location": "Sanand, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161787824",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "940a1fdfe4b9",
    "title": "System integration exhaust treatment",
    "company": "Bosch Group",
@@ -234,7 +250,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161773044",
@@ -254,6 +270,22 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161932469",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d610474fab2e",
+   "title": "Research Associate",
+   "company": "NielsenIQ",
+   "location": "Vadodara, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161753129",
    "source": "smartrecruiters",
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
@@ -314,10 +346,26 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5967668529?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a00f61f2a138",
+   "title": "Junior Business Analyst",
+   "company": "i95Dev",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5967980072?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
@@ -380,7 +428,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966478802?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -396,7 +444,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966845495?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -412,7 +460,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966478701?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -428,7 +476,7 @@
    ],
    "role": "Other",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966478829?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -443,8 +491,8 @@
     "Other India"
    ],
    "role": "Other",
-   "level": "Internship",
-   "confidence": 1.0,
+   "level": "Fresher",
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966478763?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -540,7 +588,7 @@
    ],
    "role": "Content & Communications",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966107511?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
@@ -552,7 +600,6 @@
    "company": "Tangentia",
    "location": "India, India",
    "cities": [
-    "Other India",
     "Thiruvananthapuram"
    ],
    "role": "Software Engineering",
@@ -588,8 +635,8 @@
     "Hyderabad"
    ],
    "role": "Product",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Internship",
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5966097383?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
@@ -605,7 +652,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5966099928?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
@@ -699,9 +746,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5964755009?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -717,7 +764,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5964782202?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -733,7 +780,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5964787203?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -747,9 +794,9 @@
    "cities": [
     "Pune"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5964788756?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -772,22 +819,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "506f400a83de",
-   "title": "Junior Associate - Graphic Designer",
-   "company": "BrandStory Digital",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Design",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5964475615?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "7c0ba9aad165",
    "title": "Trainee Electrical/Civil Engineer - Off Campus (Bangalore Office)",
    "company": "Burns & McDonnell",
@@ -795,9 +826,9 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5964198254?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -812,7 +843,7 @@
     "Other India"
    ],
    "role": "Marketing",
-   "level": "Internship",
+   "level": "Fresher",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5964779068?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -829,7 +860,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963999039?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -845,7 +876,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5964475217?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -891,9 +922,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Other",
+   "role": "Operations & Supply Chain",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963065845?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1049,7 +1080,7 @@
    "company": "Broadway",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
@@ -1065,8 +1096,7 @@
    "company": "AI CERTs®",
    "location": "Delhi, India, India",
    "cities": [
-    "Delhi",
-    "Other India"
+    "Delhi"
    ],
    "role": "Customer Success & Support",
    "level": "Internship",
@@ -1086,7 +1116,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963454972?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1102,7 +1132,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963436941?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1116,7 +1146,7 @@
    "cities": [
     "Noida"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963460095?utm_medium=api&utm_source=fe7c6c25",
@@ -1134,7 +1164,7 @@
    ],
    "role": "Software Engineering",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963470124?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1164,9 +1194,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Other",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963463709?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1180,9 +1210,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963441365?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1196,9 +1226,9 @@
    "cities": [
     "Ahmedabad"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5962942480?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1214,7 +1244,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963458461?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1230,7 +1260,7 @@
    ],
    "role": "Design",
    "level": "Early career",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963065818?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1244,9 +1274,9 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Early career",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963435559?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1261,9 +1291,25 @@
     "Bengaluru"
    ],
    "role": "Software Engineering",
-   "level": "Early career",
-   "confidence": 0.9,
+   "level": "Fresher",
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963466246?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8a4978296035",
+   "title": "Junior NPI Engineer",
+   "company": "Vecmocon",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963461969?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-18"
@@ -1278,7 +1324,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963440787?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1292,9 +1338,9 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5962711127?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1308,9 +1354,9 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Consulting & Strategy",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963458383?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1326,7 +1372,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963066647?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1342,7 +1388,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963429411?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1358,7 +1404,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963466386?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1422,7 +1468,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963447824?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1438,7 +1484,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963458953?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1453,7 +1499,7 @@
     "Ahmedabad"
    ],
    "role": "Consulting & Strategy",
-   "level": "Early career",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963448815?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -1500,7 +1546,7 @@
    "cities": [
     "Hyderabad"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Consulting & Strategy",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963425941?utm_medium=api&utm_source=fe7c6c25",
@@ -1550,7 +1596,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963465021?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1566,7 +1612,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963461052?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1582,7 +1628,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963470648?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -1644,9 +1690,9 @@
    "cities": [
     "Delhi"
    ],
-   "role": "Content & Communications",
+   "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960993645?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1676,9 +1722,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5961902249?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1692,9 +1738,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5961528561?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1710,7 +1756,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5961583632?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1724,9 +1770,9 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5960993678?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1742,7 +1788,7 @@
    ],
    "role": "Other",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5961108708?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -1756,7 +1802,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960844842?utm_medium=api&utm_source=fe7c6c25",
@@ -1788,7 +1834,7 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Content & Communications",
+   "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960294108?utm_medium=api&utm_source=fe7c6c25",
@@ -1813,6 +1859,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "2aa08514d152",
+   "title": "Graduate Trainee Engineer – Sales (Shroff)",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960531759?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8d51e3f290f6",
+   "title": "Graduate Engineer Trainee – Warehouse",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960525895?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "9c6ba9646263",
    "title": "Statutory Audit- CA Fresher,Associate",
    "company": "Acme Services Private Limited",
@@ -1822,7 +1900,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5959429292?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-10",
@@ -1838,7 +1916,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5959999454?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-10",
@@ -1850,14 +1928,30 @@
    "company": "Ramboll",
    "location": "India, India",
    "cities": [
-    "Other India"
+    "Hyderabad"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960318993?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "fb8909598cd1",
+   "title": "Tele - Sales",
+   "company": "SWIGGY",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001561485",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-09",
    "first_seen": "2026-11-18"
   },
   {
@@ -1868,26 +1962,10 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5958095412?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-11-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3d21eda91901",
-   "title": "Junior / Associate Databricks Developer",
-   "company": "Arting Digital Private Limited",
-   "location": "India, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Data & Analytics",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5957737059?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-08",
    "first_seen": "2026-11-18"
@@ -1902,7 +1980,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5958095533?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-08",
@@ -1916,9 +1994,9 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5958095476?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-08",
@@ -1950,7 +2028,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5956593420?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-07",
@@ -1962,12 +2040,28 @@
    "company": "QHT Clinic",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Marketing",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5956296804?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a21eccb8fc9f",
+   "title": "Graduate Engineer Trainee - Design",
+   "company": "Plansee",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5957247000?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-07",
    "first_seen": "2026-11-18"
@@ -1982,7 +2076,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5955880182?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-07",
@@ -1998,7 +2092,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5957024606?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-07",
@@ -2012,7 +2106,7 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5957221193?utm_medium=api&utm_source=fe7c6c25",
@@ -2028,7 +2122,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Data & Analytics",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5955801164?utm_medium=api&utm_source=fe7c6c25",
@@ -2044,9 +2138,9 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Data & Analytics",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5955047448?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
@@ -2077,9 +2171,25 @@
     "Pune"
    ],
    "role": "Operations & Supply Chain",
-   "level": "Internship",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5954660921?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5a1a6e8194f7",
+   "title": "Graduate Engineer Trainee",
+   "company": "Lucy Group",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5955808051?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-18"
@@ -2110,7 +2220,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5955798497?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
@@ -2142,7 +2252,7 @@
    ],
    "role": "Design",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5955617319?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
@@ -2188,8 +2298,8 @@
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
+   "role": "Core Engineering",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5954485502?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -2204,10 +2314,26 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
+   "role": "Finance & Accounting",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5954448830?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a69339c32d7c",
+   "title": "Mechancial Engineer_Graduate Engineering Trainee",
+   "company": "Xylem",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5954484213?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
@@ -2220,9 +2346,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5953363538?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
@@ -2238,7 +2364,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5953363583?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
@@ -2268,7 +2394,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953941681?utm_medium=api&utm_source=fe7c6c25",
@@ -2303,7 +2429,7 @@
     "Other India",
     "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Operations & Supply Chain",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953121299?utm_medium=api&utm_source=fe7c6c25",
@@ -2337,7 +2463,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953183038?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
@@ -2353,7 +2479,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5952324465?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
@@ -2374,7 +2500,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5952791934?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
@@ -2405,7 +2531,7 @@
     "Mumbai"
    ],
    "role": "Marketing",
-   "level": "Internship",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953164188?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -2420,10 +2546,26 @@
    "cities": [
     "Hyderabad"
    ],
-   "role": "Software Engineering",
-   "level": "Internship",
+   "role": "Core Engineering",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953168428?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3c7be1d591c4",
+   "title": "Graduate Engineer Trainee",
+   "company": "Xylem",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953167104?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
@@ -2437,8 +2579,8 @@
     "Mumbai"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Internship",
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5952324695?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
@@ -2494,6 +2636,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "08a1cdd8fe14",
+   "title": "Tele Sales Executive",
+   "company": "SWIGGY",
+   "location": "Kolkata, WB, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001545481",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "31df4002d204",
+   "title": "Tele - Sales",
+   "company": "SWIGGY",
+   "location": "Bengaluru, KA, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001545462",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "f5335d2d144c",
    "title": "Multiple opportunities for Software fresher s Hyderabad",
    "company": "MAK",
@@ -2505,6 +2679,38 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5951141597?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f406ffd51bf9",
+   "title": "CA Fresher - Mumbai",
+   "company": "CSC",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5951619994?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0a66232a0d1e",
+   "title": "Graduate Engineer Trainee",
+   "company": "GE HealthCare",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5951877397?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-03",
    "first_seen": "2026-11-18"
@@ -2563,7 +2769,6 @@
    "company": "propkarmaa",
    "location": "Delhi, India, India",
    "cities": [
-    "Delhi",
     "Noida"
    ],
    "role": "Sales & Business Development",
@@ -2598,9 +2803,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "role": "Core Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5950495629?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-02",
@@ -2616,7 +2821,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5950768937?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-02",
@@ -2630,9 +2835,9 @@
    "cities": [
     "Indore"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5948618718?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-01",
@@ -2648,8 +2853,24 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5949468912?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "318032e9b407",
+   "title": "Junior Sous Chef",
+   "company": "Marriott",
+   "location": "Kolkata, West Bengal, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948740837?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-01",
    "first_seen": "2026-11-18"
@@ -2676,7 +2897,7 @@
    "company": "Humppl",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Sales & Business Development",
    "level": "Internship",
@@ -2692,7 +2913,7 @@
    "company": "Humppl",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Marketing",
    "level": "Internship",
@@ -2710,8 +2931,8 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
+   "role": "Core Engineering",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5948346093?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
@@ -2758,9 +2979,9 @@
    "cities": [
     "Thiruvananthapuram"
    ],
-   "role": "Other",
+   "role": "Core Engineering",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5947929659?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-31",
@@ -2799,6 +3020,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "d9e2b865cb24",
+   "title": "Graduate Trainee Engineer – Cooling (Mechnical)",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948224670?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "94734ba52add",
    "title": "Engineer Trainee",
    "company": "Trikaal Tech Enterprises Private Limited",
@@ -2806,9 +3043,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5948121641?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-31",
@@ -2870,11 +3107,27 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Product",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff",
    "source": "ashby",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "83265fd6c1b4",
+   "title": "Graduate Trainee- Security",
+   "company": "Episode Six",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5947067184?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-18"
   },
@@ -2895,6 +3148,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "a79ac0a0e598",
+   "title": "Junior Sous Chef",
+   "company": "Marriott",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5946613543?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "f79fa29767d1",
    "title": "Business Development Executive Intern",
    "company": "Rampwin Technologies Pvt. Ltd.",
@@ -2904,7 +3173,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5946322674?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-30",
@@ -2918,28 +3187,12 @@
    "cities": [
     "Pune"
    ],
-   "role": "Design",
+   "role": "Core Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5947202651?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "942d8df02f8f",
-   "title": "Apprentice",
-   "company": "AtkinsRéalis",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5945933851?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
@@ -2966,7 +3219,7 @@
    "cities": [
     "Thiruvananthapuram"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5945170866?utm_medium=api&utm_source=fe7c6c25",
@@ -2984,7 +3237,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5945043493?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-29",
@@ -3000,8 +3253,24 @@
    ],
    "role": "Software Engineering",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5945171207?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c2d2da3771ff",
+   "title": "Graduate Engineer – HR",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5945895202?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
@@ -3016,7 +3285,7 @@
    ],
    "role": "Design",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5945588164?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-29",
@@ -3087,6 +3356,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "acaa1c84fa57",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Jhajjar, Haryana, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943907316?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "143bfe4bbbc7",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Agra, Uttar Pradesh, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943907374?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "4e2a54918708",
    "title": "Junior QC Engineer",
    "company": "Kuche7",
@@ -3094,9 +3395,9 @@
    "cities": [
     "Mumbai"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Core Engineering",
    "level": "Early career",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5943994138?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-28",
@@ -3167,16 +3468,32 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "a55bbe1ec661",
+   "title": "Data Entry / Computer Operator",
+   "company": "Sisco Jobs",
+   "location": "Srirangam, Tiruchirappalli, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943126920?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "e66727695510",
    "title": "Media Relations & Communications Associate –Fresher",
    "company": "Harmony United Psychiatric Care",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Content & Communications",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5942816735?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-27",
@@ -3206,9 +3523,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5943348375?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-27",
@@ -3238,7 +3555,7 @@
    "cities": [
     "Ahmedabad"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157722162",
@@ -3272,7 +3589,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5942383573?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-26",
@@ -3327,6 +3644,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "5af653b7826e",
+   "title": "2027 Information Technology & Cybersecurity Graduate Talent Trainee",
+   "company": "Bitdeer",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5941326338?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "ea2af3b1b29f",
    "title": "Junior Engineers - (Freshers) - Diploma / BE",
    "company": "Ayush",
@@ -3334,9 +3667,9 @@
    "cities": [
     "Coimbatore"
    ],
-   "role": "Software Engineering",
+   "role": "Core Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5940947484?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-25",
@@ -3384,7 +3717,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5940343054?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -3400,7 +3733,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5940640565?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -3416,7 +3749,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5940353462?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -3462,7 +3795,7 @@
    "cities": [
     "Remote"
    ],
-   "role": "Content & Communications",
+   "role": "Design",
    "level": "Internship",
    "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5940362995?utm_medium=api&utm_source=fe7c6c25",
@@ -3478,9 +3811,9 @@
    "cities": [
     "Ahmedabad"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5940650992?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -3567,6 +3900,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "56fdbb19b4ba",
+   "title": "Data Entry Operator",
+   "company": "Happiest Resume",
+   "location": "Patna, Bihar, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938549847?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "48c71fd21bd7",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938549887?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "52679187e680",
    "title": "PPC Intern",
    "company": "ViralChilly",
@@ -3576,7 +3941,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5938629882?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
@@ -3588,9 +3953,9 @@
    "company": "2coms",
    "location": "Shakti Nagar, North Delhi, India",
    "cities": [
-    "Other India"
+    "Delhi"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Core Engineering",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5938296214?utm_medium=api&utm_source=fe7c6c25",
@@ -3610,6 +3975,22 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5938642135?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "18326c5331d6",
+   "title": "2027 Sales & Business Development Graduate Talent Trainee",
+   "company": "Bitdeer",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5939121690?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
    "first_seen": "2026-11-18"
@@ -3640,7 +4021,7 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5938634344?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
@@ -3652,7 +4033,7 @@
    "company": "House AI",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
@@ -3668,7 +4049,7 @@
    "company": "House AI",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
@@ -3684,11 +4065,11 @@
    "company": "House AI",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Sales & Business Development",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5939142399?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
@@ -3700,11 +4081,11 @@
    "company": "House AI",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5939142424?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
@@ -3740,22 +4121,6 @@
    "url": "https://www.adzuna.in/details/5938642094?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9db07d10acda",
-   "title": "Software Engineer - Systems and Reliablity",
-   "company": "Smallest",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b",
-   "source": "ashby",
-   "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
@@ -3800,7 +4165,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5937668700?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-22",
@@ -3814,7 +4179,7 @@
    "cities": [
     "Ahmedabad"
    ],
-   "role": "Other",
+   "role": "Sales & Business Development",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5935985493?utm_medium=api&utm_source=fe7c6c25",
@@ -3863,9 +4228,25 @@
     "Pune"
    ],
    "role": "HR & Recruiting",
-   "level": "Internship",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5936833367?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a9a6e4f595d0",
+   "title": "Documents verification and Data Entry",
+   "company": "3i Infotech Limited",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5936830402?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-21",
    "first_seen": "2026-11-18"
@@ -3894,7 +4275,7 @@
    "cities": [
     "Delhi"
    ],
-   "role": "Finance & Accounting",
+   "role": "HR & Recruiting",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5935690709?utm_medium=api&utm_source=fe7c6c25",
@@ -3967,27 +4348,28 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "317027917592",
+   "title": "Software for HW Evaluation_Embedded_Engg_BSH",
+   "company": "Bosch Group",
+   "location": "hosur road bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155946889",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-16",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "799429625702",
    "title": "Binance Accelerator Program - Ads Implementation",
    "company": "Binance",
    "location": "Hong Kong; India; Malaysia; Taiwan; United Arab Emirates",
    "cities": [
-    "Bengaluru",
-    "Mumbai",
-    "Delhi",
-    "Gurugram",
-    "Noida",
-    "Hyderabad",
-    "Pune",
-    "Chennai",
-    "Kolkata",
-    "Ahmedabad",
-    "Jaipur",
-    "Kochi",
-    "Chandigarh",
-    "Indore",
-    "Coimbatore",
-    "Thiruvananthapuram"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
@@ -4011,6 +4393,38 @@
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155420099",
    "source": "smartrecruiters",
    "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ea9fcab411a1",
+   "title": "Field Facilitator - Digital & Financial Literacy - 6 months Contractual",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/8b2f5989-2a41-436c-a01c-78468652ac31",
+   "source": "lever",
+   "posted_at": "2026-10-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a8a122220589",
+   "title": "Village Facilitator - 6 months Contractual",
+   "company": "Paytm",
+   "location": "Aligarh, Uttar Pradesh",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/389676ee-f74c-45f6-8843-991135faf8a5",
+   "source": "lever",
+   "posted_at": "2026-10-12",
    "first_seen": "2026-11-18"
   },
   {
@@ -4136,8 +4550,8 @@
     "Bengaluru"
    ],
    "role": "Content & Communications",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Early career",
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74",
    "source": "lever",
    "posted_at": "2026-09-18",
@@ -4152,10 +4566,74 @@
     "Bengaluru"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/headout/15c88403-d576-4245-83c6-b62d7d351278",
    "source": "ashby",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3011aea6a9a3",
+   "title": "Healthcare",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149327698",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "552240df18c1",
+   "title": "Customer Service Support",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149318259",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4b4f15b8d8ab",
+   "title": "Travel Support Services",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149321909",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "908e66090021",
+   "title": "Banking and Financial Services Support",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149321289",
+   "source": "smartrecruiters",
    "posted_at": "2026-09-14",
    "first_seen": "2026-11-18"
   },
@@ -4217,7 +4695,7 @@
    ],
    "role": "Software Engineering",
    "level": "Early career",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147162938",
    "source": "smartrecruiters",
    "posted_at": "2026-09-03",
@@ -4272,6 +4750,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "995584b9c625",
+   "title": "Analyst",
+   "company": "InMobi ",
+   "location": "Lucknow",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Fresher",
+   "confidence": 0.7,
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8096039",
+   "source": "greenhouse",
+   "posted_at": "2026-08-25",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "02368608bc33",
+   "title": "GTM & Strategy, Model API",
+   "company": "Sarvam",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/sarvam/2fd59d81-b766-4f54-85b3-d0eae08dbfc0",
+   "source": "ashby",
+   "posted_at": "2026-08-20",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "b13daaf5fac8",
    "title": "Industrial Trainee - Finance & Accounting",
    "company": "Sigmoid",
@@ -4297,7 +4807,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/agoda/jobs/7995117",
    "source": "greenhouse",
    "posted_at": "2026-08-06",
@@ -4400,6 +4910,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "8d3eca682908",
+   "title": "Employee Referral",
+   "company": "Sutherland",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000114302837",
+   "source": "smartrecruiters",
+   "posted_at": "2026-03-12",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "886bf6eb1ce5",
    "title": "Sales Development Representative",
    "company": "Datadog",
@@ -4413,6 +4939,22 @@
    "url": "https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575",
    "source": "greenhouse",
    "posted_at": "2026-01-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b5370c792129",
+   "title": "Laboratory Technician",
+   "company": "Continental",
+   "location": "Kalyani, WEST BENGAL, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/Continental/743999901275018",
+   "source": "smartrecruiters",
+   "posted_at": "2023-04-21",
    "first_seen": "2026-11-18"
   }
  ]
