@@ -88,3 +88,23 @@ finished, its `git push` of the new data was rejected (non-fast-forward), becaus
 `main` had moved on.
 **Fix:** The workflow now does `git pull --rebase` right before pushing. Data files and
 code files never overlap, so the rebase is always clean.
+
+### 10. 200 posts, but 153 of them were from Bosch, and many weren't fresher jobs
+**What happened:** The run reached exactly 200 listings, but the list was suspicious:
+one company had 153 of them, including "System Project Leader" and "Team Leader Production".
+**Why:** SmartRecruiters' list API has no job description. I'd been passing its
+`experienceLevel` field instead, and Bosch marks nearly every job "entry_level". The LLM
+trusted that hint because it had nothing else to go on. My senior-title regex had
+`lead` but not `leader` or `specialist`.
+**Fix:** (1) Stop trusting `entry_level`; only "internship" counts as a hint. (2) Fetch the
+real description per post, but only for India posts that survive the title rules
+(a few hundred calls, not thousands). (3) Add `leader` and `specialist` to the senior
+regex. (4) A `PROMPT_VERSION` on cached tags, so changing the prompt or its inputs
+re-tags everything instead of keeping stale answers.
+**Lesson for the hand check:** the count looked fine, and only reading the rows showed
+it was wrong. That's why the 50-post eval matters.
+
+### 11. Adzuna said 401 even with the right key
+**What happened:** The request URL had `app_id=…%0A%0A`: the secret had been pasted
+with two trailing newlines.
+**Fix:** `.strip()` every key read from the environment.

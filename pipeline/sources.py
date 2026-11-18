@@ -172,10 +172,13 @@ def fetch_smartrecruiters(company_id):
                 "location": loc.get("fullLocation") or ", ".join(
                     x for x in [loc.get("city"), loc.get("region"), "India"] if x),
                 "url": f"https://jobs.smartrecruiters.com/{company_id}/{j.get('id')}",
-                "description": f"Experience level: {level}. Type: "
-                               f"{(j.get('typeOfEmployment') or {}).get('label', '')}",
+                # The list endpoint has no description. We fetch it later, only for
+                # posts that survive the cheap filters (see enrich_descriptions).
+                "description": "",
+                "detail_url": f"https://api.smartrecruiters.com/v1/companies/{company_id}/postings/{j.get('id')}",
                 "posted_at": iso_date(j.get("releasedDate")),
-                "hint_level": {"internship": "internship", "entry_level": "fresher"}.get(level),
+                # Only trust "internship". Some companies mark nearly every job "entry_level".
+                "hint_level": "internship" if level == "internship" else None,
             })
         offset += 100
         if offset >= data.get("totalFound", 0):
@@ -233,7 +236,9 @@ def fetch_recruitee(slug):
 # which is in the site footer)
 
 def fetch_adzuna():
-    app_id, app_key = os.getenv("ADZUNA_APP_ID"), os.getenv("ADZUNA_APP_KEY")
+    # .strip(): a secret pasted with a trailing newline broke auth (see BUILDING_LOG)
+    app_id = (os.getenv("ADZUNA_APP_ID") or "").strip()
+    app_key = (os.getenv("ADZUNA_APP_KEY") or "").strip()
     if not (app_id and app_key):
         print("   (no Adzuna key set, skipping Adzuna)")
         return []
@@ -267,11 +272,30 @@ def fetch_adzuna():
 
 # ---------------------------------------------------------------- run all
 
+def enrich_descriptions(posts):
+    """Fill in descriptions for posts whose list API had none (SmartRecruiters)."""
+    todo = [p for p in posts if p.get("detail_url") and not p["description"]]
+
+    def one(p):
+        data = get_json(p["detail_url"]) or {}
+        sections = ((data.get("jobAd") or {}).get("sections") or {})
+        text = " ".join((sections.get(k) or {}).get("text", "")
+                        for k in ["jobDescription", "qualifications", "additionalInformation"])
+        p["description"] = clean_html(text)
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(one, todo))
+    return len(todo)
+
+
 def fetch_all():
     """Fetch every source in parallel. Returns (posts, posts_per_source, posts_per_board)."""
-    jobs = ([(fetch_greenhouse, s) for s in config.GREENHOUSE] +
-            [(fetch_lever, s) for s in config.LEVER] +
-            [(fetch_ashby, s) for s in config.ASHBY] +
+    # Every slug is tried on all three big platforms, because companies switch
+    # platforms and we don't always know which one they use today.
+    slugs = sorted(set(config.GREENHOUSE + config.LEVER + config.ASHBY + config.ANY_PLATFORM))
+    jobs = ([(fetch_greenhouse, s) for s in slugs] +
+            [(fetch_lever, s) for s in slugs] +
+            [(fetch_ashby, s) for s in slugs] +
             [(fetch_smartrecruiters, s) for s in config.SMARTRECRUITERS] +
             [(fetch_workable, s) for s in config.WORKABLE] +
             [(fetch_recruitee, s) for s in config.RECRUITEE])

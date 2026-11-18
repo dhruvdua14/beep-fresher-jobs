@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(__file__))  # so "import config" works from a
 import config
 from dedupe import dedupe
 from filters import fresher_reason, is_india
-from sources import fetch_all
+from sources import enrich_descriptions, fetch_all
 from tagger import cost_usd, price, tag_posts
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -55,6 +55,10 @@ def main():
 
     # 2. FILTER --------------------------------------------------------------
     india = [p for p in raw if is_india(p)]
+    # Some APIs only give descriptions per post. Fetch those now, but only for
+    # India posts whose title isn't obviously senior: a few hundred calls, not thousands.
+    n = enrich_descriptions([p for p in india if fresher_reason(p)])
+    print(f"   fetched {n} missing descriptions")
     fresher = []
     for p in india:
         reason = fresher_reason(p)

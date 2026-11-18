@@ -25,6 +25,10 @@ import requests
 
 import config
 
+# Bump this whenever the prompt or the input format changes: cached tags made
+# with an older version are thrown away and those posts are tagged again.
+PROMPT_VERSION = 2
+
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 # The full prompt is kept here, in plain sight, so it can be shown in the
@@ -168,6 +172,8 @@ def tag_posts(posts, cache):
     Returns a usage dict with call and token counts for this run.
     """
     usage = {"calls": 0, "input_tokens": 0, "output_tokens": 0, "tagged": 0, "from_cache": 0}
+    for k in [k for k, v in cache.items() if v.get("v") != PROMPT_VERSION]:
+        del cache[k]  # stale: made with an older prompt
     todo = [p for p in posts if p["id"] not in cache]
     usage["from_cache"] = len(posts) - len(todo)
 
@@ -198,7 +204,7 @@ def tag_posts(posts, cache):
                 cache[p["id"]] = {
                     "role": t["role"], "cities": t["cities"] or ["Other India"],
                     "level": t["level"], "confidence": round(float(t["confidence"]), 2),
-                    "model": MODEL,
+                    "model": MODEL, "v": PROMPT_VERSION,
                 }
                 usage["tagged"] += 1
         time.sleep(config.SECONDS_BETWEEN_CALLS)

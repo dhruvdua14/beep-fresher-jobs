@@ -36,7 +36,7 @@ INTERN_TITLE = re.compile(
 
 # Title says it's senior: drop (unless it's an internship, checked first).
 SENIOR_TITLE = re.compile(
-    r"\b(senior|sr\.?|lead|principal|staff|manager|director|head|vp|vice president|"
+    r"\b(senior|sr\.?|lead|leader|principal|staff|manager|director|head|vp|vice president|specialist|"
     r"architect|chief|expert|specialist ii|ii|iii|iv|sde[- ]?[2-4]|l[4-9])\b", re.I)
 
 # Title says it's entry level.

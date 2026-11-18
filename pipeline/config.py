@@ -63,6 +63,27 @@ ASHBY = [
     "kapture", "eightfold", "sarvam-ai", "lemnisk", "headout", "multiplier",
 ]
 
+# More Indian companies whose platform we're not sure of: tried on all three above.
+ANY_PLATFORM = [
+    "sharechat", "unacademy", "vedantu", "upgrad", "byjus", "jupiter-money", "khatabook",
+    "rapido", "spinny", "practo", "healthifyme", "curefit", "freecharge", "simplilearn",
+    "greyorange", "hevodata", "ninjacart", "zoomcar", "coindcx", "coinswitch", "mpl",
+    "winzo", "zupee", "rooter", "apna", "cuemath", "leapfinance", "stashfin", "moneyview",
+    "shiprocket", "blackbuck", "rivigo", "magicpin", "eightfold", "devrev", "parkplus",
+    "jar-app", "fi", "fimoney", "scapia", "kuku-fm", "stockgro", "smallcase", "zerodha",
+    "groww", "dream11", "games24x7", "nobroker", "housing", "squareyards", "cars24",
+    "droom", "bluestone", "caratlane", "boat-lifestyle", "mokobara", "snitch", "bewakoof",
+    "thesouledstore", "wakefit", "sleepyowl", "rage-coffee", "zetwerk", "moglix",
+    "udaan", "jumbotail", "dealshare", "citymall", "meesho", "shopsy", "ajio",
+    "tata1mg", "pharmeasy", "netmeds", "medibuddy", "innovaccer", "qure-ai", "niramai",
+    "sigtuple", "tricog", "ultrahuman", "zeno-health", "even", "plum", "loop-health",
+    "onsurity", "ditto", "turtlemint", "renewbuy", "insurancedekho", "coverfox",
+    "postman", "browserstack", "freshworks", "zoho", "chargebee", "clevertap",
+    "moengage", "webengage", "netcore", "gupshup", "exotel", "ozonetel", "haptik",
+    "yellow-ai", "verloop", "observe-ai", "uniphore", "skit-ai", "sarvam-ai", "krutrim",
+    "glean", "atlassian", "canva", "rippling", "deel", "remote", "toptal",
+]
+
 # SmartRecruiters company identifiers (from jobs.smartrecruiters.com/<id>)
 SMARTRECRUITERS = [
     "Visa", "BoschGroup", "ServiceNow", "Freshworks", "Ubisoft2", "Equinix",
