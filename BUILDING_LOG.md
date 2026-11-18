@@ -125,3 +125,13 @@ It returned `403` from GitHub's servers (it blocks datacenter IPs), so I removed
    old, so 2 calls a day add up instead of being thrown away. The queries rotate daily.
 
 I chose fewer, honest, clearly labelled listings over padding the count with mislabelled ones.
+
+### 13. "Early career" let the junk back in
+**What happened:** Reading 30 random rows after adding Early career, I found "Intermediate
+Backend Engineer", "Workload Automation Consultant", a "Talent Community" page, a
+"Test Employee" placeholder, and spammy "data entry on your Android phone" ads from an aggregator.
+**Fix:** (1) Early career now needs a *stated* requirement of 2 years or less. Silence about
+experience means Not fresher. (2) A fifth level, "Not a job", for talent pools, general
+applications, test posts and pay-to-join schemes. (3) A cheap title regex catches the
+obvious ones before they cost tokens. (4) An optional Jooble source (free key, no card)
+for volume.

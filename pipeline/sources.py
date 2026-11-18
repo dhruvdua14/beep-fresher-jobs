@@ -231,6 +231,44 @@ def fetch_recruitee(slug):
     return posts
 
 
+# ---------------------------------------------------------------- Jooble (India, optional)
+# Free REST API (key by email, no card): https://jooble.org/api/about
+# Only used if the JOOBLE_API_KEY secret exists.
+
+def fetch_jooble():
+    key = (os.getenv("JOOBLE_API_KEY") or "").strip()
+    if not key:
+        print("   (no Jooble key set, skipping Jooble)")
+        return []
+    posts = []
+    for q in config.JOOBLE_QUERIES:
+        for page in range(1, config.JOOBLE_PAGES_PER_QUERY + 1):
+            try:
+                r = requests.post(f"https://jooble.org/api/{key}", headers=HEADERS, timeout=TIMEOUT,
+                                  json={"keywords": q, "location": "India", "page": str(page)})
+                r.raise_for_status()
+                results = r.json().get("jobs") or []
+            except Exception as e:
+                print(f"   ! jooble '{q}' p{page} failed: {e}")
+                break
+            for j in results:
+                loc = j.get("location") or ""
+                posts.append({
+                    "source": "jooble",
+                    "company": (j.get("company") or "Unknown").strip(),
+                    "title": clean_html(j.get("title")),
+                    # Jooble locations are often just a city, so tag the country on
+                    "location": loc if "india" in loc.lower() else f"{loc}, India",
+                    "url": j.get("link"),
+                    "description": clean_html(j.get("snippet")),
+                    "posted_at": iso_date(j.get("updated")),
+                })
+            if len(results) < 20:
+                break
+            time.sleep(1)
+    return posts
+
+
 # ---------------------------------------------------------------- Adzuna (India, optional)
 # Docs: https://developer.adzuna.com  (free key; their terms ask for attribution,
 # which is in the site footer)
@@ -311,6 +349,7 @@ def fetch_all():
             live_boards[f"{fn.__name__.replace('fetch_', '')}:{slug}"] = len(found)
             posts.extend(found)
 
+    posts.extend(fetch_jooble())
     posts.extend(fetch_adzuna())
 
     counts = {}

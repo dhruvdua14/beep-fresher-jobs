@@ -65,6 +65,12 @@ def min_years(text):
     return min(found) if found else None
 
 
+# Not real openings: talent pools, "general application" posts, placeholders.
+NOT_A_JOB = re.compile(r"talent (community|pool|network)|general application|apply here|"
+                       r"enthusiast\?|test (employee|job|posting)|work from home job|"
+                       r"\bdata entry\b.*\b(phone|android|mobile|home)\b", re.I)
+
+
 def fresher_reason(post):
     """
     Return a short reason string if the post MIGHT be entry-level, else None.
@@ -73,6 +79,8 @@ def fresher_reason(post):
     title = post.get("title") or ""
     desc = post.get("description") or ""
 
+    if NOT_A_JOB.search(title):
+        return None
     if INTERN_TITLE.search(title):
         return "title:intern"
     if SENIOR_TITLE.search(title):

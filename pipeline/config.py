@@ -112,6 +112,10 @@ RECRUITEE = [
     "airmeet", "superops", "facilio", "ultrahuman", "zolve", "eloelo",
 ]
 
+# Jooble India: OPTIONAL, free key by email. Only used if JOOBLE_API_KEY is set.
+JOOBLE_QUERIES = ["fresher", "internship", "graduate trainee", "entry level", "0-1 years"]
+JOOBLE_PAGES_PER_QUERY = 3
+
 # Adzuna India: OPTIONAL. Full API access needs a card on file, so the pipeline
 # runs fine without it and only uses it if ADZUNA_APP_ID/KEY secrets exist.
 # The free test plan allows only 25 calls IN TOTAL, so we spend at most 2 per run.
@@ -152,7 +156,7 @@ CITIES = [
     "Indore", "Coimbatore", "Thiruvananthapuram", "Remote", "Other India",
 ]
 
-LEVELS = ["Internship", "Fresher", "Early career", "Not fresher"]
+LEVELS = ["Internship", "Fresher", "Early career", "Not fresher", "Not a job"]
 
 # ---------------------------------------------------------------------------
 # 3. LLM

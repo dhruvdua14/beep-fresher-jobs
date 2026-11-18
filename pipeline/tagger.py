@@ -27,7 +27,7 @@ import config
 
 # Bump this whenever the prompt or the input format changes: cached tags made
 # with an older version are thrown away and those posts are tagged again.
-PROMPT_VERSION = 3
+PROMPT_VERSION = 4
 
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -55,12 +55,16 @@ For EACH post, return:
   "Fresher" if a new graduate with no experience can clearly apply: the post says
   fresher / new grad / entry level / campus / 0-1 years, or the title is junior-level
   (Associate, Junior, Engineer I, SDE 1, Graduate, Trainee).
-  "Early career" if it asks for at most 1-2 years (e.g. "1+ years", "1-2 years",
-  "0-2 years"), or it is clearly a junior individual-contributor role with no stated
-  requirement. A strong final-year student could still be considered.
+  "Early career" only if the post STATES a requirement of at most 1-2 years
+  (e.g. "1+ years", "1-2 years", "0-2 years", "up to 2 years"). Words like Intermediate,
+  Consultant, Engineer II or Specialist mean "Not fresher".
   "Not fresher" if it asks for 2+ years minimum, or is a senior / lead / manager /
-  specialist role. When unsure between Early career and Not fresher, say "Not fresher":
-  a student wasting time on a job they can't get is worse than missing one.
+  specialist role, or it says nothing about experience and has no entry-level signal.
+  When unsure, say "Not fresher": a student wasting time on a job they can't get is
+  worse than missing one.
+  "Not a job" if it is not a specific opening: talent pools / "join our talent community" /
+  general applications, test postings, or spammy schemes (pay-to-join, "earn from home
+  by typing", data entry on your phone).
 - "confidence": a number 0 to 1 for how sure you are about role AND cities together.
 
 Return one object per post, in a JSON array. Nothing else."""
