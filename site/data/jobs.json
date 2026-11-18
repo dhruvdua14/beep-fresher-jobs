@@ -1,453 +1,198 @@
 {
- "updated_at": "2026-11-18T09:00+05:30",
- "count": 200,
+ "updated_at": "2026-11-18T09:06+05:30",
+ "count": 125,
  "jobs": [
   {
-   "id": "e9e206bcafc9",
-   "title": "Engineering Change Management Specialist (Home Comfort - Boilers)",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162137158",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1e6e0639f16b",
-   "title": "Mechanical Design Specialist -  (UG NX tool)",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Design",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162136577",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "036f9667d465",
-   "title": "Product Data & Change Management specialist (Power tools)",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162136628",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e346403fb356",
-   "title": "Reliability Engineer",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162064084",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d4e05174c83e",
-   "title": "Mechanical Design Engineer_ECU Mechanics_2WP",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162062589",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9e8d06a3b3c8",
-   "title": "Mechanical Integrator - Mechatronics",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162063173",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7e93863dadd5",
-   "title": "Secretary to Group President - Bosch SDS Executive Office",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "ae37cdae54c5",
+   "title": "Intern",
+   "company": "Pratt & Whitney",
+   "location": "India, India",
    "cities": [
     "Bengaluru"
    ],
    "role": "Other",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162062487",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5969223804?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-17",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "578398139b6f",
-   "title": "D365 F&O Technical Consultant",
-   "company": "Bosch Group",
-   "location": "telengana, , India",
+   "id": "c97156af6840",
+   "title": "BDE (FRESHER)",
+   "company": "Mindtel",
+   "location": "India, India",
    "cities": [
     "Other India"
    ],
-   "role": "Consulting & Strategy",
+   "role": "Sales & Business Development",
    "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162061848",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5968536041?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-17",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "cf13d919a354",
-   "title": "IN_Bosch Rexroth India_Engineer / Executive _ Engineering Change Management & Project Co-ordination",
-   "company": "Bosch Group",
-   "location": "Sanand, GJ, India",
+   "id": "2befaf2ffdec",
+   "title": "Mechanical Maintenance Intern",
+   "company": "FIRST NEEDS SALES PVT LTD",
+   "location": "Meerut, Uttar Pradesh, India",
    "cities": [
     "Other India"
    ],
    "role": "Operations & Supply Chain",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039884",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5968976159?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-17",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "25ec5c7e3e09",
-   "title": "Payroll Executive Immediate Joiner",
-   "company": "Bosch Group",
+   "id": "385da553c946",
+   "title": "Production Intern / Trainee",
+   "company": "FIRST NEEDS SALES PVT LTD",
+   "location": "Meerut, Uttar Pradesh, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5968924568?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "187fe838d3eb",
+   "title": "Graduate Apprenticeship Trainee - Helpdesk",
+   "company": "Bruker Corporation",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5968732314?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "dd09cb06fdb6",
+   "title": "Business Development Representative",
+   "company": "ServiceNow",
    "location": "Bangalore, , India",
    "cities": [
     "Bengaluru"
    ],
-   "role": "Finance & Accounting",
+   "role": "Sales & Business Development",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039739",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161932469",
    "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
+   "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "05906bf8eff2",
-   "title": "IN_RBIC_Team_Leader_Production_VDS",
-   "company": "Bosch Group",
-   "location": "Nanekarwadi, MH, India",
+   "id": "4c4e41915fb1",
+   "title": "Graduate Engineer Trainee - R&D PTM",
+   "company": "Valeo",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5967668529?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e8fcee06bab7",
+   "title": "Finance Intern",
+   "company": "Majestic Basmati Rice Pvt.Ltd",
+   "location": "Bhopal, Madhya Pradesh, India",
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162036049",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1ff9ea924e3d",
-   "title": "System Requirement Engineer",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162033799",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a1497e47b006",
-   "title": "System Project Leader",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162033569",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8eaf9fb3ce19",
-   "title": "HR Executive - Event Management",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161992419",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "91a3228b74e2",
-   "title": "Software Full stack Developer",
-   "company": "Sutherland",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000161998729",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "919af19484ae",
-   "title": "Vulnerability Management Engineer",
-   "company": "SWIGGY",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.95,
-   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001583572",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ad7b09b1cad2",
-   "title": "Customer Support Associate- Paytm Money",
-   "company": "Paytm",
-   "location": "Mumbai, Maharashtra",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
-   "source": "lever",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ba1a3de234d8",
-   "title": "Mech Design Engineer (Specialist)- Machine Building, Station Design & Industrial Conveyors",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161870411",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1694d45926e8",
-   "title": "Embedded SW engineer - EPT2",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161785289",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "940a1fdfe4b9",
-   "title": "System integration exhaust treatment",
-   "company": "Bosch Group",
-   "location": "Bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161773044",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bdde3aa84ee5",
-   "title": "Cost engineering and Benchmarking",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
    "role": "Finance & Accounting",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161763793",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "dcd2b42a960a",
-   "title": "STIBO STEP Jr Developer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161763598",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fcfa14a581ec",
-   "title": "Warehouse EWM Key-user",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161732674",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "cccb75a2b3ed",
-   "title": "HW Design Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161725418",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1e99e4a563c7",
-   "title": "Gen AI Specialist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161724733",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ffe7987e0d36",
-   "title": "Test Automation Engineer",
-   "company": "Sutherland",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000161849779",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "cfcb91fd6715",
-   "title": "GenAI/Agentic AI specialists",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161679729",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5966478802?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-15",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "924375155f23",
-   "title": "KNIME Specialist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "f57513e79bbf",
+   "title": "Talent Acquisition Intern",
+   "company": "Hadron GBS",
+   "location": "Pune, Maharashtra, India",
    "cities": [
-    "Bengaluru"
+    "Pune"
    ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
+   "role": "HR & Recruiting",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161428389",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-13",
+   "url": "https://www.adzuna.in/details/5966845495?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "41e23001251b",
+   "title": "Digital Marketing Intern | Remote | 6-Month Internship PPO",
+   "company": "YourFriendlyhr",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5966478701?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a49ea8df3f24",
+   "title": "QA Intern",
+   "company": "Tangentia",
+   "location": "India, India",
+   "cities": [
+    "Other India",
+    "Thiruvananthapuram"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5966072247?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "645835daf00b",
+   "title": "Trainee",
+   "company": "Michelin",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5966113554?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
   },
   {
@@ -460,25 +205,362 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.95,
+   "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576673",
    "source": "smartrecruiters",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "1485d6d62555",
-   "title": "HMI Developer - EPS1",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "fb520ba1b14f",
+   "title": "Apprentice_ Production",
+   "company": "Piramal Pharma",
+   "location": "India, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5964755009?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e66433490e5f",
+   "title": "Marketplace Ads Intern",
+   "company": "Team Pumpkin",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964782202?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "dd0c84267076",
+   "title": "E-commerce Intern",
+   "company": "Team Pumpkin",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964787203?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "338bf277f79e",
+   "title": "SEO Intern/Trainee",
+   "company": "ViralChilly",
+   "location": "Sanganer, Jaipur, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5963999039?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b510e43f4d8c",
+   "title": "Graduate Engineer Trainee (GET) - Mechanical",
+   "company": "Venwiz",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161220364",
+   "url": "https://www.adzuna.in/details/5964788756?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e676a20ea862",
+   "title": "Graduate Trainee - Software Development (6-Month Programme)",
+   "company": "Springreen",
+   "location": "Salem, Tamil Nadu, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5964002949?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "50bfd72e6beb",
+   "title": "Jr. Customer Support Analyst",
+   "company": "NielsenIQ",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161270965",
    "source": "smartrecruiters",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f498be529d41",
+   "title": "Intern",
+   "company": "Adda247",
+   "location": "Lucknow, Uttar Pradesh, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963445439?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1a80187441ee",
+   "title": "Oracle EBS Consultant (Fresher)",
+   "company": "SmartDocs",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963437726?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e93185bcd87c",
+   "title": "Intern-Lifestyle",
+   "company": "Broadway",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963466557?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "125bd9c73d8f",
+   "title": "Support Intern",
+   "company": "AI CERTs®",
+   "location": "Delhi, India, India",
+   "cities": [
+    "Delhi",
+    "Other India"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963426958?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1b40f9b36b8f",
+   "title": "Marketplace Operations Intern",
+   "company": "Team Pumpkin",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963454972?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f838ba681cb8",
+   "title": "HR Intern",
+   "company": "Team Pumpkin",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963436941?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ab724fd14b6f",
+   "title": "Project - Intern",
+   "company": "Vecmocon",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963460095?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d88430eec20a",
+   "title": "Cybersecurity Intern",
+   "company": "Talakunchi Networks",
+   "location": "Andheri, Mumbai, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963470124?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "783ebd87cd8b",
+   "title": "Flutter Developer Intern",
+   "company": "Hancod Digital",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5962476735?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "cb87bb3e33c1",
+   "title": "Fresher's Hiring",
+   "company": "TekMindz",
+   "location": "Ator Nagla, Ghaziabad, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5963468006?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4599186cd707",
+   "title": "Founders Office Intern",
+   "company": "Rewardsentives, Payouts, Perks, Loyalty & Engagement",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963458383?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "60acd701d639",
+   "title": "Graduate Trainee/ Post Graduate Trainee",
+   "company": "SAVA Healthcare",
+   "location": "Surendranagar, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5963463709?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "da16f2cc8620",
+   "title": "Graduate Engineer Trainee",
+   "company": "Atlanta",
+   "location": "Anand, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963441365?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2ac9342be618",
+   "title": "Graduate Engineer Trainee",
+   "company": "Ingersoll Rand",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5962942480?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4b1a67c6e20e",
+   "title": "Trainee-Support",
+   "company": "HealthAsyst",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5963458461?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-18"
   },
@@ -499,482 +581,290 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "b6c5c9bcd4df",
-   "title": "ECT2_Test Automation for Mobile APP_COB",
-   "company": "Bosch Group",
-   "location": "Coimbatore, , India",
+   "id": "756ac359ce7b",
+   "title": "PMO- Intern",
+   "company": "Kavi Software Technologies Private Limited",
+   "location": "Ekkaduthangal, Chennai, India",
    "cities": [
-    "Coimbatore"
+    "Chennai"
    ],
-   "role": "Software Engineering",
-   "level": "Fresher",
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161063654",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5960916530?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-11",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "236a526a791d",
-   "title": "2026/02: HW Developer for Electronic Control Unit",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "2482c1980fc2",
+   "title": "Social Media Intern",
+   "company": "eazygrad",
+   "location": "New Delhi, Delhi, India",
    "cities": [
-    "Bengaluru"
+    "Delhi"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960993645?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "7c9b7710a699",
+   "title": "Operations Executive Intern",
+   "company": "Genrobotic Innovations Private Limited",
+   "location": "Kerala, India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960993669?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0d48b5b95108",
+   "title": "Graduate Engineer Trainee",
+   "company": "Pentair",
+   "location": "Goa, India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5961902249?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f01ac2d46015",
+   "title": "Graduate Engineer Trainee",
+   "company": "Proserv",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5961528561?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "112f9cd93ad4",
+   "title": "Trainee",
+   "company": "YES BANK",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5961583632?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2aa08514d152",
+   "title": "Graduate Trainee Engineer – Sales (Shroff)",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5960531759?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8d51e3f290f6",
+   "title": "Graduate Engineer Trainee – Warehouse",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960525895?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b92df2f9a728",
+   "title": "Graduate Electrical Engineer",
+   "company": "Arcadis",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
    ],
    "role": "Hardware & Electronics",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161028378",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-11",
+   "url": "https://www.adzuna.in/details/5958095412?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-08",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "305fe9890d57",
-   "title": "2027_BGSW_Embedded_Application_Software_Developer_Integrator_ASW_COB_EGM1_SGM",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
+   "id": "9e0cc1d1158d",
+   "title": "Administration Intern",
+   "company": "Varaha",
+   "location": "Gurgaon, Haryana, India",
    "cities": [
-    "Coimbatore"
+    "Gurugram"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5956593420?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "efd96f0eb5c6",
+   "title": "Influencer Marketing Intern",
+   "company": "QHT Clinic",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5956296804?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a21eccb8fc9f",
+   "title": "Graduate Engineer Trainee - Design",
+   "company": "Plansee",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5957247000?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2363067b1c46",
+   "title": "Trainee",
+   "company": "GrapeCity India Private Limited",
+   "location": "Ator Nagla, Ghaziabad, India",
+   "cities": [
+    "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161026409",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-11",
+   "url": "https://www.adzuna.in/details/5955880182?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "5e0a31f6a760",
-   "title": "Embedded_IoT_Architect_ECT",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
+   "id": "25df3e3c6db8",
+   "title": "Graduate Apprentice Trainee",
+   "company": "John Crane",
+   "location": "Pune, Maharashtra, India",
    "cities": [
-    "Coimbatore"
+    "Pune"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5954660921?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5a1a6e8194f7",
+   "title": "Graduate Engineer Trainee",
+   "company": "Lucy Group",
+   "location": "India, India",
+   "cities": [
+    "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160852888",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-10",
+   "url": "https://www.adzuna.in/details/5955808051?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "578a50525fae",
-   "title": "MS Fabric Specialist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "97f0b6e49f35",
+   "title": "Graduate Apprentice Trainee",
+   "company": "FLS Global",
+   "location": "Rewari, Haryana, India",
    "cities": [
-    "Bengaluru"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160831319",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f4789ae5c50c",
-   "title": "EBH1_EmbTesting_Bangalore",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160795348",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b2558f5ed758",
-   "title": "Full stack Engineer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160794268",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a09ecd56e159",
-   "title": "DevOps/MLOps Specialist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160793069",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "56e3ecbde748",
-   "title": "Automotive Diagnostic and troubleshooting Engineer for EV & HEV Systems - BAN",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160675170",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d76f79696d74",
-   "title": "Embedded_Linux_ECT",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160677639",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a267af491983",
-   "title": "Automotive Systems Diagnostic and troubleshooting Engineer (Grade X & OTX/ODX)",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160675673",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e861c8e568f6",
-   "title": "Vehicle Diagnostic Content Author",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Other",
    "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160673919",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
+   "url": "https://www.adzuna.in/details/5954485502?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "b4d3386a6082",
-   "title": "SAP CPH Consultant",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "f52d4667534f",
+   "title": "Graduate Trainee (Apprentice), Global Operations",
+   "company": "Russell Investments",
+   "location": "Mumbai, Maharashtra, India",
    "cities": [
-    "Bengaluru"
+    "Mumbai"
    ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160623559",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1b3c42bffbd3",
-   "title": "Typhoon HIL Testing Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
+   "role": "Finance & Accounting",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160603558",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
+   "url": "https://www.adzuna.in/details/5954448830?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "be4e95c12f69",
-   "title": "Linux Infrastructure Automation Engineer (Ansible)",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160603388",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "589727ea9f50",
-   "title": "Technical Illustrator",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Design",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160601710",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "249c4c613925",
-   "title": "Full Stack Developer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160600719",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "149b5a50180c",
-   "title": "D365 F&O SCM Consultant",
-   "company": "Bosch Group",
-   "location": "telengana, , India",
+   "id": "a69339c32d7c",
+   "title": "Mechancial Engineer_Graduate Engineering Trainee",
+   "company": "Xylem",
+   "location": "India, India",
    "cities": [
     "Other India"
    ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160600567",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8aec714c59ed",
-   "title": "BGSW_2026_SAP_HCM_Payroll&Time",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160601968",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "60ac5c7a7126",
-   "title": "BGSW_2026_Windchill PLM Support",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160601748",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9f02005d8de9",
-   "title": "BGSW_2026_PTC_Workgroup_Manager",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160601518",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a573e6753c42",
-   "title": "BGSW_2026_Solidworks_Process management",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160601208",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a7ee5bb94779",
-   "title": "IT Operation Specialist",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160532825",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2cadb4f19c74",
-   "title": "Public Cloud Migration/Build Specialist",
-   "company": "Bosch Group",
-   "location": "Hyderabad, , India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160532669",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5720cfd70b16",
-   "title": "Mechanical Design Engineer (Specialist) - Design of an Industrial welding controller",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160130155",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "50e7276bc75a",
-   "title": "Embedded_C++ Developer_EBH",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160127819",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a33b28dafbbd",
-   "title": "Data Consultant - Logistics",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160117778",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "62c8248fcd10",
-   "title": "IN_RBAI_Engineer_FA Testing & Inspection Maintenance",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159791384",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "278a323800f7",
-   "title": "IN_RBAI_Maintenance Engineer_Charcon_Mechanical",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159791911",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8f8262ae8426",
-   "title": "IN_RBAI_Senior Engineer - Maintenance Shift Leader (Charcon)",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159790751",
-   "source": "smartrecruiters",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5954484213?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
   },
@@ -995,211 +885,232 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "513c2cd5a98d",
-   "title": "BMS Hardware Engineer (Analog)",
-   "company": "Bosch Group",
-   "location": "Coimbatore, , India",
+   "id": "20245ee70d74",
+   "title": "Accountant Intern",
+   "company": "Test Unity",
+   "location": "Bangalore, Karnataka, India",
    "cities": [
-    "Coimbatore"
+    "Bengaluru"
    ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
+   "role": "Finance & Accounting",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159555073",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5952324465?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "e332e5294107",
-   "title": "UX Designer/ Java developer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "b8696e3fd5ee",
+   "title": "Customer Success Intern",
+   "company": "scanO AI",
+   "location": "Warje, Pune, India",
    "cities": [
-    "Bengaluru"
+    "Pune",
+    "Chennai",
+    "Delhi",
+    "Bengaluru",
+    "Jaipur",
+    "Other India"
    ],
-   "role": "Software Engineering",
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5952791934?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "326d85fcb6ea",
+   "title": "Inside Sales Intern",
+   "company": "Sun360",
+   "location": "Vasco da Gama, South Goa, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5952791641?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ab95c1e7de84",
+   "title": "Graduate Trainee - ORM",
+   "company": "dentsu",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Marketing",
+   "level": "Fresher",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5953164188?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b688309b1ee2",
+   "title": "Graduate Apprentice Trainee",
+   "company": "Syniverse",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Other",
    "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159553918",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5953168428?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "f3f1eea55159",
-   "title": "Embedded Linux BSP Development_EPS1",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "3c7be1d591c4",
+   "title": "Graduate Engineer Trainee",
+   "company": "Xylem",
+   "location": "India, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159551134",
-   "source": "smartrecruiters",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5953167104?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "e6a3e9b2c5ff",
-   "title": "Linux kernel developer_BSH",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "0a66232a0d1e",
+   "title": "Graduate Engineer Trainee",
+   "company": "GE HealthCare",
+   "location": "India, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159550959",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "976ff6346534",
-   "title": "Embedded_Devops_ECT",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545819",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "58113687fbc5",
-   "title": "Build & Artifact Engineer_EPS1",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159545198",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f29807ab55da",
-   "title": "IN_RBIN_Senior Engineer_Product Development_PS-CC",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159544369",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7da2e6a7ff94",
-   "title": "Cybersecurity development",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159347028",
-   "source": "smartrecruiters",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5951877397?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-03",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9c0ac83f3eda",
-   "title": "Supply chain IT operations Support",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "a3481a094a4c",
+   "title": "Early Careers: 2026 Graduate Actuarial Trainee (Intern) - Gurugram",
+   "company": "WTW",
+   "location": "Gurgaon, Haryana, India",
    "cities": [
-    "Bengaluru"
+    "Gurugram"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Internship",
+   "confidence": 0.95,
+   "url": "https://www.adzuna.in/details/5951889218?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4be65a835794",
+   "title": "Business Development Interns",
+   "company": "Nexivo Consulting",
+   "location": "Aperl, Hyderabad, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5950768394?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-02",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4638d66258fd",
+   "title": "Graduate Engineer Trainee (Operations & Support)",
+   "company": "Robro Systems Private Limited",
+   "location": "Jhirniya, Khargone, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948618718?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "faffa1bba300",
+   "title": "Graduate ITP",
+   "company": "Smith & Nephew",
+   "location": "India, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5949468912?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d9e2b865cb24",
+   "title": "Graduate Trainee Engineer – Cooling (Mechnical)",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5948224670?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "94734ba52add",
+   "title": "Engineer Trainee",
+   "company": "Trikaal Tech Enterprises Private Limited",
+   "location": "Eldams Road, Chennai, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948121641?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f35ff328f859",
+   "title": "Graduate Document Controller",
+   "company": "Jord International",
+   "location": "Sevasi, Vadodara, India",
+   "cities": [
+    "Other India"
    ],
    "role": "Operations & Supply Chain",
    "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159306949",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bee6523dbac6",
-   "title": "OS Test engineer",
-   "company": "Sutherland",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000159312049",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "566c30fea8c1",
-   "title": "Calibration Engineer - Vehicle calibration",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159074300",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-02",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "92da564de55f",
-   "title": "Executive Customer Experience",
-   "company": "Sutherland",
-   "location": "Mumbai, MH, India, //MH, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000159221598",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-02",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "22ea22b03f8d",
-   "title": "BGSW_SAP_EWM_Sr.Consultant",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158981078",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-01",
+   "url": "https://www.adzuna.in/details/5948210162?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
    "first_seen": "2026-11-18"
   },
   {
@@ -1219,131 +1130,115 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "74e63fc5bbd3",
-   "title": "ASIC Verification EEJ 2026",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158686196",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "aee164182c03",
-   "title": "Semiconductor Application Engineer – Automotive Radar & Ultrasonic Sensing",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158675200",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d45ce9b88007",
-   "title": "IN_RBIC_Sr.Engineer/Asst Manager_Elelctronics/Electrical Maintenance (Machine shop)_IN",
-   "company": "Bosch Group",
-   "location": "Kurli, MH, India",
+   "id": "83265fd6c1b4",
+   "title": "Graduate Trainee- Security",
+   "company": "Episode Six",
+   "location": "India, India",
    "cities": [
     "Other India"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Other",
    "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158662442",
-   "source": "smartrecruiters",
+   "confidence": 0.6,
+   "url": "https://www.adzuna.in/details/5947067184?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "40f5d46c8b96",
-   "title": "2026_MS_EMT1_VM_Senior VS Code Extension Developer (TypeScript | DevOps | CI/CD | Kubernetes)",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "6e3fe683eb6c",
+   "title": "Embedded Engineer (Fresher)",
+   "company": "Griffinmark Robotics",
+   "location": "Thiruvananthapuram, Kerala, India",
    "cities": [
-    "Bengaluru"
+    "Thiruvananthapuram"
    ],
-   "role": "Software Engineering",
+   "role": "Hardware & Electronics",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158593709",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5945170866?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "fa4991a71a64",
-   "title": "Software Development Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "31ed1968465b",
+   "title": "HR Intern, Marketing Intern & Management Intern",
+   "company": "Vitu Realty",
+   "location": "Bantval, Dakshin Kannada, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
-   "role": "Software Engineering",
-   "level": "Fresher",
+   "role": "HR & Recruiting",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158499259",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5945038004?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "27bd0f22a305",
-   "title": "Linux Administrator",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
+   "id": "ad45736571e7",
+   "title": "Human Resources Intern",
+   "company": "Edlernity",
+   "location": "Bangalore, Karnataka, India",
    "cities": [
-    "Coimbatore"
+    "Bengaluru"
    ],
-   "role": "Software Engineering",
-   "level": "Fresher",
+   "role": "HR & Recruiting",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158498739",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5945043493?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "2b7405bc9992",
-   "title": "Security Test Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "14dc8980f8f1",
+   "title": "Flutter Developer Intern",
+   "company": "Heads Up For Tails",
+   "location": "India, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158478268",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5945171207?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "cea05f8fb941",
-   "title": "Process Associate ( CA OR Semi Qualified)",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "c2d2da3771ff",
+   "title": "Graduate Engineer – HR",
+   "company": "nVent",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5945895202?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "25faa54ef236",
+   "title": "AI Researcher Intern",
+   "company": "HackerRank Careers",
+   "location": "Onsite in Bangalore",
    "cities": [
     "Bengaluru"
    ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158466524",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-29",
+   "role": "AI / ML",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
+   "source": "greenhouse",
+   "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
   },
   {
@@ -1363,38 +1258,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "e5095175943e",
-   "title": "B2R Associate",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158264749",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e33200d777fd",
-   "title": "Cost Engineering & Benchmarking - MAE",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158212873",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "bf930b70646a",
    "title": "People Operations Intern",
    "company": "Fampay",
@@ -1402,7 +1265,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "HR & Recruiting",
    "level": "Internship",
    "confidence": 1.0,
    "url": "https://jobs.lever.co/fampay/213870db-ddfd-4519-9a57-54691d89cca5",
@@ -1411,82 +1274,66 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "1c447d20e0bc",
-   "title": "Hardware Design Engineer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
+   "id": "e66727695510",
+   "title": "Media Relations & Communications Associate –Fresher",
+   "company": "Harmony United Psychiatric Care",
+   "location": "India, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Content & Communications",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157958538",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5942816735?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-27",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "bca96492f02d",
-   "title": "2026-MS_EMT2-VM_DevOps_Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "99d83fc4f4d0",
+   "title": "Graduate Trainee",
+   "company": "Corporate Stalwarts",
+   "location": "T B Nagar, Ahmedabad, India",
    "cities": [
-    "Bengaluru"
+    "Ahmedabad"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5942785596?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1a1409f81c56",
+   "title": "Graduate Trainee - GISOCC R&D DSIS",
+   "company": "Valeo",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-26",
+   "confidence": 0.85,
+   "url": "https://www.adzuna.in/details/5943348375?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "20f94a49c074",
-   "title": "BGSW_2026_Teamcentre_Soln_Expert",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "8c384b4acc53",
+   "title": "Internship For Software Engineers - Freshers",
+   "company": "Ladybird Web Solution Pvt Ltd",
+   "location": "Dharmapuri, Tamil Nadu, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157766119",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "89d4eeeff61b",
-   "title": "CSR Associate - Impact, Monitoring & Evaluation",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157755948",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2ffc96d4a660",
-   "title": "Factory Medical Officer",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157751377",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5942245108?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-26",
    "first_seen": "2026-11-18"
   },
@@ -1507,18 +1354,98 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "37d1a368ba7c",
-   "title": "IN_RBIC_Testing specialist_IN",
-   "company": "Bosch Group",
-   "location": "Kurli, MH, India",
+   "id": "5af653b7826e",
+   "title": "2027 Information Technology & Cybersecurity Graduate Talent Trainee",
+   "company": "Bitdeer",
+   "location": "India, India",
    "cities": [
     "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5941326338?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "58da7cbdb36e",
+   "title": "Freshers",
+   "company": "Elsner Technologies",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157627449",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5940626913?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3561c27facea",
+   "title": "PPC Intern",
+   "company": "ViralChilly: Create | Grow | Learn",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940343054?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "913e3fd3d665",
+   "title": "BDE Intern",
+   "company": "Elsner Technologies",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940640565?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0d494e800fca",
+   "title": "HR Intern",
+   "company": "WriterOnRent",
+   "location": "Uttar Pradesh, India, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940353462?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a098739382f1",
+   "title": "Graduate Engineer trainee- Purchase",
+   "company": "Milacron",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940343137?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-24",
    "first_seen": "2026-11-18"
   },
@@ -1532,137 +1459,106 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
    "source": "ashby",
    "posted_at": "2026-10-23",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "af696ab7a4e6",
-   "title": "Mechanical Engineer",
-   "company": "Sutherland",
-   "location": "Bengaluru, KA, India",
+   "id": "81bf20aaca08",
+   "title": "Fresher Jobs - Field Service Engineer | Pan India",
+   "company": "2coms",
+   "location": "Shakti Nagar, North Delhi, India",
    "cities": [
-    "Bengaluru"
+    "Delhi",
+    "Other India"
    ],
    "role": "Hardware & Electronics",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000157388449",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5938296214?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-23",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9db07d10acda",
-   "title": "Software Engineer - Systems and Reliablity",
-   "company": "Smallest",
-   "location": "Bengaluru",
+   "id": "6c870ec77c1e",
+   "title": "Internation Voice process",
+   "company": "One Degree North Human Resource",
+   "location": "Bangalore, Karnataka, India",
    "cities": [
     "Bengaluru"
    ],
-   "role": "Software Engineering",
+   "role": "Customer Success & Support",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b",
-   "source": "ashby",
+   "url": "https://www.adzuna.in/details/5938642135?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "18326c5331d6",
+   "title": "2027 Sales & Business Development Graduate Talent Trainee",
+   "company": "Bitdeer",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5939121690?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5841d764f51b",
+   "title": "Content Writer- Intern",
+   "company": "Ketto",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938135959?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "126c68bac7e9",
-   "title": "Full Stack with C# & Angular, Pune",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "86972a3a6833",
+   "title": "HR Trainee",
+   "company": "Ontrack HR Services Pvt LTD",
+   "location": "Coimbatore South, Coimbatore, India",
    "cities": [
-    "Bengaluru"
+    "Coimbatore"
    ],
-   "role": "Software Engineering",
+   "role": "HR & Recruiting",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157152783",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5937668700?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9534c887f4d7",
-   "title": "Electrical and Electronics Systems Integration Specialist",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
+   "id": "70c716df7f95",
+   "title": "Web Researcher Fresher",
+   "company": "Prishusoft",
+   "location": "Ahmedabad, Gujarat, India",
    "cities": [
-    "Bengaluru"
+    "Ahmedabad"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Sales & Business Development",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156768769",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f95da4c18c79",
-   "title": "BGSW_2026_Teamcentre_Data_Migration",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156717508",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "22778e81db0c",
-   "title": "SAP FICO Consultant",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156714779",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c0b61f9d55c9",
-   "title": "SAP SD Functional consultant (HC)",
-   "company": "Bosch Group",
-   "location": "telangana, , India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156710919",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "991594607f5c",
-   "title": "Vehicle Systems Integration Specialist",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156710739",
-   "source": "smartrecruiters",
+   "url": "https://www.adzuna.in/details/5935985493?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-10-21",
    "first_seen": "2026-11-18"
   },
@@ -1676,570 +1572,58 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
    "source": "lever",
    "posted_at": "2026-10-20",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "dc9c02a0074c",
-   "title": "Associate - Account Management",
-   "company": "Sutherland",
-   "location": "Kochi, KL, India, //KL, India",
+   "id": "41a4891ed7c3",
+   "title": "Compliance Intern (KYC)",
+   "company": "Coinsell Technology Pvt. Ltd.",
+   "location": "Sansad Marg, New Delhi, India",
    "cities": [
-    "Kochi"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000156397698",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-19",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a434a247ea07",
-   "title": "Captain 2",
-   "company": "SWIGGY",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001500607",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-19",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "317027917592",
-   "title": "Software for HW Evaluation_Embedded_Engg_BSH",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155946889",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0b40cb541bf5",
-   "title": "Risk Management Officer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
+    "Delhi"
    ],
    "role": "Finance & Accounting",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155918949",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-16",
+   "url": "https://www.adzuna.in/details/5935690709?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-20",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "621df114ec4f",
-   "title": "IN_RBAI_Senior Process Engineer Pick and Place",
-   "company": "Bosch Group",
-   "location": "Bangalore, , India",
+   "id": "b0a4bbef5846",
+   "title": "On Job Trainee",
+   "company": "Marriott Hotels Resorts",
+   "location": "Amritsar, Punjab, India",
    "cities": [
-    "Bengaluru"
+    "Other India"
    ],
    "role": "Operations & Supply Chain",
-   "level": "Fresher",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155907509",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-16",
+   "url": "https://www.adzuna.in/details/5934358369?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-19",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "0ef71641ee87",
-   "title": "Java Full Stack with Java & Angular, Pune",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "799429625702",
+   "title": "Binance Accelerator Program - Ads Implementation",
+   "company": "Binance",
+   "location": "Hong Kong; India; Malaysia; Taiwan; United Arab Emirates",
    "cities": [
-    "Bengaluru"
+    "Remote"
    ],
-   "role": "Software Engineering",
-   "level": "Fresher",
+   "role": "Marketing",
+   "level": "Internship",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155761606",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "88d7ec28613e",
-   "title": "Data Scientist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155709908",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "31cea8b68764",
-   "title": "Research Engineer – Generative AI and Computer Vision",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155700095",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "adfb5a547bd5",
-   "title": "Calibration Specialist - Gasoline Systems",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155670709",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6dc4c33a90e7",
-   "title": "EMT3_VM_Gen_AI_ML_Senior_Developer",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155663208",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6d5129d806d1",
-   "title": "EMT3_VM_Python_Gen_AI_Developer",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155662678",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2cf472037b83",
-   "title": "IT Application Operations Engineer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155662139",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3f6af8424447",
-   "title": "HiL Test Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155454876",
-   "source": "smartrecruiters",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002743101",
+   "source": "greenhouse",
    "posted_at": "2026-10-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a7486abcf069",
-   "title": "Full Stack Software Developer with AI expertise, Pune",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155451389",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7c4e81f9efbc",
-   "title": "Test Engineer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155423158",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "375fec2d4d83",
-   "title": "Test Engineer -MBD/MiL/SiL",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155420099",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c507fb535e7a",
-   "title": "SAP SLT Developer-2n",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155412979",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1bdcb879e9eb",
-   "title": "Hardware Technical specialist",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155165798",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "dc4295ccbecc",
-   "title": "AI & Cloud Consultant",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155163279",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "90b9bda82dbc",
-   "title": "Digital Service Engineer",
-   "company": "Continental",
-   "location": "Meerut, UttarPradesh, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000155161549",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "04713fd549b1",
-   "title": "Model Based Development Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154989438",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-12",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "eeb24e54d5a2",
-   "title": "Embedded C++ Developer_ECT1",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154955389",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-12",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6f9f9666bd2f",
-   "title": "ECUPjM for Powertrain Projects",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154669038",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f672ee1b3b96",
-   "title": "SWPjM for Powertrain Projects",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154666493",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "aa17b2f0c4e7",
-   "title": "Application Engineering ADAS",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154667338",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4fece0a0d920",
-   "title": "ADAS SW PCM",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154666639",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5d7bb562f317",
-   "title": "Vehicle Diagnostic Engineer, COB",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154656259",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "56648733d0bd",
-   "title": "Automotive Aftermarket Diagnostic Specialist, BAN",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154652399",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "172e0a1498ef",
-   "title": "IN_RBIC_Senior_Manager_ESP_BU_CTG_IN",
-   "company": "Bosch Group",
-   "location": "Kurli, MH, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154638559",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2c5d96a5c78d",
-   "title": "Calibration Engineer Powertrain Solutions",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154606660",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "83d64db2926e",
-   "title": "SWSD for 2WP Powertrain",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604768",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a1ccfe29b6b2",
-   "title": "Calibration Engineer - Gasoline at Pune",
-   "company": "Bosch Group",
-   "location": "pune, , India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604548",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "de65df6eff0a",
-   "title": "Security Function developer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604338",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ccceb7a66f38",
-   "title": "Manual & Automation Testing",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604098",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d1f09318e575",
-   "title": "Security Test Specialist",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154589368",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-09",
    "first_seen": "2026-11-18"
   },
   {
@@ -2252,73 +1636,9 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
    "source": "lever",
-   "posted_at": "2026-10-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "dc334cae2bdb",
-   "title": "EDR Function Responsible for BEG Airbag projects",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154404903",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "aadaef812deb",
-   "title": "Researcher: Numerical Methods and Algorithms for Modelling and Simulations",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154399409",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "00df5b413b9e",
-   "title": "Research Engineer:  AI/ML enhanced control engineering",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154399049",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fab7446e0fdd",
-   "title": "UX Designer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Design",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154383185",
-   "source": "smartrecruiters",
    "posted_at": "2026-10-08",
    "first_seen": "2026-11-18"
   },
@@ -2333,490 +1653,26 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805",
    "source": "lever",
    "posted_at": "2026-10-07",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "12950d3fb8d7",
-   "title": "Full Stack with C# & Angular",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
+   "id": "df4ca247e5b9",
+   "title": "Software Development Engineer Intern",
+   "company": "HackerRank Careers",
+   "location": "Onsite in Bangalore",
    "cities": [
     "Bengaluru"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154173617",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-07",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "84b0f4def74e",
-   "title": "Azure Infra Consultant",
-   "company": "Bosch Group",
-   "location": "telengana, , India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154152169",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-07",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7c507050a040",
-   "title": "Internal Controls Performance Controller for Global Foreign Trade - Import Operations",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154080349",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-07",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f8b7eeef9e44",
-   "title": "C++ experts for ADAS HiL Framework development",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154015848",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-07",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "441888f932c4",
-   "title": "Java Full Stack Developer",
-   "company": "Continental",
-   "location": "Electronic City,  Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000154002299",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-07",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1649d04592c8",
-   "title": "Application SW Developer (Model-based) for Steering Platform",
-   "company": "Bosch Group",
-   "location": "Coimbatore, TN, India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153732448",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "34084013c4b7",
-   "title": "IN_Bosch Rexroth India_Engineer / Executive_Global Procurement",
-   "company": "Bosch Group",
-   "location": "Sanand, GJ, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153704726",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ab3a5a61fe38",
-   "title": "Researcher : Vibration simulations and Structural mechanics",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153559310",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fc2a5e79c079",
-   "title": "Oracle SQL developer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153495804",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4f2d02eb8703",
-   "title": "Design for Environment - Regulatory Product/ Material Compliance Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153410028",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3d3bb05bfe1f",
-   "title": "PDM Implementation Consultant",
-   "company": "Continental",
-   "location": "Electronic City, Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000153442295",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5f673f88e908",
-   "title": "IN_RBAI_Process owner_Milling and Plasma cleaning process",
-   "company": "Bosch Group",
-   "location": "Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153374499",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "361dfc4ae46f",
-   "title": "Software Developer",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372859",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9b1e46088d48",
-   "title": "VM-OS_ALM_DNG_Developer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153373138",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "06ff7e2cf9c1",
-   "title": "MS_EMT2-VM_VSCODE_Developer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372868",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a683b0324c1a",
-   "title": "ECU PjM",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372828",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b8a88251bc9e",
-   "title": "Embedded Developer Functional Safety",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372798",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bd1a0a9a4d90",
-   "title": "SPJM/ ECUPJM for APT and AAS PDCL",
-   "company": "Bosch Group",
-   "location": "coimbatore, , India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372748",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c8a320ef79ab",
-   "title": "IN_RBIC_Production Supervisor_IN",
-   "company": "Bosch Group",
-   "location": "Kurli, MH, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153322559",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e4efa9d0fd38",
-   "title": "MS_EMT2-VM_Eclipse_Plugin_Specialist",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153226768",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-02",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8f04862da24e",
-   "title": "ASCET_DotNet_Developer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153224794",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-02",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "23c976ec7d2f",
-   "title": "EMT2-VM_EclipsePlugin_Developer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153224614",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-02",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7861234a7dff",
-   "title": "Logistics System Analyst & Rollout Engineer",
-   "company": "Bosch Group",
-   "location": "bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838649",
-   "source": "smartrecruiters",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+   "source": "greenhouse",
    "posted_at": "2026-10-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b36c021a9365",
-   "title": "N_Bosch Rexroth India_ Engineer / Executive_Technical Sales_Hydraulics",
-   "company": "Bosch Group",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152826609",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ab069efe3052",
-   "title": "IN_RBAI_Process owner_Dispensing process",
-   "company": "Bosch Group",
-   "location": "Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152647889",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bf1899bcb0e6",
-   "title": "System Simulation exhaust treatment - Team Coach",
-   "company": "Bosch Group",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152583789",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "aaa3338ebfe1",
-   "title": "2026/03: HW Developer (PS-DC Projects)",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152388899",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-29",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2d4228342343",
-   "title": "Salesforce Developer",
-   "company": "Bosch Group",
-   "location": "bengaluru, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152363648",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-29",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "90fcb21d7d68",
-   "title": "Testing Engineer- Engine",
-   "company": "Bosch Group",
-   "location": "Bengaluru, KA, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152353714",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-29",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4d99790a4499",
-   "title": "Quality Engineer",
-   "company": "Bosch Group",
-   "location": "hosur road bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152329808",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-29",
    "first_seen": "2026-11-18"
   },
   {
@@ -2836,35 +1692,52 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "4b4f15b8d8ab",
-   "title": "Travel Support Services",
+   "id": "dc379b61ba8f",
+   "title": "Campus Associates - FY'27 - Hyderabad / Bengaluru",
    "company": "Sutherland",
    "location": "Hyderabad, TS, India",
    "cities": [
-    "Hyderabad"
+    "Hyderabad",
+    "Bengaluru"
    ],
    "role": "Customer Success & Support",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149321909",
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000151046829",
    "source": "smartrecruiters",
-   "posted_at": "2026-09-14",
+   "posted_at": "2026-09-22",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "43d325c0758c",
-   "title": "IT B2B/EDI Developer",
-   "company": "Continental",
-   "location": "Bengaluru, Karnataka, India",
+   "id": "7cb5f574c94d",
+   "title": "Associate Software Development Engineer (SDE) Intern",
+   "company": "Hevodata",
+   "location": "Bangalore, India",
    "cities": [
     "Bengaluru"
    ],
    "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+   "source": "lever",
+   "posted_at": "2026-09-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "acb3a07faa2b",
+   "title": "Associate Technical Writer",
+   "company": "Hevodata",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000148716589",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-10",
+   "url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74",
+   "source": "lever",
+   "posted_at": "2026-09-18",
    "first_seen": "2026-11-18"
   },
   {
@@ -2877,7 +1750,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af",
    "source": "lever",
    "posted_at": "2026-09-08",
@@ -2891,7 +1764,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Consulting & Strategy",
+   "role": "Operations & Supply Chain",
    "level": "Internship",
    "confidence": 1.0,
    "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514",
@@ -2932,6 +1805,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "ad8874a1d036",
+   "title": "Customer Experience Engineer, L1",
+   "company": "HackerRank Careers",
+   "location": "Hybrid in Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8127535",
+   "source": "greenhouse",
+   "posted_at": "2026-08-27",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "699258d40510",
    "title": "Associate - Motor Insurance",
    "company": "Paytm",
@@ -2941,42 +1830,10 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/20d54134-b6e5-4816-8da9-42e3a3ed8f57",
    "source": "lever",
    "posted_at": "2026-08-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ac091f1e70ca",
-   "title": "MES Application Engineer",
-   "company": "Bosch Group",
-   "location": "Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145185264",
-   "source": "smartrecruiters",
-   "posted_at": "2026-08-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ce436472ec33",
-   "title": "CST - Associate - Bill Payments CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [
-    "Noida"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/271d28ce-e61c-4216-b7d4-adddd79eefa6",
-   "source": "lever",
-   "posted_at": "2026-08-18",
    "first_seen": "2026-11-18"
   },
   {
@@ -3012,22 +1869,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9ffa552a7af9",
-   "title": "CST - Associate - Social CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [
-    "Noida"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/84ffd393-c82b-484c-9a88-9f9ddef1b720",
-   "source": "lever",
-   "posted_at": "2026-08-03",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c87bc0d2587c",
    "title": "Account Development Representative",
    "company": "MongoDB",
@@ -3040,6 +1881,22 @@
    "confidence": 1.0,
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7318558",
    "source": "greenhouse",
+   "posted_at": "2026-07-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "65bed5a46a49",
+   "title": "SDE I",
+   "company": "Hevodata",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+   "source": "lever",
    "posted_at": "2026-07-27",
    "first_seen": "2026-11-18"
   },
@@ -3076,6 +1933,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "110eb999c038",
+   "title": "Associate Account Executive (SMB - US)",
+   "company": "Hevodata",
+   "location": "Bengaluru, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/hevodata/f74eb975-45dd-47a8-a27a-5880d1d776c7",
+   "source": "lever",
+   "posted_at": "2026-07-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4fb0e058df41",
+   "title": "Associate - Content (Digest)",
+   "company": "Groww",
+   "location": "Bengaluru-VTP, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/4880153101",
+   "source": "greenhouse",
+   "posted_at": "2026-06-03",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "3c7f1412fd1a",
    "title": "Intern-Talent Acquisition",
    "company": "Paytm",
@@ -3085,42 +1974,10 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
    "source": "lever",
    "posted_at": "2026-05-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bfc0b4175a3e",
-   "title": "CST - Executive/Associate - Paytm Travel (Flights)",
-   "company": "Paytm",
-   "location": "Bengaluru, Karnataka",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/74ce5d90-26b5-41b5-81dc-2ba5b862da60",
-   "source": "lever",
-   "posted_at": "2026-04-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8d3eca682908",
-   "title": "Employee Referral",
-   "company": "Sutherland",
-   "location": "Mumbai, MH, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000114302837",
-   "source": "smartrecruiters",
-   "posted_at": "2026-03-12",
    "first_seen": "2026-11-18"
   },
   {
@@ -3133,7 +1990,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575",
    "source": "greenhouse",
    "posted_at": "2026-01-13",
@@ -3153,54 +2010,6 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7217699",
    "source": "greenhouse",
    "posted_at": "2025-09-04",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e2c1d1367543",
-   "title": "L3 Network Engineer (Access Services) (m/f/d)",
-   "company": "Continental",
-   "location": "Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000048934665",
-   "source": "smartrecruiters",
-   "posted_at": "2025-03-20",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1d47d5630978",
-   "title": "L3 Network Engineer (m/f/d)",
-   "company": "Continental",
-   "location": "Bengaluru, Karnataka , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Continental/744000047118282",
-   "source": "smartrecruiters",
-   "posted_at": "2025-03-11",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b5370c792129",
-   "title": "Laboratory Technician",
-   "company": "Continental",
-   "location": "Kalyani, WEST BENGAL, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Continental/743999901275018",
-   "source": "smartrecruiters",
-   "posted_at": "2023-04-21",
    "first_seen": "2026-11-18"
   }
  ]
