@@ -68,7 +68,7 @@ def min_years(text):
 
 # Not real openings: talent pools, "general application" posts, placeholders.
 NOT_A_JOB = re.compile(r"talent (community|pool|network)|general application|apply here|"
-                       r"enthusiast\?|test (employee|job|posting)|work from home job|"
+                       r"enthusiast\?|test (employee|job|posting)|work from home job|employee referral|"
                        r"\bdata entry\b.*\b(phone|android|mobile|home)\b", re.I)
 
 

@@ -10,6 +10,8 @@ Pass 2, fuzzy: catch near-duplicates that exact matching misses, such as
     "Razorpay Software Pvt Ltd"         vs   "Razorpay"
 For posts from the same company, compare titles with rapidfuzz. If they are
 at least FUZZY_THRESHOLD similar AND the locations overlap, keep only one.
+"Same company" is loose here, because aggregators spell names differently:
+"Marriott" == "Marriott Hotels Resorts", "Rubrik" == "Rubrik Job Board".
 """
 
 import hashlib
@@ -34,6 +36,23 @@ def norm_company(name):
     return norm(COMPANY_NOISE.sub(" ", name or "")) or norm(name)
 
 
+# Extra words that only appear in how a board labels a company, not in its name.
+BOARD_NOISE = {"job", "jobs", "board", "careers", "hiring", "group", "corporation", "corp",
+               "hotels", "resorts", "create", "grow", "learn"}
+
+
+def company_words(name):
+    """Words of a company name without legal/board noise: "Sid's Farm Hiring" -> {"sids", "farm"}."""
+    words = norm(COMPANY_NOISE.sub(" ", (name or "").replace("'", ""))).split()
+    return [w for w in words if w not in BOARD_NOISE] or norm(name).split() or [""]
+
+
+def same_company(a, b):
+    """True if one name's words are all inside the other's ("Rubrik" vs "Rubrik Job Board")."""
+    wa, wb = set(company_words(a)), set(company_words(b))
+    return wa <= wb or wb <= wa
+
+
 def post_id(post):
     """Stable id for a post. Also used to remember LLM tags between runs."""
     key = f"{norm_company(post['company'])}|{norm(post['title'])}|{norm(post['location'])}"
@@ -52,13 +71,14 @@ def dedupe(posts):
             unique.append(p)
     exact = len(posts) - len(unique)
 
-    # Pass 2: fuzzy, only comparing posts from the same (normalised) company,
-    # so this stays fast even with thousands of posts.
+    # Pass 2: fuzzy. Posts are grouped by the first word of the company name,
+    # so we only compare within small groups and this stays fast.
     by_company, kept, fuzzy = {}, [], 0
     for p in unique:
-        bucket = by_company.setdefault(norm_company(p["company"]), [])
+        bucket = by_company.setdefault(company_words(p["company"])[0], [])
         is_dup = any(
-            fuzz.token_sort_ratio(title_key(p["title"]), title_key(q["title"])) >= FUZZY_THRESHOLD
+            same_company(p["company"], q["company"])
+            and fuzz.token_sort_ratio(title_key(p["title"]), title_key(q["title"])) >= FUZZY_THRESHOLD
             and locations_overlap(p["location"], q["location"])
             for q in bucket
         )

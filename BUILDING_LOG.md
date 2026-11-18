@@ -168,3 +168,18 @@ which is a huge share of Indian fresher hiring (GET roles). The closest enum was
 civil, electronics, manufacturing) with an explicit rule in the prompt; told the model to use
 a city named in the title when the location field is vague. Bumped `PROMPT_VERSION` so
 everything is re-tagged under the new rules.
+
+### 17. The same internship listed twice under two spellings of the company
+**What happened:** In the final QC pass I listed every published title next to its company.
+"Marketing Apprentice / Intern" in Goa appeared under both "Marriott" and "Marriott Hotels
+Resorts"; Rubrik's "Payroll Industrial Trainee" appeared from Greenhouse ("Rubrik Job Board")
+and again from Adzuna ("Rubrik"). One of them had even landed in the 50-post hand-check sample.
+**Why:** The fuzzy pass only compared posts whose normalised company names were identical.
+Aggregators label companies loosely, so the two copies never met.
+**Fix:** Group posts by the first word of the company name, and treat two names as the same
+company when one's words are all inside the other's ("Rubrik" vs "Rubrik Job Board"), after
+dropping board words like "careers", "hiring", "job board". "Tata Steel" and "Tata Motors"
+still count as different. Post ids are unchanged, so the tag cache and "New" markers survive.
+Also: a Sutherland "Employee Referral" page was listed as a job; added it to the not-a-job rule.
+**Lesson:** Read the output as a user would, not just the counts. 4 duplicates out of 309
+didn't move any metric, but a reviewer clicking two identical rows would notice.
