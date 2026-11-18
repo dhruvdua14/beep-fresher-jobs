@@ -51,7 +51,7 @@ Promise.all([
   $("costLead").textContent = `Tagging runs on ${s.model}. Figures use Google's paid-tier price, so they show what this would cost at scale. On the free tier the actual bill is zero.`;
   $("cost").innerHTML = [
     figure(`$${c.usd_per_1000 ?? "—"}`, "per 1,000 posts tagged", `about ₹${inr ? inr.toFixed(2) : "—"}`),
-    figure(fmt(c.tokens_per_post), "tokens per post", "input + output, prompt shared by 20 posts"),
+    figure(fmt(c.tokens_per_post), "tokens per post", "input + output, prompt shared by 40 posts"),
     figure(fmt(c.posts_tagged_all_time), "posts tagged so far", `${fmt(c.input_tokens)} in · ${fmt(c.output_tokens)} out`),
     figure(`$${(L.cost_usd).toFixed(4)}`, "cost of today's run", `${L.newly_tagged} new posts, ${L.from_cache} from cache`),
   ].join("");

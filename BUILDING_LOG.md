@@ -55,3 +55,26 @@ signing up, full access needed a card on file. The free tier was 25 test calls.
 free, keyless careers-page APIs instead: Workable and Recruitee. Volume now comes
 from many company boards rather than one aggregator. Bonus: every link goes straight
 to the employer, and there's less cross-site duplication.
+
+### 8. First live run: 8,194 posts fetched, only 49 listed, and zero tagged
+Two separate failures in the very first run on GitHub Actions.
+
+**(a) The model name didn't exist any more.** Every Gemini call returned `404`.
+I'd hard-coded `gemini-2.5-flash-lite`, and Google retires model names.
+**Fix:** The tagger now asks the API which models this key can use, picks the first
+from a preference list, and falls back to any Flash-Lite model. It logs the choice,
+and the model name is stored next to every tag.
+
+**(b) The rules were too strict.** 1,750 posts were in India, but only 50 passed the
+fresher regex. Most Indian job posts for freshers don't say "fresher" in the title.
+They're just "Software Engineer" or "Business Analyst", with "0–1 years" buried in the
+requirements, which sat beyond the first 1,500 characters I was keeping.
+**Fix:** (1) Keep 8,000 characters of description so the requirements section is
+there. (2) Rules now only *drop* the clear cases: senior titles, or 2+ years required.
+Anything unclear goes to the LLM, which gets the description opening plus every
+sentence mentioning years, experience or graduation, and decides the level. The
+prompt tells it "when unsure, say Not fresher", because a student wasting time on a
+job they can't get is worse than missing one. (3) 40 posts per call instead of 20, to
+stay inside the free tier's daily request limit.
+
+Also: GitHub Pages wasn't switched on yet, so the deploy step failed with `Not Found`.

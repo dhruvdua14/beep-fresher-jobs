@@ -68,7 +68,7 @@ def main():
     print(f"3. removed {exact_dupes} exact + {fuzzy_dupes} fuzzy duplicates -> {len(unique)}")
 
     # 4. TAG -----------------------------------------------------------------
-    print("4. tagging with", config.GEMINI_MODEL)
+    print("4. tagging with Gemini")
     cache = load(STATE / "tag_cache.json", {})
     usage = tag_posts(unique, cache)
     save(STATE / "tag_cache.json", cache)
@@ -76,8 +76,14 @@ def main():
     print(f"   {usage}  cost ${run_cost:.5f}")
 
     # The LLM is the second gate: drop anything it says needs experience.
+    # A post the rules couldn't decide on is only listed once the LLM says it's
+    # entry-level. Clear entry-level posts are listed even if tagging failed.
+    def listed(p):
+        if p["level"] == "Not fresher":
+            return False
+        return not (p["level"] == "Unknown" and p["why_fresher"].startswith("unclear"))
     rejected_by_llm = [p for p in unique if p["level"] == "Not fresher"]
-    jobs = [p for p in unique if p["level"] != "Not fresher"]
+    jobs = [p for p in unique if listed(p)]
 
     # Remember when we first saw each post, for the "New" marker.
     first_seen = load(STATE / "first_seen.json", {})
@@ -132,7 +138,7 @@ def main():
 
     save(PUBLIC / "stats.json", {
         "updated_at": now.isoformat(timespec="minutes"),
-        "model": config.GEMINI_MODEL,
+        "model": usage.get("model") or next((c.get("model") for c in cache.values()), None),
         "price": {"input_per_m": config.PRICE_INPUT_PER_M, "output_per_m": config.PRICE_OUTPUT_PER_M,
                   "usd_to_inr": config.USD_TO_INR},
         "latest": run,

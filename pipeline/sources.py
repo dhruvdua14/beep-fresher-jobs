@@ -29,7 +29,7 @@ import config
 
 HEADERS = {"User-Agent": "beep-fresher-jobs/1.0 (public job-board API client)"}
 TIMEOUT = 20
-DESC_CHARS = 1500  # we never need the whole description
+DESC_CHARS = 8000  # enough to reach the "requirements" section, where experience is stated
 
 
 # ---------------------------------------------------------------- helpers

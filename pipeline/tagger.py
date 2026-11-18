@@ -8,8 +8,8 @@ For each post the model returns:
     confidence  0.0 - 1.0, the model's own certainty
 
 Three things keep this cheap and reliable:
-1. BATCHING: 20 posts go in one request, so the long instructions are paid
-   for once per 20 posts instead of once per post.
+1. BATCHING: 40 posts go in one request, so the long instructions are paid
+   for once per 40 posts instead of once per post.
 2. A JSON SCHEMA with enums: Gemini is *forced* to answer with a valid role
    and city from our lists, so we never have to parse free text.
 3. A CACHE: a post tagged yesterday is not tagged again today. Only new
@@ -18,6 +18,7 @@ Three things keep this cheap and reliable:
 
 import json
 import os
+import re
 import time
 
 import requests
@@ -46,8 +47,12 @@ For EACH post, return:
   Cochin -> Kochi. If the job is fully remote in India use "Remote". An Indian city
   that is not in the list is "Other India".
 - "level": "Internship" if it is an internship / trainee / apprenticeship;
-  "Fresher" if a new graduate with 0-1 years of experience can apply;
-  otherwise "Not fresher" (e.g. it asks for 2+ years, or it is a senior/lead role).
+  "Fresher" only if a new graduate with 0-1 years of experience can clearly apply:
+  the post says fresher / new grad / entry level / campus / 0-1 years, or the title is
+  junior-level (Associate, Junior, Engineer I, SDE 1, Analyst, Trainee);
+  otherwise "Not fresher". This includes posts that ask for 1+ or 2+ years, senior or
+  lead roles, and generic titles with no entry-level signal. When unsure, say "Not fresher":
+  a student wasting time on a job they can't get is worse than missing one.
 - "confidence": a number 0 to 1 for how sure you are about role AND cities together.
 
 Return one object per post, in a JSON array. Nothing else."""
@@ -69,14 +74,46 @@ SCHEMA = {
 }
 
 
+EXPERIENCE_WORDS = re.compile(
+    r"(year|yrs|experience|fresher|graduat|entry|junior|intern|batch|degree|b\.?tech|students?)", re.I)
+
+
+def experience_lines(text, limit=400):
+    """The sentences that talk about experience/education. That's where 'fresher or not' is decided."""
+    picked = [s.strip() for s in re.split(r"(?<=[.!?•;])\s+", text) if EXPERIENCE_WORDS.search(s)]
+    return " … ".join(picked)[:limit]
+
+
 def format_batch(posts):
     """Short, token-efficient text version of a batch of posts."""
     lines = []
     for i, p in enumerate(posts):
         lines.append(
             f"### Post {i}\nTitle: {p['title']}\nCompany: {p['company']}\n"
-            f"Location: {p['location']}\nDescription: {p['description'][:600]}")
+            f"Location: {p['location']}\nDescription start: {p['description'][:350]}\n"
+            f"Experience lines: {experience_lines(p['description']) or 'none found'}")
     return "\n\n".join(lines)
+
+
+MODEL = None  # chosen once per run by pick_model()
+
+
+def pick_model():
+    """Use the first model from config.GEMINI_MODELS that this API key can access."""
+    r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                     params={"pageSize": 200}, headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, timeout=30)
+    r.raise_for_status()
+    available = [m["name"].split("/")[-1] for m in r.json().get("models", [])
+                 if "generateContent" in m.get("supportedGenerationMethods", [])]
+    print(f"   models this key can use: {[m for m in available if 'gemini' in m]}")
+    for name in config.GEMINI_MODELS:
+        if name in available:
+            return name
+    lite = [m for m in available if "flash-lite" in m and "preview" not in m]
+    flash = [m for m in available if "flash" in m and "preview" not in m]
+    choice = (lite or flash or available)[0]
+    print(f"   none of {config.GEMINI_MODELS} available; using {choice}. Available: {available}")
+    return choice
 
 
 def call_gemini(posts, usage):
@@ -92,8 +129,10 @@ def call_gemini(posts, usage):
         },
     }
     for attempt in range(5):
-        r = requests.post(API.format(model=config.GEMINI_MODEL), json=body,
+        r = requests.post(API.format(model=MODEL), json=body,
                           headers={"x-goog-api-key": key}, timeout=120)
+        if r.status_code == 429 and "PerDay" in r.text:
+            raise QuotaExhausted()  # daily free quota used up: stop, finish tomorrow
         if r.status_code in (429, 500, 503):  # free-tier rate limit / overload
             wait = 15 * (attempt + 1)
             print(f"   gemini {r.status_code}, waiting {wait}s")
@@ -111,6 +150,10 @@ def call_gemini(posts, usage):
     raise RuntimeError("Gemini kept failing")
 
 
+class QuotaExhausted(Exception):
+    pass
+
+
 def tag_posts(posts, cache):
     """
     Add role/cities/level/confidence to every post.
@@ -126,10 +169,18 @@ def tag_posts(posts, cache):
         todo = []
 
     print(f"   {len(todo)} new posts to tag, {usage['from_cache']} already tagged")
+    global MODEL
+    if todo:
+        MODEL = pick_model()
+        usage["model"] = MODEL
+        print(f"   model: {MODEL}")
     for start in range(0, len(todo), config.BATCH_SIZE):
         batch = todo[start:start + config.BATCH_SIZE]
         try:
             tags = call_gemini(batch, usage)
+        except QuotaExhausted:
+            print("   ! free daily quota reached; the rest will be tagged on the next run")
+            break
         except Exception as e:  # one bad batch must not kill the daily run
             print(f"   ! batch {start // config.BATCH_SIZE} failed: {e}")
             continue
@@ -139,7 +190,7 @@ def tag_posts(posts, cache):
                 cache[p["id"]] = {
                     "role": t["role"], "cities": t["cities"] or ["Other India"],
                     "level": t["level"], "confidence": round(float(t["confidence"]), 2),
-                    "model": config.GEMINI_MODEL,
+                    "model": MODEL,
                 }
                 usage["tagged"] += 1
         time.sleep(config.SECONDS_BETWEEN_CALLS)

@@ -120,8 +120,11 @@ LEVELS = ["Internship", "Fresher", "Not fresher"]
 # ---------------------------------------------------------------------------
 # 3. LLM
 # ---------------------------------------------------------------------------
-GEMINI_MODEL = "gemini-2.5-flash-lite"
-BATCH_SIZE = 20                     # posts per LLM call
+# First choice, then fallbacks. Google retires model names over time; if none of
+# these exist the tagger asks the API which models are available and picks a
+# Flash-Lite (cheapest) model by itself, and logs which one it used.
+GEMINI_MODELS = ["gemini-2.5-flash-lite", "gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
+BATCH_SIZE = 40                     # posts per LLM call (fewer calls = fits the free daily quota)
 SECONDS_BETWEEN_CALLS = 4.5         # free tier allows ~15 requests/minute
 
 # What this model costs on Google's PAID tier, in USD per 1M tokens.

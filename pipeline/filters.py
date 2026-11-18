@@ -56,7 +56,10 @@ NEEDS_EXPERIENCE = re.compile(r"\b([2-9]|1[0-9])\s*\+?\s*(-|to|–)?\s*\d*\s*\+?
 
 
 def fresher_reason(post):
-    """Return a short reason string if the post looks entry-level, else None."""
+    """
+    Return a short reason string if the post MIGHT be entry-level, else None.
+    Reasons starting with "unclear" are decided by the LLM's `level` answer.
+    """
     title = post.get("title") or ""
     desc = post.get("description") or ""
 
@@ -70,4 +73,8 @@ def fresher_reason(post):
         return "description:0-1yrs"
     if post.get("hint_level"):
         return f"platform:{post['hint_level']}"
-    return None
+    if NEEDS_EXPERIENCE.search(desc):
+        return None
+    # Not senior, but no clear entry-level signal either (e.g. "Software Engineer"
+    # with no experience mentioned). Rules can't decide, so the LLM does.
+    return "unclear:ask-llm"
