@@ -237,11 +237,14 @@ def fetch_adzuna():
     if not (app_id and app_key):
         print("   (no Adzuna key set, skipping Adzuna)")
         return []
-    posts = []
+    posts, calls = [], 0
     for q in config.ADZUNA_QUERIES:
         for page in range(1, config.ADZUNA_PAGES_PER_QUERY + 1):
+            if calls >= config.ADZUNA_MAX_CALLS_PER_RUN:
+                return posts  # protect the tiny free quota
+            calls += 1
             data = get_json(f"https://api.adzuna.com/v1/api/jobs/in/search/{page}", params={
-                "app_id": app_id, "app_key": app_key, "what": q,
+                "app_id": app_id, "app_key": app_key, "what_or": q,
                 "results_per_page": 50, "max_days_old": config.ADZUNA_MAX_DAYS_OLD,
                 "content-type": "application/json",
             })

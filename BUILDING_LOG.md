@@ -51,7 +51,7 @@ first seen today, so the badge carried no information.
 ### 7. The aggregator API wanted a credit card
 **What happened:** I planned Adzuna's India API as the high-volume source. After
 signing up, full access needed a card on file. The free tier was 25 test calls.
-**Fix:** Made Adzuna optional (it only runs if its keys are set) and added two more
+**Fix:** Made Adzuna optional (it only runs if its keys are set, and on the 25-call test plan it spends at most 2 calls a run) and added two more
 free, keyless careers-page APIs instead: Workable and Recruitee. Volume now comes
 from many company boards rather than one aggregator. Bonus: every link goes straight
 to the employer, and there's less cross-site duplication.

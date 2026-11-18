@@ -79,8 +79,11 @@ RECRUITEE = [
 
 # Adzuna India: OPTIONAL. Full API access needs a card on file, so the pipeline
 # runs fine without it and only uses it if ADZUNA_APP_ID/KEY secrets exist.
-ADZUNA_QUERIES = ["internship", "intern", "fresher", "graduate trainee", "entry level"]
-ADZUNA_PAGES_PER_QUERY = 3          # 50 results per page
+# The free test plan allows only 25 calls IN TOTAL, so we spend at most 2 per run.
+# When the quota runs out the calls fail quietly and the run carries on.
+ADZUNA_QUERIES = ["fresher internship", "graduate trainee"]
+ADZUNA_PAGES_PER_QUERY = 1          # 50 results per page
+ADZUNA_MAX_CALLS_PER_RUN = 2
 ADZUNA_MAX_DAYS_OLD = 30
 
 # ---------------------------------------------------------------------------
