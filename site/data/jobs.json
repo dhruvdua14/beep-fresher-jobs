@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T09:38+05:30",
- "count": 193,
+ "updated_at": "2026-11-18T09:41+05:30",
+ "count": 274,
  "jobs": [
   {
    "id": "2a5c48491bf7",
@@ -14,6 +14,38 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5969752490?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "896fd461300b",
+   "title": "Webflow Developer Intern",
+   "company": "ViralChilly",
+   "location": "Sanganer, Jaipur, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969745681?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9dff0cf7ed29",
+   "title": "Software Development Trainee",
+   "company": "Wabtec",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969569132?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-18",
    "first_seen": "2026-11-18"
@@ -163,6 +195,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "4f5994c62819",
+   "title": "Technical Trainee",
+   "company": "Indus Systems & Services",
+   "location": "Andheri, Mumbai, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5968301742?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "df6888d5f8e7",
+   "title": "Plant Assistant (Fresher)",
+   "company": "Saburi Ply",
+   "location": "Jami, Vizianagaram, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5968301939?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "940a1fdfe4b9",
    "title": "System integration exhaust treatment",
    "company": "Bosch Group",
@@ -259,6 +323,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "84d61d3042e6",
+   "title": "Sales Trainee/Officer",
+   "company": "WWF-India",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5967668638?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a2b12b3453e3",
+   "title": "Trainee Nurse",
+   "company": "Apollo Group",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5967957763?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "6b9eba181db5",
    "title": "Entry Level Associate",
    "company": "ascendion",
@@ -318,6 +414,38 @@
    "level": "Internship",
    "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5966478701?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2f37977ddc4c",
+   "title": "FRESHER OPHTHALMOLOGIST / PHACO SURGEON",
+   "company": "Medico Hub",
+   "location": "Kolkata, West Bengal, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5966478829?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5c3288e854d1",
+   "title": "FRESHER ORTHOPAEDIC FELLOWSHIP OPPORTUNITY",
+   "company": "Medico Hub",
+   "location": "Kolhapur, Maharashtra, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5966478763?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
    "first_seen": "2026-11-18"
@@ -463,6 +591,38 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966097383?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6a69c9c4af8c",
+   "title": "HR Intern",
+   "company": "66degrees",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5966099928?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "13133aeacc09",
+   "title": "CA Industrial Trainee",
+   "company": "HSBC",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5965395934?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
@@ -655,6 +815,54 @@
    "level": "Internship",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5964779068?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "338bf277f79e",
+   "title": "SEO Intern/Trainee",
+   "company": "ViralChilly",
+   "location": "Sanganer, Jaipur, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963999039?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "faa8d8d280f7",
+   "title": "Digital Marketing Intern",
+   "company": "HostSpacio Digital Solutions",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964475217?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6d01d490fc45",
+   "title": "IT Support Intern",
+   "company": "Techdefence Labs",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964762177?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
@@ -1093,6 +1301,294 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "4599186cd707",
+   "title": "Founders Office Intern",
+   "company": "Rewardsentives, Payouts, Perks, Loyalty & Engagement",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963458383?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5daf5e73d1c7",
+   "title": "Product Marketing (Internship)",
+   "company": "ANGLER Jobs",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963066647?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a32265b9f640",
+   "title": "Production Intern",
+   "company": "Sid's Farm",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5963429411?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b0e43de8cfa5",
+   "title": "Intern - NDR Calling",
+   "company": "Nutrabay",
+   "location": "Delhi, India, India",
+   "cities": [
+    "Delhi"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963466386?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f26369c3a2b0",
+   "title": "Customer Support Intern",
+   "company": "Sid's Farm",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963457034?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9ae1e66352d3",
+   "title": "Customer Support - Intern",
+   "company": "Sid's Farm",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963466654?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "15e6fbee2dfb",
+   "title": "Intern - Finance & Accounts",
+   "company": "Cygni",
+   "location": "Telangana, India, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963426385?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "686fa11c8452",
+   "title": "Business Development Trainee",
+   "company": "Ansi ByteCode LLP",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963447824?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "265a77b01b27",
+   "title": "Software Engineer Trainee",
+   "company": "Ansi ByteCode LLP",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963458953?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1b4cee823978",
+   "title": "Business Analyst Trainee",
+   "company": "Ecosmob Technologies",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963448815?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6a96098fb0c3",
+   "title": "HR Trainee-(Operations)",
+   "company": "CloudThat",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963448591?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8d4d4a57403d",
+   "title": "HR-Trainee-Recruitment",
+   "company": "CloudThat",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963453121?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9535b0af8eb6",
+   "title": "Management Trainee",
+   "company": "SmartDocs",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963425941?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "7f45b1b898b9",
+   "title": "Finance Trainee",
+   "company": "Enveu",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963450775?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f81a72022133",
+   "title": "Trainee Operator",
+   "company": "Roquette",
+   "location": "Gokak, Belgaum, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963454304?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5abdc98fe8dd",
+   "title": "Sales Executive – Fresher",
+   "company": "Accelerate Transformation",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963465021?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0cef0b95b3df",
+   "title": "Fresher software developer",
+   "company": "Suavis",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963461052?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3abdc54f6cd8",
+   "title": "QA Engineer-Fresher",
+   "company": "Identixweb Limited",
+   "location": "Surat, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963470648?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "51525d75d687",
    "title": "BA / B.Com Freshers",
    "company": "Artmac Soft LLC",
@@ -1237,6 +1733,54 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "41e14f79dbeb",
+   "title": "Trainee Associate – Litigation",
+   "company": "Bisani Legal",
+   "location": "Padmanabhnagar, Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5961108708?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "18ffba6f8a9f",
+   "title": "Robotics Engineer Fresher",
+   "company": "Playto Labs",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Hardware & Electronics",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960844842?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b2800ba6cdbd",
+   "title": "Business Development Executive (Fresher)",
+   "company": "Empower HR Solutions",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5960993644?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "9b25eb0969da",
    "title": "Content Developer (Entry Level)",
    "company": "MasterTech Web Applications",
@@ -1301,6 +1845,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "373c2328070c",
+   "title": "Graduate Detailing Engineer - Hyderabad",
+   "company": "Ramboll",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5960318993?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "b92df2f9a728",
    "title": "Graduate Electrical Engineer",
    "company": "Arcadis",
@@ -1328,6 +1888,54 @@
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5957737059?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-08",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ec83348d1e6e",
+   "title": "Production Intern",
+   "company": "Sids Farm Hiring",
+   "location": "Tumkur, Karnataka, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5958095533?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-08",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "536b1606a495",
+   "title": "Graduate Mechanical Engineer",
+   "company": "Arcadis",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5958095476?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-08",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "13b6664232fa",
+   "title": "Sewing Trainee",
+   "company": "Prithvi Inner Wears",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5958336215?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-08",
    "first_seen": "2026-11-18"
@@ -1392,6 +2000,22 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5957024606?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d08bf00437d0",
+   "title": "Project Engineering Entry Professional",
+   "company": "Hitachi",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5957221193?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-07",
    "first_seen": "2026-11-18"
@@ -1493,6 +2117,54 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "efc06ae4e529",
+   "title": "Social Media Intern",
+   "company": "Robro Systems",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5955617682?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "678cc23e494e",
+   "title": "Fresher Designer EDs",
+   "company": "SEGULA Technologies",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5955617319?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "19f6b38a5fac",
+   "title": "Junior Data Entry Operator",
+   "company": "Aerones",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5955616733?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "ae37cdae54c5",
    "title": "Intern",
    "company": "Pratt & Whitney",
@@ -1568,6 +2240,38 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953363583?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6c605a4b3069",
+   "title": "Performance Marketing Intern",
+   "company": "Remitap",
+   "location": "Kochi, Ernakulam, India",
+   "cities": [
+    "Kochi"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5954388568?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8e7987dd7b1d",
+   "title": "Electrician - Level I",
+   "company": "Cummins Inc.",
+   "location": "Phaltan, Satara, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Hardware & Electronics",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953941681?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
@@ -1725,6 +2429,71 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "5c49e1ce5d47",
+   "title": "Intern - Zoho CRM Developer",
+   "company": "HaystackAnalytics Pvt Ltd",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5952324695?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5d0a1805e0d2",
+   "title": "Intern: MBA/Graduate",
+   "company": "Medtronic",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.6,
+   "url": "https://www.adzuna.in/details/5953179695?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "03ffd469aa6b",
+   "title": "Intern: MBA/Graduate",
+   "company": "Medtronic",
+   "location": "Kochi, Ernakulam, India",
+   "cities": [
+    "Kochi",
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.6,
+   "url": "https://www.adzuna.in/details/5952702303?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "58ae4029480b",
+   "title": "Trainee- BTech",
+   "company": "Subhasis Mohanty ",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5952342464?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "f5335d2d144c",
    "title": "Multiple opportunities for Software fresher s Hyderabad",
    "company": "MAK",
@@ -1752,6 +2521,55 @@
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5951889218?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "41560e760ff1",
+   "title": "Intern: MBA/Graduate",
+   "company": "Medtronic",
+   "location": "Vijayawada, Krishna, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.6,
+   "url": "https://www.adzuna.in/details/5951888720?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4a60f590951f",
+   "title": "Intern: MBA/Graduate",
+   "company": "Medtronic",
+   "location": "Gurgaon, Haryana, India",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.6,
+   "url": "https://www.adzuna.in/details/5951886159?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4f371c0f1f89",
+   "title": "Sales || Fresher || Experienced",
+   "company": "propkarmaa",
+   "location": "Delhi, India, India",
+   "cities": [
+    "Delhi",
+    "Noida"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5951179398?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-03",
    "first_seen": "2026-11-18"
@@ -1789,6 +2607,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "0e136185a910",
+   "title": "Office Assistant - Trainee",
+   "company": "VIJAY COPOLYMERS",
+   "location": "Sillod, Aurangabad, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5950768937?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-02",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "4638d66258fd",
    "title": "Graduate Engineer Trainee (Operations & Support)",
    "company": "Robro Systems Private Limited",
@@ -1816,6 +2650,86 @@
    "level": "Fresher",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5949468912?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a460a16f5f57",
+   "title": "Digital Marketing Intern",
+   "company": "Nextgen Business Support Services Pvt. Ltd.",
+   "location": "Khengrapatti, Kolkata, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5948346145?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6271532b704b",
+   "title": "Sales and Marketing Intern",
+   "company": "Humppl",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5949126836?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f222ec87802c",
+   "title": "Digital Marketing Intern",
+   "company": "Humppl",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5949126898?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0973c8977ff6",
+   "title": "Sales Engineer Trainee - Electronics",
+   "company": "MEL Systems and Services Ltd",
+   "location": "Injambakkam, Chennai, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948346093?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1553a544130b",
+   "title": "International Bookkeeping (Freshers)",
+   "company": "Enlighten Schola",
+   "location": "Vadodara, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948454018?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-01",
    "first_seen": "2026-11-18"
@@ -1933,6 +2847,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "dadb86e57172",
+   "title": "Data Analyst Intern",
+   "company": "Anaxee Digital Runners",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Data & Analytics",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5947779283?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "dae372dcefd0",
    "title": "Product  Ops Intern",
    "company": "Composio",
@@ -1960,6 +2890,38 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5946966934?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f79fa29767d1",
+   "title": "Business Development Executive Intern",
+   "company": "Rampwin Technologies Pvt. Ltd.",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5946322674?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f35de0aa1670",
+   "title": "Trainee Architect",
+   "company": "Indovance Private Limited",
+   "location": "Yerwada, Pune, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5947202651?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-18"
@@ -2045,6 +3007,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "c6d7986c7ff3",
+   "title": "Graphic designer intern",
+   "company": "Moshi Moshi",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Design",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5945588164?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "7575001234fa",
+   "title": "Trainee Software Developer",
+   "company": "Cyber Infrastructure",
+   "location": "India, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5945588134?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "25faa54ef236",
    "title": "AI Researcher Intern",
    "company": "HackerRank Careers",
@@ -2104,6 +3098,38 @@
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5943994138?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "bbba80e098d9",
+   "title": "Intern - DMS Operations",
+   "company": "Swiss Beauty Cosmetics Private Limited",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5943994131?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "74d65cc59d09",
+   "title": "Internship - Customer Service (Bangalore)",
+   "company": "Avery Dennison",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5944465942?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
@@ -2184,6 +3210,22 @@
    "level": "Fresher",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5943348375?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ceacb7b72a53",
+   "title": "Payroll Industrial Trainee",
+   "company": "Rubrik",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5943179887?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-27",
    "first_seen": "2026-11-18"
@@ -2397,6 +3439,118 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "56e3de493e04",
+   "title": "Graphic Designer Intern",
+   "company": "Honeybee Digital",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Design",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5940362984?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f355195af364",
+   "title": "Video Editing Intern",
+   "company": "Honeybee Digital",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5940362995?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8f713ce55fe3",
+   "title": "Management Trainee (MBA)",
+   "company": "Elsner Technologies",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940650992?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5f2623a83d9c",
+   "title": "Talent Acquisition Trainee",
+   "company": "Techify Solutions",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5940656911?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1659e4d857ac",
+   "title": "Full Stack Trainee",
+   "company": "Techify Solutions",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5940628662?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a4a36b826e54",
+   "title": "Customer Success Trainee",
+   "company": "iSmartRecruit",
+   "location": "Rajkot, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940628416?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6124eea10369",
+   "title": "Trainee Test Engineer",
+   "company": "Quality Engineering",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940646341?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "f2474a4ed75b",
    "title": "Marketing internship (brand & communication)",
    "company": "Sarvam",
@@ -2472,6 +3626,118 @@
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5939142430?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "50d80fd7c13e",
+   "title": "Digital Marketing Intern",
+   "company": "Nextgen Digital Solutions",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938634344?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ee4c99a00e7d",
+   "title": "Program Coordinator Intern",
+   "company": "House AI",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5939142362?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e184ef935bc9",
+   "title": "Growth Operation Intern",
+   "company": "House AI",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5939142412?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "913dc76ba40c",
+   "title": "Creator Partnerships Intern",
+   "company": "House AI",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5939142399?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "45c6ed5e17d3",
+   "title": "Influencer Marketing Intern",
+   "company": "House AI",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5939142424?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9638d654bb50",
+   "title": "Machine Operators / Helpers / Assistants - (Male/Freshers)",
+   "company": "Ayush",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938542671?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "410d8717b98e",
+   "title": "Python & Next.js Developer (Freshers)",
+   "company": "Executive Softway Guild India Private Limited",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5938642094?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
    "first_seen": "2026-11-18"
@@ -2589,6 +3855,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "d8ff9a5b5b79",
+   "title": "Human Resources Trainee",
+   "company": "Recruit CRM",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5936833367?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "e71865e4a6c3",
    "title": "Talent Acquisition Intern - IT Recruitment",
    "company": "Paytm",
@@ -2664,6 +3946,22 @@
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5934358369?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-19",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "364bcf5734e1",
+   "title": "Management Trainee - Finance",
+   "company": "Neolytix",
+   "location": "Industrial Complex Dundahera, Gurgaon, India",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5934449129?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-19",
    "first_seen": "2026-11-18"

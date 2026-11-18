@@ -880,7 +880,7 @@
   "smartrecruiters:Turing": 0,
   "smartrecruiters:BrowserStack": 0,
   "smartrecruiters:Paytm": 0,
-  "smartrecruiters:Swiggy": 191,
+  "smartrecruiters:Swiggy": 190,
   "smartrecruiters:Zomato": 0,
   "smartrecruiters:Myntra": 0,
   "workable:razorpay": 0,
@@ -939,15 +939,43 @@
    4
   ],
   [
+   "adzuna:Sid's Farm",
+   4
+  ],
+  [
    "greenhouse:Rubrik Job Board",
    4
+  ],
+  [
+   "adzuna:Medtronic",
+   4
+  ],
+  [
+   "adzuna:House AI",
+   4
+  ],
+  [
+   "adzuna:ViralChilly",
+   3
   ],
   [
    "smartrecruiters:SWIGGY",
    3
   ],
   [
+   "adzuna:Playto Labs",
+   3
+  ],
+  [
+   "adzuna:SmartDocs",
+   3
+  ],
+  [
    "greenhouse:HackerRank Careers",
+   3
+  ],
+  [
+   "adzuna:Elsner Technologies",
    3
   ],
   [
@@ -971,7 +999,7 @@
    2
   ],
   [
-   "adzuna:Playto Labs",
+   "adzuna:Medico Hub",
    2
   ],
   [
@@ -991,11 +1019,15 @@
    2
   ],
   [
-   "adzuna:SmartDocs",
+   "adzuna:Delhi",
    2
   ],
   [
-   "adzuna:Delhi",
+   "adzuna:Ansi ByteCode LLP",
+   2
+  ],
+  [
+   "adzuna:CloudThat",
    2
   ],
   [
@@ -1003,7 +1035,19 @@
    2
   ],
   [
+   "adzuna:Bisani Legal",
+   2
+  ],
+  [
+   "adzuna:Arcadis",
+   2
+  ],
+  [
    "adzuna:MAK",
+   2
+  ],
+  [
+   "adzuna:Humppl",
    2
   ],
   [
@@ -1015,7 +1059,19 @@
    2
   ],
   [
-   "adzuna:Elsner Technologies",
+   "adzuna:Ayush",
+   2
+  ],
+  [
+   "adzuna:Honeybee Digital",
+   2
+  ],
+  [
+   "adzuna:Techify Solutions",
+   2
+  ],
+  [
+   "adzuna:iSmartRecruit",
    2
   ],
   [
@@ -1029,6 +1085,10 @@
   [
    "greenhouse:MongoDB",
    2
+  ],
+  [
+   "adzuna:Wabtec",
+   1
   ],
   [
    "adzuna:Mindtel",
@@ -1051,6 +1111,14 @@
    1
   ],
   [
+   "adzuna:Indus Systems & Services",
+   1
+  ],
+  [
+   "adzuna:Saburi Ply",
+   1
+  ],
+  [
    "smartrecruiters:ServiceNow",
    1
   ],
@@ -1064,6 +1132,14 @@
   ],
   [
    "adzuna:Magna International, Inc",
+   1
+  ],
+  [
+   "adzuna:WWF-India",
+   1
+  ],
+  [
+   "adzuna:Apollo Group",
    1
   ],
   [
@@ -1095,6 +1171,14 @@
    1
   ],
   [
+   "adzuna:66degrees",
+   1
+  ],
+  [
+   "adzuna:HSBC",
+   1
+  ],
+  [
    "adzuna:Diensten Tech Limited",
    1
   ],
@@ -1111,7 +1195,11 @@
    1
   ],
   [
-   "adzuna:Sid's Farm",
+   "adzuna:HostSpacio Digital Solutions",
+   1
+  ],
+  [
+   "adzuna:Techdefence Labs",
    1
   ],
   [
@@ -1191,6 +1279,46 @@
    1
   ],
   [
+   "adzuna:Rewardsentives, Payouts, Perks, Loyalty & Engagement",
+   1
+  ],
+  [
+   "adzuna:ANGLER Jobs",
+   1
+  ],
+  [
+   "adzuna:Nutrabay",
+   1
+  ],
+  [
+   "adzuna:Cygni",
+   1
+  ],
+  [
+   "adzuna:Ecosmob Technologies",
+   1
+  ],
+  [
+   "adzuna:Enveu",
+   1
+  ],
+  [
+   "adzuna:Roquette",
+   1
+  ],
+  [
+   "adzuna:Accelerate Transformation",
+   1
+  ],
+  [
+   "adzuna:Suavis",
+   1
+  ],
+  [
+   "adzuna:Identixweb Limited",
+   1
+  ],
+  [
    "adzuna:Artmac Soft LLC",
    1
   ],
@@ -1219,11 +1347,11 @@
    1
   ],
   [
-   "adzuna:MasterTech Web Applications",
+   "adzuna:Empower HR Solutions",
    1
   ],
   [
-   "adzuna:Bisani Legal",
+   "adzuna:MasterTech Web Applications",
    1
   ],
   [
@@ -1235,11 +1363,19 @@
    1
   ],
   [
-   "adzuna:Arcadis",
+   "adzuna:Ramboll",
    1
   ],
   [
    "adzuna:Arting Digital Private Limited",
+   1
+  ],
+  [
+   "adzuna:Sids Farm Hiring",
+   1
+  ],
+  [
+   "adzuna:Prithvi Inner Wears",
    1
   ],
   [
@@ -1256,6 +1392,10 @@
   ],
   [
    "adzuna:Milliman India",
+   1
+  ],
+  [
+   "adzuna:Hitachi",
    1
   ],
   [
@@ -1283,6 +1423,18 @@
    1
   ],
   [
+   "adzuna:Robro Systems",
+   1
+  ],
+  [
+   "adzuna:SEGULA Technologies",
+   1
+  ],
+  [
+   "adzuna:Aerones",
+   1
+  ],
+  [
    "adzuna:Pratt & Whitney",
    1
   ],
@@ -1300,6 +1452,14 @@
   ],
   [
    "adzuna:OptiSol Business Solutions",
+   1
+  ],
+  [
+   "adzuna:Remitap",
+   1
+  ],
+  [
+   "adzuna:Cummins Inc.",
    1
   ],
   [
@@ -1331,7 +1491,19 @@
    1
   ],
   [
+   "adzuna:HaystackAnalytics Pvt Ltd",
+   1
+  ],
+  [
+   "adzuna:Subhasis Mohanty ",
+   1
+  ],
+  [
    "adzuna:WTW",
+   1
+  ],
+  [
+   "adzuna:propkarmaa",
    1
   ],
   [
@@ -1343,11 +1515,27 @@
    1
   ],
   [
+   "adzuna:VIJAY COPOLYMERS",
+   1
+  ],
+  [
    "adzuna:Robro Systems Private Limited",
    1
   ],
   [
    "adzuna:Smith & Nephew",
+   1
+  ],
+  [
+   "adzuna:Nextgen Business Support Services Pvt. Ltd.",
+   1
+  ],
+  [
+   "adzuna:MEL Systems and Services Ltd",
+   1
+  ],
+  [
+   "adzuna:Enlighten Schola",
    1
   ],
   [
@@ -1371,11 +1559,23 @@
    1
   ],
   [
+   "adzuna:Anaxee Digital Runners",
+   1
+  ],
+  [
    "ashby:Composio",
    1
   ],
   [
    "adzuna:MediaRadar",
+   1
+  ],
+  [
+   "adzuna:Rampwin Technologies Pvt. Ltd.",
+   1
+  ],
+  [
+   "adzuna:Indovance Private Limited",
    1
   ],
   [
@@ -1399,7 +1599,23 @@
    1
   ],
   [
+   "adzuna:Moshi Moshi",
+   1
+  ],
+  [
+   "adzuna:Cyber Infrastructure",
+   1
+  ],
+  [
    "adzuna:CDM Smith",
+   1
+  ],
+  [
+   "adzuna:Swiss Beauty Cosmetics Private Limited",
+   1
+  ],
+  [
+   "adzuna:Avery Dennison",
    1
   ],
   [
@@ -1412,6 +1628,10 @@
   ],
   [
    "adzuna:Corporate Stalwarts",
+   1
+  ],
+  [
+   "adzuna:Rubrik",
    1
   ],
   [
@@ -1431,10 +1651,6 @@
    1
   ],
   [
-   "adzuna:Ayush",
-   1
-  ],
-  [
    "adzuna:Capita",
    1
   ],
@@ -1451,11 +1667,11 @@
    1
   ],
   [
-   "ashby:Sarvam",
+   "adzuna:Quality Engineering",
    1
   ],
   [
-   "adzuna:ViralChilly",
+   "ashby:Sarvam",
    1
   ],
   [
@@ -1468,6 +1684,14 @@
   ],
   [
    "adzuna:Omnirush",
+   1
+  ],
+  [
+   "adzuna:Nextgen Digital Solutions",
+   1
+  ],
+  [
+   "adzuna:Executive Softway Guild India Private Limited",
    1
   ],
   [
@@ -1495,11 +1719,15 @@
    1
   ],
   [
+   "adzuna:Recruit CRM",
+   1
+  ],
+  [
    "adzuna:Coinsell Technology Pvt. Ltd.",
    1
   ],
   [
-   "adzuna:iSmartRecruit",
+   "adzuna:Neolytix",
    1
   ],
   [
