@@ -114,7 +114,9 @@ function render() {
 function row(j, words) {
   const isNew = HAS_HISTORY && j.first_seen === TODAY;
   const date = j.posted_at || j.first_seen;
-  const cities = (j.cities && j.cities.length ? j.cities : [j.location]).join(", ");
+  // "Other India" is a filter bucket, not a place: show what the employer wrote instead
+  const cities = (j.cities && j.cities.length && !j.cities.includes("Other India") ? j.cities
+    : [j.location.replace(/, India(, India)?$/, "") || "India"]).join(", ");
   return `<li class="row">
     <div class="date mono">${isNew ? '<span class="new">New</span>' : ""}${formatDay(date)}</div>
     <div>
