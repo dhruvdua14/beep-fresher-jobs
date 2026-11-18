@@ -70,18 +70,20 @@
       <h2>How it works</h2>
       <ol class="steps">
         <li><div><b>Fetch</b><span>Every morning at 8:00 IST a GitHub Action calls the public
-          job-board APIs that Greenhouse, Lever, Ashby, SmartRecruiters, Workable and Recruitee
-          publish for companies' careers pages. These are meant to be read by other sites,
-          so nothing is scraped and no site's terms are broken.</span></div></li>
-        <li><div><b>Filter</b><span>Regex rules keep posts located in India and drop titles like
-          Senior, Lead or Manager. A post stays if its title says intern, trainee, graduate or
-          junior, or its description says 0–1 years or freshers.</span></div></li>
+          job-board APIs that Greenhouse, Lever, Ashby and SmartRecruiters publish for about 300
+          companies' careers pages, plus the Adzuna India API. These are meant to be read by
+          other sites, so nothing is scraped and no site's terms are broken. Adzuna's free quota
+          is tiny, so its posts are kept in a 30-day archive instead of re-fetched daily.</span></div></li>
+        <li><div><b>Filter</b><span>Regex rules keep posts located in India and drop the clear
+          non-starters: titles like Senior, Lead, Manager or Specialist, posts asking for 2+ years,
+          and talent-pool pages. Anything unclear is passed to the LLM rather than guessed.</span></div></li>
         <li><div><b>Remove duplicates</b><span>An exact pass hashes company, title and location.
           A fuzzy pass compares titles from the same company with rapidfuzz, treating
           “Bangalore” and “Bengaluru” as one place, and drops anything 92% similar.</span></div></li>
         <li><div><b>Tag</b><span>Gemini reads 40 posts per request and must answer in a fixed JSON
           schema: one role from 15 categories, cities from a fixed list, a level, and a confidence
-          score. It also acts as a second filter by rejecting posts that need experience. Posts
+          score. It also acts as a second filter: it labels each post Internship, Fresher (0–1 yr),
+          Early career (up to 2 yrs), Not fresher, or Not a job, and only the first three are listed. Posts
           tagged on an earlier day are cached and never paid for twice.</span></div></li>
         <li><div><b>Publish</b><span>The run writes a JSON file into the repo and redeploys this
           static site on GitHub Pages. Search and filters run in your browser, so there is

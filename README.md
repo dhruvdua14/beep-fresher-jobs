@@ -22,8 +22,7 @@ Gemini free tier (LLM).
  │  Lever          entry-level?   + rapidfuzz   posts/call,    stats.json    │
  │  Ashby          (regex, free)                JSON schema,   jobs.csv      │
  │  SmartRecruiters                             cached by id                 │
- │  Workable, Recruitee                                                      │
- │  (Adzuna: optional)                                                       │
+ │  Adzuna India (30-day archive)                                            │
  └───────────────┬──────────────────────────────────────────────────────────┘
                  │ git commit data/ + site/data/
                  ▼
@@ -45,7 +44,7 @@ Gemini free tier (LLM).
 | `.github/workflows/daily.yml` | The cron job and the deploy |
 
 ## Why it's built this way
-- **Public APIs only, no keys, no payment.** Greenhouse, Lever, Ashby, SmartRecruiters, Workable and Recruitee publish these
+- **Public APIs only, no payment.** Greenhouse, Lever, Ashby and SmartRecruiters publish these
   endpoints so other sites can list a company's jobs. No HTML scraping, and no
   LinkedIn/Naukri/Internshala, whose terms forbid it.
 - **Rules before the LLM.** Of thousands of fetched posts, most are senior or abroad.
