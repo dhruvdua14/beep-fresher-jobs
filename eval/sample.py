@@ -5,6 +5,10 @@ same sample) and write them to eval/hand_check.csv for manual checking.
 How to hand-check: open the CSV in Google Sheets, open each link, and in the
 three *_ok columns write Y or N. If N, write the right answer in the
 correct_* column next to it. Then run:  python eval/score.py
+
+Note: the committed sheet was drawn on 18 Nov with seed 42. One row (a Marriott post)
+turned out to be a duplicate and was removed by the dedupe fix (BUILDING_LOG #17), so it
+was swapped for one more random listed post (seed 43). The other 49 rows are unchanged.
 """
 import csv, json, random
 from pathlib import Path

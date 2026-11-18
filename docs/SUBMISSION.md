@@ -7,7 +7,7 @@ Dhruv Dua · Beep, Gen AI & Engineering round
 | **Live tool** | https://dhruvdua14.github.io/beep-fresher-jobs/ |
 | **Numbers page** | https://dhruvdua14.github.io/beep-fresher-jobs/stats.html |
 | **Repo** | https://github.com/dhruvdua14/beep-fresher-jobs |
-| **What broke** | [BUILDING_LOG.md](../BUILDING_LOG.md) (16 entries, written as it happened) |
+| **What broke** | [BUILDING_LOG.md](../BUILDING_LOG.md) (17 entries, written as it happened) |
 | **Live data (CSV)** | https://dhruvdua14.github.io/beep-fresher-jobs/data/jobs.csv |
 | **Hand-check sheet** | [eval/hand_check.csv](../eval/hand_check.csv) |
 
@@ -35,16 +35,16 @@ Every morning at 08:00 IST a GitHub Action:
 
 Total running cost: **₹0**. That's GitHub Actions, GitHub Pages and the Gemini free tier.
 
-## 2. Numbers (run of 18 Nov 2026)
+## 2. Numbers (run of 18 Nov 2026, 10:05 IST)
 
 | Step | Posts |
 |---|---|
-| Fetched | 10,162 |
-| Located in India | 2,775 |
-| Possible entry-level after rules | 701 |
-| Duplicates removed | 95 (82 exact, 13 fuzzy) |
-| Rejected by the LLM | 297 |
-| **Listed** | **309**: 158 Fresher, 134 Internship, 17 Early career |
+| Fetched | 10,157 |
+| Located in India | 2,771 |
+| Possible entry-level after rules | 698 |
+| Duplicates removed | 99 (82 exact, 17 fuzzy) |
+| Rejected by the LLM | 295 |
+| **Listed** | **304**: 157 Fresher, 130 Internship, 17 Early career |
 
 ### Cost per 1,000 posts
 Measured from the token counts the Gemini API reports on every call (`usageMetadata`),
@@ -52,7 +52,7 @@ priced at Google's **paid** tier for `gemini-3.1-flash-lite` ($0.25 / 1M input, 
 
 | | |
 |---|---|
-| Posts tagged in this run | 606 |
+| Posts tagged in the last full re-tag (18 Nov, 09:45 IST) | 606 |
 | Input tokens / output tokens | 107,359 / 25,920 |
 | Cost of the run at paid prices | $0.0657 |
 | **Cost per 1,000 posts** | **≈ $0.11 (≈ ₹9)** |
