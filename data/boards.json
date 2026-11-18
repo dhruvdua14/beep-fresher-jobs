@@ -924,18 +924,10 @@
  "listed_per_company": [
   [
    "lever:Paytm",
-   11
+   6
   ],
   [
    "smartrecruiters:Bosch Group",
-   5
-  ],
-  [
-   "jooble:Amazon",
-   5
-  ],
-  [
-   "adzuna:Happiest Resume",
    5
   ],
   [
@@ -943,27 +935,7 @@
    4
   ],
   [
-   "jooble:The Borgen Project",
-   3
-  ],
-  [
-   "jooble:US Postal Service",
-   3
-  ],
-  [
-   "jooble:Enterprise",
-   3
-  ],
-  [
-   "jooble:Summit Fire Protection",
-   3
-  ],
-  [
    "smartrecruiters:SWIGGY",
-   3
-  ],
-  [
-   "jooble:Postal Jobs Placement Service",
    3
   ],
   [
@@ -979,26 +951,6 @@
    2
   ],
   [
-   "jooble:Black & Veatch",
-   2
-  ],
-  [
-   "jooble:KLA",
-   2
-  ],
-  [
-   "jooble:U.S. Navy",
-   2
-  ],
-  [
-   "jooble:Bankers Life",
-   2
-  ],
-  [
-   "jooble:Bosch",
-   2
-  ],
-  [
    "adzuna:ascendion",
    2
   ],
@@ -1007,19 +959,7 @@
    2
   ],
   [
-   "jooble:United Soccer League (USL)",
-   2
-  ],
-  [
-   "jooble:Metro Consulting Associates LLC",
-   2
-  ],
-  [
    "adzuna:Delhi",
-   2
-  ],
-  [
-   "jooble:Nissan",
    2
   ],
   [
@@ -1027,7 +967,19 @@
    2
   ],
   [
+   "adzuna:MAK",
+   2
+  ],
+  [
+   "ashby:Headout",
+   2
+  ],
+  [
    "lever:Fampay",
+   2
+  ],
+  [
+   "greenhouse:Groww",
    2
   ],
   [
@@ -1037,54 +989,6 @@
   [
    "greenhouse:MongoDB",
    2
-  ],
-  [
-   "jooble:Postal Jobs Resource",
-   2
-  ],
-  [
-   "jooble:HSBC",
-   1
-  ],
-  [
-   "jooble:Global Treks and Adventures",
-   1
-  ],
-  [
-   "jooble:Fraunhofer USA",
-   1
-  ],
-  [
-   "jooble:ZF Group",
-   1
-  ],
-  [
-   "jooble:Plastipak Packaging, Inc.",
-   1
-  ],
-  [
-   "jooble:Maximus",
-   1
-  ],
-  [
-   "jooble:Block",
-   1
-  ],
-  [
-   "jooble:HDR, Inc.",
-   1
-  ],
-  [
-   "jooble:Stellantis",
-   1
-  ],
-  [
-   "jooble:Menards",
-   1
-  ],
-  [
-   "jooble:FOX Rehabilitation",
-   1
   ],
   [
    "adzuna:Mindtel",
@@ -1107,179 +1011,15 @@
    1
   ],
   [
-   "jooble:The Advance Group, Inc.",
-   1
-  ],
-  [
-   "jooble:Northwestern Mutual",
-   1
-  ],
-  [
-   "jooble:WACKER",
-   1
-  ],
-  [
-   "jooble:Quora",
-   1
-  ],
-  [
-   "jooble:Enterprise Mobility Inc",
-   1
-  ],
-  [
-   "jooble:LITHIA",
-   1
-  ],
-  [
-   "jooble:USDA",
-   1
-  ],
-  [
-   "jooble:TravelCenters of America",
-   1
-  ],
-  [
-   "jooble:US Government Jobs",
-   1
-  ],
-  [
-   "jooble:Alta Equipment Group",
-   1
-  ],
-  [
    "adzuna:Holmes Investment and Accounting Services",
    1
   ],
   [
+   "adzuna:Apna",
+   1
+  ],
+  [
    "adzuna:Magna International, Inc",
-   1
-  ],
-  [
-   "jooble:Jefferies",
-   1
-  ],
-  [
-   "jooble:GripFusion",
-   1
-  ],
-  [
-   "jooble:Schlumberger",
-   1
-  ],
-  [
-   "jooble:Arka Service",
-   1
-  ],
-  [
-   "jooble:Sage",
-   1
-  ],
-  [
-   "jooble:TRC Companies",
-   1
-  ],
-  [
-   "jooble:Quantum Compliance, Inc",
-   1
-  ],
-  [
-   "jooble:Federal Express Corporation",
-   1
-  ],
-  [
-   "jooble:PetSmart",
-   1
-  ],
-  [
-   "jooble:Salvation Army",
-   1
-  ],
-  [
-   "jooble:Orange County Naacp",
-   1
-  ],
-  [
-   "jooble:Fifth Street Dental Care",
-   1
-  ],
-  [
-   "jooble:Graybar",
-   1
-  ],
-  [
-   "jooble:Dr David Cox, DDS",
-   1
-  ],
-  [
-   "jooble:Comfort Dental Group | Plymouth",
-   1
-  ],
-  [
-   "jooble:Accelint",
-   1
-  ],
-  [
-   "jooble:Childhood Cancer Society",
-   1
-  ],
-  [
-   "jooble:Schweitzer Engineering Laboratories, Inc.",
-   1
-  ],
-  [
-   "jooble:NTH Consultants",
-   1
-  ],
-  [
-   "jooble:New Hudson Facades",
-   1
-  ],
-  [
-   "jooble:Aerotek",
-   1
-  ],
-  [
-   "jooble:Reliant Mission",
-   1
-  ],
-  [
-   "jooble:VF Corporation",
-   1
-  ],
-  [
-   "jooble:Ford Motor Company",
-   1
-  ],
-  [
-   "jooble:Shift - Actions, Perspective, Future",
-   1
-  ],
-  [
-   "jooble:Spence Brothers",
-   1
-  ],
-  [
-   "jooble:Adient",
-   1
-  ],
-  [
-   "jooble:Confidential",
-   1
-  ],
-  [
-   "jooble:LaFontaine Chevrolet",
-   1
-  ],
-  [
-   "jooble:LaFontaine Chevrolet Plymouth",
-   1
-  ],
-  [
-   "jooble:Zuzick Organization of Globe Life",
-   1
-  ],
-  [
-   "jooble:Superprof",
    1
   ],
   [
@@ -1288,70 +1028,6 @@
   ],
   [
    "adzuna:Edelman India",
-   1
-  ],
-  [
-   "jooble:Belle Tire Distributors, Inc.",
-   1
-  ],
-  [
-   "jooble:Dentsu",
-   1
-  ],
-  [
-   "jooble:Siemens",
-   1
-  ],
-  [
-   "jooble:KARMAN INC",
-   1
-  ],
-  [
-   "jooble:Align MD",
-   1
-  ],
-  [
-   "jooble:St. Joseph's College of Nursing",
-   1
-  ],
-  [
-   "jooble:Team Rehabilitation Physical Therapy",
-   1
-  ],
-  [
-   "jooble:Subway - 42498-0",
-   1
-  ],
-  [
-   "jooble:HMG Careers",
-   1
-  ],
-  [
-   "jooble:Family Dollar",
-   1
-  ],
-  [
-   "jooble:The Salvation Army USA Central Territory",
-   1
-  ],
-  [
-   "jooble:Consolidated Electrical Distributors",
-   1
-  ],
-  [
-   "jooble:Gamma Phi Omega International",
-   1
-  ],
-  [
-   "jooble:Farmers Insurance Group",
-   1
-  ],
-  [
-   "jooble:Adzuna",
-   1
-  ],
-  [
-   "jooble:Buckle LLC",
    1
   ],
   [
@@ -1364,14 +1040,6 @@
   ],
   [
    "adzuna:Genpact",
-   1
-  ],
-  [
-   "jooble:Eye Care Partners",
-   1
-  ],
-  [
-   "jooble:Lakeview Dental",
    1
   ],
   [
@@ -1411,19 +1079,11 @@
    1
   ],
   [
-   "jooble:Western Express, Inc.",
-   1
-  ],
-  [
    "adzuna:MasterTech Web Applications",
    1
   ],
   [
    "adzuna:Bisani Legal",
-   1
-  ],
-  [
-   "jooble:The Atchison Group Inc.",
    1
   ],
   [
@@ -1439,27 +1099,11 @@
    1
   ],
   [
+   "adzuna:Happiest Resume",
+   1
+  ],
+  [
    "adzuna:NAB",
-   1
-  ],
-  [
-   "jooble:Paschall Truck Lines",
-   1
-  ],
-  [
-   "jooble:Overhaul Carriers",
-   1
-  ],
-  [
-   "adzuna:CSC",
-   1
-  ],
-  [
-   "jooble:Black & Veatch Family of Companies",
-   1
-  ],
-  [
-   "jooble:Regional 911 Intake Solutions",
    1
   ],
   [
@@ -1472,14 +1116,6 @@
   ],
   [
    "ashby:Composio",
-   1
-  ],
-  [
-   "jooble:M Genio Inc",
-   1
-  ],
-  [
-   "jooble:Goldfish Swim School",
    1
   ],
   [
@@ -1499,27 +1135,7 @@
    1
   ],
   [
-   "adzuna:Sisco Jobs",
-   1
-  ],
-  [
-   "adzuna:Homly",
-   1
-  ],
-  [
-   "jooble:OHM Advisors",
-   1
-  ],
-  [
    "adzuna:Vinayak Outsourcing Works",
-   1
-  ],
-  [
-   "jooble:10-4 Logistics USA",
-   1
-  ],
-  [
-   "jooble:Dexter Fastener Technologies",
    1
   ],
   [
@@ -1535,15 +1151,11 @@
    1
   ],
   [
-   "jooble:Beast Mode Truckin",
+   "ashby:Smallest",
    1
   ],
   [
    "adzuna:Piramal Pharma",
-   1
-  ],
-  [
-   "jooble:Express Employment Professionals - Monroe",
    1
   ],
   [
@@ -1563,15 +1175,7 @@
    1
   ],
   [
-   "adzuna:MAK",
-   1
-  ],
-  [
    "greenhouse:Binance",
-   1
-  ],
-  [
-   "jooble:Postal Jobs Source",
    1
   ],
   [
@@ -1584,10 +1188,6 @@
   ],
   [
    "greenhouse:Agoda",
-   1
-  ],
-  [
-   "jooble:Postal Jobs Source (a division of Labor Services)",
    1
   ],
   [

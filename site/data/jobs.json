@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T09:24+05:30",
- "count": 226,
+ "updated_at": "2026-11-18T09:28+05:30",
+ "count": 97,
  "jobs": [
   {
    "id": "cf13d919a354",
@@ -35,252 +35,12 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "5651ad4a5018",
-   "title": "Structural Engineer Intern, Transmission Line (East Region)",
-   "company": "Black & Veatch",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/6717113131297236593?p=1&pos=18&rgn=23835&cid=24363&ckey=internship&jobAge=21&brelb=100&scr=115.841484&bscr=115.841484&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a66e859e5d68",
-   "title": "Ask a Recruiter: Your Guide to HSBC’s 2028 Internships (Session 2)",
-   "company": "HSBC",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/6039155955198503989?ckey=internship&rgn=23835&pos=23&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=21&brelb=110&bscr=97.37366&scr=97.37366",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9fc95f66da05",
-   "title": "Iceland Internship (Environmental Science)",
-   "company": "Global Treks and Adventures",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-8255133967941110597?ckey=internship&rgn=23835&pos=24&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=21&brelb=110&bscr=93.17505&scr=93.17505",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "487b14f8f55a",
-   "title": "Internship",
-   "company": "Fraunhofer USA",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-6020134416343024041?ckey=internship&rgn=23835&pos=32&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=21&brelb=10&bscr=81.83232&scr=81.83232",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b9bad2ac74da",
-   "title": "Materials Engineering Intern",
-   "company": "ZF Group",
-   "location": "Northville, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/4428357360894931756?p=1&pos=42&rgn=23835&cid=24363&ckey=internship&jobAge=14&brelb=10&scr=71.95991&bscr=71.95991&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8423862b38de",
-   "title": "Process Engineer (Engineering) Intern - Summer 2027",
-   "company": "Plastipak Packaging, Inc.",
-   "location": "Milan, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/6262832949650083986?ckey=internship&rgn=23835&pos=43&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=21&brelb=100&bscr=71.52462&scr=71.52462",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "349e72e904a9",
-   "title": "Human Resource Intern",
-   "company": "KLA",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-159742501530878476?ckey=internship&rgn=23835&pos=46&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=21&brelb=110&bscr=67.549095&scr=67.549095",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "adec19e0f327",
-   "title": "Business Development (Pursuit Enablement) Intern",
-   "company": "Maximus",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-2251684859245514275?ckey=internship&rgn=23835&pos=70&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=21&brelb=110&bscr=57.942047&scr=57.942047",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3390adecd80a",
-   "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
-   "company": "Block",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "AI / ML",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/691002788840315469?ckey=internship&rgn=23835&pos=74&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=21&brelb=110&bscr=56.29091&scr=56.29091",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "cda535b89e96",
-   "title": "Security Engineer Internship - 2027",
-   "company": "Amazon",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/5459391068278533292?ckey=internship&rgn=23835&pos=85&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=21&brelb=110&bscr=53.34637&scr=53.34637",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "10476a9fe462",
-   "title": "Civil/Structural Engineering Intern",
-   "company": "HDR, Inc.",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/7614693572235249058?ckey=internship&rgn=23835&pos=89&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=21&brelb=110&bscr=52.96126&scr=52.96126",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b28f5f24dd38",
-   "title": "SBU Driver Mechanic",
-   "company": "Stellantis",
-   "location": "Chelsea, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/6660361597587200437?p=2&pos=90&rgn=23835&cid=24363&ckey=internship&jobAge=21&brelb=100&scr=52.93658&bscr=52.93658&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "48b95c9f363b",
-   "title": "Manager Trainee",
-   "company": "Menards",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-1356087184898412302?p=1&pos=34&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=21&brelb=10&scr=59.822994&bscr=59.822994&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7cb178b8bde9",
-   "title": "Physical Therapist - Ypsilanti, MI",
-   "company": "FOX Rehabilitation",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-5587302962841918160?ckey=graduate+trainee&rgn=23835&pos=95&groupId=1554704779&elckey=444686542484291329&p=2&aq=7418984224548068488&cid=24363&jobAge=7&brelb=10&bscr=39.784317&scr=39.784317",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8d8f332e548f",
-   "title": "Military Security Officer",
-   "company": "U.S. Navy",
-   "location": "Clay, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/7123322629497746849?p=1&pos=15&rgn=51702&cid=24363&ckey=graduate+trainee&jobAge=20&brelb=10&scr=7.268757&bscr=7.268757&aq=-8725855229475365472&elckey=6254048723138013411",
-   "source": "jooble",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c97156af6840",
    "title": "BDE (FRESHER)",
    "company": "Mindtel",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
@@ -300,7 +60,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5969243619?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-17",
@@ -312,7 +72,7 @@
    "company": "American Express",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
@@ -328,7 +88,7 @@
    "company": "Baxter",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
@@ -336,22 +96,6 @@
    "url": "https://www.adzuna.in/details/5969247104?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ad7b09b1cad2",
-   "title": "Customer Support Associate- Paytm Money",
-   "company": "Paytm",
-   "location": "Mumbai, Maharashtra",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
-   "source": "lever",
-   "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
   },
   {
@@ -387,326 +131,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "83c6e14f70d9",
-   "title": "Political Consulting Internship",
-   "company": "The Advance Group, Inc.",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-3663078269791332799?ckey=internship&rgn=23835&pos=21&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=45&brelb=110&bscr=104.76582&scr=104.76582",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a158bdb470d6",
-   "title": "Tech Ops Engineer Intern, 2027 Tech Ops Intern",
-   "company": "Amazon",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-6869135179356837932?ckey=internship&rgn=23835&pos=22&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=45&brelb=110&bscr=103.4871&scr=103.4871",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "787b5b152135",
-   "title": "Fulfillment Workplace Health and Safety Specialist Intern 2026",
-   "company": "Amazon",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-499611708504516691?ckey=internship&rgn=23835&pos=28&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=45&brelb=110&bscr=88.55419&scr=88.55419",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "55390bc7cfdf",
-   "title": "College Financial Representative, Internship Program - 2026-28562 - Woodland Hls, California",
-   "company": "Northwestern Mutual",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/3195601058330663373?ckey=internship&rgn=23835&pos=41&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=45&brelb=110&bscr=73.30372&scr=73.30372",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d8481313ba7a",
-   "title": "Graduate Engineer, Electrical - Power Generation (East Region)",
-   "company": "Black & Veatch",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-7455815465359462934?p=2&pos=59&rgn=23835&cid=24363&ckey=internship&jobAge=45&brelb=100&scr=62.106712&bscr=62.106712&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c30e864cecb2",
-   "title": "Writer/Journalist Internship",
-   "company": "The Borgen Project",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Content & Communications",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-9080748484625874021?p=2&pos=63&rgn=23835&cid=24363&ckey=internship&jobAge=45&brelb=10&scr=60.84588&bscr=60.84588&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4a7a281d23a1",
-   "title": "Research and Development Intern",
-   "company": "WACKER",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/1701738102737829788?p=2&pos=78&rgn=23835&cid=24363&ckey=internship&jobAge=45&brelb=10&scr=55.184135&bscr=55.184135&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4a99a200e42f",
-   "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-   "company": "Quora",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-3995946522778174025?ckey=internship&rgn=23835&pos=80&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=45&brelb=110&bscr=54.322815&scr=54.322815",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8e4e499bb44b",
-   "title": "Postal Mail Processor - Glen Ferris",
-   "company": "US Postal Service",
-   "location": "Glen Ferris, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/1537769697546129788?ckey=internship&rgn=51702&pos=25&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=45&brelb=10&bscr=8.941155&scr=8.941155",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "87c54eb6c2e2",
-   "title": "Management Trainee",
-   "company": "Enterprise Mobility Inc",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6345370747778334376?p=1&pos=3&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=309.75787&bscr=309.75787&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "06f3deecbc1c",
-   "title": "Automotive Sales Representative",
-   "company": "LITHIA",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-5610782842949679540?p=1&pos=5&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=304.7509&bscr=304.7509&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d925de7767c4",
-   "title": "Management Trainee: Fast-Track to Branch Leadership",
-   "company": "Enterprise",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-5744288279946525730?ckey=graduate+trainee&rgn=23835&pos=13&groupId=1554704779&elckey=444686542484291329&p=1&aq=6592219214327681897&cid=24363&jobAge=45&brelb=10&bscr=215.06973&scr=215.06973",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b8821cc7dde7",
-   "title": "Resume Drop - Connect with Myriam",
-   "company": "Enterprise",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-3686545487027102227?ckey=graduate+trainee&rgn=23835&pos=18&groupId=1554704779&elckey=444686542484291329&p=1&aq=6592219214327681897&cid=24363&jobAge=45&brelb=110&bscr=91.007195&scr=91.007195",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "87b26ce7c9c5",
-   "title": "Wildland Firefighter",
-   "company": "USDA",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-4913790962597557255?p=1&pos=28&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=71.97972&bscr=71.97972&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8b12a89267f7",
-   "title": "Wealth Management Trainee",
-   "company": "Bankers Life",
-   "location": "Brighton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/2389677311713546308?p=1&pos=30&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=64.26696&bscr=64.26696&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e360e969d9f3",
-   "title": "Fire Alarm & Security Technician",
-   "company": "Summit Fire Protection",
-   "location": "New Hudson, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-1743571200728823285?ckey=graduate+trainee&rgn=23835&pos=49&groupId=1554704779&elckey=444686542484291329&p=1&aq=6592219214327681897&cid=24363&jobAge=45&brelb=10&bscr=52.796467&scr=52.796467",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0115ebfb9c89",
-   "title": "Fire Alarm Technician",
-   "company": "Summit Fire Protection",
-   "location": "New Hudson, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-8131941413430499905?p=2&pos=62&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=48.493633&bscr=48.493633&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5827d2a1fb0b",
-   "title": "Apprentice Diesel Tech-Mechanic",
-   "company": "TravelCenters of America",
-   "location": "Dexter, Livingston County, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/4325872549718477183?p=2&pos=82&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=100&scr=42.5588&bscr=42.5588&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a58731f42659",
-   "title": "Wildland Firefighter",
-   "company": "US Government Jobs",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/6660771333365215022?p=2&pos=85&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=45&brelb=10&scr=41.83635&bscr=41.83635&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "79cb5d468164",
-   "title": "Service Trainee",
-   "company": "Alta Equipment Group",
-   "location": "New Hudson, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/8390717823459155074?p=2&pos=86&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=35&brelb=100&scr=41.731674&bscr=41.731674&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "05206e0b6584",
    "title": "Remote Financial Advisor-Entry Level",
    "company": "Holmes Investment and Accounting Services",
@@ -723,6 +147,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "fabfc07073aa",
+   "title": "ADMISSION COUNSELOR-FRESHERS",
+   "company": "Apna",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5967714835?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "3fdc0b0aa262",
    "title": "Intern",
    "company": "Magna International, Inc",
@@ -730,316 +170,12 @@
    "cities": [
     "Pune"
    ],
-   "role": "Hardware & Electronics",
+   "role": "Other",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5967490112?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d15edefc5567",
-   "title": "Project Management / Test Engineering Intern",
-   "company": "Bosch",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-1172131495768662299?ckey=internship&rgn=23835&pos=19&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=69&brelb=110&bscr=106.77799&scr=106.77799",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f7572621e44e",
-   "title": "Steering Virtual Testing Intern - VM",
-   "company": "Bosch",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-1956566043945710106?ckey=internship&rgn=23835&pos=30&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=69&brelb=110&bscr=85.80607&scr=85.80607",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d2de0abc757f",
-   "title": "2026 Equity Sales Intern - Brazil",
-   "company": "Jefferies",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/897127085635082597?ckey=internship&rgn=23835&pos=35&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=69&brelb=110&bscr=76.37576&scr=76.37576",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3ff969a1125f",
-   "title": "Internship Opportunities",
-   "company": "GripFusion",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/977328399735498388?p=1&pos=38&rgn=23835&cid=24363&ckey=internship&jobAge=69&brelb=10&scr=74.609375&bscr=74.609375&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c3b105e541a6",
-   "title": "Political Affairs Internship",
-   "company": "The Borgen Project",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/1202000415895601674?p=1&pos=44&rgn=23835&cid=24363&ckey=internship&jobAge=69&brelb=10&scr=71.46848&bscr=71.46848&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a8e1a466931d",
-   "title": "Geoscience and Petrotechnical Internship",
-   "company": "Schlumberger",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/9197417678895834570?ckey=internship&rgn=23835&pos=45&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=69&brelb=110&bscr=68.847694&scr=68.847694",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "12ea956aa610",
-   "title": "Software Engineering Intern {S}",
-   "company": "Arka Service",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/8059369427315460939?p=1&pos=50&rgn=23835&cid=24363&ckey=internship&jobAge=69&brelb=10&scr=66.99152&bscr=66.99152&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "baaa40c1b876",
-   "title": "Corporate Communications Intern",
-   "company": "Sage",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Content & Communications",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/8574448319422300760?ckey=internship&rgn=23835&pos=54&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=69&brelb=110&bscr=64.04376&scr=64.04376",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "71cd2b70c5bb",
-   "title": "Environmental Intern",
-   "company": "TRC Companies",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-7689171373013078967?p=2&pos=81&rgn=23835&cid=24363&ckey=internship&jobAge=69&brelb=10&scr=54.101044&bscr=54.101044&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f105e61f1f97",
-   "title": "Full-Stack Developer",
-   "company": "Quantum Compliance, Inc",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-5601575221827658255?ckey=internship&rgn=23835&pos=99&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=69&brelb=10&bscr=49.775635&scr=49.775635",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "209d8c0d35a6",
-   "title": "Seasonal Package Handler - Part Time (Warehouse like)",
-   "company": "Federal Express Corporation",
-   "location": "Amelia, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-4053741349340141027?ckey=internship&rgn=51702&pos=27&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=66&brelb=100&bscr=3.513009&scr=3.513009",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "23846af9c9a8",
-   "title": "Fire Suppression Technician",
-   "company": "Summit Fire Protection",
-   "location": "New Hudson, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-4071244091954355742?p=1&pos=48&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=53.024246&bscr=53.024246&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6963c1952a5f",
-   "title": "Pet Trainer",
-   "company": "PetSmart",
-   "location": "Northville, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-3906689108915188986?p=2&pos=60&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=48.636154&bscr=48.636154&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0b3e9a16e829",
-   "title": "Full-Time Store Manager Trainee",
-   "company": "Salvation Army",
-   "location": "South Lyon, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-8211009650723933014?p=2&pos=63&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=48.265137&bscr=48.265137&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2e1ccaa78271",
-   "title": "Full-Time Store Manager Trainee",
-   "company": "Orange County Naacp",
-   "location": "Howell, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/3881560580344700771?p=2&pos=65&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=47.15141&bscr=47.15141&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "722d3d9e8b6b",
-   "title": "Dental hygienist",
-   "company": "Fifth Street Dental Care",
-   "location": "Dexter, Livingston County, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/4042161781478184972?p=2&pos=68&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=45.22675&bscr=45.22675&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "369c277d5aad",
-   "title": "Sales Trainee",
-   "company": "Graybar",
-   "location": "Belleville, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6989601221558630407?p=2&pos=78&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=100&scr=42.896683&bscr=42.896683&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5fb017f84e37",
-   "title": "Dental hygienist",
-   "company": "Dr David Cox, DDS",
-   "location": "South Lyon, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/1844591029792553163?p=2&pos=94&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=39.960686&bscr=39.960686&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "da8798f0ce3c",
-   "title": "Dental hygienist",
-   "company": "Comfort Dental Group | Plymouth",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-5113354402959926619?p=2&pos=98&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=69&brelb=10&scr=39.50388&bscr=39.50388&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-15",
    "first_seen": "2026-11-18"
   },
   {
@@ -1052,7 +188,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5966483013?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
@@ -1087,326 +223,6 @@
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576834",
    "source": "smartrecruiters",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c646365348ad",
-   "title": "Systems Engineering Internship",
-   "company": "Accelint",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/2832356854589921326?p=1&pos=17&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=118.61725&bscr=118.61725&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c4d735834a95",
-   "title": "Applications Engineering Intern",
-   "company": "KLA",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/5796418859770437857?ckey=internship&rgn=23835&pos=26&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=93&brelb=110&bscr=91.44393&scr=91.44393",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "862c41e7146d",
-   "title": "Fundraising, Partnerships & Events Intern",
-   "company": "Childhood Cancer Society",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/7170020440212392167?ckey=internship&rgn=23835&pos=37&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=93&brelb=110&bscr=74.68912&scr=74.68912",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "20e66cc258f1",
-   "title": "Electrical Engineering Intern",
-   "company": "Schweitzer Engineering Laboratories, Inc.",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-2605969040142276399?p=1&pos=39&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=74.23664&bscr=74.23664&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f31afcce0d04",
-   "title": "Graphic Design Intern",
-   "company": "NTH Consultants",
-   "location": "Northville, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Design",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-454479374245584850?p=1&pos=40&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=73.97971&bscr=73.97971&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "18f57b7ca26d",
-   "title": "2027 Applied Science Internship - United States - Master's Student Science Recruiting",
-   "company": "Amazon",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "AI / ML",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/58834001729860691?ckey=internship&rgn=23835&pos=48&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=93&brelb=110&bscr=67.33722&scr=67.33722",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9e65f1308be8",
-   "title": "Industrial Engineer I",
-   "company": "New Hudson Facades",
-   "location": "New Hudson, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Early career",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/5635512767290542584?ckey=internship&rgn=23835&pos=52&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=93&brelb=10&bscr=65.82009&scr=65.82009",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e61c96d3d3b5",
-   "title": "Sales Development Representative - Ann Arbor, MI",
-   "company": "Aerotek",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Early career",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/537269404678127617?p=2&pos=53&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=100&scr=64.06708&bscr=64.06708&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3a6c603f2bcc",
-   "title": "Eastern Michigan Univ New Life Church",
-   "company": "Reliant Mission",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.7,
-   "url": "https://jooble.org/away/5198121626429745394?p=2&pos=64&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=60.788208&bscr=60.788208&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "cfc66b5861d4",
-   "title": "Vans: Seasonal Sales Associate - Briarwood Mall",
-   "company": "VF Corporation",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/3070290535951371845?p=2&pos=67&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=100&scr=59.318974&bscr=59.318974&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6ec7b4fa3f7e",
-   "title": "Controls Engineer",
-   "company": "Ford Motor Company",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-8442302226603459987?p=2&pos=84&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=53.488815&bscr=53.488815&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8b0c91782101",
-   "title": "Sales & Marketing Internship",
-   "company": "Shift - Actions, Perspective, Future",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-3469241326252083986?p=2&pos=91&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=110&scr=51.808056&bscr=51.808056&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fc3f31e46bb8",
-   "title": "Construction Intern",
-   "company": "Spence Brothers",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-4093900238701108423?p=2&pos=92&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=51.666756&bscr=51.666756&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "142ceab61405",
-   "title": "IT Intern",
-   "company": "Adient",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-2159108107929655839?p=2&pos=96&rgn=23835&cid=24363&ckey=internship&jobAge=93&brelb=10&scr=50.97702&bscr=50.97702&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0b465b3cd1e6",
-   "title": "Student Support Caregiver - Relocation to Hershey, PA Required",
-   "company": "Confidential",
-   "location": "Glen Ferris, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://jooble.org/desc/4837706927610797131?ckey=internship&rgn=51702&pos=12&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=90&brelb=10&bscr=16.635855&scr=16.635855",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "59582efc2fcf",
-   "title": "Automotive Certified Service Technician",
-   "company": "LaFontaine Chevrolet",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6358975099447097129?p=1&pos=42&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=93&brelb=110&scr=55.32498&bscr=55.32498&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2b0eb0b28bc4",
-   "title": "Automotive Service Technician",
-   "company": "LaFontaine Chevrolet Plymouth",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/3151517626453816981?p=1&pos=43&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=93&brelb=110&scr=55.0472&bscr=55.0472&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "16b4d6f01e25",
-   "title": "Chaplain Candidate Program Officer",
-   "company": "U.S. Navy",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-3167044089546517330?ckey=graduate+trainee&rgn=23835&pos=55&groupId=1554704779&elckey=444686542484291329&p=2&aq=7418984224548068488&cid=24363&jobAge=93&brelb=110&bscr=49.66828&scr=49.66828",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5a1def6dff3b",
-   "title": "Virtual Benefits Consultant - Leadership Positions",
-   "company": "Zuzick Organization of Globe Life",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-7641696193764051256?ckey=graduate+trainee&rgn=23835&pos=83&groupId=1554704779&elckey=444686542484291329&p=2&aq=7418984224548068488&cid=24363&jobAge=93&brelb=110&bscr=42.411217&scr=42.411217",
-   "source": "jooble",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "28c4b85b5124",
-   "title": "Biology Private Tutoring Jobs",
-   "company": "Superprof",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/2690320124343800502?ckey=graduate+trainee&rgn=23835&pos=96&groupId=1554704779&elckey=444686542484291329&p=2&aq=7418984224548068488&cid=24363&jobAge=93&brelb=110&bscr=39.61714&scr=39.61714",
-   "source": "jooble",
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
   },
@@ -1468,7 +284,7 @@
    ],
    "role": "Content & Communications",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5966107511?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
@@ -1487,406 +303,6 @@
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576673",
    "source": "smartrecruiters",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "7c17a77f8503",
-   "title": "Auto Tech Trainee (Belle Tire Auto Tech Development Program)",
-   "company": "Belle Tire Distributors, Inc.",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/7493916996593170934?ckey=internship&rgn=23835&pos=34&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=117&brelb=10&bscr=76.504684&scr=76.504684",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "566508ba3de0",
-   "title": "Creative Account Management Intern",
-   "company": "Dentsu",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/5772016731476556098?ckey=internship&rgn=23835&pos=49&groupId=35087&elckey=228626485014539074&p=1&aq=8398675466785148958&cid=24363&jobAge=117&brelb=110&bscr=67.26221&scr=67.26221",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e1c4418db6f2",
-   "title": "Nonprofit Leadership Internship",
-   "company": "The Borgen Project",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/9077160104506666378?p=2&pos=56&rgn=23835&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=63.782654&bscr=63.782654&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "227cad032765",
-   "title": "Digital Services UWEP Internship - Fall 2025",
-   "company": "United Soccer League (USL)",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-1610275295212449985?ckey=internship&rgn=23835&pos=58&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=117&brelb=110&bscr=62.516476&scr=62.516476",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "331aa45dc65e",
-   "title": "Business Intelligence UWEP Internship - Fall 2025",
-   "company": "United Soccer League (USL)",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Data & Analytics",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-8898548092378049700?ckey=internship&rgn=23835&pos=61&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=117&brelb=110&bscr=61.387268&scr=61.387268",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5c1341c80265",
-   "title": "Energy Developer Solutions Intern",
-   "company": "Siemens",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-8482246897925588586?ckey=internship&rgn=23835&pos=69&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=117&brelb=110&bscr=58.02967&scr=58.02967",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ff30038cf849",
-   "title": "Embedded Firmware Engineer",
-   "company": "KARMAN INC",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/7910193634708365858?p=2&pos=72&rgn=23835&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=57.204388&bscr=57.204388&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d75f2cd2e750",
-   "title": "Traffic Engineer",
-   "company": "Align MD",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/7597701199513321565?p=2&pos=73&rgn=23835&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=56.909798&bscr=56.909798&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bd40b12ab5d8",
-   "title": "Medical Assistant (MA) - Pediatrics, Plymouth",
-   "company": "St. Joseph's College of Nursing",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/6802764274480694525?p=2&pos=95&rgn=23835&cid=24363&ckey=internship&jobAge=117&brelb=100&scr=51.190807&bscr=51.190807&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b859b87857ba",
-   "title": "Physical Therapy Technician",
-   "company": "Team Rehabilitation Physical Therapy",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-1291979089484023533?p=2&pos=98&rgn=23835&cid=24363&ckey=internship&jobAge=106&brelb=10&scr=50.133224&bscr=50.133224&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ab788fd5f873",
-   "title": "Marketing and Communications Intern",
-   "company": "Metro Consulting Associates LLC",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/3941641681646092197?p=2&pos=100&rgn=23835&cid=24363&ckey=internship&jobAge=117&brelb=110&scr=49.233833&bscr=49.233833&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a6366e457b0b",
-   "title": "Sandwich Artist ®",
-   "company": "Subway - 42498-0",
-   "location": "Clay, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/7872030747801558039?p=1&pos=3&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=110&scr=21.871403&bscr=21.871403&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "56d09967838f",
-   "title": "Package Handler $15+/ Hour (Sign on Bonus)!",
-   "company": "Amazon",
-   "location": "Indore, WV, India",
-   "cities": [
-    "Indore"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/3372859396586795391?p=1&pos=6&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=19.529818&bscr=19.529818&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fb0ee0ff47a2",
-   "title": "Sales and Service Agent Remote",
-   "company": "HMG Careers",
-   "location": "Glen Ferris, WV, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6991349912661890101?p=1&pos=9&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=18.568352&bscr=18.568352&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e0229650bb4a",
-   "title": "Customer Service Associate I",
-   "company": "Family Dollar",
-   "location": "Clay, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-394017032548222930?p=1&pos=18&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=10&scr=10.666736&bscr=10.666736&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3aaa88222945",
-   "title": "Postal Clerk - Clay",
-   "company": "US Postal Service",
-   "location": "Clay, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/8008102637701522275?p=1&pos=19&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=100&scr=10.0905285&bscr=10.0905285&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "238f80d97d3f",
-   "title": "Postal Clerk - Dixie",
-   "company": "US Postal Service",
-   "location": "Dixie, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-3745953592994664868?p=1&pos=22&rgn=51702&cid=24363&ckey=internship&jobAge=117&brelb=100&scr=9.988343&bscr=9.988343&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b86fbe1515fc",
-   "title": "Management Trainee",
-   "company": "Enterprise",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/188901469764118821?ckey=graduate+trainee&rgn=23835&pos=14&groupId=1554704779&elckey=444686542484291329&p=1&aq=6592219214327681897&cid=24363&jobAge=117&brelb=110&bscr=201.44102&scr=201.44102",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b64ef56bacb9",
-   "title": "Entry Level Insurance Sales",
-   "company": "Bankers Life",
-   "location": "Whitmore Lake, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-3349943299901850371?p=1&pos=29&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=64.54925&bscr=64.54925&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ee68b800fac7",
-   "title": "Full-Time Store Manager Trainee",
-   "company": "The Salvation Army USA Central Territory",
-   "location": "Brighton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/32144253633480394?p=1&pos=31&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=63.878586&bscr=63.878586&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ae9d4071e48e",
-   "title": "Management Trainee - Greentech Renewables - Non Exempt - DIV",
-   "company": "Consolidated Electrical Distributors",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/2046689854337872062?p=1&pos=40&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=57.106842&bscr=57.106842&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c4fddadb1a65",
-   "title": "Full-Time Store Manager Trainee",
-   "company": "Gamma Phi Omega International",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/1048725100997925519?p=2&pos=70&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=44.491535&bscr=44.491535&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "857df0e57e9e",
-   "title": "Manager Trainee",
-   "company": "Farmers Insurance Group",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-3106306755173736314?p=2&pos=71&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=43.87903&bscr=43.87903&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f56eb7ae839f",
-   "title": "Dental Hygienist",
-   "company": "Adzuna",
-   "location": "Milan, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-7506259811629453714?p=2&pos=81&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=42.640648&bscr=42.640648&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-13",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f06345837491",
-   "title": "Management Trainee Program",
-   "company": "Buckle LLC",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-5038990277017111195?p=2&pos=89&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=117&brelb=10&scr=40.529686&bscr=40.529686&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
   },
@@ -1928,7 +344,7 @@
    "company": "Genpact",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
@@ -1955,38 +371,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "810404a97221",
-   "title": "Medical Optometrist Opportunity OD/MD Practice",
-   "company": "Eye Care Partners",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/8246372941582494318?ckey=graduate+trainee&rgn=23835&pos=79&groupId=1554704779&elckey=444686542484291329&p=2&aq=7418984224548068488&cid=24363&jobAge=141&brelb=100&bscr=42.880783&scr=42.880783",
-   "source": "jooble",
-   "posted_at": "2026-11-12",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f2db33d75945",
-   "title": "Dental hygienist",
-   "company": "Lakeview Dental",
-   "location": "Whitmore Lake, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/8084025515435447951?p=2&pos=92&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=141&brelb=10&scr=40.345364&bscr=40.345364&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-12",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c2159f4bc1d2",
    "title": "Entry Level - Day Analysis - Level 1",
    "company": "Coronis Ajuba",
@@ -1994,9 +378,9 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Other",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5963065845?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -2024,7 +408,7 @@
    "company": "TekMindz",
    "location": "Ator Nagla, Ghaziabad, India",
    "cities": [
-    "Noida"
+    "Other India"
    ],
    "role": "Software Engineering",
    "level": "Fresher",
@@ -2163,30 +547,14 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "5df983b8764a",
-   "title": "CDL-A Flatbed Truck Driver - Earn Up to $100k/Year + No Exp. Needed",
-   "company": "Western Express, Inc.",
-   "location": "Ypsilanti, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-5283914846867141289?p=2&pos=59&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=189&brelb=110&scr=48.712242&bscr=48.712242&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "9b25eb0969da",
    "title": "Content Developer (Entry Level)",
    "company": "MasterTech Web Applications",
    "location": "Thane, Maharashtra, India",
    "cities": [
-    "Other India"
+    "Mumbai"
    ],
-   "role": "Software Engineering",
+   "role": "Content & Communications",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960294108?utm_medium=api&utm_source=fe7c6c25",
@@ -2208,22 +576,6 @@
    "url": "https://www.adzuna.in/details/5960018885?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5d19092b77ea",
-   "title": "2027 Sales Intern",
-   "company": "The Atchison Group Inc.",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/6497099601934992124?p=2&pos=87&rgn=23835&cid=24363&ckey=internship&jobAge=237&brelb=110&scr=53.187645&bscr=53.187645&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-08",
    "first_seen": "2026-11-18"
   },
   {
@@ -2250,44 +602,12 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Software Engineering",
+   "role": "Other",
    "level": "Internship",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5955047448?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ad6a2753add6",
-   "title": "Systems Engineer Intern - Summer 2027 - Canton, MS",
-   "company": "Nissan",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-65936645839203369?p=1&pos=25&rgn=23835&cid=24363&ckey=internship&jobAge=309&brelb=15&scr=92.741486&bscr=92.741486&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-05",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "fc3edbbac102",
-   "title": "Trim & Chassis Manufacturing Engineering Intern - Summer 2027 - Canton, MS",
-   "company": "Nissan",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6072480258802162189?p=2&pos=83&rgn=23835&cid=24363&ckey=internship&jobAge=309&brelb=15&scr=53.775772&bscr=53.775772&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
   },
   {
@@ -2300,7 +620,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5954458406?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
@@ -2367,138 +687,26 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5953183038?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
   {
-   "id": "c16cec7824a0",
-   "title": "CDL-A Truck Driver - Start at 52-69 CPM Base - No Touch + Sign-On",
-   "company": "Paschall Truck Lines",
-   "location": "Ypsilanti, MI, India",
+   "id": "f5335d2d144c",
+   "title": "Multiple opportunities for Software fresher s Hyderabad",
+   "company": "MAK",
+   "location": "Hyderabad, Telangana, India",
    "cities": [
-    "Other India"
+    "Hyderabad"
    ],
-   "role": "Other",
+   "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jooble.org/away/-6717087484946216899?p=1&pos=27&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=357&brelb=110&scr=72.41887&bscr=72.41887&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ab724d7eaa0d",
-   "title": "Truck Driver Recent Grads Accepted CDL Class A 1500 per week",
-   "company": "Overhaul Carriers",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6900611293758792791?p=2&pos=53&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=357&brelb=110&scr=50.83121&bscr=50.83121&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-11-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f406ffd51bf9",
-   "title": "CA Fresher - Mumbai",
-   "company": "CSC",
-   "location": "Mumbai, Maharashtra, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5951619994?utm_medium=api&utm_source=fe7c6c25",
+   "url": "https://www.adzuna.in/details/5951141597?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "2b3b09258288",
-   "title": "Structural Engineer Intern, Transmission Line (East Region)",
-   "company": "Black & Veatch Family of Companies",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/7069404562904670682?ckey=internship&rgn=23835&pos=55&groupId=35087&elckey=228626485014539074&p=2&aq=-559481296522686844&cid=24363&jobAge=405&brelb=100&bscr=63.799377&scr=63.799377",
-   "source": "jooble",
-   "posted_at": "2026-11-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c18cb05b59f7",
-   "title": "Mail Handler",
-   "company": "Postal Jobs Placement Service",
-   "location": "Indore, WV, India",
-   "cities": [
-    "Indore"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-298184390687969775?ckey=internship&rgn=51702&pos=4&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=405&brelb=10&bscr=21.710102&scr=21.710102",
-   "source": "jooble",
-   "posted_at": "2026-11-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "35d2fb167686",
-   "title": "Mail Processor",
-   "company": "Postal Jobs Placement Service",
-   "location": "Indore, WV, India",
-   "cities": [
-    "Indore"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/desc/-7147875950812268159?ckey=internship&rgn=51702&pos=7&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=405&brelb=10&bscr=19.373634&scr=19.373634",
-   "source": "jooble",
-   "posted_at": "2026-11-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "698bda388ec9",
-   "title": "911 Call Taker",
-   "company": "Regional 911 Intake Solutions",
-   "location": "Bickmore, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/7044194098962078155?ckey=internship&rgn=51702&pos=10&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=405&brelb=10&bscr=18.41668&scr=18.41668",
-   "source": "jooble",
-   "posted_at": "2026-11-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bc490cacd561",
-   "title": "Mail Carrier - Rural Assistant - No Experience Required",
-   "company": "Postal Jobs Placement Service",
-   "location": "Procious, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/desc/-5180494214234511292?ckey=internship&rgn=51702&pos=26&groupId=35087&elckey=-723680296961839204&p=1&aq=5465506082918831777&cid=24363&jobAge=405&brelb=10&bscr=8.099658&scr=8.099658",
-   "source": "jooble",
-   "posted_at": "2026-11-01",
    "first_seen": "2026-11-18"
   },
   {
@@ -2539,11 +747,11 @@
    "company": "Valeo",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5948200460?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-31",
@@ -2573,7 +781,7 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Product",
+   "role": "Operations & Supply Chain",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff",
@@ -2582,48 +790,16 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "24dbda212a3b",
-   "title": "Sales Internship",
-   "company": "M Genio Inc",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-7492542671601041787?p=2&pos=77&rgn=23835&cid=24363&ckey=internship&jobAge=453&brelb=110&scr=55.318817&bscr=55.318817&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-10-30",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6aa97f46d34a",
-   "title": "Management Trainee Sales",
-   "company": "Goldfish Swim School",
-   "location": "Canton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-5402766791369446785?p=1&pos=35&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=477&brelb=110&scr=58.93657&bscr=58.93657&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-10-29",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "942d8df02f8f",
    "title": "Apprentice",
    "company": "AtkinsRéalis",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
-   "role": "Design",
+   "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5945933851?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-29",
@@ -2662,6 +838,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "cbfe1945806a",
+   "title": "Scriptwriter (YouTube)",
+   "company": "Headout",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/headout/742de92e-9068-480b-81fc-8e65dafbb135",
+   "source": "ashby",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "c891bdfb69ba",
    "title": "Entry Marketing Analyst",
    "company": "CDM Smith",
@@ -2673,38 +865,6 @@
    "level": "Fresher",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5944172332?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "acaa1c84fa57",
-   "title": "Data Entry operator",
-   "company": "Happiest Resume",
-   "location": "Jhajjar, Haryana, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943907316?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "143bfe4bbbc7",
-   "title": "Data Entry operator",
-   "company": "Happiest Resume",
-   "location": "Agra, Uttar Pradesh, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943907374?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
@@ -2742,22 +902,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "a55bbe1ec661",
-   "title": "Data Entry / Computer Operator",
-   "company": "Sisco Jobs",
-   "location": "Srirangam, Tiruchirappalli, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5943126920?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c2b367f0625f",
    "title": "IN_Bosch Rexroth India_Engineer - Testing",
    "company": "Bosch Group",
@@ -2770,22 +914,6 @@
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157722162",
    "source": "smartrecruiters",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0e4a53252417",
-   "title": "Data Entry",
-   "company": "Homly",
-   "location": "India, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942168329?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
    "posted_at": "2026-10-26",
    "first_seen": "2026-11-18"
   },
@@ -2806,22 +934,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "6c4e6e075ef9",
-   "title": "Graduate Civil Engineer (Hiring May 2027) - Southern Michigan",
-   "company": "OHM Advisors",
-   "location": "Ann Arbor, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/8696580897852660188?p=2&pos=51&rgn=23835&cid=24363&ckey=internship&jobAge=573&brelb=110&scr=66.57786&bscr=66.57786&aq=-559481296522686844&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-10-25",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "3445efab3e3a",
    "title": "Accounts Fresher For Steel Industry - Raipur , Chhattisgarh",
    "company": "Vinayak Outsourcing Works",
@@ -2835,54 +947,6 @@
    "url": "https://www.adzuna.in/details/5941576633?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-25",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d19761dd9ada",
-   "title": "2026-2027 Internship - Civil Engineering & Land Survey",
-   "company": "Metro Consulting Associates LLC",
-   "location": "Plymouth, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/3717223135968831108?p=1&pos=31&rgn=23835&cid=24363&ckey=internship&jobAge=597&brelb=110&scr=82.42601&bscr=82.42601&aq=8398675466785148958&elckey=228626485014539074",
-   "source": "jooble",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "be3ecde5ab9f",
-   "title": "Entry Level Truck Driver Class A",
-   "company": "10-4 Logistics USA",
-   "location": "Wallback, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-6598291048587956862?p=1&pos=11&rgn=51702&cid=24363&ckey=internship&jobAge=597&brelb=110&scr=16.996986&bscr=16.996986&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0cf823ef1343",
-   "title": "Machining Trainee - Second Shift 2:00pm-10:00pm",
-   "company": "Dexter Fastener Technologies",
-   "location": "Dexter, Livingston County, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-2657652241864771127?p=2&pos=100&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=597&brelb=110&scr=38.880688&bscr=38.880688&aq=7418984224548068488&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-10-24",
    "first_seen": "2026-11-18"
   },
   {
@@ -2907,11 +971,11 @@
    "company": "Capita",
    "location": "India, India",
    "cities": [
-    "Remote"
+    "Other India"
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5940640477?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -2934,51 +998,19 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "d89de178fb01",
-   "title": "CDL A Regional Truck Driver - New CDL Graduates Welcome",
-   "company": "Beast Mode Truckin",
-   "location": "Ann Arbor, MI, India",
+   "id": "9db07d10acda",
+   "title": "Software Engineer - Systems and Reliablity",
+   "company": "Smallest",
+   "location": "Bengaluru",
    "cities": [
-    "Other India"
+    "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jooble.org/away/-452066800283504495?p=1&pos=10&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=621&brelb=110&scr=254.2528&bscr=254.2528&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-10-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "56fdbb19b4ba",
-   "title": "Data Entry Operator",
-   "company": "Happiest Resume",
-   "location": "Patna, Bihar, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5938549847?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "48c71fd21bd7",
-   "title": "Data Entry operator",
-   "company": "Happiest Resume",
-   "location": "Jaipur, Rajasthan, India",
-   "cities": [
-    "Jaipur"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5938549887?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-23",
+   "url": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b",
+   "source": "ashby",
+   "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
@@ -2995,22 +1027,6 @@
    "url": "https://www.adzuna.in/details/5938159322?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-22",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ef452520a920",
-   "title": "Electrical Field Service Technician - Industrial Automation & Controls",
-   "company": "Express Employment Professionals - Monroe",
-   "location": "Brighton, MI, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Hardware & Electronics",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jooble.org/away/-1192366048407465537?p=1&pos=19&rgn=23835&cid=24363&ckey=graduate+trainee&jobAge=669&brelb=110&scr=88.47653&bscr=88.47653&aq=6592219214327681897&elckey=444686542484291329",
-   "source": "jooble",
-   "posted_at": "2026-10-21",
    "first_seen": "2026-11-18"
   },
   {
@@ -3085,9 +1101,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Other",
+   "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5934355925?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-19",
@@ -3103,7 +1119,7 @@
    ],
    "role": "AI / ML",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5933728565?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-19",
@@ -3115,11 +1131,26 @@
    "company": "Binance",
    "location": "Hong Kong; India; Malaysia; Taiwan; United Arab Emirates",
    "cities": [
-    "Remote"
+    "Bengaluru",
+    "Mumbai",
+    "Delhi",
+    "Gurugram",
+    "Noida",
+    "Hyderabad",
+    "Pune",
+    "Chennai",
+    "Kolkata",
+    "Ahmedabad",
+    "Jaipur",
+    "Kochi",
+    "Chandigarh",
+    "Indore",
+    "Coimbatore",
+    "Thiruvananthapuram"
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002743101",
    "source": "greenhouse",
    "posted_at": "2026-10-14",
@@ -3142,18 +1173,18 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "c68cfe0f70b4",
-   "title": "Postal Mail Handler - Glen Ferris",
-   "company": "Postal Jobs Source",
-   "location": "Glen Ferris, WV, India",
+   "id": "73615b3dc644",
+   "title": "Finance Content Creator",
+   "company": "Groww",
+   "location": "Bengaluru, India",
    "cities": [
-    "Other India"
+    "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Content & Communications",
    "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-3410790576424969438?p=1&pos=13&rgn=51702&cid=24363&ckey=internship&jobAge=957&brelb=10&scr=15.424038&bscr=15.424038&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
+   "confidence": 0.9,
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5000706101",
+   "source": "greenhouse",
    "posted_at": "2026-10-09",
    "first_seen": "2026-11-18"
   },
@@ -3264,11 +1295,27 @@
     "Bengaluru"
    ],
    "role": "Content & Communications",
-   "level": "Early career",
+   "level": "Fresher",
    "confidence": 0.9,
    "url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74",
    "source": "lever",
    "posted_at": "2026-09-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "05e1b929d62a",
+   "title": "Frontend Developer",
+   "company": "Headout",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/headout/15c88403-d576-4245-83c6-b62d7d351278",
+   "source": "ashby",
+   "posted_at": "2026-09-14",
    "first_seen": "2026-11-18"
   },
   {
@@ -3384,22 +1431,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "ce436472ec33",
-   "title": "CST - Associate - Bill Payments CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [
-    "Noida"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/271d28ce-e61c-4216-b7d4-adddd79eefa6",
-   "source": "lever",
-   "posted_at": "2026-08-18",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "b13daaf5fac8",
    "title": "Industrial Trainee - Finance & Accounting",
    "company": "Sigmoid",
@@ -3429,38 +1460,6 @@
    "url": "https://job-boards.greenhouse.io/agoda/jobs/7995117",
    "source": "greenhouse",
    "posted_at": "2026-08-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "69793fffafea",
-   "title": "CST - Associate - Email CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [
-    "Noida"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/715e52dd-0a51-4ff7-be68-855112e56b99",
-   "source": "lever",
-   "posted_at": "2026-08-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "9ffa552a7af9",
-   "title": "CST - Associate - Social CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [
-    "Noida"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/84ffd393-c82b-484c-9a88-9f9ddef1b720",
-   "source": "lever",
-   "posted_at": "2026-08-03",
    "first_seen": "2026-11-18"
   },
   {
@@ -3528,19 +1527,19 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "d31bca156912",
-   "title": "Postal Clerk - Gauley Bridge",
-   "company": "Postal Jobs Source (a division of Labor Services)",
-   "location": "Gauley Bridge, WV, India",
+   "id": "4fb0e058df41",
+   "title": "Associate - Content (Digest)",
+   "company": "Groww",
+   "location": "Bengaluru-VTP, India",
    "cities": [
-    "Other India"
+    "Bengaluru"
    ],
-   "role": "Other",
+   "role": "Content & Communications",
    "level": "Fresher",
    "confidence": 0.8,
-   "url": "https://jooble.org/away/-48660506305892731?p=1&pos=14&rgn=51702&cid=24363&ckey=internship&jobAge=3213&brelb=10&scr=15.424038&bscr=15.424038&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-07-07",
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/4880153101",
+   "source": "greenhouse",
+   "posted_at": "2026-06-03",
    "first_seen": "2026-11-18"
   },
   {
@@ -3557,54 +1556,6 @@
    "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
    "source": "lever",
    "posted_at": "2026-05-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bfc0b4175a3e",
-   "title": "CST - Executive/Associate - Paytm Travel (Flights)",
-   "company": "Paytm",
-   "location": "Bengaluru, Karnataka",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.lever.co/paytm/74ce5d90-26b5-41b5-81dc-2ba5b862da60",
-   "source": "lever",
-   "posted_at": "2026-04-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "587db068fdaf",
-   "title": "Mail Processor - No Experience Required",
-   "company": "Postal Jobs Resource",
-   "location": "Bickmore, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/6502443031720128714?p=1&pos=2&rgn=51702&cid=24363&ckey=internship&jobAge=5661&brelb=100&scr=23.52568&bscr=23.52568&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-03-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "210708475780",
-   "title": "Mail Carrier - Rural Assistant - No Experience Required",
-   "company": "Postal Jobs Resource",
-   "location": "Bickmore, WV, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jooble.org/away/-6303961642428825020?p=1&pos=8&rgn=51702&cid=24363&ckey=internship&jobAge=5661&brelb=100&scr=19.21248&bscr=19.21248&aq=5465506082918831777&elckey=-723680296961839204",
-   "source": "jooble",
-   "posted_at": "2026-03-27",
    "first_seen": "2026-11-18"
   },
   {
