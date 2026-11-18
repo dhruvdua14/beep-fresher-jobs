@@ -109,11 +109,19 @@ it was wrong. That's why the 50-post eval matters.
 with two trailing newlines.
 **Fix:** `.strip()` every key read from the environment.
 
-### 12. After fixing precision, only 125 real fresher posts were left
-**What happened:** With honest tagging, Bosch dropped from 153 to 0, and the total fell
-to 125. 88 of those came from Adzuna, whose free plan only allows 25 calls in total.
-**Fix:** (1) Added The Muse's public API, which can filter by Indian city *and* by
-"Entry Level"/"Internship", so every post it returns is already a candidate.
-(2) An Adzuna archive: each post Adzuna returns is kept and listed until it's 30 days
-old, so 2 calls a day keep adding up instead of being thrown away. The queries rotate
-daily for variety. I chose fewer, honest listings over padding the count with mislabelled ones.
+### 12. After fixing precision, only 88–125 real 0–1 year posts were left
+**What happened:** With honest tagging, Bosch dropped from 153 to 0 and the total fell
+below 200. Most of the rest came from Adzuna, whose free plan only allows 25 calls in total.
+**What I tried:** The Muse's public API, which filters by Indian city and "Entry Level".
+It returned `403` from GitHub's servers (it blocks datacenter IPs), so I removed it again.
+**What I did instead:**
+1. **Added a third level, "Early career (up to 2 yrs)", next to Internship and Fresher.**
+   The LLM was throwing away posts asking for "1–2 years", which a strong final-year
+   student can still apply to. Rather than quietly stretching the meaning of "fresher",
+   the site labels it and lets students filter it out. The experience regex was rewritten
+   too: it reads the *minimum* years asked ("1–2 years" means 1, "2+ years" means 2) and only
+   counts numbers next to "experience", so "founded 25 years ago" no longer counts.
+2. **Adzuna archive:** each post Adzuna returns is kept and listed until it's 30 days
+   old, so 2 calls a day add up instead of being thrown away. The queries rotate daily.
+
+I chose fewer, honest, clearly labelled listings over padding the count with mislabelled ones.

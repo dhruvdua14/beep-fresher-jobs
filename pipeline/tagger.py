@@ -4,7 +4,7 @@ LLM tagging with Google Gemini (free tier).
 For each post the model returns:
     role        exactly one value from config.ROLES
     cities      one or more values from config.CITIES
-    level       "Internship" | "Fresher" | "Not fresher"   (second filter gate)
+    level       "Internship" | "Fresher" | "Early career" | "Not fresher"   (second filter gate)
     confidence  0.0 - 1.0, the model's own certainty
 
 Three things keep this cheap and reliable:
@@ -27,7 +27,7 @@ import config
 
 # Bump this whenever the prompt or the input format changes: cached tags made
 # with an older version are thrown away and those posts are tagged again.
-PROMPT_VERSION = 2
+PROMPT_VERSION = 3
 
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -50,12 +50,16 @@ For EACH post, return:
   New Delhi -> Delhi, Bombay -> Mumbai, Trivandrum -> Thiruvananthapuram,
   Cochin -> Kochi. If the job is fully remote in India use "Remote". An Indian city
   that is not in the list is "Other India".
-- "level": "Internship" if it is an internship / trainee / apprenticeship;
-  "Fresher" only if a new graduate with 0-1 years of experience can clearly apply:
-  the post says fresher / new grad / entry level / campus / 0-1 years, or the title is
-  junior-level (Associate, Junior, Engineer I, SDE 1, Analyst, Trainee);
-  otherwise "Not fresher". This includes posts that ask for 1+ or 2+ years, senior or
-  lead roles, and generic titles with no entry-level signal. When unsure, say "Not fresher":
+- "level":
+  "Internship" if it is an internship / trainee / apprenticeship.
+  "Fresher" if a new graduate with no experience can clearly apply: the post says
+  fresher / new grad / entry level / campus / 0-1 years, or the title is junior-level
+  (Associate, Junior, Engineer I, SDE 1, Graduate, Trainee).
+  "Early career" if it asks for at most 1-2 years (e.g. "1+ years", "1-2 years",
+  "0-2 years"), or it is clearly a junior individual-contributor role with no stated
+  requirement. A strong final-year student could still be considered.
+  "Not fresher" if it asks for 2+ years minimum, or is a senior / lead / manager /
+  specialist role. When unsure between Early career and Not fresher, say "Not fresher":
   a student wasting time on a job they can't get is worse than missing one.
 - "confidence": a number 0 to 1 for how sure you are about role AND cities together.
 

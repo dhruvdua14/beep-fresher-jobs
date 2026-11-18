@@ -8,7 +8,9 @@
 */
 
 const PAGE = 40;                       // rows rendered per "Show more"
-const LEVEL_ORDER = ["Internship", "Fresher"];
+const LEVEL_ORDER = ["Internship", "Fresher", "Early career"];
+// shown in the Type filter so students know what each level means
+const LEVEL_LABEL = { Internship: "Internship", Fresher: "Fresher (0–1 yr)", "Early career": "Early career (up to 2 yrs)" };
 
 // Typing "bangalore" should find "Bengaluru", and so on.
 const ALIASES = {
@@ -133,7 +135,8 @@ function renderFacet(elId, key, counts, order) {
     `<li><button type="button" data-key="${key}" data-value="${esc(value)}"
       aria-pressed="${state[key] === value}" ${n === 0 ? "disabled" : ""}>
       <span>${esc(label)}</span><span class="n">${n}</span></button></li>`;
-  $(elId).innerHTML = item("", "All", total) + names.map((n) => item(n, n, counts.get(n) || 0)).join("");
+  const label = (n) => (key === "level" && LEVEL_LABEL[n]) || n;
+  $(elId).innerHTML = item("", "All", total) + names.map((n) => item(n, label(n), counts.get(n) || 0)).join("");
 }
 
 // ------------------------------------------------------------- events

@@ -231,36 +231,6 @@ def fetch_recruitee(slug):
     return posts
 
 
-# ---------------------------------------------------------------- The Muse
-# Public API, no key needed for light use: https://www.themuse.com/developers/api/v2
-# It can filter by city AND level, so we ask directly for entry-level/intern jobs.
-
-def fetch_themuse():
-    posts = []
-    params = [("location", c) for c in config.MUSE_LOCATIONS] + \
-             [("level", "Entry Level"), ("level", "Internship")]
-    for page in range(config.MUSE_MAX_PAGES):
-        data = get_json("https://www.themuse.com/api/public/jobs", params=params + [("page", page)])
-        results = (data or {}).get("results") or []
-        for j in results:
-            locs = [l.get("name", "") for l in j.get("locations") or []]
-            levels = [l.get("name", "") for l in j.get("levels") or []]
-            posts.append({
-                "source": "themuse",
-                "company": (j.get("company") or {}).get("name", "Unknown"),
-                "title": (j.get("name") or "").strip(),
-                "location": " / ".join(locs),
-                "url": (j.get("refs") or {}).get("landing_page"),
-                "description": clean_html(j.get("contents")),
-                "posted_at": iso_date(j.get("publication_date")),
-                "hint_level": "internship" if "Internship" in levels else None,
-            })
-        if not results or page + 1 >= (data or {}).get("page_count", 0):
-            break
-        time.sleep(0.5)
-    return posts
-
-
 # ---------------------------------------------------------------- Adzuna (India, optional)
 # Docs: https://developer.adzuna.com  (free key; their terms ask for attribution,
 # which is in the site footer)
@@ -341,9 +311,6 @@ def fetch_all():
             live_boards[f"{fn.__name__.replace('fetch_', '')}:{slug}"] = len(found)
             posts.extend(found)
 
-    muse = fetch_themuse()
-    live_boards["themuse"] = len(muse)
-    posts.extend(muse)
     posts.extend(fetch_adzuna())
 
     counts = {}

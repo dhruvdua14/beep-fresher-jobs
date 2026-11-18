@@ -51,8 +51,18 @@ FRESHER_TEXT = re.compile(
     r"\b(class of|batch of|graduating in)\s*20(2[5-8])|\b20(2[5-8])\s*(batch|graduates|pass[- ]?outs?))",
     re.I)
 
-# Description demands 2+ years: not a fresher job.
-NEEDS_EXPERIENCE = re.compile(r"\b([2-9]|1[0-9])\s*\+?\s*(-|to|–)?\s*\d*\s*\+?\s*(years|yrs)", re.I)
+# "2+ years of experience", "1-2 yrs experience", "experience: 3 to 5 years"...
+EXP_AFTER = re.compile(
+    r"(\d{1,2})(?:\s*(?:-|–|to)\s*\d{1,2})?\s*\+?\s*(?:years?|yrs?)\b[^.\n]{0,40}?\b(?:experience|exp|work)", re.I)
+EXP_BEFORE = re.compile(
+    r"\b(?:experience|exp)\b[^.\n]{0,30}?(\d{1,2})(?:\s*(?:-|–|to)\s*\d{1,2})?\s*\+?\s*(?:years?|yrs?)\b", re.I)
+
+
+def min_years(text):
+    """Smallest 'years of experience' the post asks for, or None if it never says."""
+    found = [int(m.group(1)) for r in (EXP_AFTER, EXP_BEFORE) for m in r.finditer(text or "")]
+    found = [n for n in found if n <= 15]  # ignore "founded 25 years ago" style numbers
+    return min(found) if found else None
 
 
 def fresher_reason(post):
@@ -68,13 +78,13 @@ def fresher_reason(post):
     if SENIOR_TITLE.search(title):
         return None
     if JUNIOR_TITLE.search(title):
-        return None if NEEDS_EXPERIENCE.search(desc) and not FRESHER_TEXT.search(desc) else "title:junior"
+        return None if (min_years(desc) or 0) >= 2 and not FRESHER_TEXT.search(desc) else "title:junior"
     if FRESHER_TEXT.search(desc):
         return "description:0-1yrs"
     if post.get("hint_level"):
         return f"platform:{post['hint_level']}"
-    if NEEDS_EXPERIENCE.search(desc):
-        return None
+    if (min_years(desc) or 0) >= 2:
+        return None  # asks for 2+ years: not for freshers
     # Not senior, but no clear entry-level signal either (e.g. "Software Engineer"
     # with no experience mentioned). Rules can't decide, so the LLM does.
     return "unclear:ask-llm"
