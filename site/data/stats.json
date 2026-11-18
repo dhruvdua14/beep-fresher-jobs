@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:28+05:30",
+ "updated_at": "2026-11-18T09:32+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,24 +8,24 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:28",
-  "fetched": 9845,
+  "time": "09:32",
+  "fetched": 9847,
   "india": 2460,
   "fresher_rules": 430,
   "exact_dupes": 55,
   "fuzzy_dupes": 4,
   "rejected_by_llm": 274,
   "published": 97,
-  "newly_tagged": 371,
-  "from_cache": 0,
-  "llm_calls": 10,
-  "input_tokens": 66844,
-  "output_tokens": 16029,
-  "cost_usd": 0.040754,
-  "model": "gemini-3.1-flash-lite",
+  "newly_tagged": 0,
+  "from_cache": 371,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
   "boards": 81,
   "by_source": {
-   "greenhouse": 7312,
+   "greenhouse": 7314,
    "lever": 761,
    "ashby": 678,
    "smartrecruiters": 993
@@ -518,6 +518,31 @@
    "boards": 81,
    "by_source": {
     "greenhouse": 7312,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:32",
+   "fetched": 9847,
+   "india": 2460,
+   "fresher_rules": 430,
+   "exact_dupes": 55,
+   "fuzzy_dupes": 4,
+   "rejected_by_llm": 274,
+   "published": 97,
+   "newly_tagged": 0,
+   "from_cache": 371,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": null,
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7314,
     "lever": 761,
     "ashby": 678,
     "smartrecruiters": 993

@@ -251,5 +251,30 @@
    "ashby": 678,
    "smartrecruiters": 993
   }
+ },
+ {
+  "date": "2026-11-18",
+  "time": "09:32",
+  "fetched": 9847,
+  "india": 2460,
+  "fresher_rules": 430,
+  "exact_dupes": 55,
+  "fuzzy_dupes": 4,
+  "rejected_by_llm": 274,
+  "published": 97,
+  "newly_tagged": 0,
+  "from_cache": 371,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
+  "boards": 81,
+  "by_source": {
+   "greenhouse": 7314,
+   "lever": 761,
+   "ashby": 678,
+   "smartrecruiters": 993
+  }
  }
 ]
