@@ -118,6 +118,8 @@ JOOBLE_CITIES = ["Bengaluru", "Hyderabad", "Pune", "Mumbai", "Chennai", "Delhi",
                  "Gurugram", "Kolkata", "Ahmedabad", "Jaipur", "Kochi", "Chandigarh", "Indore"]
 JOOBLE_PAGES_PER_QUERY = 2
 
+CAREERJET_QUERIES = ["fresher", "internship"]
+
 # Adzuna India: OPTIONAL. Full API access needs a card on file, so the pipeline
 # runs fine without it and only uses it if ADZUNA_APP_ID/KEY secrets exist.
 # The free test plan allows only 25 calls IN TOTAL, so we spend at most 2 per run.

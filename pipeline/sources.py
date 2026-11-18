@@ -256,6 +256,8 @@ def fetch_jooble():
                 results = r.json().get("jobs") or []
             except Exception as e:
                 print(f"   ! jooble '{q}' in {city} p{page} failed: {e}")
+                if "403" in str(e):
+                    return posts  # key not valid for Jooble India: no point retrying
                 break
             for j in results:
                 loc = j.get("location") or ""
@@ -274,6 +276,38 @@ def fetch_jooble():
                 })
             if not results:
                 break
+            time.sleep(0.5)
+    return posts
+
+
+# ---------------------------------------------------------------- Careerjet (India)
+# Careerjet's public search API for publishers: https://www.careerjet.co.in/partners/api/
+# en_IN = Careerjet India. CAREERJET_AFFID (free publisher id) is sent if set.
+
+def fetch_careerjet():
+    posts = []
+    affid = (os.getenv("CAREERJET_AFFID") or "").strip()
+    for q in config.CAREERJET_QUERIES:
+        for city in config.JOOBLE_CITIES:
+            data = get_json("http://public.api.careerjet.net/search", params={
+                "locale_code": "en_IN", "keywords": q, "location": city, "page": 1,
+                "pagesize": 99, "sort": "date", "affid": affid,
+                "user_ip": "127.0.0.1", "user_agent": HEADERS["User-Agent"]})
+            if not data or data.get("type") != "JOBS":
+                if data:
+                    print(f"   ! careerjet '{q}' in {city}: {str(data)[:150]}")
+                    return posts  # same answer for every query: stop early
+                continue
+            for j in data.get("jobs") or []:
+                posts.append({
+                    "source": "careerjet",
+                    "company": (j.get("company") or "Unknown").strip(),
+                    "title": clean_html(j.get("title")),
+                    "location": j.get("locations") or "",
+                    "url": j.get("url"),
+                    "description": f"[Matched the job-board search '{q}'.] " + clean_html(j.get("description")),
+                    "posted_at": None,
+                })
             time.sleep(0.5)
     return posts
 
@@ -369,6 +403,7 @@ def fetch_all():
             posts.extend(found)
 
     posts.extend(fetch_jooble())
+    posts.extend(fetch_careerjet())
     posts.extend(fetch_adzuna())
 
     counts = {}

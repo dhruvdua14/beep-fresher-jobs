@@ -33,6 +33,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+          CAREERJET_AFFID: ${{ secrets.CAREERJET_AFFID }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID || secrets.APPLICATION_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY || secrets.APPLICATION_KEYS }}
       - name: Commit the new data
