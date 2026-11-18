@@ -102,10 +102,10 @@ def main():
     # A post the rules couldn't decide on is only listed once the LLM says it's
     # entry-level. Clear entry-level posts are listed even if tagging failed.
     def listed(p):
-        if p["level"] in ("Not fresher", "Not a job"):
+        if p["level"] in ("Not fresher", "Not a job") or "Not in India" in (p["cities"] or []):
             return False
         return not (p["level"] == "Unknown" and p["why_fresher"].startswith("unclear"))
-    rejected_by_llm = [p for p in unique if p["level"] in ("Not fresher", "Not a job")]
+    rejected_by_llm = [p for p in unique if not listed(p) and p["level"] != "Unknown"]
     jobs = [p for p in unique if listed(p)]
 
     # Remember when we first saw each post, for the "New" marker.

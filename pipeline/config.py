@@ -156,6 +156,7 @@ CITIES = [
     "Bengaluru", "Mumbai", "Delhi", "Gurugram", "Noida", "Hyderabad", "Pune",
     "Chennai", "Kolkata", "Ahmedabad", "Jaipur", "Kochi", "Chandigarh",
     "Indore", "Coimbatore", "Thiruvananthapuram", "Remote", "Other India",
+    "Not in India",   # safety net: such posts are dropped
 ]
 
 LEVELS = ["Internship", "Fresher", "Early career", "Not fresher", "Not a job"]

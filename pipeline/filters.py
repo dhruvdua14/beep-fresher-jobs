@@ -17,7 +17,8 @@ INDIA_WORDS = [
     "chandigarh", "mohali", "indore", "coimbatore", "thiruvananthapuram",
     "trivandrum", "lucknow", "bhubaneswar", "nagpur", "vadodara", "surat",
     "mysuru", "mysore", "mangaluru", "visakhapatnam", "goa", "karnataka",
-    "maharashtra", "telangana", "tamil nadu", "haryana", "uttar pradesh",
+    "maharashtra", "telangana", "tamil nadu", "haryana", "uttar pradesh", "gujarat",
+    "rajasthan", "kerala", "punjab", "west bengal", "odisha", "madhya pradesh", "andhra pradesh",
 ]
 INDIA_RE = re.compile(r"\b(" + "|".join(INDIA_WORDS) + r")\b", re.I)
 

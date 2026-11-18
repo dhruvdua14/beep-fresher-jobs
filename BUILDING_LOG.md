@@ -144,3 +144,16 @@ Not fresher" rule, rejected them, even though Jooble had found them by searching
 India-wide search is dominated by Bengaluru. (2) Tell the LLM which search matched
 the post ("Matched the job-board search 'fresher'"). That's real evidence, and the prompt
 now says it counts unless the post asks for more experience.
+
+### 15. My own code labelled Michigan jobs as Indian
+**What happened:** After the Jooble change the count jumped to 226, but 135 posts had the
+city "Other India". Reading them: "Ann Arbor, MI, India", "Wildland Firefighter, USDA".
+**Why:** Two bugs stacked. (1) The plain `jooble.org/api` endpoint searches Jooble's **US**
+site; India is `in.jooble.org`. (2) Since Jooble locations are often just a city, I'd
+appended ", India" to every location *before* the India filter ran, so the filter could
+never reject them. The LLM didn't catch it either: city had to be an Indian value, so
+it picked "Other India".
+**Fix:** Use `in.jooble.org`; never modify a source's location before filtering; add
+"Not in India" as an allowed city answer so the LLM has a way to say so, and drop those posts.
+**Lesson:** Constrained output (enums) is great, but the model needs an escape hatch,
+or it's forced to pick a wrong answer.

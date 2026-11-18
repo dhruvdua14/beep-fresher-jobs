@@ -247,7 +247,9 @@ def fetch_jooble():
     for q, city in searches:
         for page in range(1, config.JOOBLE_PAGES_PER_QUERY + 1):
             try:
-                r = requests.post(f"https://jooble.org/api/{key}", headers=HEADERS, timeout=TIMEOUT,
+                # in.jooble.org = Jooble's India site. The plain jooble.org endpoint
+                # searches the US site, whatever "location" says (see BUILDING_LOG #15).
+                r = requests.post(f"https://in.jooble.org/api/{key}", headers=HEADERS, timeout=TIMEOUT,
                                   json={"keywords": q, "location": city, "page": str(page),
                                         "ResultOnPage": "50"})
                 r.raise_for_status()
@@ -256,13 +258,14 @@ def fetch_jooble():
                 print(f"   ! jooble '{q}' in {city} p{page} failed: {e}")
                 break
             for j in results:
-                loc = j.get("location") or city
+                loc = j.get("location") or ""
                 posts.append({
                     "source": "jooble",
                     "company": (j.get("company") or "Unknown").strip(),
                     "title": clean_html(j.get("title")),
-                    # Jooble locations are often just a city, so add the country
-                    "location": loc if "india" in loc.lower() else f"{loc}, India",
+                    # Raw location only. Never add ", India" ourselves: the India filter
+                    # must see what the source actually said.
+                    "location": loc,
                     "url": j.get("link"),
                     # Jooble only gives a short snippet. Tell the LLM which search found
                     # the post: a match for "fresher" is real evidence about the level.

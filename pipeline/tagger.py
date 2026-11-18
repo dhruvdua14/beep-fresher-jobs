@@ -27,7 +27,7 @@ import config
 
 # Bump this whenever the prompt or the input format changes: cached tags made
 # with an older version are thrown away and those posts are tagged again.
-PROMPT_VERSION = 5
+PROMPT_VERSION = 6
 
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -49,7 +49,8 @@ For EACH post, return:
   Map spellings to the list: Bangalore -> Bengaluru, Gurgaon -> Gurugram,
   New Delhi -> Delhi, Bombay -> Mumbai, Trivandrum -> Thiruvananthapuram,
   Cochin -> Kochi. If the job is fully remote in India use "Remote". An Indian city
-  that is not in the list is "Other India".
+  that is not in the list is "Other India". If the job is NOT located in India
+  (e.g. a US state like "MI" or "CA", or another country), answer ["Not in India"].
 - "level":
   "Internship" if it is an internship / trainee / apprenticeship.
   "Fresher" if a new graduate with no experience can clearly apply: the post says
