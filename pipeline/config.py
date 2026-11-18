@@ -123,13 +123,18 @@ LEVELS = ["Internship", "Fresher", "Not fresher"]
 # First choice, then fallbacks. Google retires model names over time; if none of
 # these exist the tagger asks the API which models are available and picks a
 # Flash-Lite (cheapest) model by itself, and logs which one it used.
-GEMINI_MODELS = ["gemini-2.5-flash-lite", "gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-flash-latest"]
+GEMINI_MODELS = ["gemini-3.1-flash-lite", "gemini-2.5-flash-lite", "gemini-flash-lite-latest",
+                 "gemini-3.5-flash", "gemini-flash-latest"]
 BATCH_SIZE = 40                     # posts per LLM call (fewer calls = fits the free daily quota)
 SECONDS_BETWEEN_CALLS = 4.5         # free tier allows ~15 requests/minute
 
-# What this model costs on Google's PAID tier, in USD per 1M tokens.
-# We run on the free tier, but we report what it *would* cost at scale.
-# Source: ai.google.dev/gemini-api/docs/pricing
-PRICE_INPUT_PER_M = 0.10
-PRICE_OUTPUT_PER_M = 0.40
+# What each model costs on Google's PAID tier, in USD per 1M tokens (input, output).
+# We run on the free tier (bill = $0), but report what it *would* cost at scale.
+# Source: ai.google.dev/gemini-api/docs/pricing  (checked 18 Nov 2026)
+PRICES = {
+    "gemini-3.1-flash-lite": (0.25, 1.50),
+    "gemini-2.5-flash-lite": (0.10, 0.40),
+    "gemini-3.5-flash": (1.50, 9.00),
+}
+DEFAULT_PRICE = (0.25, 1.50)   # used if the API picked a model not listed above
 USD_TO_INR = 84.0

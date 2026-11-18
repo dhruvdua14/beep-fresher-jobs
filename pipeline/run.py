@@ -22,7 +22,7 @@ import config
 from dedupe import dedupe
 from filters import fresher_reason, is_india
 from sources import fetch_all
-from tagger import cost_usd, tag_posts
+from tagger import cost_usd, price, tag_posts
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data"          # pipeline memory, committed back to the repo
@@ -119,6 +119,7 @@ def main():
         "newly_tagged": usage["tagged"], "from_cache": usage["from_cache"],
         "llm_calls": usage["calls"], "input_tokens": usage["input_tokens"],
         "output_tokens": usage["output_tokens"], "cost_usd": round(run_cost, 6),
+        "model": usage.get("model"),
         "boards": len(live_boards), "by_source": by_source,
     }
     # Which boards answered and how many entry-level India posts each gave.
@@ -136,10 +137,11 @@ def main():
     tot_in = sum(r["input_tokens"] for r in history)
     tot_out = sum(r["output_tokens"] for r in history)
 
+    model = usage.get("model") or next((c.get("model") for c in cache.values()), None)
     save(PUBLIC / "stats.json", {
         "updated_at": now.isoformat(timespec="minutes"),
-        "model": usage.get("model") or next((c.get("model") for c in cache.values()), None),
-        "price": {"input_per_m": config.PRICE_INPUT_PER_M, "output_per_m": config.PRICE_OUTPUT_PER_M,
+        "model": model,
+        "price": {"input_per_m": price(model)[0], "output_per_m": price(model)[1],
                   "usd_to_inr": config.USD_TO_INR},
         "latest": run,
         "cost": {

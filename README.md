@@ -63,7 +63,7 @@ Gemini free tier (LLM).
 | Add a company | Add its slug to `GREENHOUSE` / `LEVER` / `ASHBY` / `SMARTRECRUITERS` / `WORKABLE` / `RECRUITEE` in `config.py` |
 | Add a role category or a city | Add it to `ROLES` / `CITIES` in `config.py`, then delete `data/tag_cache.json` to re-tag |
 | Change the prompt | `PROMPT` in `tagger.py` |
-| Use a different model | `GEMINI_MODEL` + the two `PRICE_*` values in `config.py` |
+| Use a different model | `GEMINI_MODELS` (preference order) + its price in `PRICES`, in `config.py` |
 | Change the refresh time | `cron` in `.github/workflows/daily.yml` (it's in UTC) |
 | Make the fresher filter stricter/looser | Regexes in `filters.py` |
 | Refresh right now | Actions tab → Daily refresh → Run workflow |

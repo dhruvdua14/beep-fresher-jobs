@@ -95,29 +95,31 @@ def format_batch(posts):
     return "\n\n".join(lines)
 
 
-MODEL = None  # chosen once per run by pick_model()
+MODEL = None       # the model currently in use
+CANDIDATES = []    # fallbacks, filled by pick_model()
 
 
 def pick_model():
-    """Use the first model from config.GEMINI_MODELS that this API key can access."""
+    """
+    Candidate models this key can use, best first. A model can be *listed* and still
+    answer 404 (retired for new keys), so call_gemini() moves down this list on 404.
+    """
     r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
                      params={"pageSize": 200}, headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, timeout=30)
     r.raise_for_status()
     available = [m["name"].split("/")[-1] for m in r.json().get("models", [])
                  if "generateContent" in m.get("supportedGenerationMethods", [])]
     print(f"   models this key can use: {[m for m in available if 'gemini' in m]}")
-    for name in config.GEMINI_MODELS:
-        if name in available:
-            return name
-    lite = [m for m in available if "flash-lite" in m and "preview" not in m]
-    flash = [m for m in available if "flash" in m and "preview" not in m]
-    choice = (lite or flash or available)[0]
-    print(f"   none of {config.GEMINI_MODELS} available; using {choice}. Available: {available}")
-    return choice
+    # Our preference order first, then any other non-preview Flash-Lite / Flash model.
+    extra = [m for m in available if "flash" in m and "preview" not in m and "tts" not in m
+             and "image" not in m and m not in config.GEMINI_MODELS]
+    extra.sort(key=lambda m: "lite" not in m)
+    return [m for m in config.GEMINI_MODELS if m in available] + extra
 
 
 def call_gemini(posts, usage):
     """Tag one batch. Returns {index: tag}. Adds token counts to `usage`."""
+    global MODEL
     key = os.environ["GEMINI_API_KEY"]
     body = {
         "systemInstruction": {"parts": [{"text": PROMPT}]},
@@ -128,9 +130,14 @@ def call_gemini(posts, usage):
             "responseSchema": SCHEMA,
         },
     }
-    for attempt in range(5):
+    for attempt in range(8):
         r = requests.post(API.format(model=MODEL), json=body,
                           headers={"x-goog-api-key": key}, timeout=120)
+        if r.status_code == 404 and CANDIDATES:  # model retired: try the next one
+            print(f"   {MODEL} answered 404 ({r.text[:120].strip()}); switching to {CANDIDATES[0]}")
+            MODEL = CANDIDATES.pop(0)
+            usage["model"] = MODEL
+            continue
         if r.status_code == 429 and "PerDay" in r.text:
             raise QuotaExhausted()  # daily free quota used up: stop, finish tomorrow
         if r.status_code in (429, 500, 503):  # free-tier rate limit / overload
@@ -169,9 +176,10 @@ def tag_posts(posts, cache):
         todo = []
 
     print(f"   {len(todo)} new posts to tag, {usage['from_cache']} already tagged")
-    global MODEL
+    global MODEL, CANDIDATES
     if todo:
-        MODEL = pick_model()
+        CANDIDATES = pick_model()
+        MODEL = CANDIDATES.pop(0)
         usage["model"] = MODEL
         print(f"   model: {MODEL}")
     for start in range(0, len(todo), config.BATCH_SIZE):
@@ -200,6 +208,10 @@ def tag_posts(posts, cache):
     return usage
 
 
+def price(model):
+    return config.PRICES.get(model, config.DEFAULT_PRICE)
+
+
 def cost_usd(usage):
-    return (usage["input_tokens"] * config.PRICE_INPUT_PER_M +
-            usage["output_tokens"] * config.PRICE_OUTPUT_PER_M) / 1_000_000
+    p_in, p_out = price(usage.get("model"))
+    return (usage["input_tokens"] * p_in + usage["output_tokens"] * p_out) / 1_000_000

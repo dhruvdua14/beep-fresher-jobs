@@ -61,9 +61,12 @@ Two separate failures in the very first run on GitHub Actions.
 
 **(a) The model name didn't exist any more.** Every Gemini call returned `404`.
 I'd hard-coded `gemini-2.5-flash-lite`, and Google retires model names.
-**Fix:** The tagger now asks the API which models this key can use, picks the first
-from a preference list, and falls back to any Flash-Lite model. It logs the choice,
-and the model name is stored next to every tag.
+**Fix, take 1:** Ask the API which models this key can use and pick the first from a
+preference list. Second run: the API *listed* `gemini-2.5-flash-lite`... and still
+answered 404 on every call. Listed ≠ usable (it's retired for new keys).
+**Fix, take 2:** On a 404 the tagger moves to the next model in the list and retries
+the same batch. Now on `gemini-3.1-flash-lite`. Prices are kept per model in
+`config.PRICES`, so the cost figure always matches the model that actually ran.
 
 **(b) The rules were too strict.** 1,750 posts were in India, but only 50 passed the
 fresher regex. Most Indian job posts for freshers don't say "fresher" in the title.

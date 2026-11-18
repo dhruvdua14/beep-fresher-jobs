@@ -4,7 +4,7 @@
 
 | Where | Tool | Why this one |
 |---|---|---|
-| Role / city / level tagging | Google Gemini `gemini-2.5-flash-lite` via REST API | Free tier is enough for a daily run, supports JSON-schema output with enums, cheapest paid price if it ever scales |
+| Role / city / level tagging | Google Gemini `gemini-3.1-flash-lite` via REST API (picked automatically from a preference list) | Free tier is enough for a daily run, supports JSON-schema output with enums, cheapest paid price if it ever scales |
 
 The exact prompt lives in [`pipeline/tagger.py`](../pipeline/tagger.py) (`PROMPT`), and the
 JSON schema the model is forced to follow is `SCHEMA` in the same file. Settings:
