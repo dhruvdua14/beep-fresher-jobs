@@ -135,7 +135,7 @@ function renderFacet(elId, key, counts, order) {
     `<li><button type="button" data-key="${key}" data-value="${esc(value)}"
       aria-pressed="${state[key] === value}" ${n === 0 ? "disabled" : ""}>
       <span>${esc(label)}</span><span class="n">${n}</span></button></li>`;
-  const label = (n) => (key === "level" && LEVEL_LABEL[n]) || n;
+  const label = (n) => (key === "level" && LEVEL_LABEL[n]) || (n === "Other India" ? "Other city / not stated" : n);
   $(elId).innerHTML = item("", "All", total) + names.map((n) => item(n, label(n), counts.get(n) || 0)).join("");
 }
 

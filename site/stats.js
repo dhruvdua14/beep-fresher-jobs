@@ -52,7 +52,7 @@ Promise.all([
   $("cost").innerHTML = [
     figure(`$${c.usd_per_1000 ?? "—"}`, "per 1,000 posts tagged", `about ₹${inr ? inr.toFixed(2) : "—"}`),
     figure(fmt(c.tokens_per_post), "tokens per post", "input + output, prompt shared by 40 posts"),
-    figure(fmt(c.posts_tagged_all_time), "posts tagged so far", `${fmt(c.input_tokens)} in · ${fmt(c.output_tokens)} out`),
+    figure(fmt(c.posts_tagged_all_time), "LLM tags made across all runs", `${fmt(c.input_tokens)} in · ${fmt(c.output_tokens)} out`),
     figure(`$${(L.cost_usd).toFixed(4)}`, "cost of today's run", `${L.newly_tagged} new posts, ${L.from_cache} from cache`),
   ].join("");
   $("costNote").textContent = `Price used: $${s.price.input_per_m} per million input tokens, $${s.price.output_per_m} per million output tokens. Token counts come from the API's own usage report on every call.`;
@@ -61,7 +61,7 @@ Promise.all([
   const maxRole = s.by_role[0]?.[1] || 1;
   $("byRole").innerHTML = s.by_role.map(([k, n]) => bar(k, n, maxRole)).join("");
   const maxCity = s.by_city[0]?.[1] || 1;
-  $("byCity").innerHTML = s.by_city.map(([k, n]) => bar(k, n, maxCity)).join("");
+  $("byCity").innerHTML = s.by_city.map(([k, n]) => bar(k === "Other India" ? "Other city / not stated" : k, n, maxCity)).join("");
 
   // ---------- run log
   $("runs").innerHTML = `<thead><tr><th>Date</th><th>Fetched</th><th>Duplicates</th><th>Listed</th><th>New tagged</th><th>LLM calls</th><th>Cost</th></tr></thead><tbody>` +
