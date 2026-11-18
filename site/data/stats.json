@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:06+05:30",
+ "updated_at": "2026-11-18T09:10+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,20 +8,20 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:06",
+  "time": "09:10",
   "fetched": 9842,
-  "india": 2451,
-  "fresher_rules": 308,
-  "exact_dupes": 16,
-  "fuzzy_dupes": 6,
-  "rejected_by_llm": 161,
-  "published": 125,
-  "newly_tagged": 286,
-  "from_cache": 0,
-  "llm_calls": 8,
-  "input_tokens": 48665,
-  "output_tokens": 13768,
-  "cost_usd": 0.032818,
+  "india": 2450,
+  "fresher_rules": 304,
+  "exact_dupes": 35,
+  "fuzzy_dupes": 3,
+  "rejected_by_llm": 178,
+  "published": 88,
+  "newly_tagged": 61,
+  "from_cache": 205,
+  "llm_calls": 2,
+  "input_tokens": 10034,
+  "output_tokens": 2572,
+  "cost_usd": 0.006366,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
@@ -33,155 +33,123 @@
   }
  },
  "cost": {
-  "posts_tagged_all_time": 743,
-  "input_tokens": 92261,
-  "output_tokens": 32610,
-  "usd_all_time": 0.07198,
-  "usd_per_1000": 0.0969,
-  "tokens_per_post": 168
+  "posts_tagged_all_time": 804,
+  "input_tokens": 102295,
+  "output_tokens": 35182,
+  "usd_all_time": 0.078346,
+  "usd_per_1000": 0.0974,
+  "tokens_per_post": 171
  },
  "by_role": [
   [
-   "Software Engineering",
-   30
+   "Other",
+   15
   ],
   [
-   "Operations & Supply Chain",
-   20
+   "Software Engineering",
+   15
   ],
   [
    "Sales & Business Development",
-   14
-  ],
-  [
-   "HR & Recruiting",
-   14
-  ],
-  [
-   "Marketing",
    11
   ],
   [
-   "Customer Success & Support",
+   "Finance & Accounting",
    10
   ],
   [
-   "Finance & Accounting",
-   9
+   "HR & Recruiting",
+   10
+  ],
+  [
+   "Marketing",
+   7
+  ],
+  [
+   "Customer Success & Support",
+   6
   ],
   [
    "Content & Communications",
    5
   ],
   [
-   "Other",
+   "Operations & Supply Chain",
    4
   ],
   [
-   "Hardware & Electronics",
-   3
-  ],
-  [
-   "Consulting & Strategy",
+   "Data & Analytics",
    2
   ],
   [
-   "Design",
-   1
+   "AI / ML",
+   2
   ],
   [
    "Product",
-   1
-  ],
-  [
-   "AI / ML",
    1
   ]
  ],
  "by_city": [
   [
-   "Other India",
-   39
-  ],
-  [
    "Bengaluru",
    35
   ],
   [
-   "Noida",
-   10
+   "Other India",
+   20
   ],
   [
-   "Pune",
-   8
+   "Hyderabad",
+   6
   ],
   [
-   "Chennai",
+   "Gurugram",
    6
   ],
   [
    "Mumbai",
-   6
-  ],
-  [
-   "Ahmedabad",
-   6
-  ],
-  [
-   "Delhi",
    5
   ],
   [
-   "Gurugram",
+   "Noida",
    5
-  ],
-  [
-   "Hyderabad",
-   4
   ],
   [
    "Remote",
+   4
+  ],
+  [
+   "Pune",
    3
   ],
   [
-   "Jaipur",
+   "Chennai",
    3
+  ],
+  [
+   "Ahmedabad",
+   2
   ],
   [
    "Thiruvananthapuram",
-   2
-  ],
-  [
-   "Indore",
-   2
-  ],
-  [
-   "Coimbatore",
    1
   ]
  ],
  "by_level": [
   [
    "Internship",
-   65
+   47
   ],
   [
    "Fresher",
-   60
+   41
   ]
  ],
  "by_company": [
   [
    "Paytm",
    6
-  ],
-  [
-   "Team Pumpkin",
-   4
-  ],
-  [
-   "nVent",
-   4
   ],
   [
    "Rubrik Job Board",
@@ -200,7 +168,19 @@
    3
   ],
   [
-   "FIRST NEEDS SALES PVT LTD",
+   "ascendion",
+   2
+  ],
+  [
+   "Playto Labs",
+   2
+  ],
+  [
+   "Delhi",
+   2
+  ],
+  [
+   "Job Resource Point",
    2
   ],
   [
@@ -208,7 +188,7 @@
    2
   ],
   [
-   "Xylem",
+   "MAK",
    2
   ],
   [
@@ -216,26 +196,22 @@
    2
   ],
   [
-   "Bitdeer",
-   2
-  ],
-  [
-   "Elsner Technologies",
-   2
-  ],
-  [
    "Stripe",
    2
   ],
   [
-   "Pratt & Whitney",
+   "Mindtel",
+   1
+  ],
+  [
+   "Carrier Corporation",
    1
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   88
+   51
   ],
   [
    "greenhouse",
@@ -344,6 +320,32 @@
    "input_tokens": 48665,
    "output_tokens": 13768,
    "cost_usd": 0.032818,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7310,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993,
+    "adzuna": 100
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:10",
+   "fetched": 9842,
+   "india": 2450,
+   "fresher_rules": 304,
+   "exact_dupes": 35,
+   "fuzzy_dupes": 3,
+   "rejected_by_llm": 178,
+   "published": 88,
+   "newly_tagged": 61,
+   "from_cache": 205,
+   "llm_calls": 2,
+   "input_tokens": 10034,
+   "output_tokens": 2572,
+   "cost_usd": 0.006366,
    "model": "gemini-3.1-flash-lite",
    "boards": 81,
    "by_source": {

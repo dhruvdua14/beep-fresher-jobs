@@ -1,7 +1,7 @@
 {
  "answered": {
   "greenhouse:acko": 0,
-  "greenhouse:agoda": 348,
+  "greenhouse:agoda": 349,
   "greenhouse:airbnb": 200,
   "greenhouse:airtribe": 0,
   "greenhouse:ajio": 0,
@@ -155,7 +155,7 @@
   "greenhouse:observe-ai": 0,
   "greenhouse:observeai": 10,
   "greenhouse:ofbusiness": 0,
-  "greenhouse:okta": 359,
+  "greenhouse:okta": 358,
   "greenhouse:ola": 0,
   "greenhouse:olaelectric": 0,
   "greenhouse:onsurity": 0,
@@ -919,20 +919,13 @@
   "recruitee:facilio": 0,
   "recruitee:ultrahuman": 0,
   "recruitee:zolve": 0,
-  "recruitee:eloelo": 0
+  "recruitee:eloelo": 0,
+  "themuse": 0
  },
  "listed_per_company": [
   [
    "lever:Paytm",
    6
-  ],
-  [
-   "adzuna:Team Pumpkin",
-   4
-  ],
-  [
-   "adzuna:nVent",
-   4
   ],
   [
    "greenhouse:Rubrik Job Board",
@@ -951,7 +944,19 @@
    3
   ],
   [
-   "adzuna:FIRST NEEDS SALES PVT LTD",
+   "adzuna:ascendion",
+   2
+  ],
+  [
+   "adzuna:Playto Labs",
+   2
+  ],
+  [
+   "adzuna:Delhi",
+   2
+  ],
+  [
+   "adzuna:Job Resource Point",
    2
   ],
   [
@@ -959,7 +964,7 @@
    2
   ],
   [
-   "adzuna:Xylem",
+   "adzuna:MAK",
    2
   ],
   [
@@ -967,27 +972,23 @@
    2
   ],
   [
-   "adzuna:Bitdeer",
-   2
-  ],
-  [
-   "adzuna:Elsner Technologies",
-   2
-  ],
-  [
    "greenhouse:Stripe",
    2
-  ],
-  [
-   "adzuna:Pratt & Whitney",
-   1
   ],
   [
    "adzuna:Mindtel",
    1
   ],
   [
-   "adzuna:Bruker Corporation",
+   "adzuna:Carrier Corporation",
+   1
+  ],
+  [
+   "adzuna:American Express",
+   1
+  ],
+  [
+   "adzuna:Baxter",
    1
   ],
   [
@@ -995,23 +996,19 @@
    1
   ],
   [
-   "adzuna:Majestic Basmati Rice Pvt.Ltd",
+   "adzuna:Holmes Investment and Accounting Services",
    1
   ],
   [
-   "adzuna:Hadron GBS",
+   "adzuna:Magna International, Inc",
    1
   ],
   [
-   "adzuna:YourFriendlyhr",
+   "adzuna:Marriott",
    1
   ],
   [
-   "adzuna:Tangentia",
-   1
-  ],
-  [
-   "adzuna:Michelin",
+   "adzuna:Edelman India",
    1
   ],
   [
@@ -1019,19 +1016,15 @@
    1
   ],
   [
-   "adzuna:Piramal Pharma",
+   "adzuna:Diensten Tech Limited",
    1
   ],
   [
-   "adzuna:ViralChilly",
+   "adzuna:Marriott Hotels Resorts",
    1
   ],
   [
-   "adzuna:Venwiz",
-   1
-  ],
-  [
-   "adzuna:Springreen",
+   "adzuna:Genpact",
    1
   ],
   [
@@ -1039,7 +1032,7 @@
    1
   ],
   [
-   "adzuna:Adda247",
+   "adzuna:Coronis Ajuba",
    1
   ],
   [
@@ -1047,47 +1040,27 @@
    1
   ],
   [
-   "adzuna:Broadway",
-   1
-  ],
-  [
-   "adzuna:AI CERTs®",
-   1
-  ],
-  [
-   "adzuna:Vecmocon",
-   1
-  ],
-  [
-   "adzuna:Talakunchi Networks",
-   1
-  ],
-  [
-   "adzuna:Hancod Digital",
-   1
-  ],
-  [
    "adzuna:TekMindz",
    1
   ],
   [
-   "adzuna:Rewardsentives, Payouts, Perks, Loyalty & Engagement",
+   "adzuna:Dezy Dezy",
    1
   ],
   [
-   "adzuna:SAVA Healthcare",
+   "adzuna:Skylark Drones",
    1
   ],
   [
-   "adzuna:Atlanta",
+   "adzuna:ISDM",
    1
   ],
   [
-   "adzuna:Ingersoll Rand",
+   "adzuna:Adda247",
    1
   ],
   [
-   "adzuna:HealthAsyst",
+   "adzuna:PolicyBoss.com",
    1
   ],
   [
@@ -1095,111 +1068,43 @@
    1
   ],
   [
-   "adzuna:Kavi Software Technologies Private Limited",
+   "adzuna:Artmac Soft LLC",
    1
   ],
   [
-   "adzuna:eazygrad",
+   "adzuna:MasterTech Web Applications",
    1
   ],
   [
-   "adzuna:Genrobotic Innovations Private Limited",
+   "adzuna:Bisani Legal",
    1
   ],
   [
-   "adzuna:Pentair",
+   "adzuna:CSTEP",
    1
   ],
   [
-   "adzuna:Proserv",
+   "adzuna:AtkinsRealis",
    1
   ],
   [
-   "adzuna:YES BANK",
+   "adzuna:Pratt & Whitney",
    1
   ],
   [
-   "adzuna:Arcadis",
+   "adzuna:NAB",
    1
   ],
   [
-   "adzuna:Varaha",
+   "adzuna:CSC",
    1
   ],
   [
-   "adzuna:QHT Clinic",
+   "adzuna:Vrinda International",
    1
   ],
   [
-   "adzuna:Plansee",
-   1
-  ],
-  [
-   "adzuna:GrapeCity India Private Limited",
-   1
-  ],
-  [
-   "adzuna:John Crane",
-   1
-  ],
-  [
-   "adzuna:Lucy Group",
-   1
-  ],
-  [
-   "adzuna:FLS Global",
-   1
-  ],
-  [
-   "adzuna:Russell Investments",
-   1
-  ],
-  [
-   "adzuna:Test Unity",
-   1
-  ],
-  [
-   "adzuna:scanO AI",
-   1
-  ],
-  [
-   "adzuna:Sun360",
-   1
-  ],
-  [
-   "adzuna:dentsu",
-   1
-  ],
-  [
-   "adzuna:Syniverse",
-   1
-  ],
-  [
-   "adzuna:GE HealthCare",
-   1
-  ],
-  [
-   "adzuna:WTW",
-   1
-  ],
-  [
-   "adzuna:Nexivo Consulting",
-   1
-  ],
-  [
-   "adzuna:Robro Systems Private Limited",
-   1
-  ],
-  [
-   "adzuna:Smith & Nephew",
-   1
-  ],
-  [
-   "adzuna:Trikaal Tech Enterprises Private Limited",
-   1
-  ],
-  [
-   "adzuna:Jord International",
+   "adzuna:Quest Global",
    1
   ],
   [
@@ -1207,11 +1112,7 @@
    1
   ],
   [
-   "adzuna:Episode Six",
-   1
-  ],
-  [
-   "adzuna:Griffinmark Robotics",
+   "adzuna:AtkinsRéalis",
    1
   ],
   [
@@ -1219,39 +1120,19 @@
    1
   ],
   [
-   "adzuna:Edlernity",
-   1
-  ],
-  [
-   "adzuna:Heads Up For Tails",
-   1
-  ],
-  [
    "ashby:Headout",
    1
   ],
   [
-   "adzuna:Harmony United Psychiatric Care",
+   "adzuna:Vinayak Outsourcing Works",
    1
   ],
   [
-   "adzuna:Corporate Stalwarts",
+   "adzuna:Elsner Technologies",
    1
   ],
   [
-   "adzuna:Ladybird Web Solution Pvt Ltd",
-   1
-  ],
-  [
-   "adzuna:ViralChilly: Create | Grow | Learn",
-   1
-  ],
-  [
-   "adzuna:WriterOnRent",
-   1
-  ],
-  [
-   "adzuna:Milacron",
+   "adzuna:Capita",
    1
   ],
   [
@@ -1259,19 +1140,7 @@
    1
   ],
   [
-   "adzuna:2coms",
-   1
-  ],
-  [
-   "adzuna:One Degree North Human Resource",
-   1
-  ],
-  [
-   "adzuna:Ketto",
-   1
-  ],
-  [
-   "adzuna:Ontrack HR Services Pvt LTD",
+   "adzuna:Piramal Pharma",
    1
   ],
   [
@@ -1279,11 +1148,15 @@
    1
   ],
   [
-   "adzuna:Coinsell Technology Pvt. Ltd.",
+   "adzuna:Arvindkumar Maniar & Co.",
    1
   ],
   [
-   "adzuna:Marriott Hotels Resorts",
+   "adzuna:GwayERP",
+   1
+  ],
+  [
+   "adzuna:iSmartRecruit",
    1
   ],
   [
