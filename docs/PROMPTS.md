@@ -8,7 +8,7 @@
 
 The exact prompt lives in [`pipeline/tagger.py`](../pipeline/tagger.py) (`PROMPT`), and the
 JSON schema the model is forced to follow is `SCHEMA` in the same file. Settings:
-`temperature = 0`, 40 posts per request, description cut to 600 characters.
+`temperature = 0`, 40 posts per request; each post sends the first 350 characters of the description plus every sentence that mentions experience or graduation.
 
 Each post is sent like this:
 
@@ -17,7 +17,8 @@ Each post is sent like this:
 Title: Data Analyst Intern
 Company: Groww
 Location: Bengaluru, Karnataka, India
-Description: <first 600 characters>
+Description start: <first 350 characters>
+Experience lines: <sentences mentioning years / experience / graduate / fresher>
 ```
 
 and the model must return, for every post:
@@ -25,6 +26,9 @@ and the model must return, for every post:
 ```json
 {"i": 3, "role": "Data & Analytics", "cities": ["Bengaluru"], "level": "Internship", "confidence": 0.95}
 ```
+
+`level` is one of Internship, Fresher, Early career, Not fresher, Not a job. Only the first
+three are listed. `cities` may be "Not in India", and those posts are dropped.
 
 ### Prompt design decisions
 - **Fixed lists, enforced by schema.** The model can't invent "SDE" as a role or
