@@ -1,6 +1,6 @@
 # Fresher Ledger
 
-**Live:** https://100xcreatorai.github.io/beep-fresher-jobs/  ·  **Numbers:** [/stats.html](https://100xcreatorai.github.io/beep-fresher-jobs/stats.html)
+**Live:** https://dhruvdua14.github.io/beep-fresher-jobs/  ·  **Numbers:** [/stats.html](https://dhruvdua14.github.io/beep-fresher-jobs/stats.html)
 
 A job board of internships and fresher jobs in India that rebuilds itself every
 morning. It pulls posts from public job-board APIs, keeps entry-level roles in
@@ -78,7 +78,7 @@ python -m http.server -d site 8000   # open http://localhost:8000
 ```
 
 ## Accuracy and cost
-See the [Numbers page](https://100xcreatorai.github.io/beep-fresher-jobs/stats.html).
+See the [Numbers page](https://dhruvdua14.github.io/beep-fresher-jobs/stats.html).
 Hand-check method: `python eval/sample.py` picks 50 posts with a fixed seed into
 `eval/hand_check.csv`; each is checked against the original listing and marked Y/N;
 `python eval/score.py` computes accuracy and the confusion list. Cost per 1,000 posts =
