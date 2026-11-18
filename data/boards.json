@@ -919,24 +919,67 @@
   "recruitee:facilio": 0,
   "recruitee:ultrahuman": 0,
   "recruitee:zolve": 0,
-  "recruitee:eloelo": 0,
-  "themuse": 0
+  "recruitee:eloelo": 0
  },
  "listed_per_company": [
   [
+   "smartrecruiters:Bosch Group",
+   30
+  ],
+  [
    "lever:Paytm",
+   16
+  ],
+  [
+   "smartrecruiters:SWIGGY",
+   12
+  ],
+  [
+   "smartrecruiters:NielsenIQ",
+   9
+  ],
+  [
+   "smartrecruiters:Sutherland",
+   7
+  ],
+  [
+   "adzuna:Happiest Resume",
    6
+  ],
+  [
+   "lever:Hevodata",
+   5
+  ],
+  [
+   "greenhouse:Stripe",
+   4
   ],
   [
    "greenhouse:Rubrik Job Board",
    4
   ],
   [
-   "lever:Hevodata",
+   "lever:Fampay",
    4
   ],
   [
    "greenhouse:HackerRank Careers",
+   4
+  ],
+  [
+   "greenhouse:Careers at Tide",
+   3
+  ],
+  [
+   "ashby:Sarvam",
+   3
+  ],
+  [
+   "ashby:Headout",
+   3
+  ],
+  [
+   "lever:Netomi",
    3
   ],
   [
@@ -956,7 +999,19 @@
    2
   ],
   [
+   "greenhouse:Elastic",
+   2
+  ],
+  [
    "adzuna:Job Resource Point",
+   2
+  ],
+  [
+   "greenhouse:DeepIntent",
+   2
+  ],
+  [
+   "greenhouse:GitLab",
    2
   ],
   [
@@ -968,11 +1023,19 @@
    2
   ],
   [
-   "lever:Fampay",
+   "adzuna:People First Consultants",
    2
   ],
   [
-   "greenhouse:Stripe",
+   "greenhouse:Groww",
+   2
+  ],
+  [
+   "lever:Cred",
+   2
+  ],
+  [
+   "greenhouse:Sigmoid",
    2
   ],
   [
@@ -1012,11 +1075,11 @@
    1
   ],
   [
-   "smartrecruiters:SWIGGY",
+   "adzuna:Diensten Tech Limited",
    1
   ],
   [
-   "adzuna:Diensten Tech Limited",
+   "adzuna:Su-vastika systems",
    1
   ],
   [
@@ -1025,10 +1088,6 @@
   ],
   [
    "adzuna:Genpact",
-   1
-  ],
-  [
-   "smartrecruiters:NielsenIQ",
    1
   ],
   [
@@ -1064,10 +1123,6 @@
    1
   ],
   [
-   "greenhouse:Elastic",
-   1
-  ],
-  [
    "adzuna:Artmac Soft LLC",
    1
   ],
@@ -1080,11 +1135,23 @@
    1
   ],
   [
+   "adzuna:Sumo Digital",
+   1
+  ],
+  [
    "adzuna:CSTEP",
    1
   ],
   [
    "adzuna:AtkinsRealis",
+   1
+  ],
+  [
+   "ashby:Spotdraft",
+   1
+  ],
+  [
+   "ashby:Thoughtworks",
    1
   ],
   [
@@ -1097,6 +1164,10 @@
   ],
   [
    "adzuna:CSC",
+   1
+  ],
+  [
+   "adzuna:Tentworks Interactive",
    1
   ],
   [
@@ -1120,7 +1191,19 @@
    1
   ],
   [
-   "ashby:Headout",
+   "adzuna:CDM Smith",
+   1
+  ],
+  [
+   "adzuna:Tibarumal Gems & Jewels",
+   1
+  ],
+  [
+   "adzuna:Sisco Jobs",
+   1
+  ],
+  [
+   "adzuna:Homly",
    1
   ],
   [
@@ -1136,7 +1219,7 @@
    1
   ],
   [
-   "ashby:Sarvam",
+   "ashby:Smallest",
    1
   ],
   [
@@ -1164,11 +1247,15 @@
    1
   ],
   [
-   "smartrecruiters:Sutherland",
+   "greenhouse:Zscaler",
    1
   ],
   [
-   "greenhouse:Sigmoid",
+   "greenhouse:InMobi ",
+   1
+  ],
+  [
+   "greenhouse:HighRadius",
    1
   ],
   [
@@ -1176,11 +1263,15 @@
    1
   ],
   [
-   "greenhouse:Groww",
+   "greenhouse:Datadog",
    1
   ],
   [
-   "greenhouse:Datadog",
+   "ashby:Almabase",
+   1
+  ],
+  [
+   "smartrecruiters:Continental",
    1
   ]
  ]

@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-18T09:10+05:30",
- "count": 88,
+ "updated_at": "2026-11-18T09:13+05:30",
+ "count": 201,
  "jobs": [
+  {
+   "id": "cf13d919a354",
+   "title": "IN_Bosch Rexroth India_Engineer / Executive _ Engineering Change Management & Project Co-ordination",
+   "company": "Bosch Group",
+   "location": "Sanand, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039884",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0d9d44030911",
+   "title": "Associate Software Test Engineer (Java, Selenium)",
+   "company": "NielsenIQ",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000162070650",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9e2c663a98e6",
+   "title": "Executive - Videographer",
+   "company": "SWIGGY",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001584413",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
   {
    "id": "c97156af6840",
    "title": "BDE (FRESHER)",
@@ -12,7 +60,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5968536041?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-17",
@@ -60,10 +108,74 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.6,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5969247104?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ad7b09b1cad2",
+   "title": "Customer Support Associate- Paytm Money",
+   "company": "Paytm",
+   "location": "Mumbai, Maharashtra",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.lever.co/paytm/7da6d28a-6f4b-4d70-975b-5e358f1b3af0",
+   "source": "lever",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "79d9ac8c2177",
+   "title": "HR HelpDesk",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.lever.co/paytm/68b1395d-b533-4371-b2a7-8a93f3ade1e8",
+   "source": "lever",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "94789dbc79d4",
+   "title": "IN_Bosch Rexroth India_Engineer / Executive_Project Management",
+   "company": "Bosch Group",
+   "location": "Sanand, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161787824",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "940a1fdfe4b9",
+   "title": "System integration exhaust treatment",
+   "company": "Bosch Group",
+   "location": "Bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161773044",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
   },
   {
@@ -78,6 +190,54 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161932469",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d610474fab2e",
+   "title": "Research Associate",
+   "company": "NielsenIQ",
+   "location": "Vadodara, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161753129",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "dcb7369ac14c",
+   "title": "Associate Data Scientist",
+   "company": "NielsenIQ",
+   "location": "Vadodara, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161750975",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "00f055bb5534",
+   "title": "Research Analyst",
+   "company": "NielsenIQ",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161731359",
    "source": "smartrecruiters",
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
@@ -106,7 +266,7 @@
    "cities": [
     "Pune"
    ],
-   "role": "Software Engineering",
+   "role": "Other",
    "level": "Internship",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5967490112?utm_medium=api&utm_source=fe7c6c25",
@@ -122,12 +282,60 @@
    "cities": [
     "Other India"
    ],
-   "role": "Other",
+   "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5966483013?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-15",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "81e7b41c76fc",
+   "title": "Client Servicing Executive",
+   "company": "SWIGGY",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576902",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "07cc56de40f8",
+   "title": "Executive - Graphic Designer",
+   "company": "SWIGGY",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Design",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576834",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a06d40d971a4",
+   "title": "Content Executive - Events and Partnerships",
+   "company": "SWIGGY",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576811",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
   },
   {
@@ -140,7 +348,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5965403137?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
@@ -186,12 +394,28 @@
    "cities": [
     "Gurugram"
    ],
-   "role": "Content & Communications",
+   "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5966107511?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0620a31f1c93",
+   "title": "Associate Software Test Engineer (Playwright, Typescript/ Javascript)",
+   "company": "NielsenIQ",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161456159",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
   },
   {
@@ -220,8 +444,24 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5964004039?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1c56cefacb60",
+   "title": "Data entry",
+   "company": "Su-vastika systems",
+   "location": "Delhi, India, India",
+   "cities": [
+    "Delhi"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5964787777?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
@@ -252,7 +492,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.6,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5964783220?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-13",
@@ -267,7 +507,7 @@
     "Pune"
    ],
    "role": "Customer Success & Support",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161270965",
    "source": "smartrecruiters",
@@ -282,7 +522,7 @@
    "cities": [
     "Chennai"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Data & Analytics",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963065845?utm_medium=api&utm_source=fe7c6c25",
@@ -316,7 +556,7 @@
    ],
    "role": "Software Engineering",
    "level": "Fresher",
-   "confidence": 0.95,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963468006?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -380,7 +620,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5963445439?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -396,7 +636,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5963453932?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-12",
@@ -427,8 +667,8 @@
     "Bengaluru"
    ],
    "role": "Marketing",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Early career",
+   "confidence": 0.8,
    "url": "https://jobs.elastic.co/jobs?gh_jid=8337068&gh_jid=8337068",
    "source": "greenhouse",
    "posted_at": "2026-11-11",
@@ -460,7 +700,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5960623865?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-11",
@@ -499,14 +739,30 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "f760d48273e3",
+   "title": "Fraud Operations Associate SDC",
+   "company": "Stripe",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://stripe.com/jobs/search?gh_jid=8158943",
+   "source": "greenhouse",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "9b25eb0969da",
    "title": "Content Developer (Entry Level)",
    "company": "MasterTech Web Applications",
    "location": "Thane, Maharashtra, India",
    "cities": [
-    "Mumbai"
+    "Other India"
    ],
-   "role": "Content & Communications",
+   "role": "Software Engineering",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5960294108?utm_medium=api&utm_source=fe7c6c25",
@@ -531,6 +787,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "fb8909598cd1",
+   "title": "Tele - Sales",
+   "company": "SWIGGY",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001561485",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-09",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ef9dda15081e",
+   "title": "Level Designer",
+   "company": "Sumo Digital",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Design",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5957216124?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "e2aa0c3cf2b1",
    "title": "Intern",
    "company": "CSTEP",
@@ -540,7 +828,7 @@
    ],
    "role": "Data & Analytics",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5955801164?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-06",
@@ -563,6 +851,88 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "8a70c653ff4e",
+   "title": "Software Engineer In Test",
+   "company": "DeepIntent",
+   "location": "Pune, India ",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://job-boards.greenhouse.io/deepintent/jobs/6241859004",
+   "source": "greenhouse",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5cf87b719a26",
+   "title": "Analyst, FRR, Reported Fraud, OM, UK",
+   "company": "Careers at Tide",
+   "location": "India, Hyderabad",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8196515003",
+   "source": "greenhouse",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "98351401175a",
+   "title": "Talent Community",
+   "company": "Spotdraft",
+   "location": "SpotDraft HQ, Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.ashbyhq.com/spotdraft/4fe2855c-ee2f-4372-8fde-12c67503427f",
+   "source": "ashby",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "794797f79a47",
+   "title": "UAT-Referral Consultant:County:Developer:Front-end Developer",
+   "company": "Thoughtworks",
+   "location": "Chennai / Hyderabad / Bangalore - Koramangala",
+   "cities": [
+    "Chennai",
+    "Hyderabad",
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/thoughtworks/02a6d274-7747-442c-847c-4c24a391548c",
+   "source": "ashby",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "151de4daaafd",
+   "title": "Content Executive",
+   "company": "SWIGGY",
+   "location": "Chandigarh, CH, India",
+   "cities": [
+    "Chandigarh"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001552986",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "ae37cdae54c5",
    "title": "Intern",
    "company": "Pratt & Whitney",
@@ -572,10 +942,26 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5954458406?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f7119910b38c",
+   "title": "Intermediate Backend Engineer , Security Factory",
+   "company": "GitLab",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
+   "source": "greenhouse",
+   "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
   {
@@ -588,9 +974,60 @@
    ],
    "role": "Product",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.rubrik.com/company/careers/departments/job.8345283?gh_jid=8345283",
    "source": "greenhouse",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "35ebbfec342c",
+   "title": "People Operations Associate",
+   "company": "Fampay",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/fampay/a7e3ad38-e09a-4d2a-8b6f-83d74a6c122c",
+   "source": "lever",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "7d1d40ba9498",
+   "title": "Data Entry Operator",
+   "company": "Happiest Resume",
+   "location": "Ranchi, Jharkhand, India",
+   "cities": [
+    "Mumbai",
+    "Hyderabad",
+    "Bengaluru",
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953121299?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9b1a91b5cf36",
+   "title": "Data Entry Operator",
+   "company": "Happiest Resume",
+   "location": "Hubli, Dharwad, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5953121237?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
   },
@@ -620,10 +1057,90 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5953183038?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "be19365c9c8f",
+   "title": "Technical Writer",
+   "company": "Sarvam",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/sarvam/a0ccec8b-c0da-4394-b29c-f4a98c4e514d",
+   "source": "ashby",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9c0ac83f3eda",
+   "title": "Supply chain IT operations Support",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159306949",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f11cdb41f9cf",
+   "title": "Cartographer",
+   "company": "NielsenIQ",
+   "location": "Vadodara, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000159370550",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "08a1cdd8fe14",
+   "title": "Tele Sales Executive",
+   "company": "SWIGGY",
+   "location": "Kolkata, WB, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001545481",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "31df4002d204",
+   "title": "Tele - Sales",
+   "company": "SWIGGY",
+   "location": "Bengaluru, KA, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001545462",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-03",
    "first_seen": "2026-11-18"
   },
   {
@@ -659,6 +1176,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "b8c3d5cf312a",
+   "title": "Data Management Administrator",
+   "company": "NielsenIQ",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000159058789",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-02",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a16d20bfae2b",
+   "title": "Level Designer",
+   "company": "Tentworks Interactive",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Design",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5949111525?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "2464213ea5f3",
    "title": "Chartered Accountant – Fresher",
    "company": "Vrinda International",
@@ -682,7 +1231,7 @@
    "cities": [
     "Thiruvananthapuram"
    ],
-   "role": "Software Engineering",
+   "role": "Other",
    "level": "Internship",
    "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5947929659?utm_medium=api&utm_source=fe7c6c25",
@@ -700,7 +1249,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.6,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5948200460?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-31",
@@ -730,12 +1279,76 @@
    "cities": [
     "Bengaluru"
    ],
-   "role": "Operations & Supply Chain",
+   "role": "Product",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/composio/cceb9883-7967-45a9-8e37-ed72cec3deff",
    "source": "ashby",
    "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "aee164182c03",
+   "title": "Semiconductor Application Engineer – Automotive Radar & Ultrasonic Sensing",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Hardware & Electronics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158675200",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5705391ad842",
+   "title": "Executive  - Videographer",
+   "company": "SWIGGY",
+   "location": "Chandigarh, CH, India",
+   "cities": [
+    "Chandigarh"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001538408",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a666f14cf659",
+   "title": "Accounts Payable - A Level",
+   "company": "People First Consultants",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5945334676?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ed1500a4b383",
+   "title": "FP&A - A Level",
+   "company": "People First Consultants",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://www.adzuna.in/details/5945334677?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
    "first_seen": "2026-11-18"
   },
   {
@@ -748,7 +1361,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.7,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5945933851?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-29",
@@ -762,7 +1375,7 @@
    "cities": [
     "Other India"
    ],
-   "role": "HR & Recruiting",
+   "role": "Other",
    "level": "Internship",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5945038004?utm_medium=api&utm_source=fe7c6c25",
@@ -780,7 +1393,7 @@
    ],
    "role": "AI / ML",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
    "source": "greenhouse",
    "posted_at": "2026-10-28",
@@ -795,11 +1408,91 @@
     "Bengaluru"
    ],
    "role": "Content & Communications",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.ashbyhq.com/headout/742de92e-9068-480b-81fc-8e65dafbb135",
    "source": "ashby",
    "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e33200d777fd",
+   "title": "Cost Engineering & Benchmarking - MAE",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158212873",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c891bdfb69ba",
+   "title": "Entry Marketing Analyst",
+   "company": "CDM Smith",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Marketing",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5944172332?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "acaa1c84fa57",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Jhajjar, Haryana, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943907316?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "143bfe4bbbc7",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Agra, Uttar Pradesh, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943907374?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6a804511a878",
+   "title": "AI Tool Admin",
+   "company": "Elastic",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Marketing",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336",
+   "source": "greenhouse",
+   "posted_at": "2026-10-27",
    "first_seen": "2026-11-18"
   },
   {
@@ -819,6 +1512,118 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "bd42782d35a5",
+   "title": "Data Entry Operator",
+   "company": "Tibarumal Gems & Jewels",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5942976340?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a55bbe1ec661",
+   "title": "Data Entry / Computer Operator",
+   "company": "Sisco Jobs",
+   "location": "Srirangam, Tiruchirappalli, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943126920?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "bca96492f02d",
+   "title": "2026-MS_EMT2-VM_DevOps_Engineer",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157829938",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "20f94a49c074",
+   "title": "BGSW_2026_Teamcentre_Soln_Expert",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157766119",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c2b367f0625f",
+   "title": "IN_Bosch Rexroth India_Engineer - Testing",
+   "company": "Bosch Group",
+   "location": "Sanand Ahmedabad, GUJARAT, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Hardware & Electronics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157722162",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d0c616688161",
+   "title": "Software Engineer (python,Django,Pandas/ Polars)",
+   "company": "NielsenIQ",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000157850657",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "0e4a53252417",
+   "title": "Data Entry",
+   "company": "Homly",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5942168329?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "98f848ff66e8",
    "title": "Payroll Industrial Trainee",
    "company": "Rubrik Job Board",
@@ -828,7 +1633,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.rubrik.com/company/careers/departments/job.8305308?gh_jid=8305308",
    "source": "greenhouse",
    "posted_at": "2026-10-25",
@@ -844,7 +1649,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5941576633?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-25",
@@ -876,7 +1681,7 @@
    ],
    "role": "Other",
    "level": "Internship",
-   "confidence": 0.6,
+   "confidence": 0.7,
    "url": "https://www.adzuna.in/details/5940640477?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-24",
@@ -892,10 +1697,58 @@
    ],
    "role": "Marketing",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
    "source": "ashby",
    "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "56fdbb19b4ba",
+   "title": "Data Entry Operator",
+   "company": "Happiest Resume",
+   "location": "Patna, Bihar, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938549847?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "48c71fd21bd7",
+   "title": "Data Entry operator",
+   "company": "Happiest Resume",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938549887?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9db07d10acda",
+   "title": "Software Engineer - Systems and Reliablity",
+   "company": "Smallest",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/smallest/f0879803-4119-4278-bcfc-4f0b25df943b",
+   "source": "ashby",
+   "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
@@ -908,10 +1761,58 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5938159322?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-22",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f6fab68872d9",
+   "title": "In_Bosch Rexroth India_Sales Engineer/Astt. Manager_Pune",
+   "company": "Bosch Group",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156770949",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b847f60b0772",
+   "title": "BGSW_2026_SAP_SD_JIT",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156722473",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f95da4c18c79",
+   "title": "BGSW_2026_Teamcentre_Data_Migration",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156717508",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-21",
    "first_seen": "2026-11-18"
   },
   {
@@ -922,7 +1823,7 @@
    "cities": [
     "Ahmedabad"
    ],
-   "role": "Sales & Business Development",
+   "role": "Other",
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://www.adzuna.in/details/5935985493?utm_medium=api&utm_source=fe7c6c25",
@@ -972,10 +1873,26 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
    "source": "lever",
    "posted_at": "2026-10-20",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "dc9c02a0074c",
+   "title": "Associate - Account Management",
+   "company": "Sutherland",
+   "location": "Kochi, KL, India, //KL, India",
+   "cities": [
+    "Kochi"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000156397698",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-19",
    "first_seen": "2026-11-18"
   },
   {
@@ -986,9 +1903,9 @@
    "cities": [
     "Other India"
    ],
-   "role": "Marketing",
+   "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 0.8,
    "url": "https://www.adzuna.in/details/5934355925?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-19",
@@ -1004,10 +1921,42 @@
    ],
    "role": "AI / ML",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://www.adzuna.in/details/5933728565?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-19",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "317027917592",
+   "title": "Software for HW Evaluation_Embedded_Engg_BSH",
+   "company": "Bosch Group",
+   "location": "hosur road bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155946889",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-16",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "88d7ec28613e",
+   "title": "Data Scientist",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "AI / ML",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155709908",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-15",
    "first_seen": "2026-11-18"
   },
   {
@@ -1016,14 +1965,238 @@
    "company": "Binance",
    "location": "Hong Kong; India; Malaysia; Taiwan; United Arab Emirates",
    "cities": [
-    "Remote"
+    "Other India"
    ],
-   "role": "Marketing",
+   "role": "Other",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 0.7,
    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002743101",
    "source": "greenhouse",
    "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "202eda05892d",
+   "title": "Analyst, Enforcement and Reporting (Fraud Reporting) - 6 month contract",
+   "company": "Careers at Tide",
+   "location": "India, Hyderabad",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8031056003",
+   "source": "greenhouse",
+   "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "76e4d9d3e11c",
+   "title": "LOG - Physical Logistics ( Warehousing / Transportations/Logistic Quality /Logistic Cost)",
+   "company": "Bosch Group",
+   "location": "Bengaluru, KA, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155456147",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3f6af8424447",
+   "title": "HiL Test Engineer",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Hardware & Electronics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155454876",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "375fec2d4d83",
+   "title": "Test Engineer -MBD/MiL/SiL",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155420099",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3087228d3859",
+   "title": "Analyst, Acquiring AR&I, Preventive Fraud (6 months contract)",
+   "company": "Careers at Tide",
+   "location": "India, Hyderabad",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8030021003",
+   "source": "greenhouse",
+   "posted_at": "2026-10-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c69a52c313fc",
+   "title": "Product Support Engineer (AI Platform)",
+   "company": "Netomi",
+   "location": "Gurugram",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/netomi/bd9d56b2-4ba4-4454-9e91-ab7ab63c110f",
+   "source": "lever",
+   "posted_at": "2026-10-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4a812ade16e8",
+   "title": "Devops Engineer - I",
+   "company": "Netomi",
+   "location": "Gurugram",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/netomi/ffe81537-5d1b-437e-a5e8-43546aa8c655",
+   "source": "lever",
+   "posted_at": "2026-10-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ea9fcab411a1",
+   "title": "Field Facilitator - Digital & Financial Literacy - 6 months Contractual",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/8b2f5989-2a41-436c-a01c-78468652ac31",
+   "source": "lever",
+   "posted_at": "2026-10-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a8a122220589",
+   "title": "Village Facilitator - 6 months Contractual",
+   "company": "Paytm",
+   "location": "Aligarh, Uttar Pradesh",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/389676ee-f74c-45f6-8843-991135faf8a5",
+   "source": "lever",
+   "posted_at": "2026-10-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "04713fd549b1",
+   "title": "Model Based Development Engineer",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154989438",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-12",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "73615b3dc644",
+   "title": "Finance Content Creator",
+   "company": "Groww",
+   "location": "Bengaluru, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5000706101",
+   "source": "greenhouse",
+   "posted_at": "2026-10-09",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5cacec99114a",
+   "title": "Vehicle Diagnostics Engineer, COB",
+   "company": "Bosch Group",
+   "location": "coimbatore, , India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154653834",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-09",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "83d64db2926e",
+   "title": "SWSD for 2WP Powertrain",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604768",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-09",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "de65df6eff0a",
+   "title": "Security Function developer",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154604338",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-09",
    "first_seen": "2026-11-18"
   },
   {
@@ -1036,9 +2209,41 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
    "source": "lever",
+   "posted_at": "2026-10-08",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "aadaef812deb",
+   "title": "Researcher: Numerical Methods and Algorithms for Modelling and Simulations",
+   "company": "Bosch Group",
+   "location": "bengaluru, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "AI / ML",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154399409",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-08",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "fab7446e0fdd",
+   "title": "UX Designer",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Design",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154383185",
+   "source": "smartrecruiters",
    "posted_at": "2026-10-08",
    "first_seen": "2026-11-18"
   },
@@ -1053,10 +2258,147 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805",
    "source": "lever",
    "posted_at": "2026-10-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c61497cbb234",
+   "title": "Workload Automation Consultant",
+   "company": "Bosch Group",
+   "location": "coimbatore, , India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153676839",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "367b2f4fa6db",
+   "title": "Infrastructure, Automation & Integration Engineer",
+   "company": "Bosch Group",
+   "location": "hosur road bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153674539",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "dc13dde3faca",
+   "title": "Test Employee - Executive",
+   "company": "SWIGGY",
+   "location": "Bengaluru, KA, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.5,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001462082",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-05",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "5f673f88e908",
+   "title": "IN_RBAI_Process owner_Milling and Plasma cleaning process",
+   "company": "Bosch Group",
+   "location": "Bengaluru, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153374499",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "361dfc4ae46f",
+   "title": "Software Developer",
+   "company": "Bosch Group",
+   "location": "hosur road bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372859",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "06ff7e2cf9c1",
+   "title": "MS_EMT2-VM_VSCODE_Developer",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372868",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a683b0324c1a",
+   "title": "ECU PjM",
+   "company": "Bosch Group",
+   "location": "coimbatore, , India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153372828",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c632e7cb2165",
+   "title": "Associate - User Growth (Field Marketing)",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh / Bangalore, Karnataka / Pune, Maharashtra / Chennai, Tamil Nadu / Hyderabad, Telangana / Ahmedabad, Gujarat / Jaipur, Rajasthan / Delhi-NCR / Thane,Maharashtra / Mumbai, Maharashtra / Kolkata, West Bengal",
+   "cities": [
+    "Noida",
+    "Bengaluru",
+    "Pune",
+    "Chennai",
+    "Hyderabad",
+    "Ahmedabad",
+    "Jaipur",
+    "Delhi",
+    "Mumbai",
+    "Kolkata"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/df935f72-9721-414e-9a3b-e20a679fef07",
+   "source": "lever",
+   "posted_at": "2026-10-03",
    "first_seen": "2026-11-18"
   },
   {
@@ -1073,6 +2415,55 @@
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
    "source": "greenhouse",
    "posted_at": "2026-10-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b43162a40c2f",
+   "title": "Customer Experience Engineer",
+   "company": "Hevodata",
+   "location": "Pune, Maharashtra",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/hevodata/96993ebc-609a-4733-84cd-e1a0c3e69fda",
+   "source": "lever",
+   "posted_at": "2026-09-25",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f7ecd3ddeae9",
+   "title": "Client Onboarding - Paytm Pi Agent (SMB)",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh / Gurugram, Haryana",
+   "cities": [
+    "Noida",
+    "Gurugram"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/7097240e-c9be-430b-816e-259e96fee507",
+   "source": "lever",
+   "posted_at": "2026-09-24",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "474f87bd6cf0",
+   "title": "Executive - Video Editor",
+   "company": "SWIGGY",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001433948",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-24",
    "first_seen": "2026-11-18"
   },
   {
@@ -1125,6 +2516,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "b5bd71cfe437",
+   "title": "Data Engineer I",
+   "company": "Netomi",
+   "location": "Remote - India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692",
+   "source": "lever",
+   "posted_at": "2026-09-21",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "acb3a07faa2b",
    "title": "Associate Technical Writer",
    "company": "Hevodata",
@@ -1133,11 +2540,91 @@
     "Bengaluru"
    ],
    "role": "Content & Communications",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74",
    "source": "lever",
    "posted_at": "2026-09-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "05e1b929d62a",
+   "title": "Frontend Developer",
+   "company": "Headout",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.ashbyhq.com/headout/15c88403-d576-4245-83c6-b62d7d351278",
+   "source": "ashby",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3011aea6a9a3",
+   "title": "Healthcare",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149327698",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "552240df18c1",
+   "title": "Customer Service Support",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149318259",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4b4f15b8d8ab",
+   "title": "Travel Support Services",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149321909",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "908e66090021",
+   "title": "Banking and Financial Services Support",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149321289",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-14",
    "first_seen": "2026-11-18"
   },
   {
@@ -1150,7 +2637,7 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af",
    "source": "lever",
    "posted_at": "2026-09-08",
@@ -1166,7 +2653,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514",
    "source": "greenhouse",
    "posted_at": "2026-09-06",
@@ -1182,10 +2669,58 @@
    ],
    "role": "Software Engineering",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
    "source": "greenhouse",
    "posted_at": "2026-09-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b93b8609ceab",
+   "title": "Financial Representative, Accounts Payable",
+   "company": "Zscaler",
+   "location": "Mohali, IND",
+   "cities": [
+    "Chandigarh"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5226665007",
+   "source": "greenhouse",
+   "posted_at": "2026-09-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "340379e96567",
+   "title": "Product Stability Test Engineer",
+   "company": "Bosch Group",
+   "location": "telangana, , India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147162938",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "263b151540b8",
+   "title": "Intermediate Backend Engineer, India",
+   "company": "GitLab",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+   "source": "greenhouse",
+   "posted_at": "2026-09-02",
    "first_seen": "2026-11-18"
   },
   {
@@ -1198,7 +2733,7 @@
    ],
    "role": "Operations & Supply Chain",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://stripe.com/jobs/search?gh_jid=8131339",
    "source": "greenhouse",
    "posted_at": "2026-09-01",
@@ -1214,7 +2749,7 @@
    ],
    "role": "Customer Success & Support",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8127535",
    "source": "greenhouse",
    "posted_at": "2026-08-27",
@@ -1230,10 +2765,90 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/20d54134-b6e5-4816-8da9-42e3a3ed8f57",
    "source": "lever",
    "posted_at": "2026-08-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "995584b9c625",
+   "title": "Analyst",
+   "company": "InMobi ",
+   "location": "Lucknow",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8096039",
+   "source": "greenhouse",
+   "posted_at": "2026-08-25",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ddaf6204826d",
+   "title": "business development & strategic partnerships - d2c",
+   "company": "Cred",
+   "location": "bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://jobs.lever.co/cred/a65bef0e-0f4c-40af-b662-9313f255189e",
+   "source": "lever",
+   "posted_at": "2026-08-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "02368608bc33",
+   "title": "GTM & Strategy, Model API",
+   "company": "Sarvam",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.ashbyhq.com/sarvam/2fd59d81-b766-4f54-85b3-d0eae08dbfc0",
+   "source": "ashby",
+   "posted_at": "2026-08-20",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "552897f2a461",
+   "title": "Agent Product Builder",
+   "company": "HighRadius",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Product",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://www.highradius.com/about/careers-list/?gh_jid=7734268003",
+   "source": "greenhouse",
+   "posted_at": "2026-08-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ce436472ec33",
+   "title": "CST - Associate - Bill Payments CST",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/271d28ce-e61c-4216-b7d4-adddd79eefa6",
+   "source": "lever",
+   "posted_at": "2026-08-18",
    "first_seen": "2026-11-18"
   },
   {
@@ -1246,7 +2861,7 @@
    ],
    "role": "Finance & Accounting",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002",
    "source": "greenhouse",
    "posted_at": "2026-08-14",
@@ -1261,11 +2876,43 @@
     "Pune"
    ],
    "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Early career",
+   "confidence": 0.8,
    "url": "https://job-boards.greenhouse.io/agoda/jobs/7995117",
    "source": "greenhouse",
    "posted_at": "2026-08-06",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "69793fffafea",
+   "title": "CST - Associate - Email CST",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/715e52dd-0a51-4ff7-be68-855112e56b99",
+   "source": "lever",
+   "posted_at": "2026-08-03",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9ffa552a7af9",
+   "title": "CST - Associate - Social CST",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/84ffd393-c82b-484c-9a88-9f9ddef1b720",
+   "source": "lever",
+   "posted_at": "2026-08-03",
    "first_seen": "2026-11-18"
   },
   {
@@ -1278,7 +2925,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7318558",
    "source": "greenhouse",
    "posted_at": "2026-07-27",
@@ -1293,8 +2940,8 @@
     "Bengaluru"
    ],
    "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 1.0,
+   "level": "Early career",
+   "confidence": 0.9,
    "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
    "source": "lever",
    "posted_at": "2026-07-27",
@@ -1310,7 +2957,7 @@
    ],
    "role": "Sales & Business Development",
    "level": "Fresher",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7318466",
    "source": "greenhouse",
    "posted_at": "2026-07-22",
@@ -1326,7 +2973,7 @@
    ],
    "role": "Software Engineering",
    "level": "Internship",
-   "confidence": 1.0,
+   "confidence": 0.9,
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "source": "greenhouse",
    "posted_at": "2026-07-10",
@@ -1341,11 +2988,43 @@
     "Bengaluru"
    ],
    "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
+   "level": "Early career",
+   "confidence": 0.8,
    "url": "https://jobs.lever.co/hevodata/f74eb975-45dd-47a8-a27a-5880d1d776c7",
    "source": "lever",
    "posted_at": "2026-07-07",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1a2d84b9771b",
+   "title": "Product Support Operations Associate, Weekend Shift",
+   "company": "Stripe",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://stripe.com/jobs/search?gh_jid=7975698",
+   "source": "greenhouse",
+   "posted_at": "2026-06-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "d94583a4e7d1",
+   "title": "Copywriter",
+   "company": "Fampay",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/fampay/e908a557-dd9e-41d0-849c-b57914f3ed13",
+   "source": "lever",
+   "posted_at": "2026-06-04",
    "first_seen": "2026-11-18"
   },
   {
@@ -1365,6 +3044,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "5d200a36eec4",
+   "title": "business development & partnerships",
+   "company": "Cred",
+   "location": "bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Early career",
+   "confidence": 0.7,
+   "url": "https://jobs.lever.co/cred/09022710-e79a-4cf0-8060-df0e1cd64263",
+   "source": "lever",
+   "posted_at": "2026-05-25",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4ae7d8cfbf71",
+   "title": "Software Engineer - Data",
+   "company": "DeepIntent",
+   "location": "Pune, India ",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://job-boards.greenhouse.io/deepintent/jobs/5987259004",
+   "source": "greenhouse",
+   "posted_at": "2026-05-15",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "3c7f1412fd1a",
    "title": "Intern-Talent Acquisition",
    "company": "Paytm",
@@ -1374,10 +3085,58 @@
    ],
    "role": "HR & Recruiting",
    "level": "Internship",
-   "confidence": 0.9,
+   "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
    "source": "lever",
    "posted_at": "2026-05-01",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "bfc0b4175a3e",
+   "title": "CST - Executive/Associate - Paytm Travel (Flights)",
+   "company": "Paytm",
+   "location": "Bengaluru, Karnataka",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/paytm/74ce5d90-26b5-41b5-81dc-2ba5b862da60",
+   "source": "lever",
+   "posted_at": "2026-04-21",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "64e9c8e8abe3",
+   "title": "Don't see what you're looking for?",
+   "company": "Sigmoid",
+   "location": "Bengaluru, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.5,
+   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8484796002",
+   "source": "greenhouse",
+   "posted_at": "2026-03-30",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8d3eca682908",
+   "title": "Employee Referral",
+   "company": "Sutherland",
+   "location": "Mumbai, MH, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000114302837",
+   "source": "smartrecruiters",
+   "posted_at": "2026-03-12",
    "first_seen": "2026-11-18"
   },
   {
@@ -1389,11 +3148,43 @@
     "Bengaluru"
    ],
    "role": "Sales & Business Development",
-   "level": "Fresher",
+   "level": "Early career",
    "confidence": 0.9,
    "url": "https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575",
    "source": "greenhouse",
    "posted_at": "2026-01-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3f7da0e434fd",
+   "title": "Forward Deployed Engineer",
+   "company": "HackerRank Careers",
+   "location": "Hybrid in Bengaluru, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7461142",
+   "source": "greenhouse",
+   "posted_at": "2025-12-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2e1e3fce1a21",
+   "title": "Product Analyst",
+   "company": "Headout",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Data & Analytics",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://jobs.ashbyhq.com/headout/12182874-e512-405c-8851-13931a5b4c69",
+   "source": "ashby",
+   "posted_at": "2025-11-28",
    "first_seen": "2026-11-18"
   },
   {
@@ -1405,11 +3196,43 @@
     "Gurugram"
    ],
    "role": "HR & Recruiting",
-   "level": "Fresher",
-   "confidence": 1.0,
+   "level": "Early career",
+   "confidence": 0.9,
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7217699",
    "source": "greenhouse",
    "posted_at": "2025-09-04",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e8a81a84f006",
+   "title": "Are you an Almabase Enthusiast? Apply here!",
+   "company": "Almabase",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.6,
+   "url": "https://jobs.ashbyhq.com/Almabase/82a93823-0d3d-42cb-8985-2b4e7af01cf2",
+   "source": "ashby",
+   "posted_at": "2024-03-18",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b5370c792129",
+   "title": "Laboratory Technician",
+   "company": "Continental",
+   "location": "Kalyani, WEST BENGAL, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/Continental/743999901275018",
+   "source": "smartrecruiters",
+   "posted_at": "2023-04-21",
    "first_seen": "2026-11-18"
   }
  ]

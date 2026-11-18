@@ -5,29 +5,39 @@
    "Pune"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c9b7bef16dce": {
   "role": "Customer Success & Support",
   "cities": [
    "Pune"
   ],
-  "level": "Fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "799429625702": {
-  "role": "Marketing",
+  "role": "Other",
   "cities": [
-   "Remote"
+   "Other India"
   ],
   "level": "Internship",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "d3d9cafbce62": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3b18db1338b3": {
   "role": "Sales & Business Development",
@@ -35,39 +45,39 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "886bf6eb1ce5": {
   "role": "Sales & Business Development",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4ae7d8cfbf71": {
   "role": "Software Engineering",
   "cities": [
    "Pune"
   ],
-  "level": "Not fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "8a70c653ff4e": {
   "role": "Software Engineering",
   "cities": [
    "Pune"
   ],
-  "level": "Not fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "431573eae876": {
   "role": "Sales & Business Development",
@@ -75,9 +85,9 @@
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "32d4d19515ae": {
   "role": "Sales & Business Development",
@@ -85,9 +95,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "20f733d96ad7": {
   "role": "Sales & Business Development",
@@ -95,39 +105,49 @@
    "Remote"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ba21649947b9": {
-  "role": "Consulting & Strategy",
+  "role": "Software Engineering",
   "cities": [
    "Remote"
   ],
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a5d35c2f5b48": {
-  "role": "Consulting & Strategy",
+  "role": "Software Engineering",
   "cities": [
    "Mumbai"
   ],
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "6a804511a878": {
+  "role": "Marketing",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "43e3c736d7b1": {
   "role": "Marketing",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5b954466e055": {
   "role": "Sales & Business Development",
@@ -135,9 +155,19 @@
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "0efebca5412e": {
+  "role": "Marketing",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "e3b31fbde758": {
   "role": "Software Engineering",
@@ -145,19 +175,19 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "59eb949dfb55": {
-  "role": "Finance & Accounting",
+  "role": "HR & Recruiting",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "02be06cad108": {
   "role": "Customer Success & Support",
@@ -165,29 +195,29 @@
    "Remote"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "263b151540b8": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f7119910b38c": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4da3c874aa7d": {
   "role": "Software Engineering",
@@ -195,9 +225,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a8fed22d0b3a": {
   "role": "HR & Recruiting",
@@ -205,9 +235,9 @@
    "Remote"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dd23fe1f3e5f": {
   "role": "Software Engineering",
@@ -215,9 +245,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c93cd949faa5": {
   "role": "Software Engineering",
@@ -225,9 +255,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6c038255d14c": {
   "role": "Sales & Business Development",
@@ -235,9 +265,9 @@
    "Remote"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4fb0e058df41": {
   "role": "Content & Communications",
@@ -247,7 +277,17 @@
   "level": "Fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "73615b3dc644": {
+  "role": "Content & Communications",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "25faa54ef236": {
   "role": "AI / ML",
@@ -255,9 +295,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ad8874a1d036": {
   "role": "Customer Success & Support",
@@ -265,19 +305,19 @@
    "Bengaluru"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3f7da0e434fd": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "df4ca247e5b9": {
   "role": "Software Engineering",
@@ -287,17 +327,47 @@
   "level": "Internship",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "b1540abb63d0": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "552897f2a461": {
   "role": "Product",
   "cities": [
    "Hyderabad"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "aa322166ad6d": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "995584b9c625": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Early career",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "5a24c1ce6dc8": {
   "role": "Sales & Business Development",
@@ -305,9 +375,9 @@
    "Bengaluru"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c87bc0d2587c": {
   "role": "Sales & Business Development",
@@ -315,29 +385,40 @@
    "Gurugram"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "583fda1cdc1f": {
   "role": "HR & Recruiting",
   "cities": [
    "Gurugram"
   ],
-  "level": "Fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "fd084d09e373": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru",
+   "Gurugram"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "6011ca5b5a7d": {
-  "role": "Software Engineering",
+  "role": "Customer Success & Support",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "039ec0387a47": {
   "role": "Design",
@@ -347,7 +428,17 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "57cd1fd8696a": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "76326662512a": {
   "role": "Sales & Business Development",
@@ -355,9 +446,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0598727cd9c7": {
   "role": "Sales & Business Development",
@@ -365,9 +456,9 @@
    "Delhi"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4e91d4237354": {
   "role": "Sales & Business Development",
@@ -375,9 +466,19 @@
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "7a28fa814dcf": {
+  "role": "Finance & Accounting",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "59aa0e06562a": {
   "role": "Operations & Supply Chain",
@@ -385,9 +486,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "98f848ff66e8": {
   "role": "Finance & Accounting",
@@ -395,9 +496,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f92ffb6c77f2": {
   "role": "Product",
@@ -405,19 +506,19 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6a85a7be2846": {
   "role": "Software Engineering",
   "cities": [
-   "Pune"
+   "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f5ce4f3ff290": {
   "role": "Software Engineering",
@@ -425,9 +526,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c242281d67fb": {
   "role": "Software Engineering",
@@ -437,7 +538,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "edb5d7741c12": {
   "role": "Software Engineering",
@@ -447,7 +548,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0525b4a63e4e": {
   "role": "Software Engineering",
@@ -457,17 +558,17 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "64e9c8e8abe3": {
   "role": "Other",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.5,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b13daaf5fac8": {
   "role": "Finance & Accounting",
@@ -475,9 +576,29 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "0f3402de9d76": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "fbf674bab908": {
+  "role": "Finance & Accounting",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "a0e95ba2d878": {
   "role": "Data & Analytics",
@@ -485,29 +606,29 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f760d48273e3": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "8625b5c8a615": {
-  "role": "Operations & Supply Chain",
+  "role": "HR & Recruiting",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "92078bb31a95": {
   "role": "Operations & Supply Chain",
@@ -515,19 +636,19 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1a2d84b9771b": {
   "role": "Customer Success & Support",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e8a5b9fc6e1a": {
   "role": "Software Engineering",
@@ -535,9 +656,79 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "223d3edb48e1": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "3087228d3859": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "202eda05892d": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "5cf87b719a26": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "3fa82dc75cca": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "ffc78d8bd929": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "f353aedb222b": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "10481410216a": {
   "role": "Software Engineering",
@@ -547,7 +738,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a718385e3cce": {
   "role": "Sales & Business Development",
@@ -557,7 +748,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ad6e14ae5a79": {
   "role": "Software Engineering",
@@ -567,7 +758,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b78378d98e5e": {
   "role": "Software Engineering",
@@ -578,27 +769,37 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "b93b8609ceab": {
+  "role": "Finance & Accounting",
+  "cities": [
+   "Chandigarh"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "5d200a36eec4": {
   "role": "Sales & Business Development",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ddaf6204826d": {
   "role": "Sales & Business Development",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c2deb131c027": {
   "role": "Software Engineering",
@@ -606,19 +807,19 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0598b7d1ba24": {
-  "role": "Sales & Business Development",
+  "role": "Other",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.7,
+  "confidence": 0.5,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6b644b7a33bc": {
   "role": "Data & Analytics",
@@ -628,7 +829,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9443bf898248": {
   "role": "Sales & Business Development",
@@ -638,7 +839,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "8d8f2ccca938": {
   "role": "Content & Communications",
@@ -648,7 +849,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b8e004a094ff": {
   "role": "Software Engineering",
@@ -656,29 +857,29 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "d94583a4e7d1": {
-  "role": "Marketing",
+  "role": "Content & Communications",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "35ebbfec342c": {
-  "role": "Operations & Supply Chain",
+  "role": "HR & Recruiting",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bf930b70646a": {
   "role": "HR & Recruiting",
@@ -688,7 +889,7 @@
   "level": "Internship",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bce6d899b4d4": {
   "role": "Software Engineering",
@@ -696,9 +897,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "285f7a4822b6": {
   "role": "Software Engineering",
@@ -708,7 +909,7 @@
   "level": "Internship",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5d84ecfcf53c": {
   "role": "Sales & Business Development",
@@ -718,17 +919,17 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "110eb999c038": {
   "role": "Sales & Business Development",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "7cb5f574c94d": {
   "role": "Software Engineering",
@@ -738,17 +939,17 @@
   "level": "Internship",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "acb3a07faa2b": {
   "role": "Content & Communications",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1d9f6a1d0b75": {
   "role": "Software Engineering",
@@ -758,17 +959,27 @@
   "level": "Not fresher",
   "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "b43162a40c2f": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Pune"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "65bed5a46a49": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
-  "confidence": 1.0,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e1ccccac7888": {
   "role": "HR & Recruiting",
@@ -776,9 +987,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6ff563a34fe2": {
   "role": "Data & Analytics",
@@ -786,9 +997,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.7,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "8a88fb85ab07": {
   "role": "Design",
@@ -798,7 +1009,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "eeb5eddd4b33": {
   "role": "Other",
@@ -806,9 +1017,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5de904a484f5": {
   "role": "Sales & Business Development",
@@ -819,7 +1030,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9a8bca884738": {
   "role": "Consulting & Strategy",
@@ -829,7 +1040,7 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1c2d215615cb": {
   "role": "Software Engineering",
@@ -839,7 +1050,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "26ef71f0c999": {
   "role": "Software Engineering",
@@ -849,37 +1060,37 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b5bd71cfe437": {
   "role": "Data & Analytics",
   "cities": [
    "Remote"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4a812ade16e8": {
   "role": "Software Engineering",
   "cities": [
    "Gurugram"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c69a52c313fc": {
-  "role": "Software Engineering",
+  "role": "Customer Success & Support",
   "cities": [
    "Gurugram"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "699258d40510": {
   "role": "Sales & Business Development",
@@ -887,9 +1098,9 @@
    "Noida"
   ],
   "level": "Fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c632e7cb2165": {
   "role": "Sales & Business Development",
@@ -905,10 +1116,20 @@
    "Mumbai",
    "Kolkata"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "c4740c09f449": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "f6bab4d27c7d": {
   "role": "Marketing",
@@ -916,9 +1137,9 @@
    "Noida"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f7ecd3ddeae9": {
   "role": "Customer Success & Support",
@@ -926,63 +1147,93 @@
    "Noida",
    "Gurugram"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "3fd2d0c34d4f": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "ce436472ec33": {
   "role": "Customer Success & Support",
   "cities": [
    "Noida"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "69793fffafea": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "9ffa552a7af9": {
   "role": "Customer Success & Support",
   "cities": [
    "Noida"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bfc0b4175a3e": {
   "role": "Customer Success & Support",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ad7b09b1cad2": {
   "role": "Customer Success & Support",
   "cities": [
    "Mumbai"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ea9fcab411a1": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Noida"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "4c51b137a07f": {
+  "role": "Marketing",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "dbf9d8f305e9": {
-  "role": "Operations & Supply Chain",
+  "role": "Marketing",
   "cities": [
    "Noida",
    "Bengaluru"
@@ -990,17 +1241,17 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "79d9ac8c2177": {
   "role": "HR & Recruiting",
   "cities": [
    "Noida"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ff5c66c51380": {
   "role": "HR & Recruiting",
@@ -1009,9 +1260,9 @@
    "Noida"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "20711d161975": {
   "role": "HR & Recruiting",
@@ -1019,9 +1270,9 @@
    "Noida"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3c7f1412fd1a": {
   "role": "HR & Recruiting",
@@ -1029,19 +1280,19 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "20b1b4dcca4e": {
-  "role": "Product",
+  "role": "Marketing",
   "cities": [
    "Noida"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b06ddf057c11": {
   "role": "Product",
@@ -1051,7 +1302,7 @@
   "level": "Not fresher",
   "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "cf244411ea9c": {
   "role": "Product",
@@ -1060,9 +1311,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4f0d19393ed1": {
   "role": "Product",
@@ -1070,9 +1321,9 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "00e04317269b": {
   "role": "Product",
@@ -1084,7 +1335,17 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "6be5010718ff": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Noida"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "b5096e5a190e": {
   "role": "HR & Recruiting",
@@ -1092,9 +1353,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e71865e4a6c3": {
   "role": "HR & Recruiting",
@@ -1102,19 +1363,19 @@
    "Noida"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4f16ced85702": {
-  "role": "Sales & Business Development",
+  "role": "Customer Success & Support",
   "cities": [
    "Mumbai"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e35686edea3b": {
   "role": "Other",
@@ -1124,17 +1385,17 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a8a122220589": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "33b63c00cd2a": {
   "role": "Software Engineering",
@@ -1142,9 +1403,9 @@
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "8b575d8c7659": {
   "role": "Other",
@@ -1152,29 +1413,29 @@
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e8a81a84f006": {
   "role": "Other",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.5,
+  "level": "Early career",
+  "confidence": 0.6,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dae372dcefd0": {
-  "role": "Operations & Supply Chain",
+  "role": "Product",
   "cities": [
    "Bengaluru"
   ],
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "2ae731197694": {
   "role": "Product",
@@ -1182,19 +1443,153 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "cbfe1945806a": {
   "role": "Content & Communications",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "2e1e3fce1a21": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "05e1b929d62a": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "df974906f802": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Delhi"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "585592c4b26b": {
+  "role": "Software Engineering",
+  "cities": [
+   "Delhi"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "ee368f1e2441": {
+  "role": "Software Engineering",
+  "cities": [
+   "Delhi"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "48c4e8c41c50": {
+  "role": "Software Engineering",
+  "cities": [
+   "Delhi"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "8b044db9b828": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "b12afd6d7035": {
+  "role": "Design",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "d8e1ef84055c": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a78f729c4c89": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "0834f89610f4": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a272037e5e57": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "02368608bc33": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "2f60605a5390": {
   "role": "Consulting & Strategy",
@@ -1204,7 +1599,27 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "364b1633ad51": {
+  "role": "Design",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "00b1c5c70282": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "f2474a4ed75b": {
   "role": "Marketing",
@@ -1212,29 +1627,29 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "be19365c9c8f": {
   "role": "Content & Communications",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9db07d10acda": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b9e06fbad389": {
   "role": "Product",
@@ -1242,19 +1657,31 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "98351401175a": {
   "role": "Other",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "794797f79a47": {
+  "role": "Software Engineering",
+  "cities": [
+   "Chennai",
+   "Hyderabad",
+   "Bengaluru"
+  ],
+  "level": "Fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "de32ed91c5e7": {
   "role": "Hardware & Electronics",
@@ -1262,49 +1689,259 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "47333c78f8f7": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "e346403fb356": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "d4e05174c83e": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "9e8d06a3b3c8": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "cf13d919a354": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "1ff9ea924e3d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "75920d0b44f0": {
-  "role": "Operations & Supply Chain",
+  "role": "Sales & Business Development",
   "cities": [
    "Chennai"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "94789dbc79d4": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "1694d45926e8": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "940a1fdfe4b9": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "bdde3aa84ee5": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "cccb75a2b3ed": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "1485d6d62555": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "b6c5c9bcd4df": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "236a526a791d": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "36577d2862b0": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "5e0a31f6a760": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "56e3ecbde748": {
+  "role": "Other",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "d76f79696d74": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a267af491983": {
+  "role": "Other",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "e861c8e568f6": {
+  "role": "Content & Communications",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "60ac5c7a7126": {
-  "role": "Software Engineering",
+  "role": "Operations & Supply Chain",
   "cities": [
    "Pune"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9f02005d8de9": {
-  "role": "Software Engineering",
+  "role": "Operations & Supply Chain",
   "cities": [
    "Pune"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a573e6753c42": {
-  "role": "Software Engineering",
+  "role": "Operations & Supply Chain",
   "cities": [
    "Pune"
   ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "50e7276bc75a": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "49d2372cb0f0": {
   "role": "Software Engineering",
@@ -1312,9 +1949,19 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "513c2cd5a98d": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "e332e5294107": {
   "role": "Software Engineering",
@@ -1324,7 +1971,47 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "f3f1eea55159": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "e6a3e9b2c5ff": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "976ff6346534": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "58113687fbc5": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "7da2e6a7ff94": {
   "role": "Software Engineering",
@@ -1332,19 +2019,19 @@
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9c0ac83f3eda": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bbc0dd6267cd": {
   "role": "Consulting & Strategy",
@@ -1354,7 +2041,27 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "aee164182c03": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "2b7405bc9992": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "cea05f8fb941": {
   "role": "Finance & Accounting",
@@ -1364,69 +2071,139 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "e33200d777fd": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "bca96492f02d": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "20f94a49c074": {
-  "role": "Software Engineering",
+  "role": "Operations & Supply Chain",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "c2b367f0625f": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Ahmedabad"
+  ],
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f6fab68872d9": {
   "role": "Sales & Business Development",
   "cities": [
    "Pune"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b847f60b0772": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f95da4c18c79": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "317027917592": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "88d7ec28613e": {
+  "role": "AI / ML",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "76e4d9d3e11c": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
- "aa17b2f0c4e7": {
+ "3f6af8424447": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "375fec2d4d83": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "04713fd549b1": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "eeb24e54d5a2": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
@@ -1434,17 +2211,97 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "9b3dd6018e83": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a64c5cefd5ed": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "6f9f9666bd2f": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "f672ee1b3b96": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "aa17b2f0c4e7": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "4fece0a0d920": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "5cacec99114a": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "83d64db2926e": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "de65df6eff0a": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c968ce4039e5": {
   "role": "Operations & Supply Chain",
@@ -1452,19 +2309,29 @@
    "Other India"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
- "aadaef812deb": {
-  "role": "Other",
+ "dc334cae2bdb": {
+  "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "aadaef812deb": {
+  "role": "AI / ML",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "00df5b413b9e": {
   "role": "AI / ML",
@@ -1474,67 +2341,87 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "fab7446e0fdd": {
+  "role": "Design",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "c61497cbb234": {
-  "role": "Software Engineering",
+  "role": "Operations & Supply Chain",
   "cities": [
    "Coimbatore"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "367b2f4fa6db": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "fc2a5e79c079": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5f673f88e908": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "361dfc4ae46f": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "06ff7e2cf9c1": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a683b0324c1a": {
-  "role": "Operations & Supply Chain",
+  "role": "Consulting & Strategy",
   "cities": [
    "Coimbatore"
   ],
-  "level": "Not fresher",
-  "confidence": 0.9,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b8a88251bc9e": {
   "role": "Software Engineering",
@@ -1544,7 +2431,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bd1a0a9a4d90": {
   "role": "Software Engineering",
@@ -1554,7 +2441,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e4efa9d0fd38": {
   "role": "Software Engineering",
@@ -1564,7 +2451,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "23c976ec7d2f": {
   "role": "Software Engineering",
@@ -1574,17 +2461,17 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "7861234a7dff": {
-  "role": "Data & Analytics",
+  "role": "Other",
   "cities": [
    "Bengaluru"
   ],
   "level": "Not fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ab069efe3052": {
   "role": "Operations & Supply Chain",
@@ -1594,7 +2481,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "d135a5f5c8d1": {
   "role": "Operations & Supply Chain",
@@ -1604,7 +2491,27 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "1a1c2d9f8658": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "aaa3338ebfe1": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "4d99790a4499": {
   "role": "Software Engineering",
@@ -1614,7 +2521,47 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "263357f83916": {
+  "role": "Other",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a00771f57a8e": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "65412f6bb815": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "5ebb9a2372eb": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "010b91526cab": {
   "role": "Software Engineering",
@@ -1624,7 +2571,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0e2586c34c60": {
   "role": "Sales & Business Development",
@@ -1634,27 +2581,27 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
- "636d598b805d": {
-  "role": "Consulting & Strategy",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Not fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "09f22ea92c7f": {
+ "340379e96567": {
   "role": "Software Engineering",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "09f22ea92c7f": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "0d0d3cad0a8e": {
   "role": "Software Engineering",
@@ -1665,9 +2612,9 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
- "ac091f1e70ca": {
+ "293a255486ec": {
   "role": "Software Engineering",
   "cities": [
    "Bengaluru"
@@ -1675,7 +2622,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dd09cb06fdb6": {
   "role": "Sales & Business Development",
@@ -1685,7 +2632,37 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "799701183a25": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "8f8fe67e8887": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "6b6e8290b486": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "1794ba980624": {
   "role": "Software Engineering",
@@ -1695,7 +2672,37 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "87e82897f6f8": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "070e7999f938": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Gurugram"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "252e587a5656": {
+  "role": "Software Engineering",
+  "cities": [
+   "Pune"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "f35ca043ceae": {
   "role": "Data & Analytics",
@@ -1705,77 +2712,117 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "0d9d44030911": {
+  "role": "Software Engineering",
+  "cities": [
+   "Pune"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "d610474fab2e": {
-  "role": "Other",
+  "role": "Data & Analytics",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.7,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dcb7369ac14c": {
   "role": "Data & Analytics",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "00f055bb5534": {
-  "role": "Consulting & Strategy",
+  "role": "Data & Analytics",
   "cities": [
    "Mumbai"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "e598b86c204d": {
+  "role": "Other",
+  "cities": [
+   "Pune"
   ],
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "0620a31f1c93": {
+  "role": "Software Engineering",
+  "cities": [
+   "Pune"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "50bfd72e6beb": {
   "role": "Customer Success & Support",
   "cities": [
    "Pune"
   ],
-  "level": "Fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f11cdb41f9cf": {
-  "role": "Other",
+  "role": "Data & Analytics",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.7,
+  "level": "Early career",
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b8c3d5cf312a": {
-  "role": "Other",
+  "role": "Data & Analytics",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "48c424aeff9d": {
+  "role": "Product",
   "cities": [
    "Mumbai"
   ],
   "level": "Not fresher",
-  "confidence": 0.7,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "d0c616688161": {
   "role": "Software Engineering",
   "cities": [
    "Pune"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "46c7943ebe75": {
   "role": "Consulting & Strategy",
@@ -1783,19 +2830,29 @@
    "Pune"
   ],
   "level": "Not fresher",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dc9c02a0074c": {
-  "role": "Operations & Supply Chain",
+  "role": "Customer Success & Support",
   "cities": [
    "Kochi"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "42753fcf6dcd": {
+  "role": "Software Engineering",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "dc379b61ba8f": {
   "role": "Customer Success & Support",
@@ -1806,57 +2863,77 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3011aea6a9a3": {
   "role": "Customer Success & Support",
   "cities": [
    "Hyderabad"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "552240df18c1": {
   "role": "Customer Success & Support",
   "cities": [
    "Hyderabad"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4b4f15b8d8ab": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Hyderabad"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "908e66090021": {
   "role": "Customer Success & Support",
   "cities": [
    "Hyderabad"
   ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "099bf230708f": {
+  "role": "Software Engineering",
+  "cities": [
+   "Hyderabad"
+  ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "e328b7dd5862": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "8d3eca682908": {
   "role": "Customer Success & Support",
   "cities": [
    "Mumbai"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "687c115120e6": {
   "role": "Software Engineering",
@@ -1866,37 +2943,57 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b5370c792129": {
   "role": "Other",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9e2c663a98e6": {
   "role": "Content & Communications",
   "cities": [
    "Mumbai"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
- "a06d40d971a4": {
-  "role": "Marketing",
+ "81e7b41c76fc": {
+  "role": "Consulting & Strategy",
   "cities": [
    "Mumbai"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "07cc56de40f8": {
+  "role": "Design",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a06d40d971a4": {
+  "role": "Content & Communications",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "25fa00ddeece": {
   "role": "Marketing",
@@ -1906,17 +3003,17 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "fb8909598cd1": {
   "role": "Sales & Business Development",
   "cities": [
    "Pune"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a11e6a12baf0": {
   "role": "Other",
@@ -1926,37 +3023,37 @@
   "level": "Not fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "151de4daaafd": {
   "role": "Content & Communications",
   "cities": [
    "Chandigarh"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "08a1cdd8fe14": {
   "role": "Sales & Business Development",
   "cities": [
    "Kolkata"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "31df4002d204": {
   "role": "Sales & Business Development",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "43df6f2e8738": {
   "role": "Content & Communications",
@@ -1966,955 +3063,77 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5705391ad842": {
   "role": "Content & Communications",
   "cities": [
    "Chandigarh"
   ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
+ },
+ "a434a247ea07": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Bengaluru"
+  ],
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "dc13dde3faca": {
   "role": "Other",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.5,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "474f87bd6cf0": {
   "role": "Content & Communications",
   "cities": [
    "Mumbai"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "8c384b4acc53": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "6e3fe683eb6c": {
-  "role": "Hardware & Electronics",
-  "cities": [
-   "Thiruvananthapuram"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "e8fcee06bab7": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f498be529d41": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "70c716df7f95": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "58da7cbdb36e": {
-  "role": "Software Engineering",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "ae37cdae54c5": {
-  "role": "Other",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Internship",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "3561c27facea": {
-  "role": "Marketing",
-  "cities": [
-   "Jaipur"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "20245ee70d74": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "913e3fd3d665": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "1a80187441ee": {
-  "role": "Consulting & Strategy",
-  "cities": [
-   "Hyderabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "31ed1968465b": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "81bf20aaca08": {
-  "role": "Hardware & Electronics",
-  "cities": [
-   "Delhi",
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "41a4891ed7c3": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Delhi"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "a49ea8df3f24": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India",
-   "Thiruvananthapuram"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "756ac359ce7b": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Chennai"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "e93185bcd87c": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "fb520ba1b14f": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.7,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "ad45736571e7": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f57513e79bbf": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Pune"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "125bd9c73d8f": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Delhi",
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "e66727695510": {
-  "role": "Content & Communications",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "9e0cc1d1158d": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Gurugram"
-  ],
-  "level": "Internship",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "41e23001251b": {
-  "role": "Marketing",
-  "cities": [
-   "Remote"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "1b40f9b36b8f": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "e66433490e5f": {
-  "role": "Marketing",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "efd96f0eb5c6": {
-  "role": "Marketing",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "dd0c84267076": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "0d494e800fca": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "c97156af6840": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f838ba681cb8": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "2befaf2ffdec": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "2482c1980fc2": {
-  "role": "Marketing",
-  "cities": [
-   "Delhi"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "4be65a835794": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Hyderabad"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "ab724fd14b6f": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Noida"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "14dc8980f8f1": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "385da553c946": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "6c870ec77c1e": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "d88430eec20a": {
-  "role": "Software Engineering",
-  "cities": [
-   "Mumbai"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "7c9b7710a699": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "5841d764f51b": {
-  "role": "Content & Communications",
-  "cities": [
-   "Mumbai"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "783ebd87cd8b": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "b8696e3fd5ee": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Pune",
-   "Chennai",
-   "Delhi",
-   "Bengaluru",
-   "Jaipur",
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "326d85fcb6ea": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "cb87bb3e33c1": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "4599186cd707": {
-  "role": "Consulting & Strategy",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "338bf277f79e": {
-  "role": "Marketing",
-  "cities": [
-   "Jaipur"
-  ],
-  "level": "Internship",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "60acd701d639": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "99d83fc4f4d0": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "ab95c1e7de84": {
-  "role": "Marketing",
-  "cities": [
-   "Mumbai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "83265fd6c1b4": {
-  "role": "Other",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.6,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "25df3e3c6db8": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Pune"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "0d48b5b95108": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "da16f2cc8620": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "97f0b6e49f35": {
-  "role": "Other",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "2ac9342be618": {
-  "role": "Software Engineering",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "b688309b1ee2": {
-  "role": "Other",
-  "cities": [
-   "Hyderabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "0a66232a0d1e": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "5a1a6e8194f7": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "3c7be1d591c4": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f01ac2d46015": {
-  "role": "Software Engineering",
-  "cities": [
-   "Chennai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f52d4667534f": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Mumbai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "d9e2b865cb24": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "2aa08514d152": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "187fe838d3eb": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "a098739382f1": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Ahmedabad"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "a21eccb8fc9f": {
-  "role": "Design",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "8d51e3f290f6": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "1a1409f81c56": {
-  "role": "Software Engineering",
-  "cities": [
-   "Chennai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "4638d66258fd": {
-  "role": "Software Engineering",
-  "cities": [
-   "Indore"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "a69339c32d7c": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "b510e43f4d8c": {
-  "role": "Software Engineering",
-  "cities": [
-   "Pune"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "e676a20ea862": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "4c4e41915fb1": {
-  "role": "Software Engineering",
-  "cities": [
-   "Chennai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "18326c5331d6": {
-  "role": "Sales & Business Development",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "5af653b7826e": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "a3481a094a4c": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Gurugram"
-  ],
-  "level": "Internship",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "b0a4bbef5846": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Internship",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "faffa1bba300": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Pune"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "4b1a67c6e20e": {
-  "role": "Customer Success & Support",
-  "cities": [
-   "Bengaluru"
-  ],
-  "level": "Fresher",
-  "confidence": 0.95,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "86972a3a6833": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Coimbatore"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "94734ba52add": {
-  "role": "Software Engineering",
-  "cities": [
-   "Chennai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "2363067b1c46": {
-  "role": "Software Engineering",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "645835daf00b": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Pune"
-  ],
-  "level": "Internship",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "112f9cd93ad4": {
-  "role": "Finance & Accounting",
-  "cities": [
-   "Indore"
-  ],
-  "level": "Internship",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "f35ff328f859": {
-  "role": "Operations & Supply Chain",
-  "cities": [
-   "Other India"
-  ],
-  "level": "Fresher",
-  "confidence": 0.8,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "c2d2da3771ff": {
-  "role": "HR & Recruiting",
-  "cities": [
-   "Remote"
-  ],
-  "level": "Fresher",
-  "confidence": 0.85,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
- },
- "b92df2f9a728": {
-  "role": "Hardware & Electronics",
-  "cities": [
-   "Mumbai"
-  ],
-  "level": "Fresher",
-  "confidence": 0.9,
-  "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6b9eba181db5": {
-  "role": "Other",
+  "role": "Software Engineering",
   "cities": [
    "Other India"
   ],
   "level": "Fresher",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c2159f4bc1d2": {
-  "role": "Operations & Supply Chain",
+  "role": "Data & Analytics",
   "cities": [
    "Chennai"
   ],
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "9b25eb0969da": {
-  "role": "Content & Communications",
+  "role": "Software Engineering",
   "cities": [
-   "Mumbai"
+   "Other India"
   ],
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "05206e0b6584": {
   "role": "Finance & Accounting",
@@ -2924,27 +3143,27 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "bd42782d35a5": {
   "role": "Other",
   "cities": [
    "Hyderabad"
   ],
-  "level": "Not fresher",
+  "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4849e55f6b80": {
-  "role": "Marketing",
+  "role": "Sales & Business Development",
   "cities": [
    "Other India"
   ],
   "level": "Fresher",
-  "confidence": 0.9,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "2464213ea5f3": {
   "role": "Finance & Accounting",
@@ -2954,7 +3173,7 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "277d3a16550e": {
   "role": "Other",
@@ -2964,20 +3183,20 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "7d1d40ba9498": {
   "role": "Other",
   "cities": [
    "Mumbai",
    "Hyderabad",
-   "Other India",
-   "Bengaluru"
+   "Bengaluru",
+   "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ebe17f39edcc": {
   "role": "Sales & Business Development",
@@ -2985,9 +3204,9 @@
    "Bengaluru"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ca9df05639b2": {
   "role": "Finance & Accounting",
@@ -2995,19 +3214,19 @@
    "Gurugram"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a666f14cf659": {
   "role": "Finance & Accounting",
   "cities": [
    "Remote"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4fddbe02f01d": {
   "role": "Other",
@@ -3017,7 +3236,17 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "70c716df7f95": {
+  "role": "Other",
+  "cities": [
+   "Ahmedabad"
+  ],
+  "level": "Fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "dc90c847845b": {
   "role": "Sales & Business Development",
@@ -3027,7 +3256,17 @@
   "level": "Fresher",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "58da7cbdb36e": {
+  "role": "Software Engineering",
+  "cities": [
+   "Ahmedabad"
+  ],
+  "level": "Fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "fabfc07073aa": {
   "role": "Sales & Business Development",
@@ -3037,7 +3276,7 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f5335d2d144c": {
   "role": "Software Engineering",
@@ -3047,7 +3286,7 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "51525d75d687": {
   "role": "Finance & Accounting",
@@ -3055,29 +3294,29 @@
    "Hyderabad"
   ],
   "level": "Fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0e4a53252417": {
   "role": "Other",
   "cities": [
-   "Remote"
+   "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1c56cefacb60": {
-  "role": "Other",
+  "role": "Customer Success & Support",
   "cities": [
    "Delhi"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3445efab3e3a": {
   "role": "Finance & Accounting",
@@ -3085,9 +3324,9 @@
    "Other India"
   ],
   "level": "Fresher",
-  "confidence": 1.0,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "54820cc3ab4d": {
   "role": "Other",
@@ -3097,7 +3336,7 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b3342d8a4b2f": {
   "role": "AI / ML",
@@ -3105,29 +3344,39 @@
    "Hyderabad"
   ],
   "level": "Fresher",
-  "confidence": 0.9,
+  "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a55bbe1ec661": {
   "role": "Other",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "c97156af6840": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "9b1a91b5cf36": {
   "role": "Operations & Supply Chain",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "04ca02dfe85e": {
   "role": "Finance & Accounting",
@@ -3137,37 +3386,37 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c891bdfb69ba": {
   "role": "Marketing",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "a16d20bfae2b": {
   "role": "Design",
   "cities": [
    "Bengaluru"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ef9dda15081e": {
   "role": "Design",
   "cities": [
-   "Remote"
+   "Other India"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "01a0d2a06cd2": {
   "role": "Design",
@@ -3177,17 +3426,27 @@
   "level": "Not fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ed1500a4b383": {
   "role": "Finance & Accounting",
   "cities": [
    "Chennai"
   ],
-  "level": "Not fresher",
-  "confidence": 0.8,
+  "level": "Early career",
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "cb87bb3e33c1": {
+  "role": "Software Engineering",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "8a733143733a": {
   "role": "HR & Recruiting",
@@ -3197,7 +3456,7 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "321261992e4e": {
   "role": "Software Engineering",
@@ -3207,7 +3466,7 @@
   "level": "Fresher",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "fbe52d2a3560": {
   "role": "Sales & Business Development",
@@ -3217,7 +3476,7 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "f406ffd51bf9": {
   "role": "Finance & Accounting",
@@ -3227,47 +3486,47 @@
   "level": "Fresher",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "56fdbb19b4ba": {
   "role": "Other",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "48c71fd21bd7": {
   "role": "Other",
   "cities": [
    "Jaipur"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "acaa1c84fa57": {
   "role": "Other",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "143bfe4bbbc7": {
   "role": "Other",
   "cities": [
    "Other India"
   ],
-  "level": "Not fresher",
+  "level": "Early career",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "186ecc196326": {
   "role": "Other",
@@ -3277,7 +3536,7 @@
   "level": "Internship",
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "02a5972d483f": {
   "role": "Marketing",
@@ -3287,7 +3546,7 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1e93261b1a31": {
   "role": "Marketing",
@@ -3297,7 +3556,7 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "24e2f108366a": {
   "role": "Other",
@@ -3307,7 +3566,7 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "2212f0aedf37": {
   "role": "Other",
@@ -3317,7 +3576,17 @@
   "level": "Internship",
   "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "f498be529d41": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Internship",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "90c2b3f6fc71": {
   "role": "Other",
@@ -3325,19 +3594,19 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.6,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c7f9d4f5ffcd": {
-  "role": "Software Engineering",
+  "role": "Other",
   "cities": [
    "Thiruvananthapuram"
   ],
   "level": "Internship",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "e2aa0c3cf2b1": {
   "role": "Data & Analytics",
@@ -3345,9 +3614,9 @@
    "Bengaluru"
   ],
   "level": "Internship",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "c8d8608b1545": {
   "role": "Software Engineering",
@@ -3357,7 +3626,7 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "0734e0b111b4": {
   "role": "Other",
@@ -3365,9 +3634,9 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.6,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "b2f6791bc331": {
   "role": "Other",
@@ -3377,7 +3646,7 @@
   "level": "Internship",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "84048592dfa4": {
   "role": "Other",
@@ -3385,9 +3654,9 @@
    "Gurugram"
   ],
   "level": "Internship",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "ef01f7edc1fd": {
   "role": "Software Engineering",
@@ -3397,7 +3666,7 @@
   "level": "Internship",
   "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "942d8df02f8f": {
   "role": "Other",
@@ -3405,9 +3674,19 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.7,
+  "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "ae37cdae54c5": {
+  "role": "Other",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Internship",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  },
  "06854b749031": {
   "role": "Data & Analytics",
@@ -3417,7 +3696,7 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3b7b07bccd0c": {
   "role": "Other",
@@ -3425,19 +3704,19 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.6,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "1fc9d89eba50": {
-  "role": "Content & Communications",
+  "role": "Marketing",
   "cities": [
    "Gurugram"
   ],
   "level": "Internship",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "6c8820ece5ad": {
   "role": "Other",
@@ -3445,9 +3724,9 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.6,
+  "confidence": 0.7,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "19139db9b85d": {
   "role": "HR & Recruiting",
@@ -3455,9 +3734,9 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "4860994f65fb": {
   "role": "Software Engineering",
@@ -3467,7 +3746,7 @@
   "level": "Internship",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "15b82ad6c48a": {
   "role": "Customer Success & Support",
@@ -3475,9 +3754,9 @@
    "Other India"
   ],
   "level": "Internship",
-  "confidence": 0.8,
+  "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "5645e2438320": {
   "role": "Finance & Accounting",
@@ -3487,16 +3766,26 @@
   "level": "Internship",
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
  },
  "3fdc0b0aa262": {
-  "role": "Software Engineering",
+  "role": "Other",
   "cities": [
    "Pune"
   ],
   "level": "Internship",
   "confidence": 0.8,
   "model": "gemini-3.1-flash-lite",
-  "v": 2
+  "v": 3
+ },
+ "31ed1968465b": {
+  "role": "Other",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Internship",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 3
  }
 }

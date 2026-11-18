@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:10+05:30",
+ "updated_at": "2026-11-18T09:13+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,20 +8,20 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:10",
-  "fetched": 9842,
-  "india": 2450,
-  "fresher_rules": 304,
-  "exact_dupes": 35,
-  "fuzzy_dupes": 3,
-  "rejected_by_llm": 178,
-  "published": 88,
-  "newly_tagged": 61,
-  "from_cache": 205,
-  "llm_calls": 2,
-  "input_tokens": 10034,
-  "output_tokens": 2572,
-  "cost_usd": 0.006366,
+  "time": "09:13",
+  "fetched": 9843,
+  "india": 2451,
+  "fresher_rules": 435,
+  "exact_dupes": 55,
+  "fuzzy_dupes": 4,
+  "rejected_by_llm": 175,
+  "published": 201,
+  "newly_tagged": 376,
+  "from_cache": 0,
+  "llm_calls": 10,
+  "input_tokens": 66065,
+  "output_tokens": 16750,
+  "cost_usd": 0.041641,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
@@ -33,201 +33,241 @@
   }
  },
  "cost": {
-  "posts_tagged_all_time": 804,
-  "input_tokens": 102295,
-  "output_tokens": 35182,
-  "usd_all_time": 0.078346,
-  "usd_per_1000": 0.0974,
-  "tokens_per_post": 171
+  "posts_tagged_all_time": 1180,
+  "input_tokens": 168360,
+  "output_tokens": 51932,
+  "usd_all_time": 0.119987,
+  "usd_per_1000": 0.1017,
+  "tokens_per_post": 187
  },
  "by_role": [
   [
-   "Other",
-   15
-  ],
-  [
    "Software Engineering",
-   15
+   42
   ],
   [
-   "Sales & Business Development",
-   11
-  ],
-  [
-   "Finance & Accounting",
-   10
-  ],
-  [
-   "HR & Recruiting",
-   10
-  ],
-  [
-   "Marketing",
-   7
+   "Other",
+   32
   ],
   [
    "Customer Success & Support",
-   6
+   22
   ],
   [
-   "Content & Communications",
-   5
+   "Sales & Business Development",
+   18
   ],
   [
    "Operations & Supply Chain",
-   4
+   14
   ],
   [
    "Data & Analytics",
-   2
+   13
+  ],
+  [
+   "Finance & Accounting",
+   13
+  ],
+  [
+   "Content & Communications",
+   11
+  ],
+  [
+   "HR & Recruiting",
+   11
+  ],
+  [
+   "Marketing",
+   8
+  ],
+  [
+   "Design",
+   4
   ],
   [
    "AI / ML",
-   2
+   4
+  ],
+  [
+   "Consulting & Strategy",
+   3
   ],
   [
    "Product",
-   1
+   3
+  ],
+  [
+   "Hardware & Electronics",
+   3
   ]
  ],
  "by_city": [
   [
    "Bengaluru",
-   35
+   84
   ],
   [
    "Other India",
-   20
+   39
   ],
   [
    "Hyderabad",
-   6
-  ],
-  [
-   "Gurugram",
-   6
+   18
   ],
   [
    "Mumbai",
-   5
-  ],
-  [
-   "Noida",
-   5
-  ],
-  [
-   "Remote",
-   4
+   15
   ],
   [
    "Pune",
-   3
+   12
+  ],
+  [
+   "Noida",
+   12
+  ],
+  [
+   "Gurugram",
+   9
   ],
   [
    "Chennai",
-   3
-  ],
-  [
-   "Ahmedabad",
-   2
-  ],
-  [
-   "Thiruvananthapuram",
-   1
-  ]
- ],
- "by_level": [
-  [
-   "Internship",
-   47
-  ],
-  [
-   "Fresher",
-   41
-  ]
- ],
- "by_company": [
-  [
-   "Paytm",
    6
   ],
   [
-   "Rubrik Job Board",
+   "Remote",
+   5
+  ],
+  [
+   "Ahmedabad",
    4
   ],
   [
-   "Hevodata",
-   4
-  ],
-  [
-   "HackerRank Careers",
+   "Chandigarh",
    3
   ],
   [
-   "MongoDB",
+   "Coimbatore",
    3
-  ],
-  [
-   "ascendion",
-   2
-  ],
-  [
-   "Playto Labs",
-   2
   ],
   [
    "Delhi",
    2
   ],
   [
-   "Job Resource Point",
+   "Kolkata",
    2
   ],
   [
-   "Valeo",
+   "Jaipur",
    2
   ],
   [
-   "MAK",
-   2
+   "Thiruvananthapuram",
+   1
   ],
   [
-   "Fampay",
-   2
+   "Kochi",
+   1
+  ]
+ ],
+ "by_level": [
+  [
+   "Early career",
+   119
+  ],
+  [
+   "Internship",
+   47
+  ],
+  [
+   "Fresher",
+   35
+  ]
+ ],
+ "by_company": [
+  [
+   "Bosch Group",
+   30
+  ],
+  [
+   "Paytm",
+   16
+  ],
+  [
+   "SWIGGY",
+   12
+  ],
+  [
+   "NielsenIQ",
+   9
+  ],
+  [
+   "Sutherland",
+   7
+  ],
+  [
+   "Happiest Resume",
+   6
+  ],
+  [
+   "Hevodata",
+   5
   ],
   [
    "Stripe",
-   2
+   4
   ],
   [
-   "Mindtel",
-   1
+   "Rubrik Job Board",
+   4
   ],
   [
-   "Carrier Corporation",
-   1
+   "Fampay",
+   4
+  ],
+  [
+   "HackerRank Careers",
+   4
+  ],
+  [
+   "Careers at Tide",
+   3
+  ],
+  [
+   "Sarvam",
+   3
+  ],
+  [
+   "Headout",
+   3
+  ],
+  [
+   "Netomi",
+   3
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   51
-  ],
-  [
-   "greenhouse",
-   18
-  ],
-  [
-   "lever",
-   12
+   66
   ],
   [
    "smartrecruiters",
-   4
+   60
+  ],
+  [
+   "greenhouse",
+   34
+  ],
+  [
+   "lever",
+   30
   ],
   [
    "ashby",
-   3
+   11
   ]
  ],
  "history": [
@@ -346,6 +386,32 @@
    "input_tokens": 10034,
    "output_tokens": 2572,
    "cost_usd": 0.006366,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7310,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993,
+    "adzuna": 100
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:13",
+   "fetched": 9843,
+   "india": 2451,
+   "fresher_rules": 435,
+   "exact_dupes": 55,
+   "fuzzy_dupes": 4,
+   "rejected_by_llm": 175,
+   "published": 201,
+   "newly_tagged": 376,
+   "from_cache": 0,
+   "llm_calls": 10,
+   "input_tokens": 66065,
+   "output_tokens": 16750,
+   "cost_usd": 0.041641,
    "model": "gemini-3.1-flash-lite",
    "boards": 81,
    "by_source": {
