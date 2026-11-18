@@ -1,0 +1,26 @@
+[
+ {
+  "date": "2026-11-18",
+  "time": "08:52",
+  "fetched": 8194,
+  "india": 1750,
+  "fresher_rules": 50,
+  "exact_dupes": 0,
+  "fuzzy_dupes": 1,
+  "rejected_by_llm": 0,
+  "published": 49,
+  "newly_tagged": 0,
+  "from_cache": 0,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "boards": 52,
+  "by_source": {
+   "greenhouse": 6397,
+   "lever": 642,
+   "ashby": 492,
+   "smartrecruiters": 663
+  }
+ }
+]

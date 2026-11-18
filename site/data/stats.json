@@ -1,0 +1,166 @@
+{
+ "updated_at": "2026-11-18T08:52+05:30",
+ "model": "gemini-2.5-flash-lite",
+ "price": {
+  "input_per_m": 0.1,
+  "output_per_m": 0.4,
+  "usd_to_inr": 84.0
+ },
+ "latest": {
+  "date": "2026-11-18",
+  "time": "08:52",
+  "fetched": 8194,
+  "india": 1750,
+  "fresher_rules": 50,
+  "exact_dupes": 0,
+  "fuzzy_dupes": 1,
+  "rejected_by_llm": 0,
+  "published": 49,
+  "newly_tagged": 0,
+  "from_cache": 0,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "boards": 52,
+  "by_source": {
+   "greenhouse": 6397,
+   "lever": 642,
+   "ashby": 492,
+   "smartrecruiters": 663
+  }
+ },
+ "cost": {
+  "posts_tagged_all_time": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "usd_all_time": 0.0,
+  "usd_per_1000": null,
+  "tokens_per_post": null
+ },
+ "by_role": [
+  [
+   "Untagged",
+   49
+  ]
+ ],
+ "by_city": [
+  [
+   "Unknown",
+   49
+  ]
+ ],
+ "by_level": [
+  [
+   "Unknown",
+   49
+  ]
+ ],
+ "by_company": [
+  [
+   "Paytm",
+   13
+  ],
+  [
+   "Bosch Group",
+   10
+  ],
+  [
+   "Stripe",
+   6
+  ],
+  [
+   "Rubrik Job Board",
+   4
+  ],
+  [
+   "Fampay",
+   3
+  ],
+  [
+   "Composio",
+   2
+  ],
+  [
+   "Sarvam",
+   2
+  ],
+  [
+   "MongoDB",
+   2
+  ],
+  [
+   "Elastic",
+   1
+  ],
+  [
+   "Zscaler",
+   1
+  ],
+  [
+   "Sumo Logic",
+   1
+  ],
+  [
+   "Toast",
+   1
+  ],
+  [
+   "Datadog",
+   1
+  ],
+  [
+   "Mindtickle",
+   1
+  ],
+  [
+   "Groww",
+   1
+  ]
+ ],
+ "by_source": [
+  [
+   "greenhouse",
+   18
+  ],
+  [
+   "lever",
+   17
+  ],
+  [
+   "smartrecruiters",
+   10
+  ],
+  [
+   "ashby",
+   4
+  ]
+ ],
+ "history": [
+  {
+   "date": "2026-11-18",
+   "time": "08:52",
+   "fetched": 8194,
+   "india": 1750,
+   "fresher_rules": 50,
+   "exact_dupes": 0,
+   "fuzzy_dupes": 1,
+   "rejected_by_llm": 0,
+   "published": 49,
+   "newly_tagged": 0,
+   "from_cache": 0,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "boards": 52,
+   "by_source": {
+    "greenhouse": 6397,
+    "lever": 642,
+    "ashby": 492,
+    "smartrecruiters": 663
+   }
+  }
+ ],
+ "eval": null
+}
