@@ -148,7 +148,7 @@ ROLES = [
     "Customer Success & Support",
     "Content & Communications",
     "Consulting & Strategy",
-    "Hardware & Electronics",
+    "Core Engineering",            # mechanical, electrical, civil, electronics, manufacturing
     "Other",
 ]
 

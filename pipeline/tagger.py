@@ -27,7 +27,7 @@ import config
 
 # Bump this whenever the prompt or the input format changes: cached tags made
 # with an older version are thrown away and those posts are tagged again.
-PROMPT_VERSION = 6
+PROMPT_VERSION = 7
 
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -43,13 +43,16 @@ For EACH post, return:
   Notes: "AI / ML" is only for roles that build or research ML models. A data analyst
   or BI role is "Data & Analytics". Business analyst roles are "Consulting & Strategy"
   unless they are mainly SQL/dashboards. QA/test, DevOps, SRE and mobile roles are
-  "Software Engineering". Use "Other" only when nothing fits.
+  "Software Engineering". Mechanical, electrical, civil, electronics, production,
+  maintenance and manufacturing roles (including most "Graduate Engineer Trainee" posts
+  at manufacturers) are "Core Engineering", not Software Engineering. Use "Other" only when nothing fits.
 - "cities": every Indian city where the job is based, using ONLY these names:
   {json.dumps(config.CITIES)}
   Map spellings to the list: Bangalore -> Bengaluru, Gurgaon -> Gurugram,
   New Delhi -> Delhi, Bombay -> Mumbai, Trivandrum -> Thiruvananthapuram,
   Cochin -> Kochi. If the job is fully remote in India use "Remote". An Indian city
-  that is not in the list is "Other India". If the job is NOT located in India
+  that is not in the list is "Other India". If the location field is vague (e.g. just
+  "India"), use a city named in the title or description; only if none is named, "Other India". If the job is NOT located in India
   (e.g. a US state like "MI" or "CA", or another country), answer ["Not in India"].
 - "level":
   "Internship" if it is an internship / trainee / apprenticeship.

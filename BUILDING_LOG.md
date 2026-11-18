@@ -157,3 +157,14 @@ it picked "Other India".
 "Not in India" as an allowed city answer so the LLM has a way to say so, and drop those posts.
 **Lesson:** Constrained output (enums) is great, but the model needs an escape hatch,
 or it's forced to pick a wrong answer.
+
+### 16. "Graduate Engineer Trainee – Mechanical" tagged as Software Engineering
+**What happened:** Reading another random sample, mechanical and production trainee roles
+at manufacturers were filed under Software Engineering. Vague locations like "India, India"
+went to "Other India" even when the title said "Hyderabad".
+**Why:** My role list came from a tech-startup mindset and had no home for core engineering,
+which is a huge share of Indian fresher hiring (GET roles). The closest enum was "Software".
+**Fix:** Renamed "Hardware & Electronics" to **Core Engineering** (mechanical, electrical,
+civil, electronics, manufacturing) with an explicit rule in the prompt; told the model to use
+a city named in the title when the location field is vague. Bumped `PROMPT_VERSION` so
+everything is re-tagged under the new rules.
