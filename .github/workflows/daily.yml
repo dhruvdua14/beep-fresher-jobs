@@ -41,6 +41,7 @@ jobs:
           git add data site/data
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "data: daily refresh $(TZ=Asia/Kolkata date +'%d %b %Y')"
+          git pull --rebase origin main   # in case code was pushed while we ran
           git push
 
   deploy:

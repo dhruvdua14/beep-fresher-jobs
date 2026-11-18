@@ -81,3 +81,10 @@ job they can't get is worse than missing one. (3) 40 posts per call instead of 2
 stay inside the free tier's daily request limit.
 
 Also: GitHub Pages wasn't switched on yet, so the deploy step failed with `Not Found`.
+
+### 9. The bot's data commit collided with my code commit
+**What happened:** I pushed a code fix while a run was in progress. When the run
+finished, its `git push` of the new data was rejected (non-fast-forward), because
+`main` had moved on.
+**Fix:** The workflow now does `git pull --rebase` right before pushing. Data files and
+code files never overlap, so the rebase is always clean.
