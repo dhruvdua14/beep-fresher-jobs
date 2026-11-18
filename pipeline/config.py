@@ -38,6 +38,12 @@ GREENHOUSE = [
     "commvault", "sumologic", "confluent", "cohesity", "tekion", "uniphore",
     "observeai", "gupshup", "yellowai", "haptik", "vedantu", "cuemath",
     "zomato", "swiggy", "bharatpe", "groyyo", "zetwerk", "ofbusiness",
+    "thoughtworks", "moengage", "clevertap", "netcore", "ixigo", "cleartrip",
+    "agoda", "sahaj", "gojek", "tide", "transferwise", "wise", "grab", "turing",
+    "deepintent", "exotel", "medianet", "netomi", "fractal", "tigeranalytics",
+    "mu-sigma", "quantiphi", "sigmoid", "lummo", "kotak", "angelone", "dhan",
+    "zerodha", "indmoney", "navi", "ola", "olaelectric", "ather", "boat",
+    "mamaearth", "sugar", "purplle", "firstcry", "pepperfry", "urbanladder",
 ]
 
 LEVER = [
@@ -61,6 +67,14 @@ ASHBY = [
 SMARTRECRUITERS = [
     "Visa", "BoschGroup", "ServiceNow", "Freshworks", "Ubisoft2", "Equinix",
     "WesternDigital", "Sodexo", "McAfee", "Experian", "Abbott", "Canva",
+    "NielsenIQ", "PublicisGroupe", "Sutherland", "TaskUs", "Wipro", "Capgemini",
+    "Infosys", "HCLTech", "LTIMindtree", "TechMahindra", "Genpact", "WNS",
+    "Concentrix", "Teleperformance", "Siemens", "SiemensHealthineers", "Philips",
+    "Unilever", "Nestle", "Lenovo", "IKEA", "Decathlon", "Hitachi", "Mphasis",
+    "Persistent", "Zensar", "Hexaware", "Coforge", "KPMG", "Deloitte", "EY", "PwC",
+    "Continental", "ZF", "Valeo", "SchneiderElectric", "ABB", "Honeywell",
+    "Mercedes-Benz", "Skoda", "Volvo", "Ericsson", "Nokia", "Allegis", "Randstad",
+    "Adecco", "Turing", "BrowserStack", "Paytm", "Swiggy", "Zomato", "Myntra",
 ]
 
 # Workable account slugs (from apply.workable.com/<slug>)
