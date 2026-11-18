@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:45+05:30",
+ "updated_at": "2026-11-18T10:05+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,27 +8,27 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:45",
-  "fetched": 10162,
-  "india": 2775,
-  "fresher_rules": 701,
+  "time": "10:05",
+  "fetched": 10157,
+  "india": 2771,
+  "fresher_rules": 698,
   "exact_dupes": 82,
-  "fuzzy_dupes": 13,
-  "rejected_by_llm": 297,
-  "published": 309,
-  "newly_tagged": 606,
-  "from_cache": 0,
-  "llm_calls": 16,
-  "input_tokens": 107359,
-  "output_tokens": 25920,
-  "cost_usd": 0.06572,
-  "model": "gemini-3.1-flash-lite",
+  "fuzzy_dupes": 17,
+  "rejected_by_llm": 295,
+  "published": 304,
+  "newly_tagged": 0,
+  "from_cache": 599,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
   "boards": 81,
   "by_source": {
-   "greenhouse": 7314,
+   "greenhouse": 7308,
    "lever": 761,
    "ashby": 678,
-   "smartrecruiters": 992
+   "smartrecruiters": 993
   }
  },
  "cost": {
@@ -54,7 +54,7 @@
   ],
   [
    "Operations & Supply Chain",
-   32
+   31
   ],
   [
    "Sales & Business Development",
@@ -62,15 +62,15 @@
   ],
   [
    "Finance & Accounting",
-   26
-  ],
-  [
-   "Marketing",
    25
   ],
   [
+   "Marketing",
+   23
+  ],
+  [
    "Customer Success & Support",
-   22
+   21
   ],
   [
    "HR & Recruiting",
@@ -104,18 +104,18 @@
  "by_city": [
   [
    "Other India",
-   79
+   77
   ],
   [
    "Bengaluru",
-   65
-  ],
-  [
-   "Mumbai",
-   24
+   64
   ],
   [
    "Hyderabad",
+   23
+  ],
+  [
+   "Mumbai",
    23
   ],
   [
@@ -144,7 +144,7 @@
   ],
   [
    "Jaipur",
-   7
+   6
   ],
   [
    "Delhi",
@@ -174,11 +174,11 @@
  "by_level": [
   [
    "Fresher",
-   158
+   157
   ],
   [
    "Internship",
-   134
+   130
   ],
   [
    "Early career",
@@ -199,11 +199,11 @@
    6
   ],
   [
-   "Sutherland",
-   6
+   "Happiest Resume",
+   5
   ],
   [
-   "Happiest Resume",
+   "Sutherland",
    5
   ],
   [
@@ -212,10 +212,6 @@
   ],
   [
    "Team Pumpkin",
-   4
-  ],
-  [
-   "Sid's Farm",
    4
   ],
   [
@@ -245,16 +241,20 @@
   [
    "Playto Labs",
    3
+  ],
+  [
+   "Sid's Farm",
+   3
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   249
+   245
   ],
   [
    "smartrecruiters",
-   24
+   23
   ],
   [
    "greenhouse",
@@ -623,6 +623,31 @@
     "lever": 761,
     "ashby": 678,
     "smartrecruiters": 992
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "10:05",
+   "fetched": 10157,
+   "india": 2771,
+   "fresher_rules": 698,
+   "exact_dupes": 82,
+   "fuzzy_dupes": 17,
+   "rejected_by_llm": 295,
+   "published": 304,
+   "newly_tagged": 0,
+   "from_cache": 599,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": null,
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7308,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993
    }
   }
  ],

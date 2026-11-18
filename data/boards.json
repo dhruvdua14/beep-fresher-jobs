@@ -44,7 +44,7 @@
   "greenhouse:cuemath": 0,
   "greenhouse:curefit": 0,
   "greenhouse:darwinbox": 0,
-  "greenhouse:databricks": 901,
+  "greenhouse:databricks": 897,
   "greenhouse:datadog": 384,
   "greenhouse:dealshare": 0,
   "greenhouse:deel": 0,
@@ -232,7 +232,7 @@
   "greenhouse:tekion": 0,
   "greenhouse:thesouledstore": 0,
   "greenhouse:thoughtworks": 35,
-  "greenhouse:tide": 81,
+  "greenhouse:tide": 80,
   "greenhouse:tigeranalytics": 0,
   "greenhouse:toast": 331,
   "greenhouse:toplyne": 0,
@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 375,
+  "greenhouse:zscaler": 374,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -880,7 +880,7 @@
   "smartrecruiters:Turing": 0,
   "smartrecruiters:BrowserStack": 0,
   "smartrecruiters:Paytm": 0,
-  "smartrecruiters:Swiggy": 190,
+  "smartrecruiters:Swiggy": 191,
   "smartrecruiters:Zomato": 0,
   "smartrecruiters:Myntra": 0,
   "workable:razorpay": 0,
@@ -935,11 +935,11 @@
    6
   ],
   [
-   "smartrecruiters:Sutherland",
-   6
+   "adzuna:Happiest Resume",
+   5
   ],
   [
-   "adzuna:Happiest Resume",
+   "smartrecruiters:Sutherland",
    5
   ],
   [
@@ -948,10 +948,6 @@
   ],
   [
    "adzuna:Team Pumpkin",
-   4
-  ],
-  [
-   "adzuna:Sid's Farm",
    4
   ],
   [
@@ -983,7 +979,7 @@
    3
   ],
   [
-   "adzuna:Marriott",
+   "adzuna:Sid's Farm",
    3
   ],
   [
@@ -1064,6 +1060,10 @@
   ],
   [
    "adzuna:MAK",
+   2
+  ],
+  [
+   "adzuna:Marriott",
    2
   ],
   [
@@ -1671,10 +1671,6 @@
    1
   ],
   [
-   "adzuna:Rubrik",
-   1
-  ],
-  [
    "adzuna:Ladybird Web Solution Pvt Ltd",
    1
   ],
@@ -1692,10 +1688,6 @@
   ],
   [
    "adzuna:Capita",
-   1
-  ],
-  [
-   "adzuna:ViralChilly: Create | Grow | Learn",
    1
   ],
   [
