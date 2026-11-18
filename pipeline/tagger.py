@@ -27,7 +27,7 @@ import config
 
 # Bump this whenever the prompt or the input format changes: cached tags made
 # with an older version are thrown away and those posts are tagged again.
-PROMPT_VERSION = 4
+PROMPT_VERSION = 5
 
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -54,7 +54,9 @@ For EACH post, return:
   "Internship" if it is an internship / trainee / apprenticeship.
   "Fresher" if a new graduate with no experience can clearly apply: the post says
   fresher / new grad / entry level / campus / 0-1 years, or the title is junior-level
-  (Associate, Junior, Engineer I, SDE 1, Graduate, Trainee).
+  (Associate, Junior, Engineer I, SDE 1, Graduate, Trainee), or the description notes
+  it matched a job-board search for "fresher" / "graduate trainee" and nothing in the
+  post asks for more experience.
   "Early career" only if the post STATES a requirement of at most 1-2 years
   (e.g. "1+ years", "1-2 years", "0-2 years", "up to 2 years"). Words like Intermediate,
   Consultant, Engineer II or Specialist mean "Not fresher".

@@ -113,8 +113,10 @@ RECRUITEE = [
 ]
 
 # Jooble India: OPTIONAL, free key by email. Only used if JOOBLE_API_KEY is set.
-JOOBLE_QUERIES = ["fresher", "internship", "graduate trainee", "entry level", "0-1 years"]
-JOOBLE_PAGES_PER_QUERY = 3
+JOOBLE_QUERIES = ["fresher", "internship", "graduate trainee"]
+JOOBLE_CITIES = ["Bengaluru", "Hyderabad", "Pune", "Mumbai", "Chennai", "Delhi", "Noida",
+                 "Gurugram", "Kolkata", "Ahmedabad", "Jaipur", "Kochi", "Chandigarh", "Indore"]
+JOOBLE_PAGES_PER_QUERY = 2
 
 # Adzuna India: OPTIONAL. Full API access needs a card on file, so the pipeline
 # runs fine without it and only uses it if ADZUNA_APP_ID/KEY secrets exist.

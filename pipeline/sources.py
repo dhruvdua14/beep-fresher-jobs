@@ -241,31 +241,37 @@ def fetch_jooble():
         print("   (no Jooble key set, skipping Jooble)")
         return []
     posts = []
-    for q in config.JOOBLE_QUERIES:
+    # Every query is run per city: Jooble ranks by relevance, so one India-wide
+    # search returns mostly Bengaluru and stops early.
+    searches = [(q, city) for q in config.JOOBLE_QUERIES for city in config.JOOBLE_CITIES]
+    for q, city in searches:
         for page in range(1, config.JOOBLE_PAGES_PER_QUERY + 1):
             try:
                 r = requests.post(f"https://jooble.org/api/{key}", headers=HEADERS, timeout=TIMEOUT,
-                                  json={"keywords": q, "location": "India", "page": str(page)})
+                                  json={"keywords": q, "location": city, "page": str(page),
+                                        "ResultOnPage": "50"})
                 r.raise_for_status()
                 results = r.json().get("jobs") or []
             except Exception as e:
-                print(f"   ! jooble '{q}' p{page} failed: {e}")
+                print(f"   ! jooble '{q}' in {city} p{page} failed: {e}")
                 break
             for j in results:
-                loc = j.get("location") or ""
+                loc = j.get("location") or city
                 posts.append({
                     "source": "jooble",
                     "company": (j.get("company") or "Unknown").strip(),
                     "title": clean_html(j.get("title")),
-                    # Jooble locations are often just a city, so tag the country on
+                    # Jooble locations are often just a city, so add the country
                     "location": loc if "india" in loc.lower() else f"{loc}, India",
                     "url": j.get("link"),
-                    "description": clean_html(j.get("snippet")),
+                    # Jooble only gives a short snippet. Tell the LLM which search found
+                    # the post: a match for "fresher" is real evidence about the level.
+                    "description": f"[Matched the job-board search '{q}'.] " + clean_html(j.get("snippet")),
                     "posted_at": iso_date(j.get("updated")),
                 })
-            if len(results) < 20:
+            if not results:
                 break
-            time.sleep(1)
+            time.sleep(0.5)
     return posts
 
 

@@ -135,3 +135,12 @@ experience means Not fresher. (2) A fifth level, "Not a job", for talent pools, 
 applications, test posts and pay-to-join schemes. (3) A cheap title regex catches the
 obvious ones before they cost tokens. (4) An optional Jooble source (free key, no card)
 for volume.
+
+### 14. Jooble returned 119 posts and only 8 survived
+**What happened:** Each Jooble search stopped after one short page. Its snippets are
+2 lines long, so the LLM saw no experience requirement and, following my "silence =
+Not fresher" rule, rejected them, even though Jooble had found them by searching "fresher".
+**Fix:** (1) Search per city (14 cities × 3 queries × 2 pages of 50), since a single
+India-wide search is dominated by Bengaluru. (2) Tell the LLM which search matched
+the post ("Matched the job-board search 'fresher'"). That's real evidence, and the prompt
+now says it counts unless the post asks for more experience.
