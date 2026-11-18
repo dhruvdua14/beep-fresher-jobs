@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T09:17+05:30",
- "count": 100,
+ "updated_at": "2026-11-18T09:21+05:30",
+ "count": 108,
  "jobs": [
   {
    "id": "cf13d919a354",
@@ -31,6 +31,54 @@
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000162070650",
    "source": "smartrecruiters",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4831c7ebb375",
+   "title": "Military Security Officer",
+   "company": "U.S. Navy",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jooble.org/away/-2739101903772897789?p=1&pos=9&rgn=55126&cid=24363&ckey=graduate+trainee&jobAge=19&brelb=10&scr=7.344831&bscr=7.344831&aq=4106620585265478607&elckey=-1741037533841397822",
+   "source": "jooble",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1537d85fe80b",
+   "title": "CT Tech",
+   "company": "Fort Mill Hosp PMN",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jooble.org/away/-3644314385302755996?p=1&pos=5&rgn=55126&cid=24363&ckey=0-1+years&jobAge=21&relb=101&brelb=100&scr=382.2676785&bscr=378.48285&aq=-311595009446986091&elckey=3450911399735576361",
+   "source": "jooble",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4c958fd67959",
+   "title": "IR Tech",
+   "company": "Rock Hill Hosp PMN",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.8,
+   "url": "https://jooble.org/away/5577265777422984953?p=1&pos=6&rgn=55126&cid=24363&ckey=0-1+years&jobAge=21&relb=101&brelb=100&scr=381.66348639999995&bscr=377.88464&aq=-311595009446986091&elckey=3450911399735576361",
+   "source": "jooble",
    "posted_at": "2026-11-17",
    "first_seen": "2026-11-18"
   },
@@ -323,6 +371,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "19eca02c57d7",
+   "title": "Project Management - Data Center, Mumbai/ Navi Mumbai",
+   "company": "Turner & Townsend",
+   "location": "India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jooble.org/desc/8982837755297030648?ckey=graduate+trainee&rgn=55126&pos=7&groupId=1554704779&elckey=-1741037533841397822&p=1&aq=4106620585265478607&cid=24363&jobAge=117&brelb=100&bscr=8.025473&scr=8.025473",
+   "source": "jooble",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a3e85563cce1",
+   "title": "Discipline Undecided",
+   "company": "teecom",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jooble.org/desc/957657916181714529?ckey=entry+level&rgn=55126&pos=11&groupId=35487&elckey=7166262331219820245&p=1&aq=5286599141781907476&cid=24363&jobAge=110&brelb=100&bscr=9.415724&scr=9.415724",
+   "source": "jooble",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "ca9df05639b2",
    "title": "OTC , PTP & RTR fresher",
    "company": "Diensten Tech Limited",
@@ -563,6 +643,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "aec8279068a3",
+   "title": "US Healthcare Recruiter (Night Shift)",
+   "company": "Josh Pros LLC",
+   "location": "India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jooble.org/away/-4627753722526976234?p=1&pos=1&rgn=55126&cid=24363&ckey=graduate+trainee&jobAge=189&brelb=15&scr=29.22362&bscr=29.22362&aq=4106620585265478607&elckey=-1741037533841397822",
+   "source": "jooble",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "af34cc65af36",
+   "title": "HR Executive and Recruiter (Night Shift)",
+   "company": "Josh Pros LLC",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://jooble.org/desc/6886031368555904670?ckey=0-1+years&rgn=55126&pos=4&elckey=3450911399735576361&p=1&aq=-311595009446986091&cid=24363&jobAge=189&relb=100&brelb=100&bscr=593.6107&scr=593.6107",
+   "source": "jooble",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "9b25eb0969da",
    "title": "Content Developer (Entry Level)",
    "company": "MasterTech Web Applications",
@@ -592,6 +704,22 @@
    "url": "https://www.adzuna.in/details/5960018885?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4488340d7c8d",
+   "title": "Azure Data Engineer 1",
+   "company": "Syensqo NV",
+   "location": "India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jooble.org/desc/-8319708508217056558?ckey=internship&rgn=55126&pos=17&groupId=35087&elckey=-8718766553941250437&p=1&aq=-3076138461304861913&cid=24363&jobAge=213&brelb=100&bscr=2.383294&scr=2.383294",
+   "source": "jooble",
+   "posted_at": "2026-11-09",
    "first_seen": "2026-11-18"
   },
   {

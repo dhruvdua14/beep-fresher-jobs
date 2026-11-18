@@ -174,5 +174,31 @@
    "ashby": 678,
    "smartrecruiters": 993
   }
+ },
+ {
+  "date": "2026-11-18",
+  "time": "09:21",
+  "fetched": 9964,
+  "india": 2572,
+  "fresher_rules": 492,
+  "exact_dupes": 74,
+  "fuzzy_dupes": 4,
+  "rejected_by_llm": 306,
+  "published": 108,
+  "newly_tagged": 43,
+  "from_cache": 371,
+  "llm_calls": 2,
+  "input_tokens": 5980,
+  "output_tokens": 1661,
+  "cost_usd": 0.003986,
+  "model": "gemini-3.1-flash-lite",
+  "boards": 81,
+  "by_source": {
+   "greenhouse": 7312,
+   "lever": 761,
+   "ashby": 678,
+   "smartrecruiters": 993,
+   "jooble": 119
+  }
  }
 ]

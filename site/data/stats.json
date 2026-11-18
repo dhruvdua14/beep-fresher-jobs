@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:17+05:30",
+ "updated_at": "2026-11-18T09:21+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,45 +8,46 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:17",
-  "fetched": 9844,
-  "india": 2452,
-  "fresher_rules": 430,
-  "exact_dupes": 55,
+  "time": "09:21",
+  "fetched": 9964,
+  "india": 2572,
+  "fresher_rules": 492,
+  "exact_dupes": 74,
   "fuzzy_dupes": 4,
-  "rejected_by_llm": 271,
-  "published": 100,
-  "newly_tagged": 371,
-  "from_cache": 0,
-  "llm_calls": 10,
-  "input_tokens": 66084,
-  "output_tokens": 16461,
-  "cost_usd": 0.041212,
+  "rejected_by_llm": 306,
+  "published": 108,
+  "newly_tagged": 43,
+  "from_cache": 371,
+  "llm_calls": 2,
+  "input_tokens": 5980,
+  "output_tokens": 1661,
+  "cost_usd": 0.003986,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7311,
+   "greenhouse": 7312,
    "lever": 761,
    "ashby": 678,
-   "smartrecruiters": 993
+   "smartrecruiters": 993,
+   "jooble": 119
   }
  },
  "cost": {
-  "posts_tagged_all_time": 1551,
-  "input_tokens": 234444,
-  "output_tokens": 68393,
-  "usd_all_time": 0.161199,
-  "usd_per_1000": 0.1039,
+  "posts_tagged_all_time": 1594,
+  "input_tokens": 240424,
+  "output_tokens": 70054,
+  "usd_all_time": 0.165185,
+  "usd_per_1000": 0.1036,
   "tokens_per_post": 195
  },
  "by_role": [
   [
    "Other",
-   22
+   25
   ],
   [
    "Software Engineering",
-   20
+   21
   ],
   [
    "Sales & Business Development",
@@ -62,7 +63,7 @@
   ],
   [
    "HR & Recruiting",
-   8
+   10
   ],
   [
    "Marketing",
@@ -70,11 +71,15 @@
   ],
   [
    "Operations & Supply Chain",
-   3
+   4
   ],
   [
    "Content & Communications",
    3
+  ],
+  [
+   "Design",
+   2
   ],
   [
    "Data & Analytics",
@@ -91,10 +96,6 @@
   [
    "Consulting & Strategy",
    1
-  ],
-  [
-   "Design",
-   1
   ]
  ],
  "by_city": [
@@ -108,10 +109,14 @@
   ],
   [
    "Mumbai",
-   9
+   10
   ],
   [
    "Hyderabad",
+   9
+  ],
+  [
+   "Remote",
    8
   ],
   [
@@ -135,26 +140,22 @@
    3
   ],
   [
-   "Remote",
-   2
-  ],
-  [
    "Thiruvananthapuram",
    1
   ]
  ],
  "by_level": [
   [
+   "Fresher",
+   49
+  ],
+  [
    "Internship",
    47
   ],
   [
-   "Fresher",
-   45
-  ],
-  [
    "Early career",
-   8
+   12
   ]
  ],
  "by_company": [
@@ -199,6 +200,10 @@
    2
   ],
   [
+   "Josh Pros LLC",
+   2
+  ],
+  [
    "Valeo",
    2
   ],
@@ -212,10 +217,6 @@
   ],
   [
    "Fampay",
-   2
-  ],
-  [
-   "Stripe",
    2
   ]
  ],
@@ -235,6 +236,10 @@
   [
    "smartrecruiters",
    13
+  ],
+  [
+   "jooble",
+   8
   ],
   [
    "ashby",
@@ -416,6 +421,32 @@
     "lever": 761,
     "ashby": 678,
     "smartrecruiters": 993
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:21",
+   "fetched": 9964,
+   "india": 2572,
+   "fresher_rules": 492,
+   "exact_dupes": 74,
+   "fuzzy_dupes": 4,
+   "rejected_by_llm": 306,
+   "published": 108,
+   "newly_tagged": 43,
+   "from_cache": 371,
+   "llm_calls": 2,
+   "input_tokens": 5980,
+   "output_tokens": 1661,
+   "cost_usd": 0.003986,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7312,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993,
+    "jooble": 119
    }
   }
  ],

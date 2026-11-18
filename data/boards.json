@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 374,
+  "greenhouse:zscaler": 375,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -963,6 +963,10 @@
    2
   ],
   [
+   "jooble:Josh Pros LLC",
+   2
+  ],
+  [
    "adzuna:Valeo",
    2
   ],
@@ -985,6 +989,18 @@
   [
    "greenhouse:MongoDB",
    2
+  ],
+  [
+   "jooble:U.S. Navy",
+   1
+  ],
+  [
+   "jooble:Fort Mill Hosp PMN",
+   1
+  ],
+  [
+   "jooble:Rock Hill Hosp PMN",
+   1
   ],
   [
    "adzuna:Mindtel",
@@ -1024,6 +1040,14 @@
   ],
   [
    "adzuna:Edelman India",
+   1
+  ],
+  [
+   "jooble:Turner & Townsend",
+   1
+  ],
+  [
+   "jooble:teecom",
    1
   ],
   [
@@ -1080,6 +1104,10 @@
   ],
   [
    "adzuna:Bisani Legal",
+   1
+  ],
+  [
+   "jooble:Syensqo NV",
    1
   ],
   [

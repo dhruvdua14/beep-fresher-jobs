@@ -3736,5 +3736,436 @@
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
   "v": 4
+ },
+ "24c9c1ecc3f7": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "67dc6fd33ebd": {
+  "role": "Design",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "e208be91c2a3": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "5311398813e1": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "9a39d08de55e": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "ba9244f8aca8": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "1e583b6e950b": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "fa9c592b4fd1": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "4488340d7c8d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "c4fab7226e65": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "aec8279068a3": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "57cf09cc093e": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "4b61a551f3d0": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "391a6f57df82": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "50069d4cee15": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "19eca02c57d7": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "9bd5886381ea": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "4831c7ebb375": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "c1a42268a46d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "d15bdfeb9b67": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Noida",
+   "Gurugram"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "5e8500e6d245": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "a3e85563cce1": {
+  "role": "Design",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "a82b33af2837": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "ec1dfdf2601c": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "638d7fe017f4": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "8e02a2342d17": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "578040e069fd": {
+  "role": "Data & Analytics",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "014701142781": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "1293a9fa7412": {
+  "role": "Software Engineering",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "52bc5b65c759": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "af34cc65af36": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Early career",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "1537d85fe80b": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "4c958fd67959": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Early career",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "fb8d5c7d035b": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "c7b3646a4920": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "9ec7312a5c92": {
+  "role": "Other",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "49fb700f4612": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "e37bce49870e": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "abf849ce0b20": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "94c28a064fd6": {
+  "role": "Hardware & Electronics",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "f8b2a55d70df": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Remote"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "69e9a9ebe1ed": {
+  "role": "Other",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
+ },
+ "f10ce7ae44e2": {
+  "role": "Other",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.7,
+  "model": "gemini-3.1-flash-lite",
+  "v": 4
  }
 }
