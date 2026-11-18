@@ -218,7 +218,7 @@
  "listed_per_company": [
   [
    "lever:Paytm",
-   13
+   12
   ],
   [
    "smartrecruiters:Bosch Group",
@@ -226,7 +226,7 @@
   ],
   [
    "greenhouse:Stripe",
-   6
+   4
   ],
   [
    "greenhouse:Rubrik Job Board",
@@ -241,31 +241,11 @@
    2
   ],
   [
-   "ashby:Sarvam",
-   2
-  ],
-  [
-   "greenhouse:MongoDB",
-   2
-  ],
-  [
    "greenhouse:Elastic",
    1
   ],
   [
-   "greenhouse:Zscaler",
-   1
-  ],
-  [
-   "greenhouse:Sumo Logic",
-   1
-  ],
-  [
-   "greenhouse:Toast",
-   1
-  ],
-  [
-   "greenhouse:Datadog",
+   "ashby:Sarvam",
    1
   ],
   [
@@ -274,6 +254,10 @@
   ],
   [
    "greenhouse:Groww",
+   1
+  ],
+  [
+   "greenhouse:MongoDB",
    1
   ]
  ]

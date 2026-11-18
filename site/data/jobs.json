@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T08:52+05:30",
- "count": 49,
+ "updated_at": "2026-11-18T08:54+05:30",
+ "count": 40,
  "jobs": [
   {
    "id": "cf13d919a354",
@@ -70,20 +70,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8158943",
    "source": "greenhouse",
    "posted_at": "2026-11-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f6ebe9aa8d6f",
-   "title": "Customer Support Associate I",
-   "company": "Zscaler",
-   "location": "Bangalore, IND; Bangalore, IND; Mohali, IND",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263579007",
-   "source": "greenhouse",
-   "posted_at": "2026-11-05",
    "first_seen": "2026-11-18"
   },
   {
@@ -171,20 +157,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "ee7617824b56",
-   "title": "Product & Strategy Associate",
-   "company": "Sarvam",
-   "location": "Bengaluru",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://jobs.ashbyhq.com/sarvam/786e9a1b-e52d-4075-932d-66e4ad8e06c2",
-   "source": "ashby",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "89d4eeeff61b",
    "title": "CSR Associate - Impact, Monitoring & Evaluation",
    "company": "Bosch Group",
@@ -224,20 +196,6 @@
    "url": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
    "source": "ashby",
    "posted_at": "2026-10-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "223d3edb48e1",
-   "title": "Technical Account Engineer I",
-   "company": "Sumo Logic",
-   "location": "Noida, Uttar Pradesh, India",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8305995",
-   "source": "greenhouse",
-   "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
@@ -353,20 +311,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "56762c210ed1",
-   "title": "Associate of R&D Strategic Finance (FP&A)",
-   "company": "Toast",
-   "location": "Chennai",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8230746",
-   "source": "greenhouse",
-   "posted_at": "2026-10-05",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c632e7cb2165",
    "title": "Associate - User Growth (Field Marketing)",
    "company": "Paytm",
@@ -381,20 +325,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "13937fcbbe48",
-   "title": "Associate TSE",
-   "company": "MongoDB",
-   "location": "Gurugram",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8238617",
-   "source": "greenhouse",
-   "posted_at": "2026-09-30",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "285f7a4822b6",
    "title": "Security Engineer Intern",
    "company": "Fampay",
@@ -406,20 +336,6 @@
    "url": "https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24",
    "source": "lever",
    "posted_at": "2026-09-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d1eed1086a26",
-   "title": "Customer Success Associate (Commercial Accounts)",
-   "company": "Datadog",
-   "location": "Bangalore, India",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://careers.datadoghq.com/detail/8222279/?gh_jid=8222279",
-   "source": "greenhouse",
-   "posted_at": "2026-09-22",
    "first_seen": "2026-11-18"
   },
   {
@@ -479,6 +395,20 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "699258d40510",
+   "title": "Associate - Motor Insurance",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://jobs.lever.co/paytm/20d54134-b6e5-4816-8da9-42e3a3ed8f57",
+   "source": "lever",
+   "posted_at": "2026-08-27",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "ac091f1e70ca",
    "title": "MES Application Engineer",
    "company": "Bosch Group",
@@ -507,20 +437,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "19b920ebbe95",
-   "title": "Credit Risk Operations Associate",
-   "company": "Stripe",
-   "location": "Bangalore ",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://stripe.com/jobs/search?gh_jid=8104748",
-   "source": "greenhouse",
-   "posted_at": "2026-08-07",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "5de904a484f5",
    "title": "Associate Client Partner",
    "company": "Mindtickle",
@@ -535,20 +451,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "69793fffafea",
-   "title": "CST - Associate - Email CST",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://jobs.lever.co/paytm/715e52dd-0a51-4ff7-be68-855112e56b99",
-   "source": "lever",
-   "posted_at": "2026-08-03",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "9ffa552a7af9",
    "title": "CST - Associate - Social CST",
    "company": "Paytm",
@@ -560,20 +462,6 @@
    "url": "https://jobs.lever.co/paytm/84ffd393-c82b-484c-9a88-9f9ddef1b720",
    "source": "lever",
    "posted_at": "2026-08-03",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "98965e9b967c",
-   "title": "Social Media, Customer Support Associate",
-   "company": "Stripe",
-   "location": "Bengaluru",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://stripe.com/jobs/search?gh_jid=7962437",
-   "source": "greenhouse",
-   "posted_at": "2026-07-15",
    "first_seen": "2026-11-18"
   },
   {
@@ -658,20 +546,6 @@
    "url": "https://jobs.lever.co/paytm/552ba2c8-ffb8-4342-8d8c-ca1903800a68",
    "source": "lever",
    "posted_at": "2026-04-08",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0a620559ed7c",
-   "title": "Sales/Services Associate - Health Insurance",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
-   "url": "https://jobs.lever.co/paytm/021ee805-1a37-48a6-9a01-3e129ae03c3a",
-   "source": "lever",
-   "posted_at": "2026-01-07",
    "first_seen": "2026-11-18"
   },
   {

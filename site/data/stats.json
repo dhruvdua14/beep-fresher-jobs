@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T08:52+05:30",
+ "updated_at": "2026-11-18T08:54+05:30",
  "model": "gemini-2.5-flash-lite",
  "price": {
   "input_per_m": 0.1,
@@ -8,14 +8,14 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "08:52",
+  "time": "08:54",
   "fetched": 8194,
   "india": 1750,
-  "fresher_rules": 50,
-  "exact_dupes": 0,
-  "fuzzy_dupes": 1,
+  "fresher_rules": 433,
+  "exact_dupes": 49,
+  "fuzzy_dupes": 9,
   "rejected_by_llm": 0,
-  "published": 49,
+  "published": 40,
   "newly_tagged": 0,
   "from_cache": 0,
   "llm_calls": 0,
@@ -41,25 +41,25 @@
  "by_role": [
   [
    "Untagged",
-   49
+   40
   ]
  ],
  "by_city": [
   [
    "Unknown",
-   49
+   40
   ]
  ],
  "by_level": [
   [
    "Unknown",
-   49
+   40
   ]
  ],
  "by_company": [
   [
    "Paytm",
-   13
+   12
   ],
   [
    "Bosch Group",
@@ -67,7 +67,7 @@
   ],
   [
    "Stripe",
-   6
+   4
   ],
   [
    "Rubrik Job Board",
@@ -82,31 +82,11 @@
    2
   ],
   [
-   "Sarvam",
-   2
-  ],
-  [
-   "MongoDB",
-   2
-  ],
-  [
    "Elastic",
    1
   ],
   [
-   "Zscaler",
-   1
-  ],
-  [
-   "Sumo Logic",
-   1
-  ],
-  [
-   "Toast",
-   1
-  ],
-  [
-   "Datadog",
+   "Sarvam",
    1
   ],
   [
@@ -116,16 +96,20 @@
   [
    "Groww",
    1
+  ],
+  [
+   "MongoDB",
+   1
   ]
  ],
  "by_source": [
   [
-   "greenhouse",
-   18
+   "lever",
+   16
   ],
   [
-   "lever",
-   17
+   "greenhouse",
+   11
   ],
   [
    "smartrecruiters",
@@ -133,7 +117,7 @@
   ],
   [
    "ashby",
-   4
+   3
   ]
  ],
  "history": [
@@ -147,6 +131,30 @@
    "fuzzy_dupes": 1,
    "rejected_by_llm": 0,
    "published": 49,
+   "newly_tagged": 0,
+   "from_cache": 0,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "boards": 52,
+   "by_source": {
+    "greenhouse": 6397,
+    "lever": 642,
+    "ashby": 492,
+    "smartrecruiters": 663
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "08:54",
+   "fetched": 8194,
+   "india": 1750,
+   "fresher_rules": 433,
+   "exact_dupes": 49,
+   "fuzzy_dupes": 9,
+   "rejected_by_llm": 0,
+   "published": 40,
    "newly_tagged": 0,
    "from_cache": 0,
    "llm_calls": 0,
