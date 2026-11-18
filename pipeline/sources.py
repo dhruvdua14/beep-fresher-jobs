@@ -287,6 +287,9 @@ def fetch_jooble():
 def fetch_careerjet():
     posts = []
     affid = (os.getenv("CAREERJET_AFFID") or "").strip()
+    if not affid:
+        print("   (no Careerjet affiliate id set, skipping Careerjet)")
+        return []
     for q in config.CAREERJET_QUERIES:
         for city in config.JOOBLE_CITIES:
             data = get_json("http://public.api.careerjet.net/search", params={

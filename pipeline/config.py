@@ -128,7 +128,7 @@ CAREERJET_QUERIES = ["fresher", "internship"]
 ADZUNA_QUERIES = ["fresher internship", "graduate trainee", "entry level fresher",
                   "intern", "junior associate fresher", "campus hiring"]
 ADZUNA_PAGES_PER_QUERY = 1          # 50 results per page
-ADZUNA_MAX_CALLS_PER_RUN = 2
+ADZUNA_MAX_CALLS_PER_RUN = 6   # one-off backfill today; back to 2 after this run
 ADZUNA_MAX_DAYS_OLD = 30
 
 # ---------------------------------------------------------------------------
