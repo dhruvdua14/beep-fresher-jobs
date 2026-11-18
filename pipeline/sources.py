@@ -280,6 +280,16 @@ def fetch_adzuna():
     if not (app_id and app_key):
         print("   (no Adzuna key set, skipping Adzuna)")
         return []
+    # At most one Adzuna fetch per day, even if the workflow is run by hand
+    # several times: the free quota is tiny. Results live on in the archive.
+    marker = os.path.join(os.path.dirname(__file__), "..", "data", "adzuna_last_fetch.txt")
+    today = datetime.now(timezone.utc).date().isoformat()
+    if os.path.exists(marker) and open(marker).read().strip() == today:
+        print("   (Adzuna already fetched today, using the archive)")
+        return []
+    with open(marker, "w") as f:
+        f.write(today)
+
     posts, calls = [], 0
     day = datetime.now(timezone.utc).timetuple().tm_yday
     k = config.ADZUNA_MAX_CALLS_PER_RUN
