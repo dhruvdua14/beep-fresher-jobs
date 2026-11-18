@@ -36,7 +36,7 @@
   "greenhouse:coinbase": 257,
   "greenhouse:coindcx": 0,
   "greenhouse:coinswitch": 0,
-  "greenhouse:commvault": 54,
+  "greenhouse:commvault": 55,
   "greenhouse:composio": 0,
   "greenhouse:confluent": 0,
   "greenhouse:coverfox": 0,
@@ -923,68 +923,32 @@
  },
  "listed_per_company": [
   [
-   "smartrecruiters:Bosch Group",
-   30
-  ],
-  [
    "lever:Paytm",
-   16
+   11
   ],
   [
-   "smartrecruiters:SWIGGY",
-   12
-  ],
-  [
-   "smartrecruiters:NielsenIQ",
-   9
-  ],
-  [
-   "smartrecruiters:Sutherland",
-   7
-  ],
-  [
-   "adzuna:Happiest Resume",
+   "smartrecruiters:Bosch Group",
    6
-  ],
-  [
-   "lever:Hevodata",
-   5
-  ],
-  [
-   "greenhouse:Stripe",
-   4
   ],
   [
    "greenhouse:Rubrik Job Board",
    4
   ],
   [
-   "lever:Fampay",
-   4
+   "smartrecruiters:SWIGGY",
+   3
   ],
   [
    "greenhouse:HackerRank Careers",
-   4
-  ],
-  [
-   "greenhouse:Careers at Tide",
    3
   ],
   [
-   "ashby:Sarvam",
+   "lever:Hevodata",
    3
   ],
   [
-   "ashby:Headout",
-   3
-  ],
-  [
-   "lever:Netomi",
-   3
-  ],
-  [
-   "greenhouse:MongoDB",
-   3
+   "smartrecruiters:NielsenIQ",
+   2
   ],
   [
    "adzuna:ascendion",
@@ -999,22 +963,6 @@
    2
   ],
   [
-   "greenhouse:Elastic",
-   2
-  ],
-  [
-   "adzuna:Job Resource Point",
-   2
-  ],
-  [
-   "greenhouse:DeepIntent",
-   2
-  ],
-  [
-   "greenhouse:GitLab",
-   2
-  ],
-  [
    "adzuna:Valeo",
    2
   ],
@@ -1023,19 +971,19 @@
    2
   ],
   [
-   "adzuna:People First Consultants",
+   "ashby:Headout",
    2
   ],
   [
-   "greenhouse:Groww",
+   "lever:Fampay",
    2
   ],
   [
-   "lever:Cred",
+   "greenhouse:Stripe",
    2
   ],
   [
-   "greenhouse:Sigmoid",
+   "greenhouse:MongoDB",
    2
   ],
   [
@@ -1063,6 +1011,10 @@
    1
   ],
   [
+   "adzuna:Apna",
+   1
+  ],
+  [
    "adzuna:Magna International, Inc",
    1
   ],
@@ -1076,10 +1028,6 @@
   ],
   [
    "adzuna:Diensten Tech Limited",
-   1
-  ],
-  [
-   "adzuna:Su-vastika systems",
    1
   ],
   [
@@ -1135,10 +1083,6 @@
    1
   ],
   [
-   "adzuna:Sumo Digital",
-   1
-  ],
-  [
    "adzuna:CSTEP",
    1
   ],
@@ -1147,15 +1091,11 @@
    1
   ],
   [
-   "ashby:Spotdraft",
-   1
-  ],
-  [
-   "ashby:Thoughtworks",
-   1
-  ],
-  [
    "adzuna:Pratt & Whitney",
+   1
+  ],
+  [
+   "adzuna:Happiest Resume",
    1
   ],
   [
@@ -1164,10 +1104,6 @@
   ],
   [
    "adzuna:CSC",
-   1
-  ],
-  [
-   "adzuna:Tentworks Interactive",
    1
   ],
   [
@@ -1199,14 +1135,6 @@
    1
   ],
   [
-   "adzuna:Sisco Jobs",
-   1
-  ],
-  [
-   "adzuna:Homly",
-   1
-  ],
-  [
    "adzuna:Vinayak Outsourcing Works",
    1
   ],
@@ -1219,7 +1147,7 @@
    1
   ],
   [
-   "ashby:Smallest",
+   "ashby:Sarvam",
    1
   ],
   [
@@ -1247,31 +1175,15 @@
    1
   ],
   [
-   "greenhouse:Zscaler",
+   "smartrecruiters:Sutherland",
    1
   ],
   [
-   "greenhouse:InMobi ",
-   1
-  ],
-  [
-   "greenhouse:HighRadius",
-   1
-  ],
-  [
-   "greenhouse:Agoda",
+   "greenhouse:Sigmoid",
    1
   ],
   [
    "greenhouse:Datadog",
-   1
-  ],
-  [
-   "ashby:Almabase",
-   1
-  ],
-  [
-   "smartrecruiters:Continental",
    1
   ]
  ]

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:13+05:30",
+ "updated_at": "2026-11-18T09:17+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,266 +8,237 @@
  },
  "latest": {
   "date": "2026-11-18",
-  "time": "09:13",
-  "fetched": 9843,
-  "india": 2451,
-  "fresher_rules": 435,
+  "time": "09:17",
+  "fetched": 9844,
+  "india": 2452,
+  "fresher_rules": 430,
   "exact_dupes": 55,
   "fuzzy_dupes": 4,
-  "rejected_by_llm": 175,
-  "published": 201,
-  "newly_tagged": 376,
+  "rejected_by_llm": 271,
+  "published": 100,
+  "newly_tagged": 371,
   "from_cache": 0,
   "llm_calls": 10,
-  "input_tokens": 66065,
-  "output_tokens": 16750,
-  "cost_usd": 0.041641,
+  "input_tokens": 66084,
+  "output_tokens": 16461,
+  "cost_usd": 0.041212,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7310,
+   "greenhouse": 7311,
    "lever": 761,
    "ashby": 678,
-   "smartrecruiters": 993,
-   "adzuna": 100
+   "smartrecruiters": 993
   }
  },
  "cost": {
-  "posts_tagged_all_time": 1180,
-  "input_tokens": 168360,
-  "output_tokens": 51932,
-  "usd_all_time": 0.119987,
-  "usd_per_1000": 0.1017,
-  "tokens_per_post": 187
+  "posts_tagged_all_time": 1551,
+  "input_tokens": 234444,
+  "output_tokens": 68393,
+  "usd_all_time": 0.161199,
+  "usd_per_1000": 0.1039,
+  "tokens_per_post": 195
  },
  "by_role": [
   [
-   "Software Engineering",
-   42
-  ],
-  [
    "Other",
-   32
-  ],
-  [
-   "Customer Success & Support",
    22
   ],
   [
+   "Software Engineering",
+   20
+  ],
+  [
    "Sales & Business Development",
-   18
+   11
   ],
   [
-   "Operations & Supply Chain",
-   14
-  ],
-  [
-   "Data & Analytics",
-   13
+   "Customer Success & Support",
+   10
   ],
   [
    "Finance & Accounting",
-   13
-  ],
-  [
-   "Content & Communications",
-   11
+   10
   ],
   [
    "HR & Recruiting",
-   11
-  ],
-  [
-   "Marketing",
    8
   ],
   [
-   "Design",
-   4
+   "Marketing",
+   5
   ],
   [
-   "AI / ML",
-   4
-  ],
-  [
-   "Consulting & Strategy",
+   "Operations & Supply Chain",
    3
+  ],
+  [
+   "Content & Communications",
+   3
+  ],
+  [
+   "Data & Analytics",
+   2
   ],
   [
    "Product",
-   3
+   2
   ],
   [
-   "Hardware & Electronics",
-   3
+   "AI / ML",
+   2
+  ],
+  [
+   "Consulting & Strategy",
+   1
+  ],
+  [
+   "Design",
+   1
   ]
  ],
  "by_city": [
   [
    "Bengaluru",
-   84
+   40
   ],
   [
    "Other India",
-   39
-  ],
-  [
-   "Hyderabad",
-   18
+   23
   ],
   [
    "Mumbai",
-   15
-  ],
-  [
-   "Pune",
-   12
-  ],
-  [
-   "Noida",
-   12
-  ],
-  [
-   "Gurugram",
    9
   ],
   [
-   "Chennai",
-   6
+   "Hyderabad",
+   8
   ],
   [
-   "Remote",
+   "Noida",
+   8
+  ],
+  [
+   "Gurugram",
    5
   ],
   [
+   "Pune",
+   3
+  ],
+  [
+   "Chennai",
+   3
+  ],
+  [
    "Ahmedabad",
-   4
-  ],
-  [
-   "Chandigarh",
    3
   ],
   [
-   "Coimbatore",
-   3
-  ],
-  [
-   "Delhi",
-   2
-  ],
-  [
-   "Kolkata",
-   2
-  ],
-  [
-   "Jaipur",
+   "Remote",
    2
   ],
   [
    "Thiruvananthapuram",
    1
-  ],
-  [
-   "Kochi",
-   1
   ]
  ],
  "by_level": [
-  [
-   "Early career",
-   119
-  ],
   [
    "Internship",
    47
   ],
   [
    "Fresher",
-   35
+   45
+  ],
+  [
+   "Early career",
+   8
   ]
  ],
  "by_company": [
   [
-   "Bosch Group",
-   30
-  ],
-  [
    "Paytm",
-   16
+   11
   ],
   [
-   "SWIGGY",
-   12
-  ],
-  [
-   "NielsenIQ",
-   9
-  ],
-  [
-   "Sutherland",
-   7
-  ],
-  [
-   "Happiest Resume",
+   "Bosch Group",
    6
-  ],
-  [
-   "Hevodata",
-   5
-  ],
-  [
-   "Stripe",
-   4
   ],
   [
    "Rubrik Job Board",
    4
   ],
   [
-   "Fampay",
-   4
+   "SWIGGY",
+   3
   ],
   [
    "HackerRank Careers",
-   4
-  ],
-  [
-   "Careers at Tide",
    3
   ],
   [
-   "Sarvam",
+   "Hevodata",
    3
+  ],
+  [
+   "NielsenIQ",
+   2
+  ],
+  [
+   "ascendion",
+   2
+  ],
+  [
+   "Playto Labs",
+   2
+  ],
+  [
+   "Delhi",
+   2
+  ],
+  [
+   "Valeo",
+   2
+  ],
+  [
+   "MAK",
+   2
   ],
   [
    "Headout",
-   3
+   2
   ],
   [
-   "Netomi",
-   3
+   "Fampay",
+   2
+  ],
+  [
+   "Stripe",
+   2
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   66
-  ],
-  [
-   "smartrecruiters",
-   60
-  ],
-  [
-   "greenhouse",
-   34
+   53
   ],
   [
    "lever",
-   30
+   16
+  ],
+  [
+   "greenhouse",
+   14
+  ],
+  [
+   "smartrecruiters",
+   13
   ],
   [
    "ashby",
-   11
+   4
   ]
  ],
  "history": [
@@ -420,6 +391,31 @@
     "ashby": 678,
     "smartrecruiters": 993,
     "adzuna": 100
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "time": "09:17",
+   "fetched": 9844,
+   "india": 2452,
+   "fresher_rules": 430,
+   "exact_dupes": 55,
+   "fuzzy_dupes": 4,
+   "rejected_by_llm": 271,
+   "published": 100,
+   "newly_tagged": 371,
+   "from_cache": 0,
+   "llm_calls": 10,
+   "input_tokens": 66084,
+   "output_tokens": 16461,
+   "cost_usd": 0.041212,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7311,
+    "lever": 761,
+    "ashby": 678,
+    "smartrecruiters": 993
    }
   }
  ],
