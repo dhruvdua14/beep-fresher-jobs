@@ -108,3 +108,12 @@ it was wrong. That's why the 50-post eval matters.
 **What happened:** The request URL had `app_id=…%0A%0A`: the secret had been pasted
 with two trailing newlines.
 **Fix:** `.strip()` every key read from the environment.
+
+### 12. After fixing precision, only 125 real fresher posts were left
+**What happened:** With honest tagging, Bosch dropped from 153 to 0, and the total fell
+to 125. 88 of those came from Adzuna, whose free plan only allows 25 calls in total.
+**Fix:** (1) Added The Muse's public API, which can filter by Indian city *and* by
+"Entry Level"/"Internship", so every post it returns is already a candidate.
+(2) An Adzuna archive: each post Adzuna returns is kept and listed until it's 30 days
+old, so 2 calls a day keep adding up instead of being thrown away. The queries rotate
+daily for variety. I chose fewer, honest listings over padding the count with mislabelled ones.

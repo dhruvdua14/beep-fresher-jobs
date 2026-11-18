@@ -39,6 +39,24 @@ def save(path, obj):
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=1))
 
 
+def keep_adzuna_archive(raw, today):
+    """
+    Adzuna's free plan has a tiny call quota, so we can't re-fetch it every day.
+    Instead we remember every Adzuna post we've seen and keep listing it until it's
+    30 days old (the same window we ask Adzuna for). Other sources are re-fetched
+    daily, so a post that's been filled simply disappears.
+    """
+    path = STATE / "adzuna_archive.json"
+    archive = {p["url"]: p for p in load(path, [])}
+    for p in raw:
+        if p["source"] == "adzuna":
+            archive[p["url"]] = p
+    cutoff = (datetime.fromisoformat(today) - timedelta(days=config.ADZUNA_MAX_DAYS_OLD)).date().isoformat()
+    archive = {u: p for u, p in archive.items() if (p.get("posted_at") or today) >= cutoff}
+    save(path, list(archive.values()))
+    return [p for p in raw if p["source"] != "adzuna"] + list(archive.values())
+
+
 def main():
     now = datetime.now(IST)
     today = now.date().isoformat()
@@ -50,6 +68,7 @@ def main():
         by_source, boards = dict(Counter(p["source"] for p in raw)), {}
     else:
         raw, by_source, boards = fetch_all()
+    raw = keep_adzuna_archive(raw, today)
     live_boards = [b for b, n in boards.items() if n]
     print(f"   {len(raw)} posts from {len(live_boards)} of {len(boards)} boards: {by_source}")
 
