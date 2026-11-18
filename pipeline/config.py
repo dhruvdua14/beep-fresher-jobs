@@ -63,7 +63,22 @@ SMARTRECRUITERS = [
     "WesternDigital", "Sodexo", "McAfee", "Experian", "Abbott", "Canva",
 ]
 
-# Adzuna India search terms (only used if ADZUNA_APP_ID/KEY secrets exist)
+# Workable account slugs (from apply.workable.com/<slug>)
+WORKABLE = [
+    "razorpay", "groww", "zepto", "jupiter-money", "fi-money", "smallcase",
+    "springworks", "kissflow", "zoho", "chargebee", "hevo-data", "signzy",
+    "wysa", "tracxn", "fyle", "pixis", "vahan", "loco", "stockgro", "bureau",
+    "almabase", "toddle", "sarvam-ai", "nference", "lucidity", "zenduty",
+]
+
+# Recruitee company slugs (from <slug>.recruitee.com)
+RECRUITEE = [
+    "hackerearth", "instamojo", "unstop", "skillvertex", "codingninjas",
+    "airmeet", "superops", "facilio", "ultrahuman", "zolve", "eloelo",
+]
+
+# Adzuna India: OPTIONAL. Full API access needs a card on file, so the pipeline
+# runs fine without it and only uses it if ADZUNA_APP_ID/KEY secrets exist.
 ADZUNA_QUERIES = ["internship", "intern", "fresher", "graduate trainee", "entry level"]
 ADZUNA_PAGES_PER_QUERY = 3          # 50 results per page
 ADZUNA_MAX_DAYS_OLD = 30

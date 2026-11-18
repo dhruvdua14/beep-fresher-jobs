@@ -183,7 +183,52 @@ def fetch_smartrecruiters(company_id):
     return posts
 
 
-# ---------------------------------------------------------------- Adzuna (India)
+# ---------------------------------------------------------------- Workable
+# Public careers-page widget API: apply.workable.com/api/v1/widget/accounts/<slug>
+
+def fetch_workable(slug):
+    data = get_json(f"https://apply.workable.com/api/v1/widget/accounts/{slug}",
+                    params={"details": "true"})
+    if not data:
+        return []
+    posts = []
+    for j in data.get("jobs", []):
+        posts.append({
+            "source": "workable",
+            "company": data.get("name") or pretty(slug),
+            "title": (j.get("title") or "").strip(),
+            "location": ", ".join(x for x in [j.get("city"), j.get("state"), j.get("country")] if x),
+            "url": j.get("url") or j.get("application_url"),
+            "description": clean_html(j.get("description")),
+            "posted_at": iso_date(j.get("published_on") or j.get("created_at")),
+            "hint_level": {"Internship": "internship", "Entry level": "fresher"}.get(j.get("experience")),
+        })
+    return posts
+
+
+# ---------------------------------------------------------------- Recruitee
+# Public careers-site API: <slug>.recruitee.com/api/offers/
+
+def fetch_recruitee(slug):
+    data = get_json(f"https://{slug}.recruitee.com/api/offers/")
+    if not data:
+        return []
+    posts = []
+    for j in data.get("offers", []):
+        posts.append({
+            "source": "recruitee",
+            "company": j.get("company_name") or pretty(slug),
+            "title": (j.get("title") or "").strip(),
+            "location": ", ".join(x for x in [j.get("city"), j.get("country")] if x) or j.get("location", ""),
+            "url": j.get("careers_url"),
+            "description": clean_html(j.get("description")),
+            "posted_at": iso_date(j.get("published_at") or j.get("created_at")),
+            "hint_level": "internship" if (j.get("employment_type_code") or "").startswith("intern") else None,
+        })
+    return posts
+
+
+# ---------------------------------------------------------------- Adzuna (India, optional)
 # Docs: https://developer.adzuna.com  (free key; their terms ask for attribution,
 # which is in the site footer)
 
@@ -224,7 +269,9 @@ def fetch_all():
     jobs = ([(fetch_greenhouse, s) for s in config.GREENHOUSE] +
             [(fetch_lever, s) for s in config.LEVER] +
             [(fetch_ashby, s) for s in config.ASHBY] +
-            [(fetch_smartrecruiters, s) for s in config.SMARTRECRUITERS])
+            [(fetch_smartrecruiters, s) for s in config.SMARTRECRUITERS] +
+            [(fetch_workable, s) for s in config.WORKABLE] +
+            [(fetch_recruitee, s) for s in config.RECRUITEE])
 
     posts, live_boards = [], {}
     with ThreadPoolExecutor(max_workers=8) as pool:

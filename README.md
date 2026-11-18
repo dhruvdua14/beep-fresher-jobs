@@ -22,7 +22,8 @@ Gemini free tier (LLM).
  │  Lever          entry-level?   + rapidfuzz   posts/call,    stats.json    │
  │  Ashby          (regex, free)                JSON schema,   jobs.csv      │
  │  SmartRecruiters                             cached by id                 │
- │  Adzuna India                                                             │
+ │  Workable, Recruitee                                                      │
+ │  (Adzuna: optional)                                                       │
  └───────────────┬──────────────────────────────────────────────────────────┘
                  │ git commit data/ + site/data/
                  ▼
@@ -44,7 +45,7 @@ Gemini free tier (LLM).
 | `.github/workflows/daily.yml` | The cron job and the deploy |
 
 ## Why it's built this way
-- **Public APIs only.** Greenhouse, Lever, Ashby and SmartRecruiters publish these
+- **Public APIs only, no keys, no payment.** Greenhouse, Lever, Ashby, SmartRecruiters, Workable and Recruitee publish these
   endpoints so other sites can list a company's jobs. No HTML scraping, and no
   LinkedIn/Naukri/Internshala, whose terms forbid it.
 - **Rules before the LLM.** Of thousands of fetched posts, most are senior or abroad.
@@ -59,7 +60,7 @@ Gemini free tier (LLM).
 
 | I want to… | Change |
 |---|---|
-| Add a company | Add its slug to `GREENHOUSE` / `LEVER` / `ASHBY` / `SMARTRECRUITERS` in `config.py` |
+| Add a company | Add its slug to `GREENHOUSE` / `LEVER` / `ASHBY` / `SMARTRECRUITERS` / `WORKABLE` / `RECRUITEE` in `config.py` |
 | Add a role category or a city | Add it to `ROLES` / `CITIES` in `config.py`, then delete `data/tag_cache.json` to re-tag |
 | Change the prompt | `PROMPT` in `tagger.py` |
 | Use a different model | `GEMINI_MODEL` + the two `PRICE_*` values in `config.py` |
