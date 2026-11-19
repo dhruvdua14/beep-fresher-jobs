@@ -17,6 +17,39 @@ Dhruv Dua · Beep, Gen AI & Engineering round
 
 ---
 
+## What I found (3 findings, with proof)
+
+Numbers are from the run of 19 Nov 2026. The live versions are on the
+[Numbers page](https://dhruvdua14.github.io/beep-fresher-jobs/stats.html).
+
+### 1. Most fresher jobs don't come from company career pages
+I pulled from 81 live company job boards (Greenhouse, Lever, Ashby, SmartRecruiters). Together
+they gave only **59 of the 332** listed jobs. The other **273 (82%)** came from the Adzuna India
+aggregator. Company boards are mostly mid and senior roles.
+**Why it matters:** to get real fresher volume, Beep needs aggregator and mass-hiring sources,
+not just startup career pages.
+
+![Listed jobs by source, role and city](img/finding1-sources.png)
+
+### 2. "Entry level" labels can't be trusted
+On day one, **153 of my first 200** listings were Bosch team-lead roles that the API had flagged
+"entry level" ([BUILDING_LOG #10](../BUILDING_LOG.md)). Even after my rules removed senior titles
+and 2+ years, the LLM rejected **288 of 620** remaining posts (46%) as not really fresher jobs.
+**Why it matters:** a student who applies to a job they can't get stops trusting the platform.
+Checking quality matters more than the count.
+
+![Today's run, step by step](img/finding2-funnel.png)
+
+### 3. Fresher hiring in India is not only tech, and not only metros
+**Core Engineering** (mechanical / electrical "Graduate Engineer Trainee" roles, 46) is almost as
+big as **Software** (47). **83** jobs are in cities outside the main list (Surat, Vadodara,
+Lucknow, Meerut…), more than Bengaluru (71). My first version had no category for core
+engineering and filed these under Software ([BUILDING_LOG #16](../BUILDING_LOG.md)).
+**Why it matters:** Beep's students come from every branch and every city. A tech-and-metro-only
+board would miss a large share of real openings. The "By role" and "By city" charts above show it.
+
+---
+
 ## 1. What it does
 
 Every morning (about 07:40 IST, with a backup run at 11:10 IST) a GitHub Action:
