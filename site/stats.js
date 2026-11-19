@@ -17,7 +17,8 @@ Promise.all([
     figure(fmt(L.published), "openings listed today"),
     figure(fmt(L.fetched), `posts fetched from ${L.boards} job boards`),
     figure(fmt(dupes), "duplicates removed", `${L.exact_dupes} exact, ${L.fuzzy_dupes} fuzzy`),
-    figure(ev ? `${ev.summary.both.pct}<small>%</small>` : "—", "of hand-checked posts tagged fully right", ev ? `role and city, n = ${ev.summary.both.checked}` : "hand check pending"),
+    figure(ev ? `${ev.summary.role.pct}<small>%</small>` : "—", "of hand-checked role tags right",
+      ev ? `role and city both right: ${ev.summary.both.pct}%, n = ${ev.summary.both.checked}` : "hand check pending"),
   ].join("");
 
   // ---------- funnel
