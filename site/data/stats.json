@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T10:05+05:30",
+ "updated_at": "2026-11-19T09:15+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -7,94 +7,95 @@
   "usd_to_inr": 84.0
  },
  "latest": {
-  "date": "2026-11-18",
-  "time": "10:05",
-  "fetched": 10157,
-  "india": 2771,
-  "fresher_rules": 698,
-  "exact_dupes": 82,
-  "fuzzy_dupes": 17,
-  "rejected_by_llm": 295,
-  "published": 304,
-  "newly_tagged": 0,
-  "from_cache": 599,
-  "llm_calls": 0,
-  "input_tokens": 0,
-  "output_tokens": 0,
-  "cost_usd": 0.0,
-  "model": null,
+  "date": "2026-11-19",
+  "time": "09:15",
+  "fetched": 10170,
+  "india": 2781,
+  "fresher_rules": 724,
+  "exact_dupes": 88,
+  "fuzzy_dupes": 16,
+  "rejected_by_llm": 288,
+  "published": 332,
+  "newly_tagged": 41,
+  "from_cache": 579,
+  "llm_calls": 2,
+  "input_tokens": 8007,
+  "output_tokens": 1588,
+  "cost_usd": 0.004384,
+  "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7308,
-   "lever": 761,
-   "ashby": 678,
-   "smartrecruiters": 993
+   "greenhouse": 7330,
+   "lever": 756,
+   "ashby": 666,
+   "smartrecruiters": 973,
+   "adzuna": 50
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3372,
-  "input_tokens": 555293,
-  "output_tokens": 145200,
-  "usd_all_time": 0.356622,
+  "posts_tagged_all_time": 3413,
+  "input_tokens": 563300,
+  "output_tokens": 146788,
+  "usd_all_time": 0.361006,
   "usd_per_1000": 0.1058,
   "tokens_per_post": 208
  },
  "by_role": [
   [
+   "Software Engineering",
+   47
+  ],
+  [
    "Core Engineering",
    46
   ],
   [
-   "Software Engineering",
-   42
-  ],
-  [
    "Other",
-   34
+   36
   ],
   [
    "Operations & Supply Chain",
-   31
+   32
   ],
   [
    "Sales & Business Development",
+   30
+  ],
+  [
+   "Marketing",
    29
+  ],
+  [
+   "HR & Recruiting",
+   27
   ],
   [
    "Finance & Accounting",
    25
   ],
   [
-   "Marketing",
-   23
-  ],
-  [
    "Customer Success & Support",
-   21
+   22
   ],
   [
-   "HR & Recruiting",
-   20
+   "Content & Communications",
+   9
+  ],
+  [
+   "Consulting & Strategy",
+   8
+  ],
+  [
+   "Data & Analytics",
+   8
   ],
   [
    "Design",
    7
   ],
   [
-   "Data & Analytics",
-   7
-  ],
-  [
-   "Consulting & Strategy",
-   7
-  ],
-  [
-   "Content & Communications",
-   7
-  ],
-  [
    "Product",
-   3
+   4
   ],
   [
    "AI / ML",
@@ -104,35 +105,35 @@
  "by_city": [
   [
    "Other India",
-   77
+   83
   ],
   [
    "Bengaluru",
-   64
+   71
+  ],
+  [
+   "Mumbai",
+   27
   ],
   [
    "Hyderabad",
    23
   ],
   [
-   "Mumbai",
-   23
+   "Pune",
+   20
   ],
   [
    "Remote",
    20
   ],
   [
-   "Pune",
-   17
-  ],
-  [
    "Ahmedabad",
-   17
+   18
   ],
   [
    "Noida",
-   16
+   17
   ],
   [
    "Chennai",
@@ -143,12 +144,12 @@
    11
   ],
   [
-   "Jaipur",
-   6
+   "Delhi",
+   8
   ],
   [
-   "Delhi",
-   6
+   "Jaipur",
+   8
   ],
   [
    "Indore",
@@ -168,21 +169,25 @@
   ],
   [
    "Kochi",
-   2
+   3
+  ],
+  [
+   "Chandigarh",
+   1
   ]
  ],
  "by_level": [
   [
-   "Fresher",
-   157
+   "Internship",
+   160
   ],
   [
-   "Internship",
-   130
+   "Fresher",
+   156
   ],
   [
    "Early career",
-   17
+   16
   ]
  ],
  "by_company": [
@@ -231,6 +236,10 @@
    4
   ],
   [
+   "Hevodata",
+   3
+  ],
+  [
    "ViralChilly",
    3
   ],
@@ -241,16 +250,12 @@
   [
    "Playto Labs",
    3
-  ],
-  [
-   "Sid's Farm",
-   3
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   245
+   273
   ],
   [
    "smartrecruiters",
@@ -648,6 +653,32 @@
     "lever": 761,
     "ashby": 678,
     "smartrecruiters": 993
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "time": "09:15",
+   "fetched": 10170,
+   "india": 2781,
+   "fresher_rules": 724,
+   "exact_dupes": 88,
+   "fuzzy_dupes": 16,
+   "rejected_by_llm": 288,
+   "published": 332,
+   "newly_tagged": 41,
+   "from_cache": 579,
+   "llm_calls": 2,
+   "input_tokens": 8007,
+   "output_tokens": 1588,
+   "cost_usd": 0.004384,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7330,
+    "lever": 756,
+    "ashby": 666,
+    "smartrecruiters": 973,
+    "adzuna": 50
    }
   }
  ],

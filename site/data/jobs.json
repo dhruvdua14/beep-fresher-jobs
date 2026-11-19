@@ -1,7 +1,151 @@
 {
- "updated_at": "2026-11-18T10:05+05:30",
- "count": 304,
+ "updated_at": "2026-11-19T09:15+05:30",
+ "count": 332,
  "jobs": [
+  {
+   "id": "23694ba38392",
+   "title": "Marketing Intern",
+   "company": "SOLO NETWORK",
+   "location": "Mapusa, North Goa, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5970900926?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "f3cd91feca33",
+   "title": "Associate SDE",
+   "company": "Hevodata",
+   "location": "Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.lever.co/hevodata/4eccaf98-ba19-42ea-b040-e0976d4dadfe",
+   "source": "lever",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "4ff6de57b4c6",
+   "title": "HR Internship",
+   "company": "Redient Security",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969752276?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "f6683dfa7716",
+   "title": "Sales Intern",
+   "company": "Botmakers Pvt Ltd",
+   "location": "Yerwada, Pune, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5970451324?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "d10fb55a9ff1",
+   "title": "HR Intern",
+   "company": "TILTAS Systems LLP",
+   "location": "Warje, Pune, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5970451321?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "cc2105ddd24b",
+   "title": "Program Intern",
+   "company": "NSRCEL",
+   "location": "Bannerghatta Road, Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969315125?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "a9016f3a92ea",
+   "title": "Security Apprentice",
+   "company": "AccorHotel",
+   "location": "New Delhi, Delhi, India",
+   "cities": [
+    "Delhi"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5969569137?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ab2bb6c66406",
+   "title": "Copywriter Intern",
+   "company": "Fruitbowl Digital",
+   "location": "Andheri, Mumbai, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969752493?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "b4dbe4bdc2dc",
+   "title": "IN-Intern/Trainee",
+   "company": "PricewaterhouseCoopers",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5970547476?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-19"
+  },
   {
    "id": "2a5c48491bf7",
    "title": "Junior Graphic Designer",
@@ -403,6 +547,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "39ddd03994b6",
+   "title": "SEO Intern",
+   "company": "Dev Technosys Pvt. Ltd.",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5966478715?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "6b9eba181db5",
    "title": "Entry Level Associate",
    "company": "ascendion",
@@ -497,6 +657,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-15",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "237489f70161",
+   "title": "Production Intern",
+   "company": "AcquireX",
+   "location": "Pune, Maharashtra, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5965564444?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-14",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "81e7b41c76fc",
@@ -657,6 +833,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "237f11609871",
+   "title": "Apprentice - Engineer",
+   "company": "QAD, Inc.",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963796645?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "25fa00ddeece",
@@ -881,6 +1073,54 @@
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "bb6d13522c0f",
+   "title": "Intern - Research",
+   "company": "Smytten",
+   "location": "Ahmedabad, Gujarat, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "Data & Analytics",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5962476748?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "b7365fb0b894",
+   "title": "HR Intern",
+   "company": "AdLift",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963459678?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "9a1fc8cac246",
+   "title": "SEO Intern",
+   "company": "CloudThat",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5963457640?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "50bfd72e6beb",
@@ -1603,6 +1843,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "2c5fa44c91c3",
+   "title": "Sales Intern",
+   "company": "Arivu Educational Consultants",
+   "location": "Agara, Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5960916171?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "51525d75d687",
    "title": "BA / B.Com Freshers",
    "company": "Artmac Soft LLC",
@@ -1795,6 +2051,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "b37ed6430a93",
+   "title": "MARKETING INTERN",
+   "company": "Remitap",
+   "location": "Kochi, Ernakulam, India",
+   "cities": [
+    "Kochi"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5960552619?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "9b25eb0969da",
    "title": "Content Developer (Entry Level)",
    "company": "MasterTech Web Applications",
@@ -1985,6 +2257,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-08",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6f12a0a463f1",
+   "title": "Copywriting Intern",
+   "company": "Represent Media",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5956296798?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-07",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "9e0cc1d1158d",
@@ -2241,6 +2529,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "84c3bc4d770b",
+   "title": "Data entry Intern ( Intern cum employment )",
+   "company": "LezDo TechMed Private Limited",
+   "location": "Omalur, Salem, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5953362707?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "ae37cdae54c5",
@@ -2796,6 +3100,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "049d7c78dce0",
+   "title": "Product Intern",
+   "company": "SOLO NETWORK",
+   "location": "Mapusa, North Goa, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Product",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948346111?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "a65612dac6eb",
+   "title": "HR INTERN",
+   "company": "BDX Smart Homes",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5948453892?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "4638d66258fd",
    "title": "Graduate Engineer Trainee (Operations & Support)",
    "company": "Robro Systems Private Limited",
@@ -3276,6 +3612,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "3c6ce465ff2a",
+   "title": "Support Intern",
+   "company": "Cyboard School",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5943994127?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "f9dff7d9142b",
+   "title": "Technical Intern",
+   "company": "DataCouch",
+   "location": "Chandigarh, India, India",
+   "cities": [
+    "Chandigarh"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5944629417?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "25faa54ef236",
    "title": "AI Researcher Intern",
    "company": "HackerRank Careers",
@@ -3564,6 +3932,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "de085d294c1a",
+   "title": "SEO Intern",
+   "company": "Makers's Muse",
+   "location": "Alaknanda, South Delhi, India",
+   "cities": [
+    "Delhi"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5940851954?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "98f848ff66e8",
    "title": "Payroll Industrial Trainee",
    "company": "Rubrik Job Board",
@@ -3818,6 +4202,70 @@
    "source": "adzuna",
    "posted_at": "2026-10-24",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1b2470de5ad1",
+   "title": "SDET Internship",
+   "company": "Bridge-it",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5938974741?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ad473a52f20d",
+   "title": "HR Intern",
+   "company": "Nextgen Digital Solutions",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5938634384?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "e3db85fc8ffb",
+   "title": "Cybersecurity Intern",
+   "company": "Nestack Technologies Pvt Ltd",
+   "location": "Kyasaram, Hyderabad, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5939392401?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ddcc0f355390",
+   "title": "Copywriter (Intern)",
+   "company": "CometChat",
+   "location": "Chembur, Mumbai, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5938296331?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "f2474a4ed75b",
@@ -4108,6 +4556,54 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "ba9e4a54a056",
+   "title": "Intern:Intern:Talent Aquisition:Noida",
+   "company": "Paytm Payments Services",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5936840051?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "77a5f06205d6",
+   "title": "Intern:Intern:Talent Aquisition:bengaluru",
+   "company": "Paytm Payments Services",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5936842881?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "d6d4eee79e78",
+   "title": "Outreach Intern",
+   "company": "ViralChilly: Create | Grow | Learn",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5936562292?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-21",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "70c716df7f95",
    "title": "Web Researcher Fresher",
    "company": "Prishusoft",
@@ -4188,6 +4684,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "9c1162bcf5ca",
+   "title": "Management Trainee - Finance",
+   "company": "Neolytix",
+   "location": "India, India",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5935555944?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-20",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "36195993fe09",
+   "title": "2027 Intern - Research PhD Intern",
+   "company": "Adobe",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "AI / ML",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5935581376?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-20",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "e71865e4a6c3",
    "title": "Talent Acquisition Intern - IT Recruitment",
    "company": "Paytm",
@@ -4217,70 +4745,6 @@
    "url": "https://www.adzuna.in/details/5935690709?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-20",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4849e55f6b80",
-   "title": "Data Entry Operator",
-   "company": "iSmartRecruit",
-   "location": "Rajkot, Gujarat, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5934355925?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-19",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b3342d8a4b2f",
-   "title": "Data Science AI/ML Fresher in Hyderabad",
-   "company": "MAK",
-   "location": "Hyderabad, Telangana, India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "AI / ML",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5933728565?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-19",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b0a4bbef5846",
-   "title": "On Job Trainee",
-   "company": "Marriott Hotels Resorts",
-   "location": "Amritsar, Punjab, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5934358369?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-19",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "364bcf5734e1",
-   "title": "Management Trainee - Finance",
-   "company": "Neolytix",
-   "location": "Industrial Complex Dundahera, Gurgaon, India",
-   "cities": [
-    "Gurugram"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5934449129?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-19",
    "first_seen": "2026-11-18"
   },
   {
@@ -4475,22 +4939,6 @@
    "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
    "source": "lever",
    "posted_at": "2026-09-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "acb3a07faa2b",
-   "title": "Associate Technical Writer",
-   "company": "Hevodata",
-   "location": "Bangalore, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Content & Communications",
-   "level": "Early career",
-   "confidence": 1.0,
-   "url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74",
-   "source": "lever",
-   "posted_at": "2026-09-18",
    "first_seen": "2026-11-18"
   },
   {
