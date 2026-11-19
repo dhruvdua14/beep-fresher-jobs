@@ -100,8 +100,16 @@ function render() {
     : `<b>${list.length}</b> of ${JOBS.length} openings`;
 
   if (!list.length) {
-    $("list").innerHTML = `<li class="empty">Nothing matches${state.q ? ` “${esc(state.q)}”` : ""}.
-      Try a broader word, or <button class="linkbtn" onclick="clearAll()">clear the filters</button>.</li>`;
+    // If the search finds something once the role/city/type filters are off, say so,
+    // so a forgotten filter never looks like "this job doesn't exist".
+    const elsewhere = state.q && active.length
+      ? JOBS.filter((j) => terms(state.q).every((alts) => alts.some((w) => j.hay.includes(w)))).length : 0;
+    $("list").innerHTML = elsewhere
+      ? `<li class="empty">No “${esc(state.q)}” in ${esc(active.join(", "))}, but
+          ${elsewhere} ${elsewhere === 1 ? "opening matches" : "openings match"} without these filters.
+          <button class="linkbtn" onclick="clearFilters()">Show ${elsewhere === 1 ? "it" : "them"}</button>.</li>`
+      : `<li class="empty">Nothing matches${state.q ? ` “${esc(state.q)}”` : ""}.
+          Try a broader word, or <button class="linkbtn" onclick="clearAll()">clear the filters</button>.</li>`;
     $("more").hidden = true;
     return;
   }
@@ -135,7 +143,7 @@ function renderFacet(elId, key, counts, order) {
   const total = [...JOBS].filter((j) => matches(j, key)).length;
   const item = (value, label, n) =>
     `<li><button type="button" data-key="${key}" data-value="${esc(value)}"
-      aria-pressed="${state[key] === value}" ${n === 0 ? "disabled" : ""}>
+      aria-pressed="${state[key] === value}" ${n === 0 && state[key] !== value ? "disabled" : ""}>
       <span>${esc(label)}</span><span class="n">${n}</span></button></li>`;
   const label = (n) => (key === "level" && LEVEL_LABEL[n]) || (n === "Other India" ? "Other city / not stated" : n);
   $(elId).innerHTML = item("", "All", total) + names.map((n) => item(n, label(n), counts.get(n) || 0)).join("");
@@ -172,6 +180,12 @@ if (matchMedia("(min-width: 900px)").matches) $("filterbox").open = true;
 function clearAll() {
   Object.assign(state, { q: "", role: "", city: "", level: "" });
   $("q").value = "";
+  update();
+}
+
+// keep the search words, drop role / city / type
+function clearFilters() {
+  Object.assign(state, { role: "", city: "", level: "" });
   update();
 }
 

@@ -87,6 +87,8 @@ a { color: inherit; }
   -webkit-appearance: none;
 }
 .search input::placeholder { color: var(--muted); }
+/* the browser's own blue clear "x" doesn't fit the page; Esc and "Clear filters" do the job */
+.search input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
 .search input:focus { outline: none; border-bottom-color: var(--accent); }
 .search kbd {
   position: absolute; right: 0; bottom: 22px;
