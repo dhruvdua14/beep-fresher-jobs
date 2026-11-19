@@ -13,7 +13,7 @@ Gemini free tier (LLM).
 ## Architecture
 
 ```
- GitHub Actions, every day 08:00 IST
+ GitHub Actions, every morning (~07:40 IST, backup run at 11:10)
  ┌──────────────────────────────────────────────────────────────────────────┐
  │ pipeline/run.py                                                          │
  │                                                                          │

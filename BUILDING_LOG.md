@@ -183,3 +183,12 @@ still count as different. Post ids are unchanged, so the tag cache and "New" mar
 Also: a Sutherland "Employee Referral" page was listed as a job; added it to the not-a-job rule.
 **Lesson:** Read the output as a user would, not just the counts. 4 duplicates out of 309
 didn't move any metric, but a reviewer clicking two identical rows would notice.
+
+### 18. The morning refresh didn't run on time
+**What happened:** On 19 Nov, 75 minutes after the 08:00 IST schedule, there was still no run.
+**Why:** GitHub runs scheduled workflows on a best-effort basis. When it's busy, runs set for
+the top or half of the hour (which everyone picks) get delayed, and sometimes dropped.
+**Fix:** Moved the schedule to an odd minute (02:07 UTC) and added a backup run at 05:41 UTC.
+A second run on the same day is safe: tags come from the cache and Adzuna is limited to one
+call per day, so it costs nothing. Triggered a manual run to refresh today's data.
+**Lesson:** "Runs every day" needs a fallback when you don't own the scheduler.

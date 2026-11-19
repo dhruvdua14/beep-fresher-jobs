@@ -7,7 +7,7 @@ Dhruv Dua · Beep, Gen AI & Engineering round
 | **Live tool** | https://dhruvdua14.github.io/beep-fresher-jobs/ |
 | **Numbers page** | https://dhruvdua14.github.io/beep-fresher-jobs/stats.html |
 | **Repo** | https://github.com/dhruvdua14/beep-fresher-jobs |
-| **What broke** | [BUILDING_LOG.md](../BUILDING_LOG.md) (17 entries, written as it happened) |
+| **What broke** | [BUILDING_LOG.md](../BUILDING_LOG.md) (18 entries, written as it happened) |
 | **Live data (CSV)** | https://dhruvdua14.github.io/beep-fresher-jobs/data/jobs.csv |
 | **Hand-check sheet** | [eval/hand_check.csv](../eval/hand_check.csv) |
 
@@ -19,7 +19,7 @@ Dhruv Dua · Beep, Gen AI & Engineering round
 
 ## 1. What it does
 
-Every morning at 08:00 IST a GitHub Action:
+Every morning (about 07:40 IST, with a backup run at 11:10 IST) a GitHub Action:
 
 1. **Fetches** about 10,000 posts from public job-board APIs: Greenhouse, Lever, Ashby and
    SmartRecruiters boards of ~300 companies, plus the Adzuna India API. No scraping,

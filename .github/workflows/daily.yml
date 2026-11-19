@@ -4,7 +4,11 @@ name: Daily refresh
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 02:30 UTC = 08:00 IST, every day
+    # GitHub may delay or skip scheduled runs when it's busy, especially on the hour
+    # and half hour. So: an odd minute, plus a backup run. A second run on the same
+    # day is harmless: tags come from the cache and Adzuna is called once a day at most.
+    - cron: "7 2 * * *"    # 02:07 UTC = 07:37 IST, every day
+    - cron: "41 5 * * *"   # 05:41 UTC = 11:11 IST, backup
   workflow_dispatch:       # "Run workflow" button, for manual refreshes
   push:
     branches: [main]
