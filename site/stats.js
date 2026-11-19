@@ -30,7 +30,7 @@ Promise.all([
   // ---------- eval
   if (ev) {
     const e = ev.summary;
-    $("evalLead").textContent = `${e.sample_size} posts picked at random (fixed seed) and checked by hand against the original listing.`;
+    $("evalLead").textContent = `${e.sample_size} posts picked at random (fixed seed). Each tag was pre-checked by Claude against the post's original text, then confirmed by hand. The model gave every one of these posts confidence 0.8 or higher, wrong ones included.`;
     $("eval").innerHTML = [
       figure(`${e.role.pct}<small>%</small>`, "role correct", `${e.role.correct} of ${e.role.checked}`),
       figure(`${e.city.pct}<small>%</small>`, "city correct", `${e.city.correct} of ${e.city.checked}`),

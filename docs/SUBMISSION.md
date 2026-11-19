@@ -35,16 +35,16 @@ Every morning (about 07:40 IST, with a backup run at 11:10 IST) a GitHub Action:
 
 Total running cost: **₹0**. That's GitHub Actions, GitHub Pages and the Gemini free tier.
 
-## 2. Numbers (run of 18 Nov 2026, 10:05 IST)
+## 2. Numbers (run of 19 Nov 2026, 09:15 IST)
 
 | Step | Posts |
 |---|---|
-| Fetched | 10,157 |
-| Located in India | 2,771 |
-| Possible entry-level after rules | 698 |
-| Duplicates removed | 99 (82 exact, 17 fuzzy) |
-| Rejected by the LLM | 295 |
-| **Listed** | **304**: 157 Fresher, 130 Internship, 17 Early career |
+| Fetched | 10,170 |
+| Located in India | 2,781 |
+| Possible entry-level after rules | 724 |
+| Duplicates removed | 104 (88 exact, 16 fuzzy) |
+| Rejected by the LLM | 288 |
+| **Listed** | **332**: 160 Internship, 156 Fresher, 16 Early career |
 
 ### Cost per 1,000 posts
 Measured from the token counts the Gemini API reports on every call (`usageMetadata`),
@@ -63,22 +63,41 @@ Why it's cheap: 40 posts per request (the instructions are paid once per 40 post
 descriptions trimmed to the opening plus the sentences that mention experience, and a
 cache, so a post tagged yesterday costs nothing today. Daily cost scales with *new* posts only.
 
-### Tagging accuracy (hand-checked, 50 random posts, seed 42)
+### Tagging accuracy (50 random posts, seed 42)
+How it was checked: every post's original text is saved in
+[`eval/hand_check_text.json`](../eval/hand_check_text.json). Claude pre-filled a Y/N for each
+tag from that text, with the right answer and a reason for every N. I then went through the
+sheet, opened the links that needed it, and confirmed it. The sheet with all notes is
+[`eval/hand_check.csv`](../eval/hand_check.csv).
+
 | | Correct |
 |---|---|
-| Role | __ / 50 (__%) |
-| City | __ / 50 (__%) |
-| Level (intern/fresher/early career) | __ / 50 (__%) |
-| Role **and** city both right | __ / 50 (__%) |
+| Role | 46 / 50 (92%) |
+| City | 48 / 50 (96%) |
+| Level (intern / fresher / early career) | 46 / 50 (92%) |
+| Role **and** city both right | 44 / 50 (88%) |
 
-Most common mistakes: _fill in from `python eval/score.py`_.
+What went wrong:
+- **Role (4):** "Fresher Designer EDs" is electrical *wiring* design, tagged Design instead of
+  Core Engineering. A "Robotics Engineer" post is really teaching robotics to kids online.
+  A food-factory production intern was tagged Core Engineering instead of Operations. A web
+  "Content Developer" is closer to Content than Software. The model follows title words.
+- **City (2):** "Marketing Trainee – Mumbai" with location "India" went to Other India (the
+  city was only in the title). Bhiwandi (Thane district) was rounded to Mumbai.
+- **Level (4):** two listed posts aren't really entry-level (one asks 1–3 years, one asks for
+  detailed travel-industry knowledge). A 2027 campus hire was called an internship, and a
+  graduate apprenticeship was called Fresher instead of Internship.
+- **Confidence didn't help:** the model gave all 50 posts confidence ≥ 0.8, wrong ones included,
+  so it can't be used to route posts to human review. Next step would be a second, stricter
+  pass only on posts whose title and description disagree.
 
 ## 3. AI tools used
 
 | Where | Tool |
 |---|---|
 | Tagging in the product | Google Gemini `gemini-3.1-flash-lite` (REST API, JSON-schema output, temperature 0) |
-| Building | Claude Code (pair programming), Claude for reviewing samples |
+| Building | Claude Code (pair programming and debugging) |
+| Hand check | Claude pre-filled Y/N from the saved post text; I confirmed every row |
 
 ## 4. The prompt (exact, from `pipeline/tagger.py`)
 

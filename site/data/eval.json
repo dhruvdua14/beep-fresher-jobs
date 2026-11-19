@@ -1,0 +1,67 @@
+{
+ "summary": {
+  "sample_size": 50,
+  "role": {
+   "correct": 46,
+   "checked": 50,
+   "pct": 92.0
+  },
+  "city": {
+   "correct": 48,
+   "checked": 50,
+   "pct": 96.0
+  },
+  "level": {
+   "correct": 46,
+   "checked": 50,
+   "pct": 92.0
+  },
+  "both": {
+   "correct": 44,
+   "checked": 50,
+   "pct": 88.0
+  }
+ },
+ "role_confusions": [
+  [
+   "Design -> Core Engineering",
+   1
+  ],
+  [
+   "Software Engineering -> Content & Communications",
+   1
+  ],
+  [
+   "Core Engineering -> Other",
+   1
+  ],
+  [
+   "Core Engineering -> Operations & Supply Chain",
+   1
+  ]
+ ],
+ "city_errors": [
+  {
+   "title": "Marketing Trainee - BTL Team - Mumbai - Off Campus",
+   "location_raw": "India, India",
+   "llm": "Other India",
+   "correct": "Mumbai"
+  },
+  {
+   "title": "Junior Mechanical Engineer",
+   "location_raw": "Bhiwandi, Thane, India",
+   "llm": "Mumbai",
+   "correct": "Other India"
+  }
+ ],
+ "confidence": {
+  "high (>=0.8)": {
+   "n": 50,
+   "role_pct": 92.0
+  },
+  "low (<0.8)": {
+   "n": 0,
+   "role_pct": null
+  }
+ }
+}
