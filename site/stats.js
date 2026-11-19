@@ -63,6 +63,12 @@ Promise.all([
   $("byRole").innerHTML = s.by_role.map(([k, n]) => bar(k, n, maxRole)).join("");
   const maxCity = s.by_city[0]?.[1] || 1;
   $("byCity").innerHTML = s.by_city.map(([k, n]) => bar(k === "Other India" ? "Other city / not stated" : k, n, maxCity)).join("");
+  const SOURCE = { adzuna: "Adzuna (aggregator)", greenhouse: "Greenhouse", lever: "Lever", ashby: "Ashby", smartrecruiters: "SmartRecruiters" };
+  const bySource = s.by_source || [];
+  $("bySource").innerHTML = bySource.map(([k, n]) => bar(SOURCE[k] || k, n, bySource[0]?.[1] || 1)).join("");
+  const agg = bySource.filter(([k]) => k === "adzuna").reduce((a, [, n]) => a + n, 0);
+  const all = bySource.reduce((a, [, n]) => a + n, 0);
+  if (all) $("sourceNote").textContent = `${Math.round((100 * agg) / all)}% of listed jobs come from the aggregator. The other four are companies' own career boards, which are mostly mid and senior roles.`;
 
   // ---------- run log
   $("runs").innerHTML = `<thead><tr><th>Date</th><th>Fetched</th><th>Duplicates</th><th>Listed</th><th>New tagged</th><th>LLM calls</th><th>Cost</th></tr></thead><tbody>` +
