@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-19T09:15+05:30",
- "count": 332,
+ "updated_at": "2026-11-19T20:09+05:30",
+ "count": 333,
  "jobs": [
+  {
+   "id": "84c0686ec5bc",
+   "title": "Backend - Intern ( SEA & Europe)",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
+   "source": "lever",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "788c21a24478",
+   "title": "Technical Support Engineer I",
+   "company": "Zeta",
+   "location": "Hyderabad",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
+   "source": "lever",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "e0362e45262f",
+   "title": "AI / ML and Generative AI research assistant",
+   "company": "Bosch Group",
+   "location": "coimbatore, , India",
+   "cities": [
+    "Coimbatore"
+   ],
+   "role": "AI / ML",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162445000",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-19"
+  },
   {
    "id": "23694ba38392",
    "title": "Marketing Intern",
@@ -206,22 +254,6 @@
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039884",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-17",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0d9d44030911",
-   "title": "Associate Software Test Engineer (Java, Selenium)",
-   "company": "NielsenIQ",
-   "location": "Pune, MH, India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Software Engineering",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000162070650",
    "source": "smartrecruiters",
    "posted_at": "2026-11-17",
    "first_seen": "2026-11-18"
@@ -673,22 +705,6 @@
    "source": "adzuna",
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-19"
-  },
-  {
-   "id": "81e7b41c76fc",
-   "title": "Client Servicing Executive",
-   "company": "SWIGGY",
-   "location": "Mumbai, MH, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001576902",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-14",
-   "first_seen": "2026-11-18"
   },
   {
    "id": "07cc56de40f8",
@@ -3612,6 +3628,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "c4198a77441e",
+   "title": "Software Engineer, New Grad",
+   "company": "Stripe",
+   "location": "Bangalore",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+   "source": "greenhouse",
+   "posted_at": "2026-10-28",
+   "first_seen": "2026-11-19"
+  },
+  {
    "id": "3c6ce465ff2a",
    "title": "Support Intern",
    "company": "Cyboard School",
@@ -3670,7 +3702,7 @@
    "role": "Content & Communications",
    "level": "Fresher",
    "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/headout/742de92e-9068-480b-81fc-8e65dafbb135",
+   "url": "https://jobs.ashbyhq.com/headout/eda2d2ae-13ca-4b99-8a87-98e4b473f866",
    "source": "ashby",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
@@ -5067,22 +5099,6 @@
    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
    "source": "greenhouse",
    "posted_at": "2026-09-06",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "340379e96567",
-   "title": "Product Stability Test Engineer",
-   "company": "Bosch Group",
-   "location": "telangana, , India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Early career",
-   "confidence": 0.8,
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147162938",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-03",
    "first_seen": "2026-11-18"
   },
   {

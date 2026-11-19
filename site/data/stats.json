@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T09:15+05:30",
+ "updated_at": "2026-11-19T20:09+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,36 +8,35 @@
  },
  "latest": {
   "date": "2026-11-19",
-  "time": "09:15",
-  "fetched": 10170,
-  "india": 2781,
-  "fresher_rules": 724,
-  "exact_dupes": 88,
-  "fuzzy_dupes": 16,
-  "rejected_by_llm": 288,
-  "published": 332,
-  "newly_tagged": 41,
-  "from_cache": 579,
-  "llm_calls": 2,
-  "input_tokens": 8007,
-  "output_tokens": 1588,
-  "cost_usd": 0.004384,
+  "time": "20:09",
+  "fetched": 10193,
+  "india": 2793,
+  "fresher_rules": 732,
+  "exact_dupes": 89,
+  "fuzzy_dupes": 17,
+  "rejected_by_llm": 293,
+  "published": 333,
+  "newly_tagged": 17,
+  "from_cache": 609,
+  "llm_calls": 1,
+  "input_tokens": 3464,
+  "output_tokens": 896,
+  "cost_usd": 0.00221,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7330,
-   "lever": 756,
-   "ashby": 666,
-   "smartrecruiters": 973,
-   "adzuna": 50
+   "greenhouse": 7346,
+   "lever": 762,
+   "ashby": 652,
+   "smartrecruiters": 988
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3413,
-  "input_tokens": 563300,
-  "output_tokens": 146788,
-  "usd_all_time": 0.361006,
-  "usd_per_1000": 0.1058,
+  "posts_tagged_all_time": 3430,
+  "input_tokens": 566764,
+  "output_tokens": 147684,
+  "usd_all_time": 0.363216,
+  "usd_per_1000": 0.1059,
   "tokens_per_post": 208
  },
  "by_role": [
@@ -75,19 +74,19 @@
   ],
   [
    "Customer Success & Support",
-   22
+   23
   ],
   [
    "Content & Communications",
    9
   ],
   [
-   "Consulting & Strategy",
+   "Data & Analytics",
    8
   ],
   [
-   "Data & Analytics",
-   8
+   "Consulting & Strategy",
+   7
   ],
   [
    "Design",
@@ -99,41 +98,41 @@
   ],
   [
    "AI / ML",
-   2
+   3
   ]
  ],
  "by_city": [
   [
    "Other India",
-   83
+   82
   ],
   [
    "Bengaluru",
-   71
+   72
   ],
   [
    "Mumbai",
-   27
+   26
   ],
   [
    "Hyderabad",
-   23
-  ],
-  [
-   "Pune",
-   20
+   24
   ],
   [
    "Remote",
    20
   ],
   [
-   "Ahmedabad",
-   18
+   "Pune",
+   19
   ],
   [
    "Noida",
-   17
+   18
+  ],
+  [
+   "Ahmedabad",
+   18
   ],
   [
    "Chennai",
@@ -152,12 +151,12 @@
    8
   ],
   [
-   "Indore",
+   "Coimbatore",
    6
   ],
   [
-   "Coimbatore",
-   5
+   "Indore",
+   6
   ],
   [
    "Kolkata",
@@ -179,21 +178,21 @@
  "by_level": [
   [
    "Internship",
-   160
+   161
   ],
   [
    "Fresher",
-   156
+   159
   ],
   [
    "Early career",
-   16
+   13
   ]
  ],
  "by_company": [
   [
    "Paytm",
-   8
+   9
   ],
   [
    "Bosch Group",
@@ -201,7 +200,7 @@
   ],
   [
    "SWIGGY",
-   6
+   5
   ],
   [
    "Happiest Resume",
@@ -244,11 +243,11 @@
    3
   ],
   [
-   "NielsenIQ",
+   "Playto Labs",
    3
   ],
   [
-   "Playto Labs",
+   "Sid's Farm",
    3
   ]
  ],
@@ -259,15 +258,15 @@
   ],
   [
    "smartrecruiters",
-   23
+   21
   ],
   [
    "greenhouse",
-   18
+   19
   ],
   [
    "lever",
-   13
+   15
   ],
   [
    "ashby",
@@ -680,7 +679,54 @@
     "smartrecruiters": 973,
     "adzuna": 50
    }
+  },
+  {
+   "date": "2026-11-19",
+   "time": "20:09",
+   "fetched": 10193,
+   "india": 2793,
+   "fresher_rules": 732,
+   "exact_dupes": 89,
+   "fuzzy_dupes": 17,
+   "rejected_by_llm": 293,
+   "published": 333,
+   "newly_tagged": 17,
+   "from_cache": 609,
+   "llm_calls": 1,
+   "input_tokens": 3464,
+   "output_tokens": 896,
+   "cost_usd": 0.00221,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7346,
+    "lever": 762,
+    "ashby": 652,
+    "smartrecruiters": 988
+   }
   }
  ],
- "eval": null
+ "eval": {
+  "sample_size": 50,
+  "role": {
+   "correct": 46,
+   "checked": 50,
+   "pct": 92.0
+  },
+  "city": {
+   "correct": 48,
+   "checked": 50,
+   "pct": 96.0
+  },
+  "level": {
+   "correct": 46,
+   "checked": 50,
+   "pct": 92.0
+  },
+  "both": {
+   "correct": 44,
+   "checked": 50,
+   "pct": 88.0
+  }
+ }
 }
