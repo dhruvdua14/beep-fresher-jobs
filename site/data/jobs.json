@@ -1,22 +1,38 @@
 {
- "updated_at": "2026-11-19T20:09+05:30",
- "count": 333,
+ "updated_at": "2026-11-20T15:27+05:30",
+ "count": 335,
  "jobs": [
   {
-   "id": "84c0686ec5bc",
-   "title": "Backend - Intern ( SEA & Europe)",
-   "company": "Paytm",
-   "location": "Noida, Uttar Pradesh",
+   "id": "9dfc8a2e17f9",
+   "title": "Product User Research, Intern",
+   "company": "Sarvam",
+   "location": "Bengaluru",
    "cities": [
-    "Noida"
+    "Bengaluru"
    ],
-   "role": "Software Engineering",
+   "role": "Product",
    "level": "Internship",
    "confidence": 1.0,
-   "url": "https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8",
-   "source": "lever",
-   "posted_at": "2026-11-19",
-   "first_seen": "2026-11-19"
+   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+   "source": "ashby",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "148c89ae680c",
+   "title": "Junior Product designer – AI Prototyping",
+   "company": "Techglora Integrated IT services",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5972375177?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "788c21a24478",
@@ -65,6 +81,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "b1a67520e9ad",
+   "title": "Junior Accountant",
+   "company": "Vedita Ventures",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5970551729?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "f3cd91feca33",
@@ -403,6 +435,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "136991a0602d",
+   "title": "Junior Business Development Executive",
+   "company": "IDEAL CAREER ZONE",
+   "location": "Kolkata, West Bengal, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5967330878?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-16",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "94789dbc79d4",
    "title": "IN_Bosch Rexroth India_Engineer / Executive_Project Management",
    "company": "Bosch Group",
@@ -430,22 +478,6 @@
    "level": "Early career",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161773044",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-16",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "dd09cb06fdb6",
-   "title": "Business Development Representative",
-   "company": "ServiceNow",
-   "location": "Bangalore, , India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161932469",
    "source": "smartrecruiters",
    "posted_at": "2026-11-16",
    "first_seen": "2026-11-18"
@@ -1089,6 +1121,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "7572799f0566",
+   "title": "Product Consulting Associate & Trainee-Tech - Fresher's",
+   "company": "TekMindz",
+   "location": "Ator Nagla, Ghaziabad, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Consulting & Strategy",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963454024?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "22f2f5807910",
+   "title": "Junior Optometrist - Clinical Research",
+   "company": "Remidio",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963457407?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "bb6d13522c0f",
@@ -2387,6 +2451,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "09c1ba3753a8",
+   "title": "Junior US Tax Executive",
+   "company": "Safebooks Global",
+   "location": "Maharashtra, India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5955664247?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "e2aa0c3cf2b1",
    "title": "Intern",
    "company": "CSTEP",
@@ -2545,6 +2625,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-06",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b6bbae9a832e",
+   "title": "Junior Accountant",
+   "company": "Happiest Resume",
+   "location": "Vadodara, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953687302?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "84c3bc4d770b",
@@ -2922,6 +3018,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3a46d377c706",
+   "title": "Junior Graphic Designer",
+   "company": "Alttred Nexxus",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Design",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5951620069?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "08a1cdd8fe14",
@@ -4716,38 +4828,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9c1162bcf5ca",
-   "title": "Management Trainee - Finance",
-   "company": "Neolytix",
-   "location": "India, India",
-   "cities": [
-    "Gurugram"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5935555944?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-20",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": "36195993fe09",
-   "title": "2027 Intern - Research PhD Intern",
-   "company": "Adobe",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "AI / ML",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5935581376?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-20",
-   "first_seen": "2026-11-19"
-  },
-  {
    "id": "e71865e4a6c3",
    "title": "Talent Acquisition Intern - IT Recruitment",
    "company": "Paytm",
@@ -4760,22 +4840,6 @@
    "confidence": 1.0,
    "url": "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
    "source": "lever",
-   "posted_at": "2026-10-20",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "41a4891ed7c3",
-   "title": "Compliance Intern (KYC)",
-   "company": "Coinsell Technology Pvt. Ltd.",
-   "location": "Sansad Marg, New Delhi, India",
-   "cities": [
-    "Delhi"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5935690709?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
    "posted_at": "2026-10-20",
    "first_seen": "2026-11-18"
   },
@@ -4974,22 +5038,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "05e1b929d62a",
-   "title": "Frontend Developer",
-   "company": "Headout",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/headout/15c88403-d576-4245-83c6-b62d7d351278",
-   "source": "ashby",
-   "posted_at": "2026-09-14",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "3011aea6a9a3",
    "title": "Healthcare",
    "company": "Sutherland",
@@ -5118,22 +5166,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "ad8874a1d036",
-   "title": "Customer Experience Engineer, L1",
-   "company": "HackerRank Careers",
-   "location": "Hybrid in Bangalore, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8127535",
-   "source": "greenhouse",
-   "posted_at": "2026-08-27",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "699258d40510",
    "title": "Associate - Motor Insurance",
    "company": "Paytm",
@@ -5147,22 +5179,6 @@
    "url": "https://jobs.lever.co/paytm/20d54134-b6e5-4816-8da9-42e3a3ed8f57",
    "source": "lever",
    "posted_at": "2026-08-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "995584b9c625",
-   "title": "Analyst",
-   "company": "InMobi ",
-   "location": "Lucknow",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Data & Analytics",
-   "level": "Fresher",
-   "confidence": 0.7,
-   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8096039",
-   "source": "greenhouse",
-   "posted_at": "2026-08-25",
    "first_seen": "2026-11-18"
   },
   {
@@ -5324,6 +5340,22 @@
    "source": "greenhouse",
    "posted_at": "2026-01-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b22b2fcaab34",
+   "title": "Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office",
+   "company": "Agoda",
+   "location": "Gurgaon",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041",
+   "source": "greenhouse",
+   "posted_at": "2024-10-11",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "b5370c792129",

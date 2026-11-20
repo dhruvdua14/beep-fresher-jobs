@@ -1,8 +1,8 @@
 {
  "answered": {
   "greenhouse:acko": 0,
-  "greenhouse:agoda": 344,
-  "greenhouse:airbnb": 197,
+  "greenhouse:agoda": 345,
+  "greenhouse:airbnb": 203,
   "greenhouse:airtribe": 0,
   "greenhouse:ajio": 0,
   "greenhouse:almabase": 0,
@@ -14,7 +14,7 @@
   "greenhouse:bewakoof": 0,
   "greenhouse:bhanzu": 0,
   "greenhouse:bharatpe": 0,
-  "greenhouse:binance": 231,
+  "greenhouse:binance": 228,
   "greenhouse:blackbuck": 0,
   "greenhouse:bluestone": 35,
   "greenhouse:boat": 0,
@@ -31,12 +31,12 @@
   "greenhouse:cleartax": 0,
   "greenhouse:cleartrip": 0,
   "greenhouse:clevertap": 0,
-  "greenhouse:cloudflare": 498,
+  "greenhouse:cloudflare": 497,
   "greenhouse:cohesity": 0,
-  "greenhouse:coinbase": 255,
+  "greenhouse:coinbase": 253,
   "greenhouse:coindcx": 0,
   "greenhouse:coinswitch": 0,
-  "greenhouse:commvault": 56,
+  "greenhouse:commvault": 57,
   "greenhouse:composio": 0,
   "greenhouse:confluent": 0,
   "greenhouse:coverfox": 0,
@@ -44,11 +44,11 @@
   "greenhouse:cuemath": 0,
   "greenhouse:curefit": 0,
   "greenhouse:darwinbox": 0,
-  "greenhouse:databricks": 908,
-  "greenhouse:datadog": 379,
+  "greenhouse:databricks": 898,
+  "greenhouse:datadog": 382,
   "greenhouse:dealshare": 0,
   "greenhouse:deel": 0,
-  "greenhouse:deepintent": 25,
+  "greenhouse:deepintent": 24,
   "greenhouse:delhivery": 0,
   "greenhouse:devrev": 8,
   "greenhouse:dhan": 0,
@@ -56,12 +56,12 @@
   "greenhouse:dodo-payments": 0,
   "greenhouse:dream11": 0,
   "greenhouse:droom": 0,
-  "greenhouse:dropbox": 46,
+  "greenhouse:dropbox": 47,
   "greenhouse:druva": 27,
   "greenhouse:dukaan": 0,
   "greenhouse:dunzo": 0,
   "greenhouse:eightfold": 0,
-  "greenhouse:elastic": 373,
+  "greenhouse:elastic": 370,
   "greenhouse:eloelo": 0,
   "greenhouse:even": 0,
   "greenhouse:exotel": 0,
@@ -74,8 +74,8 @@
   "greenhouse:freshworks": 0,
   "greenhouse:frontier": 0,
   "greenhouse:games24x7": 0,
-  "greenhouse:gitlab": 249,
-  "greenhouse:glance": 27,
+  "greenhouse:gitlab": 246,
+  "greenhouse:glance": 26,
   "greenhouse:glean": 0,
   "greenhouse:gojek": 0,
   "greenhouse:grab": 0,
@@ -84,7 +84,7 @@
   "greenhouse:groww": 9,
   "greenhouse:groyyo": 0,
   "greenhouse:gupshup": 0,
-  "greenhouse:hackerrank": 33,
+  "greenhouse:hackerrank": 31,
   "greenhouse:haptik": 0,
   "greenhouse:hasura": 0,
   "greenhouse:headout": 0,
@@ -95,10 +95,10 @@
   "greenhouse:hubspot": 0,
   "greenhouse:indmoney": 0,
   "greenhouse:infra-market": 0,
-  "greenhouse:inmobi": 78,
+  "greenhouse:inmobi": 77,
   "greenhouse:innovaccer": 0,
   "greenhouse:insurancedekho": 0,
-  "greenhouse:intercom": 118,
+  "greenhouse:intercom": 121,
   "greenhouse:ixigo": 0,
   "greenhouse:jar": 0,
   "greenhouse:jar-app": 0,
@@ -136,7 +136,7 @@
   "greenhouse:moglix": 0,
   "greenhouse:mokobara": 0,
   "greenhouse:moneyview": 0,
-  "greenhouse:mongodb": 405,
+  "greenhouse:mongodb": 413,
   "greenhouse:mpl": 0,
   "greenhouse:mu-sigma": 0,
   "greenhouse:multiplier": 0,
@@ -170,7 +170,7 @@
   "greenhouse:pharmeasy": 0,
   "greenhouse:phonepe": 0,
   "greenhouse:physicswallah": 0,
-  "greenhouse:pinterest": 172,
+  "greenhouse:pinterest": 175,
   "greenhouse:plivo": 0,
   "greenhouse:plum": 0,
   "greenhouse:pocketfm": 0,
@@ -184,7 +184,7 @@
   "greenhouse:rage-coffee": 0,
   "greenhouse:ramp": 1,
   "greenhouse:rapido": 0,
-  "greenhouse:razorpaysoftwareprivatelimited": 30,
+  "greenhouse:razorpaysoftwareprivatelimited": 31,
   "greenhouse:rebel-foods": 0,
   "greenhouse:remote": 2,
   "greenhouse:renewbuy": 0,
@@ -192,9 +192,9 @@
   "greenhouse:rivigo": 0,
   "greenhouse:rocketlane": 0,
   "greenhouse:rooter": 0,
-  "greenhouse:rubrik": 201,
+  "greenhouse:rubrik": 204,
   "greenhouse:sahaj": 0,
-  "greenhouse:samsara": 310,
+  "greenhouse:samsara": 306,
   "greenhouse:sarvam": 0,
   "greenhouse:sarvam-ai": 0,
   "greenhouse:scaler": 0,
@@ -211,7 +211,7 @@
   "greenhouse:skit": 0,
   "greenhouse:skit-ai": 0,
   "greenhouse:sleepyowl": 0,
-  "greenhouse:slice": 21,
+  "greenhouse:slice": 23,
   "greenhouse:smallcase": 0,
   "greenhouse:smallest": 0,
   "greenhouse:snitch": 0,
@@ -222,7 +222,7 @@
   "greenhouse:squareyards": 0,
   "greenhouse:stashfin": 0,
   "greenhouse:stockgro": 0,
-  "greenhouse:stripe": 781,
+  "greenhouse:stripe": 773,
   "greenhouse:sugar": 0,
   "greenhouse:sumologic": 26,
   "greenhouse:superjoin": 0,
@@ -232,16 +232,16 @@
   "greenhouse:tekion": 0,
   "greenhouse:thesouledstore": 0,
   "greenhouse:thoughtworks": 31,
-  "greenhouse:tide": 81,
+  "greenhouse:tide": 83,
   "greenhouse:tigeranalytics": 0,
-  "greenhouse:toast": 327,
+  "greenhouse:toast": 328,
   "greenhouse:toplyne": 0,
   "greenhouse:toptal": 0,
   "greenhouse:transferwise": 0,
   "greenhouse:tricog": 0,
-  "greenhouse:turing": 41,
+  "greenhouse:turing": 35,
   "greenhouse:turtlemint": 0,
-  "greenhouse:twilio": 109,
+  "greenhouse:twilio": 106,
   "greenhouse:udaan": 0,
   "greenhouse:ultrahuman": 0,
   "greenhouse:unacademy": 0,
@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 378,
+  "greenhouse:zscaler": 376,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -313,7 +313,7 @@
   "lever:composio": 0,
   "lever:confluent": 0,
   "lever:coverfox": 0,
-  "lever:cred": 12,
+  "lever:cred": 10,
   "lever:cuemath": 0,
   "lever:curefit": 0,
   "lever:darwinbox": 0,
@@ -434,9 +434,9 @@
   "lever:onsurity": 0,
   "lever:oyo": 0,
   "lever:ozonetel": 0,
-  "lever:palantir": 308,
+  "lever:palantir": 307,
   "lever:parkplus": 0,
-  "lever:paytm": 197,
+  "lever:paytm": 196,
   "lever:pazcare": 0,
   "lever:pepperfry": 0,
   "lever:perfios": 0,
@@ -446,7 +446,7 @@
   "lever:pinterest": 0,
   "lever:plivo": 0,
   "lever:plum": 0,
-  "lever:pocketfm": 12,
+  "lever:pocketfm": 10,
   "lever:policybazaar": 0,
   "lever:porter": 20,
   "lever:postman": 0,
@@ -633,7 +633,7 @@
   "ashby:hackerrank": 0,
   "ashby:haptik": 0,
   "ashby:hasura": 0,
-  "ashby:headout": 18,
+  "ashby:headout": 16,
   "ashby:healthifyme": 0,
   "ashby:hevodata": 0,
   "ashby:highradius": 0,
@@ -728,7 +728,7 @@
   "ashby:quantiphi": 0,
   "ashby:qure-ai": 0,
   "ashby:rage-coffee": 0,
-  "ashby:ramp": 182,
+  "ashby:ramp": 185,
   "ashby:rapido": 0,
   "ashby:razorpaysoftwareprivatelimited": 0,
   "ashby:rebel-foods": 0,
@@ -741,7 +741,7 @@
   "ashby:rubrik": 0,
   "ashby:sahaj": 0,
   "ashby:samsara": 0,
-  "ashby:sarvam": 43,
+  "ashby:sarvam": 44,
   "ashby:sarvam-ai": 0,
   "ashby:scaler": 0,
   "ashby:scapia": 0,
@@ -775,9 +775,9 @@
   "ashby:swiggy": 0,
   "ashby:tata1mg": 0,
   "ashby:teachmint": 0,
-  "ashby:tekion": 90,
+  "ashby:tekion": 91,
   "ashby:thesouledstore": 0,
-  "ashby:thoughtworks": 55,
+  "ashby:thoughtworks": 38,
   "ashby:tide": 0,
   "ashby:tigeranalytics": 0,
   "ashby:toast": 0,
@@ -821,19 +821,19 @@
   "ashby:zupee": 0,
   "smartrecruiters:Visa": 0,
   "smartrecruiters:BoschGroup": 500,
-  "smartrecruiters:ServiceNow": 86,
+  "smartrecruiters:ServiceNow": 79,
   "smartrecruiters:Freshworks": 30,
-  "smartrecruiters:Ubisoft2": 8,
+  "smartrecruiters:Ubisoft2": 7,
   "smartrecruiters:Equinix": 0,
   "smartrecruiters:WesternDigital": 1,
   "smartrecruiters:Sodexo": 0,
   "smartrecruiters:McAfee": 0,
-  "smartrecruiters:Experian": 40,
+  "smartrecruiters:Experian": 41,
   "smartrecruiters:Abbott": 0,
   "smartrecruiters:Canva": 0,
-  "smartrecruiters:NielsenIQ": 78,
+  "smartrecruiters:NielsenIQ": 77,
   "smartrecruiters:PublicisGroupe": 0,
-  "smartrecruiters:Sutherland": 54,
+  "smartrecruiters:Sutherland": 53,
   "smartrecruiters:TaskUs": 0,
   "smartrecruiters:Wipro": 0,
   "smartrecruiters:Capgemini": 0,
@@ -863,7 +863,7 @@
   "smartrecruiters:Deloitte": 0,
   "smartrecruiters:EY": 0,
   "smartrecruiters:PwC": 0,
-  "smartrecruiters:Continental": 12,
+  "smartrecruiters:Continental": 13,
   "smartrecruiters:ZF": 0,
   "smartrecruiters:Valeo": 0,
   "smartrecruiters:SchneiderElectric": 0,
@@ -924,18 +924,18 @@
  "listed_per_company": [
   [
    "lever:Paytm",
-   9
+   8
   ],
   [
    "smartrecruiters:Bosch Group",
    7
   ],
   [
-   "smartrecruiters:SWIGGY",
-   5
+   "adzuna:Happiest Resume",
+   6
   ],
   [
-   "adzuna:Happiest Resume",
+   "smartrecruiters:SWIGGY",
    5
   ],
   [
@@ -967,6 +967,10 @@
    4
   ],
   [
+   "ashby:Sarvam",
+   3
+  ],
+  [
    "lever:Hevodata",
    3
   ],
@@ -992,10 +996,6 @@
   ],
   [
    "greenhouse:Stripe",
-   3
-  ],
-  [
-   "greenhouse:HackerRank Careers",
    3
   ],
   [
@@ -1032,6 +1032,10 @@
   ],
   [
    "adzuna:Burns & McDonnell",
+   2
+  ],
+  [
+   "adzuna:TekMindz",
    2
   ],
   [
@@ -1075,7 +1079,7 @@
    2
   ],
   [
-   "ashby:Headout",
+   "greenhouse:HackerRank Careers",
    2
   ],
   [
@@ -1103,10 +1107,6 @@
    2
   ],
   [
-   "ashby:Sarvam",
-   2
-  ],
-  [
    "adzuna:Paytm Payments Services",
    2
   ],
@@ -1115,11 +1115,23 @@
    2
   ],
   [
+   "greenhouse:Agoda",
+   2
+  ],
+  [
    "greenhouse:MongoDB",
    2
   ],
   [
+   "adzuna:Techglora Integrated IT services",
+   1
+  ],
+  [
    "lever:Zeta",
+   1
+  ],
+  [
+   "adzuna:Vedita Ventures",
    1
   ],
   [
@@ -1183,7 +1195,7 @@
    1
   ],
   [
-   "smartrecruiters:ServiceNow",
+   "adzuna:IDEAL CAREER ZONE",
    1
   ],
   [
@@ -1283,6 +1295,10 @@
    1
   ],
   [
+   "adzuna:Remidio",
+   1
+  ],
+  [
    "adzuna:Smytten",
    1
   ],
@@ -1292,10 +1308,6 @@
   ],
   [
    "adzuna:Coronis Ajuba",
-   1
-  ],
-  [
-   "adzuna:TekMindz",
    1
   ],
   [
@@ -1495,6 +1507,10 @@
    1
   ],
   [
+   "adzuna:Safebooks Global",
+   1
+  ],
+  [
    "adzuna:CSTEP",
    1
   ],
@@ -1592,6 +1608,10 @@
   ],
   [
    "adzuna:Subhasis Mohanty ",
+   1
+  ],
+  [
+   "adzuna:Alttred Nexxus",
    1
   ],
   [
@@ -1727,6 +1747,10 @@
    1
   ],
   [
+   "ashby:Headout",
+   1
+  ],
+  [
    "adzuna:CDM Smith",
    1
   ],
@@ -1855,31 +1879,11 @@
    1
   ],
   [
-   "adzuna:Neolytix",
-   1
-  ],
-  [
-   "adzuna:Adobe",
-   1
-  ],
-  [
-   "adzuna:Coinsell Technology Pvt. Ltd.",
-   1
-  ],
-  [
    "greenhouse:Binance",
    1
   ],
   [
-   "greenhouse:InMobi ",
-   1
-  ],
-  [
    "greenhouse:Sigmoid",
-   1
-  ],
-  [
-   "greenhouse:Agoda",
    1
   ],
   [
