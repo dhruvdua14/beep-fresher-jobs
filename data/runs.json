@@ -455,5 +455,30 @@
    "smartrecruiters": 980,
    "adzuna": 50
   }
+ },
+ {
+  "date": "2026-11-20",
+  "time": "19:49",
+  "fetched": 10194,
+  "india": 2824,
+  "fresher_rules": 751,
+  "exact_dupes": 89,
+  "fuzzy_dupes": 18,
+  "rejected_by_llm": 310,
+  "published": 334,
+  "newly_tagged": 7,
+  "from_cache": 637,
+  "llm_calls": 1,
+  "input_tokens": 2079,
+  "output_tokens": 360,
+  "cost_usd": 0.00106,
+  "model": "gemini-3.1-flash-lite",
+  "boards": 81,
+  "by_source": {
+   "greenhouse": 7335,
+   "lever": 759,
+   "ashby": 637,
+   "smartrecruiters": 981
+  }
  }
 ]

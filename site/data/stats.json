@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T15:27+05:30",
+ "updated_at": "2026-11-20T19:49+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,37 +8,36 @@
  },
  "latest": {
   "date": "2026-11-20",
-  "time": "15:27",
-  "fetched": 10187,
-  "india": 2814,
-  "fresher_rules": 749,
-  "exact_dupes": 92,
+  "time": "19:49",
+  "fetched": 10194,
+  "india": 2824,
+  "fresher_rules": 751,
+  "exact_dupes": 89,
   "fuzzy_dupes": 18,
-  "rejected_by_llm": 304,
-  "published": 335,
-  "newly_tagged": 30,
-  "from_cache": 609,
+  "rejected_by_llm": 310,
+  "published": 334,
+  "newly_tagged": 7,
+  "from_cache": 637,
   "llm_calls": 1,
-  "input_tokens": 5596,
-  "output_tokens": 1131,
-  "cost_usd": 0.003096,
+  "input_tokens": 2079,
+  "output_tokens": 360,
+  "cost_usd": 0.00106,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7331,
-   "lever": 756,
-   "ashby": 638,
-   "smartrecruiters": 980,
-   "adzuna": 50
+   "greenhouse": 7335,
+   "lever": 759,
+   "ashby": 637,
+   "smartrecruiters": 981
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3460,
-  "input_tokens": 572360,
-  "output_tokens": 148815,
-  "usd_all_time": 0.366312,
-  "usd_per_1000": 0.1059,
-  "tokens_per_post": 208
+  "posts_tagged_all_time": 3467,
+  "input_tokens": 574439,
+  "output_tokens": 149175,
+  "usd_all_time": 0.367372,
+  "usd_per_1000": 0.106,
+  "tokens_per_post": 209
  },
  "by_role": [
   [
@@ -91,7 +90,7 @@
   ],
   [
    "Data & Analytics",
-   7
+   6
   ],
   [
    "Product",
@@ -105,7 +104,7 @@
  "by_city": [
   [
    "Other India",
-   84
+   83
   ],
   [
    "Bengaluru",
@@ -183,7 +182,7 @@
   ],
   [
    "Fresher",
-   159
+   158
   ],
   [
    "Early career",
@@ -259,7 +258,7 @@
   ],
   [
    "smartrecruiters",
-   20
+   19
   ],
   [
    "greenhouse",
@@ -730,6 +729,31 @@
     "ashby": 638,
     "smartrecruiters": 980,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:49",
+   "fetched": 10194,
+   "india": 2824,
+   "fresher_rules": 751,
+   "exact_dupes": 89,
+   "fuzzy_dupes": 18,
+   "rejected_by_llm": 310,
+   "published": 334,
+   "newly_tagged": 7,
+   "from_cache": 637,
+   "llm_calls": 1,
+   "input_tokens": 2079,
+   "output_tokens": 360,
+   "cost_usd": 0.00106,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7335,
+    "lever": 759,
+    "ashby": 637,
+    "smartrecruiters": 981
    }
   }
  ],

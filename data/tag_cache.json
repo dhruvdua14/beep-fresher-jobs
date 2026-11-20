@@ -6983,5 +6983,75 @@
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
   "v": 7
+ },
+ "49aad9e097a4": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "c0e49b7634bb": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "e2652e2b840d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "90180ac94c93": {
+  "role": "Consulting & Strategy",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "285fee7367b8": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "7fbcab5afba2": {
+  "role": "AI / ML",
+  "cities": [
+   "Pune"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "93fb5bcbc8d6": {
+  "role": "Software Engineering",
+  "cities": [
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
  }
 }
