@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-20T19:49+05:30",
- "count": 334,
+ "updated_at": "2026-11-21T15:10+05:30",
+ "count": 340,
  "jobs": [
+  {
+   "id": "c93aa53090be",
+   "title": "Intern, Reservation Operations",
+   "company": "Headout",
+   "location": "Remote (India)",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://jobs.ashbyhq.com/headout/a03c8e9b-5e81-48bf-9919-61ec96985777",
+   "source": "ashby",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "9e3ea2fc9aa4",
+   "title": "Hiring for Weekend Retail Job - Bangalore",
+   "company": "2coms",
+   "location": "Gopalapuram, Chennai, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Marketing",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5972097360?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "99090b6ea85d",
+   "title": "Marketing & Outreach Executive (or Growth & Outreach Associate)",
+   "company": "Mellow Vault",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Marketing",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5972892404?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-21"
+  },
   {
    "id": "9dfc8a2e17f9",
    "title": "Product User Research, Intern",
@@ -33,6 +81,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "479a2629c02e",
+   "title": "Apprentice Hiring for 2027",
+   "company": "Deutsche Bank",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5971878269?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "ac768e58b06b",
+   "title": "Hiring for Weekend Retail Job– Chennai",
+   "company": "2coms",
+   "location": "Gopalapuram, Chennai, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5971490352?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "788c21a24478",
@@ -81,6 +161,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "8c23fff9617c",
+   "title": "Hiring Telecaller - Mira road",
+   "company": "Lisa HR Consultancy",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969745617?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "b1a67520e9ad",
@@ -867,6 +963,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "83d56f612a01",
+   "title": "Hiring Drive Registration",
+   "company": "ADP Private Limited",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964003970?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "237f11609871",
    "title": "Apprentice - Engineer",
    "company": "QAD, Inc.",
@@ -1185,22 +1297,6 @@
    "source": "adzuna",
    "posted_at": "2026-11-12",
    "first_seen": "2026-11-19"
-  },
-  {
-   "id": "50bfd72e6beb",
-   "title": "Jr. Customer Support Analyst",
-   "company": "NielsenIQ",
-   "location": "Pune, MH, India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161270965",
-   "source": "smartrecruiters",
-   "posted_at": "2026-11-12",
-   "first_seen": "2026-11-18"
   },
   {
    "id": "c2159f4bc1d2",
@@ -2115,6 +2211,26 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "cab6597a5cdf",
+   "title": "Hiring || Executive (Business Development)",
+   "company": "2coms",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Gurugram",
+    "Mumbai",
+    "Chennai",
+    "Hyderabad",
+    "Bengaluru"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5960552614?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "b37ed6430a93",
    "title": "MARKETING INTERN",
    "company": "Remitap",
@@ -2611,6 +2727,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "d172f048a48d",
+   "title": "We Are Hiring For Receptionist",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5954480816?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "b6bbae9a832e",
    "title": "Junior Accountant",
    "company": "Happiest Resume",
@@ -3002,6 +3134,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "f4dbf320d457",
+   "title": "We Are Hiring For Sales Coordinator",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5951886314?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "3a46d377c706",
@@ -3516,6 +3664,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "bef6f9d2bfb8",
+   "title": "Apprentice Hiring for 2026- 2027",
+   "company": "DWS",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5947117780?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "dae372dcefd0",
    "title": "Product  Ops Intern",
    "company": "Composio",
@@ -3610,6 +3774,38 @@
    "source": "adzuna",
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3816727f357c",
+   "title": "HR Executive",
+   "company": "APPSeCONNECT",
+   "location": "South 24 Parganas, West Bengal, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5945698388?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "id": "2d9f89c1dca4",
+   "title": "Hiring: Technical Recruiter Intern",
+   "company": "Kapstag Workforce Solutions Private Limited",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5945175340?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "31ed1968465b",
@@ -3996,6 +4192,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "cc9b9be5ef48",
+   "title": "Hiring TeleSales Executives",
+   "company": "Unique CompSol Private Limited",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5942178658?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-26",
+   "first_seen": "2026-11-21"
+  },
+  {
    "id": "c2b367f0625f",
    "title": "IN_Bosch Rexroth India_Engineer - Testing",
    "company": "Bosch Group",
@@ -4138,6 +4350,22 @@
    "source": "adzuna",
    "posted_at": "2026-10-25",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6157588f1ace",
+   "title": "Hiring For Customer Support Executive",
+   "company": "Wroots Global Private Limited",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5939919791?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-24",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "58da7cbdb36e",
@@ -4681,134 +4909,6 @@
    "url": "https://www.adzuna.in/details/5937668700?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-22",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "ba9e4a54a056",
-   "title": "Intern:Intern:Talent Aquisition:Noida",
-   "company": "Paytm Payments Services",
-   "location": "Noida, Ghaziabad, India",
-   "cities": [
-    "Noida"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5936840051?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": "77a5f06205d6",
-   "title": "Intern:Intern:Talent Aquisition:bengaluru",
-   "company": "Paytm Payments Services",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5936842881?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": "d6d4eee79e78",
-   "title": "Outreach Intern",
-   "company": "ViralChilly: Create | Grow | Learn",
-   "location": "Jaipur, Rajasthan, India",
-   "cities": [
-    "Jaipur"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5936562292?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": "70c716df7f95",
-   "title": "Web Researcher Fresher",
-   "company": "Prishusoft",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5935985493?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "04ca02dfe85e",
-   "title": "Account Assistant (Fresher OR Experienced)",
-   "company": "Arvindkumar Maniar & Co.",
-   "location": "Rajkot, Gujarat, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5935985492?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "321261992e4e",
-   "title": "QA Engineer - Fresher",
-   "company": "GwayERP",
-   "location": "Chennai, Tamil Nadu, India",
-   "cities": [
-    "Chennai"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5936562204?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "d8ff9a5b5b79",
-   "title": "Human Resources Trainee",
-   "company": "Recruit CRM",
-   "location": "Pune, Maharashtra, India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5936833367?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a9a6e4f595d0",
-   "title": "Documents verification and Data Entry",
-   "company": "3i Infotech Limited",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5936830402?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-21",
    "first_seen": "2026-11-18"
   },
   {

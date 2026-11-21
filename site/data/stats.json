@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T19:49+05:30",
+ "updated_at": "2026-11-21T15:10+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -7,74 +7,75 @@
   "usd_to_inr": 84.0
  },
  "latest": {
-  "date": "2026-11-20",
-  "time": "19:49",
-  "fetched": 10194,
-  "india": 2824,
-  "fresher_rules": 751,
-  "exact_dupes": 89,
-  "fuzzy_dupes": 18,
-  "rejected_by_llm": 310,
-  "published": 334,
-  "newly_tagged": 7,
-  "from_cache": 637,
+  "date": "2026-11-21",
+  "time": "15:10",
+  "fetched": 10221,
+  "india": 2849,
+  "fresher_rules": 768,
+  "exact_dupes": 90,
+  "fuzzy_dupes": 20,
+  "rejected_by_llm": 318,
+  "published": 340,
+  "newly_tagged": 27,
+  "from_cache": 631,
   "llm_calls": 1,
-  "input_tokens": 2079,
-  "output_tokens": 360,
-  "cost_usd": 0.00106,
+  "input_tokens": 4617,
+  "output_tokens": 1399,
+  "cost_usd": 0.003253,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7335,
-   "lever": 759,
-   "ashby": 637,
-   "smartrecruiters": 981
+   "greenhouse": 7351,
+   "lever": 758,
+   "ashby": 624,
+   "smartrecruiters": 971,
+   "adzuna": 50
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3467,
-  "input_tokens": 574439,
-  "output_tokens": 149175,
-  "usd_all_time": 0.367372,
-  "usd_per_1000": 0.106,
+  "posts_tagged_all_time": 3494,
+  "input_tokens": 579056,
+  "output_tokens": 150574,
+  "usd_all_time": 0.370625,
+  "usd_per_1000": 0.1061,
   "tokens_per_post": 209
  },
  "by_role": [
-  [
-   "Software Engineering",
-   46
-  ],
   [
    "Core Engineering",
    46
   ],
   [
+   "Software Engineering",
+   45
+  ],
+  [
    "Other",
-   37
+   38
   ],
   [
    "Operations & Supply Chain",
-   32
+   34
   ],
   [
    "Sales & Business Development",
-   30
+   34
   ],
   [
    "Marketing",
-   29
+   30
   ],
   [
    "Finance & Accounting",
-   27
-  ],
-  [
-   "HR & Recruiting",
    26
   ],
   [
+   "HR & Recruiting",
+   25
+  ],
+  [
    "Customer Success & Support",
-   22
+   23
   ],
   [
    "Design",
@@ -104,31 +105,23 @@
  "by_city": [
   [
    "Other India",
-   83
+   84
   ],
   [
    "Bengaluru",
-   71
+   73
   ],
   [
    "Mumbai",
-   26
+   31
   ],
   [
    "Hyderabad",
-   24
+   26
   ],
   [
    "Remote",
-   21
-  ],
-  [
-   "Pune",
-   19
-  ],
-  [
-   "Ahmedabad",
-   18
+   23
   ],
   [
    "Noida",
@@ -136,18 +129,26 @@
   ],
   [
    "Chennai",
-   16
+   17
+  ],
+  [
+   "Pune",
+   17
+  ],
+  [
+   "Ahmedabad",
+   17
   ],
   [
    "Gurugram",
-   11
-  ],
-  [
-   "Jaipur",
-   8
+   12
   ],
   [
    "Delhi",
+   7
+  ],
+  [
+   "Jaipur",
    7
   ],
   [
@@ -177,12 +178,12 @@
  ],
  "by_level": [
   [
-   "Internship",
-   161
+   "Fresher",
+   163
   ],
   [
-   "Fresher",
-   158
+   "Internship",
+   162
   ],
   [
    "Early career",
@@ -209,6 +210,10 @@
   [
    "Sutherland",
    5
+  ],
+  [
+   "2coms",
+   4
   ],
   [
    "Valeo",
@@ -245,20 +250,16 @@
   [
    "ViralChilly",
    3
-  ],
-  [
-   "Playto Labs",
-   3
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   278
+   284
   ],
   [
    "smartrecruiters",
-   19
+   18
   ],
   [
    "greenhouse",
@@ -270,7 +271,7 @@
   ],
   [
    "ashby",
-   5
+   6
   ]
  ],
  "history": [
@@ -754,6 +755,32 @@
     "lever": 759,
     "ashby": 637,
     "smartrecruiters": 981
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "time": "15:10",
+   "fetched": 10221,
+   "india": 2849,
+   "fresher_rules": 768,
+   "exact_dupes": 90,
+   "fuzzy_dupes": 20,
+   "rejected_by_llm": 318,
+   "published": 340,
+   "newly_tagged": 27,
+   "from_cache": 631,
+   "llm_calls": 1,
+   "input_tokens": 4617,
+   "output_tokens": 1399,
+   "cost_usd": 0.003253,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7351,
+    "lever": 758,
+    "ashby": 624,
+    "smartrecruiters": 971,
+    "adzuna": 50
    }
   }
  ],
