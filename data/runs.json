@@ -557,5 +557,30 @@
    "smartrecruiters": 972,
    "adzuna": 50
   }
+ },
+ {
+  "date": "2026-11-22",
+  "time": "19:04",
+  "fetched": 10238,
+  "india": 2867,
+  "fresher_rules": 789,
+  "exact_dupes": 105,
+  "fuzzy_dupes": 23,
+  "rejected_by_llm": 317,
+  "published": 344,
+  "newly_tagged": 0,
+  "from_cache": 661,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
+  "boards": 81,
+  "by_source": {
+   "greenhouse": 7360,
+   "lever": 757,
+   "ashby": 614,
+   "smartrecruiters": 972
+  }
  }
 ]

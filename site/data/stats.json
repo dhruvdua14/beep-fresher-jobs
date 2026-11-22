@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T15:11+05:30",
+ "updated_at": "2026-11-22T19:04+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,28 +8,27 @@
  },
  "latest": {
   "date": "2026-11-22",
-  "time": "15:11",
-  "fetched": 10239,
-  "india": 2868,
+  "time": "19:04",
+  "fetched": 10238,
+  "india": 2867,
   "fresher_rules": 789,
   "exact_dupes": 105,
   "fuzzy_dupes": 23,
   "rejected_by_llm": 317,
   "published": 344,
-  "newly_tagged": 10,
-  "from_cache": 651,
-  "llm_calls": 1,
-  "input_tokens": 2209,
-  "output_tokens": 511,
-  "cost_usd": 0.001319,
-  "model": "gemini-3.1-flash-lite",
+  "newly_tagged": 0,
+  "from_cache": 661,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
   "boards": 81,
   "by_source": {
-   "greenhouse": 7361,
+   "greenhouse": 7360,
    "lever": 757,
    "ashby": 614,
-   "smartrecruiters": 972,
-   "adzuna": 50
+   "smartrecruiters": 972
   }
  },
  "cost": {
@@ -832,6 +831,31 @@
     "ashby": 614,
     "smartrecruiters": 972,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "19:04",
+   "fetched": 10238,
+   "india": 2867,
+   "fresher_rules": 789,
+   "exact_dupes": 105,
+   "fuzzy_dupes": 23,
+   "rejected_by_llm": 317,
+   "published": 344,
+   "newly_tagged": 0,
+   "from_cache": 661,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": null,
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7360,
+    "lever": 757,
+    "ashby": 614,
+    "smartrecruiters": 972
    }
   }
  ],
