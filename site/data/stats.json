@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T19:10+05:30",
+ "updated_at": "2026-11-22T15:11+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -7,35 +7,36 @@
   "usd_to_inr": 84.0
  },
  "latest": {
-  "date": "2026-11-21",
-  "time": "19:10",
-  "fetched": 10218,
-  "india": 2847,
-  "fresher_rules": 768,
-  "exact_dupes": 90,
-  "fuzzy_dupes": 20,
-  "rejected_by_llm": 318,
-  "published": 340,
-  "newly_tagged": 0,
-  "from_cache": 658,
-  "llm_calls": 0,
-  "input_tokens": 0,
-  "output_tokens": 0,
-  "cost_usd": 0.0,
-  "model": null,
+  "date": "2026-11-22",
+  "time": "15:11",
+  "fetched": 10239,
+  "india": 2868,
+  "fresher_rules": 789,
+  "exact_dupes": 105,
+  "fuzzy_dupes": 23,
+  "rejected_by_llm": 317,
+  "published": 344,
+  "newly_tagged": 10,
+  "from_cache": 651,
+  "llm_calls": 1,
+  "input_tokens": 2209,
+  "output_tokens": 511,
+  "cost_usd": 0.001319,
+  "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7352,
-   "lever": 758,
-   "ashby": 621,
-   "smartrecruiters": 970
+   "greenhouse": 7361,
+   "lever": 757,
+   "ashby": 614,
+   "smartrecruiters": 972,
+   "adzuna": 50
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3494,
-  "input_tokens": 579056,
-  "output_tokens": 150574,
-  "usd_all_time": 0.370625,
+  "posts_tagged_all_time": 3504,
+  "input_tokens": 581265,
+  "output_tokens": 151085,
+  "usd_all_time": 0.371944,
   "usd_per_1000": 0.1061,
   "tokens_per_post": 209
  },
@@ -54,34 +55,34 @@
   ],
   [
    "Operations & Supply Chain",
-   34
+   35
   ],
   [
    "Sales & Business Development",
-   34
+   35
   ],
   [
    "Marketing",
-   30
+   31
+  ],
+  [
+   "HR & Recruiting",
+   26
   ],
   [
    "Finance & Accounting",
    26
   ],
   [
-   "HR & Recruiting",
-   25
-  ],
-  [
    "Customer Success & Support",
    23
   ],
   [
-   "Design",
+   "Content & Communications",
    9
   ],
   [
-   "Content & Communications",
+   "Design",
    9
   ],
   [
@@ -104,11 +105,11 @@
  "by_city": [
   [
    "Other India",
-   84
+   86
   ],
   [
    "Bengaluru",
-   73
+   76
   ],
   [
    "Mumbai",
@@ -120,7 +121,7 @@
   ],
   [
    "Remote",
-   23
+   24
   ],
   [
    "Noida",
@@ -151,12 +152,12 @@
    7
   ],
   [
-   "Coimbatore",
+   "Indore",
    6
   ],
   [
-   "Indore",
-   6
+   "Coimbatore",
+   5
   ],
   [
    "Kolkata",
@@ -177,11 +178,11 @@
  ],
  "by_level": [
   [
-   "Fresher",
-   163
+   "Internship",
+   167
   ],
   [
-   "Internship",
+   "Fresher",
    162
   ],
   [
@@ -254,7 +255,7 @@
  "by_source": [
   [
    "adzuna",
-   284
+   288
   ],
   [
    "smartrecruiters",
@@ -805,6 +806,32 @@
     "lever": 758,
     "ashby": 621,
     "smartrecruiters": 970
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "time": "15:11",
+   "fetched": 10239,
+   "india": 2868,
+   "fresher_rules": 789,
+   "exact_dupes": 105,
+   "fuzzy_dupes": 23,
+   "rejected_by_llm": 317,
+   "published": 344,
+   "newly_tagged": 10,
+   "from_cache": 651,
+   "llm_calls": 1,
+   "input_tokens": 2209,
+   "output_tokens": 511,
+   "cost_usd": 0.001319,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7361,
+    "lever": 757,
+    "ashby": 614,
+    "smartrecruiters": 972,
+    "adzuna": 50
    }
   }
  ],

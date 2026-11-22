@@ -14,7 +14,7 @@
   "greenhouse:bewakoof": 0,
   "greenhouse:bhanzu": 0,
   "greenhouse:bharatpe": 0,
-  "greenhouse:binance": 227,
+  "greenhouse:binance": 226,
   "greenhouse:blackbuck": 0,
   "greenhouse:bluestone": 36,
   "greenhouse:boat": 0,
@@ -31,7 +31,7 @@
   "greenhouse:cleartax": 0,
   "greenhouse:cleartrip": 0,
   "greenhouse:clevertap": 0,
-  "greenhouse:cloudflare": 503,
+  "greenhouse:cloudflare": 504,
   "greenhouse:cohesity": 0,
   "greenhouse:coinbase": 252,
   "greenhouse:coindcx": 0,
@@ -44,7 +44,7 @@
   "greenhouse:cuemath": 0,
   "greenhouse:curefit": 0,
   "greenhouse:darwinbox": 0,
-  "greenhouse:databricks": 896,
+  "greenhouse:databricks": 895,
   "greenhouse:datadog": 382,
   "greenhouse:dealshare": 0,
   "greenhouse:deel": 0,
@@ -81,7 +81,7 @@
   "greenhouse:grab": 0,
   "greenhouse:greyorange": 0,
   "greenhouse:groupon": 27,
-  "greenhouse:groww": 9,
+  "greenhouse:groww": 8,
   "greenhouse:groyyo": 0,
   "greenhouse:gupshup": 0,
   "greenhouse:hackerrank": 31,
@@ -90,7 +90,7 @@
   "greenhouse:headout": 0,
   "greenhouse:healthifyme": 0,
   "greenhouse:hevodata": 0,
-  "greenhouse:highradius": 64,
+  "greenhouse:highradius": 65,
   "greenhouse:housing": 0,
   "greenhouse:hubspot": 0,
   "greenhouse:indmoney": 0,
@@ -155,7 +155,7 @@
   "greenhouse:observe-ai": 0,
   "greenhouse:observeai": 10,
   "greenhouse:ofbusiness": 0,
-  "greenhouse:okta": 372,
+  "greenhouse:okta": 374,
   "greenhouse:ola": 0,
   "greenhouse:olaelectric": 0,
   "greenhouse:onsurity": 0,
@@ -194,7 +194,7 @@
   "greenhouse:rooter": 0,
   "greenhouse:rubrik": 208,
   "greenhouse:sahaj": 0,
-  "greenhouse:samsara": 290,
+  "greenhouse:samsara": 299,
   "greenhouse:sarvam": 0,
   "greenhouse:sarvam-ai": 0,
   "greenhouse:scaler": 0,
@@ -222,7 +222,7 @@
   "greenhouse:squareyards": 0,
   "greenhouse:stashfin": 0,
   "greenhouse:stockgro": 0,
-  "greenhouse:stripe": 778,
+  "greenhouse:stripe": 777,
   "greenhouse:sugar": 0,
   "greenhouse:sumologic": 26,
   "greenhouse:superjoin": 0,
@@ -234,7 +234,7 @@
   "greenhouse:thoughtworks": 31,
   "greenhouse:tide": 84,
   "greenhouse:tigeranalytics": 0,
-  "greenhouse:toast": 326,
+  "greenhouse:toast": 325,
   "greenhouse:toplyne": 0,
   "greenhouse:toptal": 0,
   "greenhouse:transferwise": 0,
@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 386,
+  "greenhouse:zscaler": 387,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -401,7 +401,7 @@
   "lever:mamaearth": 0,
   "lever:medianet": 0,
   "lever:medibuddy": 0,
-  "lever:meesho": 48,
+  "lever:meesho": 47,
   "lever:mfine": 0,
   "lever:mindtickle": 19,
   "lever:mobikwik": 0,
@@ -777,7 +777,7 @@
   "ashby:teachmint": 0,
   "ashby:tekion": 92,
   "ashby:thesouledstore": 0,
-  "ashby:thoughtworks": 17,
+  "ashby:thoughtworks": 10,
   "ashby:tide": 0,
   "ashby:tigeranalytics": 0,
   "ashby:toast": 0,
@@ -880,7 +880,7 @@
   "smartrecruiters:Turing": 0,
   "smartrecruiters:BrowserStack": 0,
   "smartrecruiters:Paytm": 0,
-  "smartrecruiters:Swiggy": 172,
+  "smartrecruiters:Swiggy": 174,
   "smartrecruiters:Zomato": 0,
   "smartrecruiters:Myntra": 0,
   "workable:razorpay": 0,
@@ -1031,10 +1031,6 @@
    2
   ],
   [
-   "adzuna:Piramal Pharma",
-   2
-  ],
-  [
    "adzuna:Burns & McDonnell",
    2
   ],
@@ -1127,11 +1123,27 @@
    2
   ],
   [
+   "adzuna:Textron",
+   1
+  ],
+  [
+   "adzuna:Bondscanner",
+   1
+  ],
+  [
    "adzuna:Mellow Vault",
    1
   ],
   [
    "adzuna:Techglora Integrated IT services",
+   1
+  ],
+  [
+   "adzuna:Nudge",
+   1
+  ],
+  [
+   "adzuna:Universal Sompo General Insurance",
    1
   ],
   [
@@ -1296,6 +1308,10 @@
   ],
   [
    "adzuna:Genpact",
+   1
+  ],
+  [
+   "adzuna:Piramal Pharma",
    1
   ],
   [
@@ -1599,6 +1615,10 @@
    1
   ],
   [
+   "adzuna:RGA",
+   1
+  ],
+  [
    "adzuna:NAB",
    1
   ],
@@ -1823,6 +1843,10 @@
    1
   ],
   [
+   "adzuna:edorbit",
+   1
+  ],
+  [
    "adzuna:Makers's Muse",
    1
   ],
@@ -1855,6 +1879,10 @@
    1
   ],
   [
+   "adzuna:Li-Mat Soft Solutions Pvt Ltd",
+   1
+  ],
+  [
    "adzuna:Bridge-it",
    1
   ],
@@ -1876,14 +1904,6 @@
   ],
   [
    "adzuna:Executive Softway Guild India Private Limited",
-   1
-  ],
-  [
-   "adzuna:Ketto",
-   1
-  ],
-  [
-   "adzuna:Ontrack HR Services Pvt LTD",
    1
   ],
   [

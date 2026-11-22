@@ -7327,5 +7327,106 @@
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
   "v": 7
+ },
+ "cc891364ddee": {
+  "role": "Other",
+  "cities": [
+   "Coimbatore"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "c8fe4b4aa9f8": {
+  "role": "Other",
+  "cities": [
+   "Hyderabad"
+  ],
+  "level": "Not a job",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "a3ba7b216291": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "6544c834af44": {
+  "role": "Content & Communications",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Internship",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "5fabeb2aa2db": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Internship",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "cbf66f8fd9f3": {
+  "role": "Sales & Business Development",
+  "cities": [
+   "Remote",
+   "Other India"
+  ],
+  "level": "Internship",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "944e2e0985d5": {
+  "role": "Marketing",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Internship",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "41ac09333e20": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Mumbai"
+  ],
+  "level": "Internship",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "17e083e2b4cb": {
+  "role": "HR & Recruiting",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Internship",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "6ab27a997e6b": {
+  "role": "Operations & Supply Chain",
+  "cities": [
+   "Other India"
+  ],
+  "level": "Internship",
+  "confidence": 0.8,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
  }
 }

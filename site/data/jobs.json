@@ -1,7 +1,39 @@
 {
- "updated_at": "2026-11-21T19:10+05:30",
- "count": 340,
+ "updated_at": "2026-11-22T15:11+05:30",
+ "count": 344,
  "jobs": [
+  {
+   "id": "17e083e2b4cb",
+   "title": "Apprentice",
+   "company": "Textron",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5973691904?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-21",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "6544c834af44",
+   "title": "Content writer Intern",
+   "company": "Bondscanner",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5972892348?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-22"
+  },
   {
    "id": "c93aa53090be",
    "title": "Intern, Reservation Operations",
@@ -81,6 +113,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "5fabeb2aa2db",
+   "title": "HR & Admin Intern",
+   "company": "Nudge",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5971840946?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "6ab27a997e6b",
+   "title": "Intern",
+   "company": "Universal Sompo General Insurance",
+   "location": "Haryana, India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5971871679?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-22"
   },
   {
    "id": "479a2629c02e",
@@ -2903,6 +2967,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "41ac09333e20",
+   "title": "Intern - Human Resources",
+   "company": "RGA",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953188462?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-22"
+  },
+  {
    "id": "f92ffb6c77f2",
    "title": "Product Management Intern",
    "company": "Rubrik Job Board",
@@ -4272,6 +4352,23 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "cbf66f8fd9f3",
+   "title": "Education Outreach | EdTech Internship | Remote",
+   "company": "edorbit",
+   "location": "Lucknow, Uttar Pradesh, India",
+   "cities": [
+    "Remote",
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5941322997?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "first_seen": "2026-11-22"
+  },
+  {
    "id": "de085d294c1a",
    "title": "SEO Intern",
    "company": "Makers's Muse",
@@ -4558,6 +4655,22 @@
    "source": "adzuna",
    "posted_at": "2026-10-24",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "944e2e0985d5",
+   "title": "Social Media Intern",
+   "company": "Li-Mat Soft Solutions Pvt Ltd",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5939142436?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-23",
+   "first_seen": "2026-11-22"
   },
   {
    "id": "1b2470de5ad1",
@@ -4861,54 +4974,6 @@
    "url": "https://www.adzuna.in/details/5938642094?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-23",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "19139db9b85d",
-   "title": "Apprentice",
-   "company": "Piramal Pharma",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5938159322?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-22",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5841d764f51b",
-   "title": "Content Writer- Intern",
-   "company": "Ketto",
-   "location": "Mumbai, Maharashtra, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Content & Communications",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5938135959?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-22",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "86972a3a6833",
-   "title": "HR Trainee",
-   "company": "Ontrack HR Services Pvt LTD",
-   "location": "Coimbatore South, Coimbatore, India",
-   "cities": [
-    "Coimbatore"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5937668700?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-22",
    "first_seen": "2026-11-18"
   },
   {
