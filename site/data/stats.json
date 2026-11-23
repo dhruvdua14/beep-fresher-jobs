@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T16:10+05:30",
+ "updated_at": "2026-11-23T21:55+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,28 +8,27 @@
  },
  "latest": {
   "date": "2026-11-23",
-  "time": "16:10",
-  "fetched": 10217,
-  "india": 2854,
-  "fresher_rules": 816,
-  "exact_dupes": 106,
-  "fuzzy_dupes": 22,
-  "rejected_by_llm": 318,
-  "published": 370,
-  "newly_tagged": 60,
-  "from_cache": 628,
-  "llm_calls": 2,
-  "input_tokens": 10027,
-  "output_tokens": 2532,
-  "cost_usd": 0.006305,
+  "time": "21:55",
+  "fetched": 10201,
+  "india": 2840,
+  "fresher_rules": 810,
+  "exact_dupes": 105,
+  "fuzzy_dupes": 21,
+  "rejected_by_llm": 314,
+  "published": 369,
+  "newly_tagged": 0,
+  "from_cache": 683,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
    "greenhouse": 7343,
-   "lever": 748,
-   "ashby": 602,
-   "smartrecruiters": 966,
-   "adzuna": 50
+   "lever": 749,
+   "ashby": 596,
+   "smartrecruiters": 955
   }
  },
  "cost": {
@@ -86,12 +85,12 @@
    9
   ],
   [
-   "Content & Communications",
+   "Consulting & Strategy",
    8
   ],
   [
-   "Consulting & Strategy",
-   8
+   "Content & Communications",
+   7
   ],
   [
    "Product",
@@ -109,7 +108,7 @@
   ],
   [
    "Bengaluru",
-   82
+   81
   ],
   [
    "Mumbai",
@@ -183,7 +182,7 @@
   ],
   [
    "Fresher",
-   172
+   171
   ],
   [
    "Early career",
@@ -263,7 +262,7 @@
   ],
   [
    "greenhouse",
-   18
+   17
   ],
   [
    "lever",
@@ -883,6 +882,31 @@
     "ashby": 602,
     "smartrecruiters": 966,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "time": "21:55",
+   "fetched": 10201,
+   "india": 2840,
+   "fresher_rules": 810,
+   "exact_dupes": 105,
+   "fuzzy_dupes": 21,
+   "rejected_by_llm": 314,
+   "published": 369,
+   "newly_tagged": 0,
+   "from_cache": 683,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7343,
+    "lever": 749,
+    "ashby": 596,
+    "smartrecruiters": 955
    }
   }
  ],

@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-23T16:10+05:30",
- "count": 370,
+ "updated_at": "2026-11-23T21:55+05:30",
+ "count": 369,
  "jobs": [
   {
    "id": "490bb1a7b5b2",
@@ -5873,22 +5873,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "source": "greenhouse",
    "posted_at": "2026-07-10",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4fb0e058df41",
-   "title": "Associate - Content (Digest)",
-   "company": "Groww",
-   "location": "Bengaluru-VTP, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Content & Communications",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/4880153101",
-   "source": "greenhouse",
-   "posted_at": "2026-06-03",
    "first_seen": "2026-11-18"
   },
   {
