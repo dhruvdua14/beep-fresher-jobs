@@ -1,7 +1,21 @@
 {
- "updated_at": "2026-11-23T21:55+05:30",
- "count": 369,
+ "updated_at": "2026-11-24T17:53+05:30",
+ "count": 354,
  "jobs": [
+  {
+   "id": "128a5fd0c4a2",
+   "title": "Learning Experience Design Intern",
+   "company": "Paytm",
+   "location": "Noida, Uttar Pradesh",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://jobs.lever.co/paytm/c8886602-f1b7-4c08-b181-f4d36b2d0e80",
+   "source": "lever",
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-24"
+  },
   {
    "id": "490bb1a7b5b2",
    "title": "Revenue Associate",
@@ -97,22 +111,6 @@
    "source": "adzuna",
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-22"
-  },
-  {
-   "id": "c93aa53090be",
-   "title": "Intern, Reservation Operations",
-   "company": "Headout",
-   "location": "Remote (India)",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://jobs.ashbyhq.com/headout/a03c8e9b-5e81-48bf-9919-61ec96985777",
-   "source": "ashby",
-   "posted_at": "2026-11-20",
-   "first_seen": "2026-11-21"
   },
   {
    "id": "9e3ea2fc9aa4",
@@ -259,22 +257,6 @@
    "first_seen": "2026-11-21"
   },
   {
-   "id": "788c21a24478",
-   "title": "Technical Support Engineer I",
-   "company": "Zeta",
-   "location": "Hyderabad",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://jobs.lever.co/zeta/d7608271-a46f-4783-b5a9-05737398d320",
-   "source": "lever",
-   "posted_at": "2026-11-19",
-   "first_seen": "2026-11-19"
-  },
-  {
    "id": "e0362e45262f",
    "title": "AI / ML and Generative AI research assistant",
    "company": "Bosch Group",
@@ -307,21 +289,18 @@
    "first_seen": "2026-11-19"
   },
   {
-   "id": "a6d20d449006",
-   "title": "Engineer- Dev",
-   "company": "Commvault",
-   "location": "Bangalore, India; Hyderbad, India",
-   "cities": [
-    "Bengaluru",
-    "Hyderabad"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://job-boards.greenhouse.io/commvault/jobs/5455201008",
-   "source": "greenhouse",
+   "id": "3c9b6faa5251",
+   "title": "Fresher AIML- Software Engineer",
+   "company": "httpswwwicloudemscomvlog",
+   "location": "India, India",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://www.adzuna.in/details/5970302589?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
    "posted_at": "2026-11-18",
-   "first_seen": "2026-11-23"
+   "first_seen": "2026-11-24"
   },
   {
    "id": "dde8eaa8f004",
@@ -546,6 +525,20 @@
    "source": "adzuna",
    "posted_at": "2026-11-18",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4a3714c46161",
+   "title": "Factory Supervisors - Male / Freshers",
+   "company": "Ayush",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://www.adzuna.in/details/5968520973?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "cf13d919a354",
@@ -1490,6 +1483,20 @@
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2db1657d7067",
+   "title": "IT Sales Executive - Fresher",
+   "company": "Identixweb Limited",
+   "location": "Surat, Gujarat, India",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://www.adzuna.in/details/5963456849?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "784d1ea25122",
@@ -3713,6 +3720,20 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "31ac95fafeef",
+   "title": "Trainee Software Developers ( Freshers )",
+   "company": "MAK",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://www.adzuna.in/details/5951141604?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-03",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "f4dbf320d457",
    "title": "We Are Hiring For Sales Coordinator",
    "company": "Global Job Placement",
@@ -5009,6 +5030,20 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "60c7efa85732",
+   "title": "Supervisors - (Male - Freshers / Exp)",
+   "company": "Ayush",
+   "location": "Coimbatore, Tamil Nadu, India",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://www.adzuna.in/details/5940947485?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "first_seen": "2026-11-24"
+  },
+  {
    "id": "cbf66f8fd9f3",
    "title": "Education Outreach | EdTech Internship | Remote",
    "company": "edorbit",
@@ -5103,294 +5138,6 @@
    "url": "https://www.adzuna.in/details/5940947484?utm_medium=api&utm_source=fe7c6c25",
    "source": "adzuna",
    "posted_at": "2026-10-25",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f38f58083886",
-   "title": "Brand Intern (Graduates only)",
-   "company": "BECO BECO",
-   "location": "Mumbai, Maharashtra, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940627678?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "id": "1d1752fc4958",
-   "title": "Digital Marketing Executive Trainee",
-   "company": "iSmartRecruit",
-   "location": "Rajkot, Gujarat, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940650088?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "id": "533531ab443a",
-   "title": "Generative AI Trainee",
-   "company": "Techify Solutions",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "AI / ML",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940626797?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "id": "10fcb34913ff",
-   "title": "HR & Admin Trainee",
-   "company": "Techify Solutions",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940649723?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "id": "6157588f1ace",
-   "title": "Hiring For Customer Support Executive",
-   "company": "Wroots Global Private Limited",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5939919791?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-21"
-  },
-  {
-   "id": "58da7cbdb36e",
-   "title": "Freshers",
-   "company": "Elsner Technologies",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940626913?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3b7b07bccd0c",
-   "title": "Apprentice",
-   "company": "Capita",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.7,
-   "url": "https://www.adzuna.in/details/5940640477?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "3561c27facea",
-   "title": "PPC Intern",
-   "company": "ViralChilly: Create | Grow | Learn",
-   "location": "Jaipur, Rajasthan, India",
-   "cities": [
-    "Jaipur"
-   ],
-   "role": "Marketing",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940343054?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "913e3fd3d665",
-   "title": "BDE Intern",
-   "company": "Elsner Technologies",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940640565?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "0d494e800fca",
-   "title": "HR Intern",
-   "company": "WriterOnRent",
-   "location": "Uttar Pradesh, India, India",
-   "cities": [
-    "Noida"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940353462?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a098739382f1",
-   "title": "Graduate Engineer trainee- Purchase",
-   "company": "Milacron",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940343137?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "56e3de493e04",
-   "title": "Graphic Designer Intern",
-   "company": "Honeybee Digital",
-   "location": "India, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Design",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5940362984?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "f355195af364",
-   "title": "Video Editing Intern",
-   "company": "Honeybee Digital",
-   "location": "India, India",
-   "cities": [
-    "Remote"
-   ],
-   "role": "Design",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5940362995?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8f713ce55fe3",
-   "title": "Management Trainee (MBA)",
-   "company": "Elsner Technologies",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.7,
-   "url": "https://www.adzuna.in/details/5940650992?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5f2623a83d9c",
-   "title": "Talent Acquisition Trainee",
-   "company": "Techify Solutions",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "HR & Recruiting",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5940656911?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1659e4d857ac",
-   "title": "Full Stack Trainee",
-   "company": "Techify Solutions",
-   "location": "Ahmedabad, Gujarat, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5940628662?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a4a36b826e54",
-   "title": "Customer Success Trainee",
-   "company": "iSmartRecruit",
-   "location": "Rajkot, Gujarat, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940628416?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "6124eea10369",
-   "title": "Trainee Test Engineer",
-   "company": "Quality Engineering",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5940646341?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-24",
    "first_seen": "2026-11-18"
   },
   {

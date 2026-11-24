@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T21:55+05:30",
+ "updated_at": "2026-11-24T17:53+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -7,28 +7,29 @@
   "usd_to_inr": 84.0
  },
  "latest": {
-  "date": "2026-11-23",
-  "time": "21:55",
-  "fetched": 10201,
-  "india": 2840,
-  "fresher_rules": 810,
+  "date": "2026-11-24",
+  "time": "17:53",
+  "fetched": 10169,
+  "india": 2862,
+  "fresher_rules": 809,
   "exact_dupes": 105,
   "fuzzy_dupes": 21,
-  "rejected_by_llm": 314,
-  "published": 369,
+  "rejected_by_llm": 306,
+  "published": 354,
   "newly_tagged": 0,
-  "from_cache": 683,
+  "from_cache": 654,
   "llm_calls": 0,
   "input_tokens": 0,
   "output_tokens": 0,
   "cost_usd": 0.0,
   "model": "gemini-3.1-flash-lite",
-  "boards": 81,
+  "boards": 80,
   "by_source": {
-   "greenhouse": 7343,
-   "lever": 749,
-   "ashby": 596,
-   "smartrecruiters": 955
+   "greenhouse": 7289,
+   "lever": 736,
+   "ashby": 590,
+   "smartrecruiters": 969,
+   "adzuna": 50
   }
  },
  "cost": {
@@ -46,39 +47,39 @@
   ],
   [
    "Software Engineering",
-   45
+   41
   ],
   [
    "Other",
-   39
-  ],
-  [
-   "Sales & Business Development",
    37
   ],
   [
-   "Operations & Supply Chain",
-   34
+   "Sales & Business Development",
+   36
   ],
   [
    "Finance & Accounting",
    32
   ],
   [
+   "Operations & Supply Chain",
+   32
+  ],
+  [
    "Marketing",
-   30
+   27
   ],
   [
    "HR & Recruiting",
-   28
+   25
   ],
   [
    "Customer Success & Support",
-   23
+   20
   ],
   [
    "Design",
-   12
+   10
   ],
   [
    "Data & Analytics",
@@ -93,42 +94,42 @@
    7
   ],
   [
+   "Untagged",
+   6
+  ],
+  [
    "Product",
    6
   ],
   [
    "AI / ML",
-   3
+   2
   ]
  ],
  "by_city": [
   [
    "Other India",
-   92
+   88
   ],
   [
    "Bengaluru",
-   81
+   79
   ],
   [
    "Mumbai",
-   30
-  ],
-  [
-   "Hyderabad",
-   26
+   29
   ],
   [
    "Pune",
    25
   ],
   [
-   "Remote",
+   "Hyderabad",
    24
   ],
   [
-   "Ahmedabad",
-   20
+   "Remote",
+   21
   ],
   [
    "Chennai",
@@ -136,7 +137,11 @@
   ],
   [
    "Noida",
-   18
+   17
+  ],
+  [
+   "Ahmedabad",
+   12
   ],
   [
    "Gurugram",
@@ -151,8 +156,12 @@
    8
   ],
   [
-   "Jaipur",
+   "Unknown",
    6
+  ],
+  [
+   "Jaipur",
+   5
   ],
   [
    "Kolkata",
@@ -178,21 +187,25 @@
  "by_level": [
   [
    "Internship",
-   182
+   168
   ],
   [
    "Fresher",
-   171
+   164
   ],
   [
    "Early career",
    16
+  ],
+  [
+   "Unknown",
+   6
   ]
  ],
  "by_company": [
   [
    "Paytm",
-   8
+   9
   ],
   [
    "Bosch Group",
@@ -235,10 +248,6 @@
    4
   ],
   [
-   "Techify Solutions",
-   4
-  ],
-  [
    "HSBC",
    3
   ],
@@ -249,12 +258,16 @@
   [
    "Sarvam",
    3
+  ],
+  [
+   "Hevodata",
+   3
   ]
  ],
  "by_source": [
   [
    "adzuna",
-   312
+   299
   ],
   [
    "smartrecruiters",
@@ -262,7 +275,7 @@
   ],
   [
    "greenhouse",
-   17
+   16
   ],
   [
    "lever",
@@ -270,7 +283,7 @@
   ],
   [
    "ashby",
-   6
+   5
   ]
  ],
  "history": [
@@ -907,6 +920,32 @@
     "lever": 749,
     "ashby": 596,
     "smartrecruiters": 955
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "time": "17:53",
+   "fetched": 10169,
+   "india": 2862,
+   "fresher_rules": 809,
+   "exact_dupes": 105,
+   "fuzzy_dupes": 21,
+   "rejected_by_llm": 306,
+   "published": 354,
+   "newly_tagged": 0,
+   "from_cache": 654,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 80,
+   "by_source": {
+    "greenhouse": 7289,
+    "lever": 736,
+    "ashby": 590,
+    "smartrecruiters": 969,
+    "adzuna": 50
    }
   }
  ],
