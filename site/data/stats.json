@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T16:41+05:30",
+ "updated_at": "2026-11-25T21:29+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,28 +8,27 @@
  },
  "latest": {
   "date": "2026-11-25",
-  "time": "16:41",
-  "fetched": 10243,
-  "india": 2904,
-  "fresher_rules": 843,
+  "time": "21:29",
+  "fetched": 10229,
+  "india": 2885,
+  "fresher_rules": 846,
   "exact_dupes": 106,
   "fuzzy_dupes": 23,
   "rejected_by_llm": 323,
-  "published": 391,
-  "newly_tagged": 75,
-  "from_cache": 639,
-  "llm_calls": 2,
-  "input_tokens": 13077,
-  "output_tokens": 2888,
-  "cost_usd": 0.007601,
+  "published": 390,
+  "newly_tagged": 0,
+  "from_cache": 712,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
   "model": "gemini-3.1-flash-lite",
   "boards": 80,
   "by_source": {
-   "greenhouse": 7307,
-   "lever": 741,
-   "ashby": 611,
-   "smartrecruiters": 965,
-   "adzuna": 50
+   "greenhouse": 7290,
+   "lever": 743,
+   "ashby": 612,
+   "smartrecruiters": 965
   }
  },
  "cost": {
@@ -47,7 +46,7 @@
   ],
   [
    "Software Engineering",
-   45
+   44
   ],
   [
    "Other",
@@ -75,7 +74,7 @@
   ],
   [
    "Customer Success & Support",
-   22
+   21
   ],
   [
    "Consulting & Strategy",
@@ -100,6 +99,10 @@
   [
    "AI / ML",
    3
+  ],
+  [
+   "Untagged",
+   1
   ]
  ],
  "by_city": [
@@ -109,7 +112,7 @@
   ],
   [
    "Bengaluru",
-   90
+   89
   ],
   [
    "Mumbai",
@@ -121,7 +124,7 @@
   ],
   [
    "Hyderabad",
-   25
+   24
   ],
   [
    "Remote",
@@ -172,6 +175,10 @@
    3
   ],
   [
+   "Unknown",
+   1
+  ],
+  [
    "Chandigarh",
    1
   ]
@@ -183,11 +190,15 @@
   ],
   [
    "Fresher",
-   168
+   166
   ],
   [
    "Early career",
    16
+  ],
+  [
+   "Unknown",
+   1
   ]
  ],
  "by_company": [
@@ -204,8 +215,8 @@
    5
   ],
   [
-   "Sutherland",
-   5
+   "Hevodata",
+   4
   ],
   [
    "MUFG Pension & Market Services",
@@ -240,15 +251,15 @@
    4
   ],
   [
+   "Sutherland",
+   4
+  ],
+  [
    "ViralChilly",
    3
   ],
   [
    "Outbox Labs",
-   3
-  ],
-  [
-   "HSBC",
    3
   ]
  ],
@@ -259,14 +270,14 @@
   ],
   [
    "smartrecruiters",
-   20
-  ],
-  [
-   "greenhouse",
-   16
+   19
   ],
   [
    "lever",
+   16
+  ],
+  [
+   "greenhouse",
    15
   ],
   [
@@ -985,6 +996,31 @@
     "ashby": 611,
     "smartrecruiters": 965,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "time": "21:29",
+   "fetched": 10229,
+   "india": 2885,
+   "fresher_rules": 846,
+   "exact_dupes": 106,
+   "fuzzy_dupes": 23,
+   "rejected_by_llm": 323,
+   "published": 390,
+   "newly_tagged": 0,
+   "from_cache": 712,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 80,
+   "by_source": {
+    "greenhouse": 7290,
+    "lever": 743,
+    "ashby": 612,
+    "smartrecruiters": 965
    }
   }
  ],

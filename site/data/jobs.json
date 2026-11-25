@@ -1,20 +1,18 @@
 {
- "updated_at": "2026-11-25T16:41+05:30",
- "count": 391,
+ "updated_at": "2026-11-25T21:29+05:30",
+ "count": 390,
  "jobs": [
   {
-   "id": "de444b000b95",
-   "title": "Full-Stack builder",
-   "company": "Razorpay Software Private Limited",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
-   "source": "greenhouse",
+   "id": "283fc2776f43",
+   "title": "Associate SDE- Pune",
+   "company": "Hevodata",
+   "location": "Pune, Maharashtra",
+   "cities": [],
+   "role": "Untagged",
+   "level": "Unknown",
+   "confidence": null,
+   "url": "https://jobs.lever.co/hevodata/21fbe701-e71b-4f45-b865-a497a62a6482",
+   "source": "lever",
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-25"
   },
@@ -5998,22 +5996,6 @@
    "level": "Fresher",
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/Sutherland/744000149327698",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-14",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "552240df18c1",
-   "title": "Customer Service Support",
-   "company": "Sutherland",
-   "location": "Hyderabad, TS, India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.smartrecruiters.com/Sutherland/744000149318259",
    "source": "smartrecruiters",
    "posted_at": "2026-09-14",
    "first_seen": "2026-11-18"
