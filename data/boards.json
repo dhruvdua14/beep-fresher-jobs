@@ -1,7 +1,7 @@
 {
  "answered": {
   "greenhouse:acko": 0,
-  "greenhouse:agoda": 336,
+  "greenhouse:agoda": 332,
   "greenhouse:airbnb": 198,
   "greenhouse:airtribe": 0,
   "greenhouse:ajio": 0,
@@ -14,9 +14,9 @@
   "greenhouse:bewakoof": 0,
   "greenhouse:bhanzu": 0,
   "greenhouse:bharatpe": 0,
-  "greenhouse:binance": 233,
+  "greenhouse:binance": 225,
   "greenhouse:blackbuck": 0,
-  "greenhouse:bluestone": 34,
+  "greenhouse:bluestone": 32,
   "greenhouse:boat": 0,
   "greenhouse:boat-lifestyle": 0,
   "greenhouse:browserstack": 0,
@@ -31,9 +31,9 @@
   "greenhouse:cleartax": 0,
   "greenhouse:cleartrip": 0,
   "greenhouse:clevertap": 0,
-  "greenhouse:cloudflare": 517,
+  "greenhouse:cloudflare": 522,
   "greenhouse:cohesity": 0,
-  "greenhouse:coinbase": 246,
+  "greenhouse:coinbase": 257,
   "greenhouse:coindcx": 0,
   "greenhouse:coinswitch": 0,
   "greenhouse:commvault": 57,
@@ -44,24 +44,24 @@
   "greenhouse:cuemath": 0,
   "greenhouse:curefit": 0,
   "greenhouse:darwinbox": 0,
-  "greenhouse:databricks": 875,
-  "greenhouse:datadog": 386,
+  "greenhouse:databricks": 878,
+  "greenhouse:datadog": 391,
   "greenhouse:dealshare": 0,
   "greenhouse:deel": 0,
   "greenhouse:deepintent": 22,
   "greenhouse:delhivery": 0,
-  "greenhouse:devrev": 7,
+  "greenhouse:devrev": 2,
   "greenhouse:dhan": 0,
   "greenhouse:ditto": 0,
   "greenhouse:dodo-payments": 0,
   "greenhouse:dream11": 0,
   "greenhouse:droom": 0,
   "greenhouse:dropbox": 51,
-  "greenhouse:druva": 25,
+  "greenhouse:druva": 24,
   "greenhouse:dukaan": 0,
   "greenhouse:dunzo": 0,
   "greenhouse:eightfold": 0,
-  "greenhouse:elastic": 389,
+  "greenhouse:elastic": 387,
   "greenhouse:eloelo": 0,
   "greenhouse:even": 0,
   "greenhouse:exotel": 0,
@@ -74,13 +74,13 @@
   "greenhouse:freshworks": 0,
   "greenhouse:frontier": 0,
   "greenhouse:games24x7": 0,
-  "greenhouse:gitlab": 245,
-  "greenhouse:glance": 22,
+  "greenhouse:gitlab": 242,
+  "greenhouse:glance": 21,
   "greenhouse:glean": 0,
   "greenhouse:gojek": 0,
   "greenhouse:grab": 0,
   "greenhouse:greyorange": 0,
-  "greenhouse:groupon": 26,
+  "greenhouse:groupon": 25,
   "greenhouse:groww": 8,
   "greenhouse:groyyo": 0,
   "greenhouse:gupshup": 0,
@@ -90,15 +90,15 @@
   "greenhouse:headout": 0,
   "greenhouse:healthifyme": 0,
   "greenhouse:hevodata": 0,
-  "greenhouse:highradius": 64,
+  "greenhouse:highradius": 63,
   "greenhouse:housing": 0,
   "greenhouse:hubspot": 0,
   "greenhouse:indmoney": 0,
   "greenhouse:infra-market": 0,
-  "greenhouse:inmobi": 63,
+  "greenhouse:inmobi": 62,
   "greenhouse:innovaccer": 0,
   "greenhouse:insurancedekho": 0,
-  "greenhouse:intercom": 126,
+  "greenhouse:intercom": 132,
   "greenhouse:ixigo": 0,
   "greenhouse:jar": 0,
   "greenhouse:jar-app": 0,
@@ -136,7 +136,7 @@
   "greenhouse:moglix": 0,
   "greenhouse:mokobara": 0,
   "greenhouse:moneyview": 0,
-  "greenhouse:mongodb": 422,
+  "greenhouse:mongodb": 423,
   "greenhouse:mpl": 0,
   "greenhouse:mu-sigma": 0,
   "greenhouse:multiplier": 0,
@@ -155,7 +155,7 @@
   "greenhouse:observe-ai": 0,
   "greenhouse:observeai": 10,
   "greenhouse:ofbusiness": 0,
-  "greenhouse:okta": 368,
+  "greenhouse:okta": 362,
   "greenhouse:ola": 0,
   "greenhouse:olaelectric": 0,
   "greenhouse:onsurity": 0,
@@ -170,7 +170,7 @@
   "greenhouse:pharmeasy": 0,
   "greenhouse:phonepe": 0,
   "greenhouse:physicswallah": 0,
-  "greenhouse:pinterest": 166,
+  "greenhouse:pinterest": 167,
   "greenhouse:plivo": 0,
   "greenhouse:plum": 0,
   "greenhouse:pocketfm": 0,
@@ -184,7 +184,7 @@
   "greenhouse:rage-coffee": 0,
   "greenhouse:ramp": 1,
   "greenhouse:rapido": 0,
-  "greenhouse:razorpaysoftwareprivatelimited": 24,
+  "greenhouse:razorpaysoftwareprivatelimited": 26,
   "greenhouse:rebel-foods": 0,
   "greenhouse:remote": 2,
   "greenhouse:renewbuy": 0,
@@ -192,9 +192,9 @@
   "greenhouse:rivigo": 0,
   "greenhouse:rocketlane": 0,
   "greenhouse:rooter": 0,
-  "greenhouse:rubrik": 225,
+  "greenhouse:rubrik": 221,
   "greenhouse:sahaj": 0,
-  "greenhouse:samsara": 295,
+  "greenhouse:samsara": 296,
   "greenhouse:sarvam": 0,
   "greenhouse:sarvam-ai": 0,
   "greenhouse:scaler": 0,
@@ -224,7 +224,7 @@
   "greenhouse:stockgro": 0,
   "greenhouse:stripe": 772,
   "greenhouse:sugar": 0,
-  "greenhouse:sumologic": 25,
+  "greenhouse:sumologic": 27,
   "greenhouse:superjoin": 0,
   "greenhouse:swiggy": 0,
   "greenhouse:tata1mg": 0,
@@ -234,14 +234,14 @@
   "greenhouse:thoughtworks": 0,
   "greenhouse:tide": 92,
   "greenhouse:tigeranalytics": 0,
-  "greenhouse:toast": 301,
+  "greenhouse:toast": 299,
   "greenhouse:toplyne": 0,
   "greenhouse:toptal": 0,
   "greenhouse:transferwise": 0,
   "greenhouse:tricog": 0,
   "greenhouse:turing": 31,
   "greenhouse:turtlemint": 0,
-  "greenhouse:twilio": 110,
+  "greenhouse:twilio": 113,
   "greenhouse:udaan": 0,
   "greenhouse:ultrahuman": 0,
   "greenhouse:unacademy": 0,
@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 396,
+  "greenhouse:zscaler": 390,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -313,7 +313,7 @@
   "lever:composio": 0,
   "lever:confluent": 0,
   "lever:coverfox": 0,
-  "lever:cred": 11,
+  "lever:cred": 10,
   "lever:cuemath": 0,
   "lever:curefit": 0,
   "lever:darwinbox": 0,
@@ -338,7 +338,7 @@
   "lever:eloelo": 0,
   "lever:even": 0,
   "lever:exotel": 0,
-  "lever:fampay": 12,
+  "lever:fampay": 13,
   "lever:fi": 9,
   "lever:fimoney": 0,
   "lever:firstcry": 0,
@@ -362,7 +362,7 @@
   "lever:hasura": 0,
   "lever:headout": 0,
   "lever:healthifyme": 0,
-  "lever:hevodata": 41,
+  "lever:hevodata": 42,
   "lever:highradius": 0,
   "lever:housing": 0,
   "lever:hubspot": 0,
@@ -401,9 +401,9 @@
   "lever:mamaearth": 0,
   "lever:medianet": 0,
   "lever:medibuddy": 0,
-  "lever:meesho": 48,
+  "lever:meesho": 49,
   "lever:mfine": 0,
-  "lever:mindtickle": 20,
+  "lever:mindtickle": 17,
   "lever:mobikwik": 0,
   "lever:moengage": 0,
   "lever:moglix": 0,
@@ -416,7 +416,7 @@
   "lever:navi": 0,
   "lever:netcore": 0,
   "lever:netmeds": 0,
-  "lever:netomi": 18,
+  "lever:netomi": 17,
   "lever:neysa": 0,
   "lever:ninjacart": 0,
   "lever:niramai": 0,
@@ -436,7 +436,7 @@
   "lever:ozonetel": 0,
   "lever:palantir": 305,
   "lever:parkplus": 0,
-  "lever:paytm": 192,
+  "lever:paytm": 193,
   "lever:pazcare": 0,
   "lever:pepperfry": 0,
   "lever:perfios": 0,
@@ -446,7 +446,7 @@
   "lever:pinterest": 0,
   "lever:plivo": 0,
   "lever:plum": 0,
-  "lever:pocketfm": 12,
+  "lever:pocketfm": 14,
   "lever:policybazaar": 0,
   "lever:porter": 11,
   "lever:postman": 0,
@@ -538,7 +538,7 @@
   "lever:zeno-health": 0,
   "lever:zepto": 0,
   "lever:zerodha": 0,
-  "lever:zeta": 37,
+  "lever:zeta": 38,
   "lever:zetwerk": 0,
   "lever:zluri": 0,
   "lever:zoho": 0,
@@ -555,7 +555,7 @@
   "ashby:angelone": 0,
   "ashby:apna": 0,
   "ashby:ather": 0,
-  "ashby:atlan": 7,
+  "ashby:atlan": 8,
   "ashby:atlassian": 0,
   "ashby:bewakoof": 0,
   "ashby:bhanzu": 0,
@@ -633,7 +633,7 @@
   "ashby:hackerrank": 0,
   "ashby:haptik": 0,
   "ashby:hasura": 0,
-  "ashby:headout": 16,
+  "ashby:headout": 15,
   "ashby:healthifyme": 0,
   "ashby:hevodata": 0,
   "ashby:highradius": 0,
@@ -694,7 +694,7 @@
   "ashby:ninjacart": 0,
   "ashby:niramai": 0,
   "ashby:nobroker": 0,
-  "ashby:notion": 172,
+  "ashby:notion": 174,
   "ashby:nutanix": 0,
   "ashby:nykaa": 0,
   "ashby:observe": 0,
@@ -728,7 +728,7 @@
   "ashby:quantiphi": 0,
   "ashby:qure-ai": 0,
   "ashby:rage-coffee": 0,
-  "ashby:ramp": 182,
+  "ashby:ramp": 183,
   "ashby:rapido": 0,
   "ashby:razorpaysoftwareprivatelimited": 0,
   "ashby:rebel-foods": 0,
@@ -775,9 +775,9 @@
   "ashby:swiggy": 0,
   "ashby:tata1mg": 0,
   "ashby:teachmint": 0,
-  "ashby:tekion": 87,
+  "ashby:tekion": 86,
   "ashby:thesouledstore": 0,
-  "ashby:thoughtworks": 23,
+  "ashby:thoughtworks": 26,
   "ashby:tide": 0,
   "ashby:tigeranalytics": 0,
   "ashby:toast": 0,
@@ -821,8 +821,8 @@
   "ashby:zupee": 0,
   "smartrecruiters:Visa": 0,
   "smartrecruiters:BoschGroup": 500,
-  "smartrecruiters:ServiceNow": 75,
-  "smartrecruiters:Freshworks": 30,
+  "smartrecruiters:ServiceNow": 74,
+  "smartrecruiters:Freshworks": 31,
   "smartrecruiters:Ubisoft2": 7,
   "smartrecruiters:Equinix": 0,
   "smartrecruiters:WesternDigital": 6,
@@ -863,7 +863,7 @@
   "smartrecruiters:Deloitte": 0,
   "smartrecruiters:EY": 0,
   "smartrecruiters:PwC": 0,
-  "smartrecruiters:Continental": 14,
+  "smartrecruiters:Continental": 15,
   "smartrecruiters:ZF": 0,
   "smartrecruiters:Valeo": 0,
   "smartrecruiters:SchneiderElectric": 0,
@@ -880,7 +880,7 @@
   "smartrecruiters:Turing": 0,
   "smartrecruiters:BrowserStack": 0,
   "smartrecruiters:Paytm": 0,
-  "smartrecruiters:Swiggy": 152,
+  "smartrecruiters:Swiggy": 151,
   "smartrecruiters:Zomato": 0,
   "smartrecruiters:Myntra": 0,
   "workable:razorpay": 0,
@@ -931,7 +931,19 @@
    7
   ],
   [
+   "greenhouse:Rubrik Job Board",
+   5
+  ],
+  [
+   "smartrecruiters:Sutherland",
+   5
+  ],
+  [
    "smartrecruiters:SWIGGY",
+   5
+  ],
+  [
+   "adzuna:Happiest Resume",
    5
   ],
   [
@@ -940,6 +952,10 @@
   ],
   [
    "adzuna:MUFG Pension & Market Services",
+   4
+  ],
+  [
+   "adzuna:Medico Hub",
    4
   ],
   [
@@ -959,20 +975,12 @@
    4
   ],
   [
-   "adzuna:Happiest Resume",
-   4
-  ],
-  [
-   "greenhouse:Rubrik Job Board",
-   4
-  ],
-  [
    "adzuna:Medtronic",
    4
   ],
   [
-   "smartrecruiters:Sutherland",
-   4
+   "lever:Fampay",
+   3
   ],
   [
    "adzuna:ViralChilly",
@@ -1009,6 +1017,10 @@
   [
    "adzuna:Indovance Private Limited",
    3
+  ],
+  [
+   "adzuna:Mindtel",
+   2
   ],
   [
    "adzuna:ESTÉE LAUDER COMPANIES",
@@ -1064,10 +1076,6 @@
   ],
   [
    "adzuna:ascendion",
-   2
-  ],
-  [
-   "adzuna:Medico Hub",
    2
   ],
   [
@@ -1155,6 +1163,10 @@
    2
   ],
   [
+   "adzuna:BDX Smart Homes",
+   2
+  ],
+  [
    "adzuna:Marriott",
    2
   ],
@@ -1163,15 +1175,7 @@
    2
   ],
   [
-   "greenhouse:Stripe",
-   2
-  ],
-  [
    "greenhouse:HackerRank Careers",
-   2
-  ],
-  [
-   "lever:Fampay",
    2
   ],
   [
@@ -1179,7 +1183,27 @@
    2
   ],
   [
+   "greenhouse:Razorpay Software Private Limited",
+   1
+  ],
+  [
+   "lever:Zeta",
+   1
+  ],
+  [
+   "adzuna:Neolytix",
+   1
+  ],
+  [
    "adzuna:CredX",
+   1
+  ],
+  [
+   "adzuna:Tushar Trans Equipment Pvt. Ltd.",
+   1
+  ],
+  [
+   "adzuna:Aveva Drug Delivery Systems",
    1
   ],
   [
@@ -1188,6 +1212,10 @@
   ],
   [
    "adzuna:Textron",
+   1
+  ],
+  [
+   "adzuna:BOT Consulting",
    1
   ],
   [
@@ -1215,6 +1243,10 @@
    1
   ],
   [
+   "adzuna:Epiroc",
+   1
+  ],
+  [
    "adzuna:2COMS Consulting Pvt. Ltd.",
    1
   ],
@@ -1232,6 +1264,10 @@
   ],
   [
    "adzuna:Deutsche Bank",
+   1
+  ],
+  [
+   "adzuna:headsquestcom",
    1
   ],
   [
@@ -1291,10 +1327,6 @@
    1
   ],
   [
-   "adzuna:Mindtel",
-   1
-  ],
-  [
    "adzuna:Carrier Corporation",
    1
   ],
@@ -1347,6 +1379,14 @@
    1
   ],
   [
+   "adzuna:Brink’s Inc",
+   1
+  ],
+  [
+   "adzuna:SocialTAG",
+   1
+  ],
+  [
    "adzuna:Dev Technosys Pvt. Ltd.",
    1
   ],
@@ -1387,6 +1427,10 @@
    1
   ],
   [
+   "adzuna:DNEG",
+   1
+  ],
+  [
    "adzuna:MyTravaly Worldwide Travel Technology Pvt Ltd",
    1
   ],
@@ -1420,6 +1464,14 @@
   ],
   [
    "adzuna:HostSpacio Digital Solutions",
+   1
+  ],
+  [
+   "adzuna:Beyond Key",
+   1
+  ],
+  [
+   "adzuna:TIRUPATI",
    1
   ],
   [
@@ -1576,6 +1628,14 @@
   ],
   [
    "adzuna:Suavis",
+   1
+  ],
+  [
+   "adzuna:OwnThriveProner Consultants",
+   1
+  ],
+  [
+   "adzuna:Flender",
    1
   ],
   [
@@ -1747,6 +1807,14 @@
    1
   ],
   [
+   "adzuna:Guidehouse",
+   1
+  ],
+  [
+   "adzuna:nCircle Tech Pvt. Ltd.",
+   1
+  ],
+  [
    "adzuna:LezDo TechMed Private Limited",
    1
   ],
@@ -1843,11 +1911,11 @@
    1
   ],
   [
-   "adzuna:West Pharmaceutical Services",
+   "adzuna:RECEX",
    1
   ],
   [
-   "adzuna:BDX Smart Homes",
+   "adzuna:West Pharmaceutical Services",
    1
   ],
   [
@@ -1864,6 +1932,14 @@
   ],
   [
    "adzuna:Enlighten Schola",
+   1
+  ],
+  [
+   "adzuna:LSC - LifeSciences Consultants",
+   1
+  ],
+  [
+   "adzuna:OLIVER | The Brandtech Group",
    1
   ],
   [
@@ -1903,6 +1979,10 @@
    1
   ],
   [
+   "adzuna:Stripe",
+   1
+  ],
+  [
    "adzuna:Training Basket",
    1
   ],
@@ -1924,6 +2004,18 @@
   ],
   [
    "adzuna:Rampwin Technologies Pvt. Ltd.",
+   1
+  ],
+  [
+   "adzuna:Sansera Engineering Limited",
+   1
+  ],
+  [
+   "adzuna:Wipro",
+   1
+  ],
+  [
+   "adzuna:TechBrein India",
    1
   ],
   [
@@ -2004,22 +2096,6 @@
   ],
   [
    "adzuna:Corporate Stalwarts",
-   1
-  ],
-  [
-   "adzuna:Unique CompSol Private Limited",
-   1
-  ],
-  [
-   "adzuna:Ladybird Web Solution Pvt Ltd",
-   1
-  ],
-  [
-   "adzuna:METRO Global Solution Center IN",
-   1
-  ],
-  [
-   "adzuna:Campus Connect",
    1
   ],
   [

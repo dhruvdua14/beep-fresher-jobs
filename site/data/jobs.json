@@ -1,16 +1,114 @@
 {
- "updated_at": "2026-11-25T21:29+05:30",
- "count": 390,
+ "updated_at": "2026-11-26T16:15+05:30",
+ "count": 416,
  "jobs": [
+  {
+   "id": "d923e787ac38",
+   "title": "Associate, Business Operations",
+   "company": "Razorpay Software Private Limited",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4757678005",
+   "source": "greenhouse",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "b2b9f13a7048",
+   "title": "Software Engineer (UI) - Winter Intern",
+   "company": "Rubrik Job Board",
+   "location": "Bangalore",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+   "source": "greenhouse",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "fc3476f3d337",
+   "title": "Backend Engineering Intern",
+   "company": "Fampay",
+   "location": "Bengaluru",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://jobs.lever.co/fampay/cf014ef0-218a-4041-a238-ff91c7b9a5bc",
+   "source": "lever",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "707bd4b1d691",
+   "title": "Intern",
+   "company": "Zeta",
+   "location": "Bangalore - WF",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.7,
+   "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2",
+   "source": "lever",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "9a2aea144581",
+   "title": "Content Creator (Fresher)",
+   "company": "Mindtel",
+   "location": "Surat, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Content & Communications",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5979044909?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "98be9a0f552a",
+   "title": "Customer Service Consultant",
+   "company": "Sutherland",
+   "location": "Hyderabad, TS, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/Sutherland/744000163660908",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-26"
+  },
   {
    "id": "283fc2776f43",
    "title": "Associate SDE- Pune",
    "company": "Hevodata",
    "location": "Pune, Maharashtra",
-   "cities": [],
-   "role": "Untagged",
-   "level": "Unknown",
-   "confidence": null,
+   "cities": [
+    "Pune"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.8,
    "url": "https://jobs.lever.co/hevodata/21fbe701-e71b-4f45-b865-a497a62a6482",
    "source": "lever",
    "posted_at": "2026-11-25",
@@ -47,6 +145,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-25",
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "20b502c2dce9",
+   "title": "Management Trainee (Freshers) - RCM US Healthcare",
+   "company": "Neolytix",
+   "location": "Industrial Complex Dundahera, Gurgaon, India",
+   "cities": [
+    "Gurugram"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5977379893?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-24",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "2140b591cdbc",
@@ -177,6 +291,22 @@
    "first_seen": "2026-11-23"
   },
   {
+   "id": "a01411a3081d",
+   "title": "ITI Electrical Fresher",
+   "company": "Tushar Trans Equipment Pvt. Ltd.",
+   "location": "Vadodara, Gujarat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5974643418?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-22",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "52c3817b3e8e",
    "title": "Talent Acquisition Intern (Internship PPO)",
    "company": "Outbox Labs",
@@ -223,6 +353,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-22",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "da6461cdf63f",
+   "title": "Junior Executive",
+   "company": "Aveva Drug Delivery Systems",
+   "location": "Balanagar, Hyderabad, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5974339461?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-21",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "99edb4953e34",
@@ -335,6 +481,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-21",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "a04edca80d66",
+   "title": "Junior Accountant",
+   "company": "BOT Consulting",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5972853347?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "b813c61d53f5",
+   "title": "Fresher General Ophthalmologist",
+   "company": "Medico Hub",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5972375215?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "3037ef227bb8",
@@ -479,6 +657,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "a1da183634c0",
+   "title": "Junior Engineer",
+   "company": "Epiroc",
+   "location": "Nashik, Maharashtra, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5971511035?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "14142578242d",
@@ -640,6 +834,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "a1e69bd2bc6b",
+   "title": "Fresher Radiation Oncologist",
+   "company": "Medico Hub",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5969752547?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "5265ca428b67",
+   "title": "HR Executive (Fresher)",
+   "company": "headsquestcom",
+   "location": "India, India",
+   "cities": [
+    "Ahmedabad"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5969948319?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "9175a48739bd",
@@ -1330,6 +1556,39 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "782c11325532",
+   "title": "Junior Executive",
+   "company": "Brink’s Inc",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5966815645?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "3ca3a29eedec",
+   "title": "Junior Business Development Executive",
+   "company": "SocialTAG",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru",
+    "Delhi"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5966815796?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-15",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "39ddd03994b6",
    "title": "SEO Intern",
    "company": "Dev Technosys Pvt. Ltd.",
@@ -1666,6 +1925,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "a1dfe21d9df3",
+   "title": "Tech Junior",
+   "company": "DNEG",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5964762806?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "ccc39340a0d2",
    "title": "Recruitment Internship",
    "company": "MyTravaly Worldwide Travel Technology Pvt Ltd",
@@ -1968,6 +2243,54 @@
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "a58dfe06f838",
+   "title": "Junior Accountant",
+   "company": "Beyond Key",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963434166?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "a9529b071846",
+   "title": "Junior Accountant",
+   "company": "Happiest Resume",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5962007681?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "116bf32f8ee4",
+   "title": "Junior Officer",
+   "company": "TIRUPATI",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963425347?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "acbe81685f38",
@@ -3042,6 +3365,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "1b2a10649ba3",
+   "title": "Junior Recruiter",
+   "company": "OwnThriveProner Consultants",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5961611225?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "511c26c2dcc2",
+   "title": "Junior Engineer - Test Bench",
+   "company": "Flender",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5961903028?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-11",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "cc1acdf7d54c",
    "title": "Technical Author (multiple roles and seniority levels)",
    "company": "Canonical",
@@ -3958,6 +4313,39 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "785bec3410ee",
+   "title": "Junior Service Desk Engineer",
+   "company": "Guidehouse",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5954485908?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ebf071e18b40",
+   "title": "Junior C++ Developer",
+   "company": "nCircle Tech Pvt. Ltd.",
+   "location": "Warje, Pune, India",
+   "cities": [
+    "Pune",
+    "Remote"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5953362436?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "c3e6f62595f1",
    "title": "Internship- Structures",
    "company": "Airbus",
@@ -4655,6 +5043,38 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "cf1892411e01",
+   "title": "Junior Accountant",
+   "company": "RECEX",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5949471943?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "2cde42f9726c",
+   "title": "Junior Site Engineer – Real Estate / Construction",
+   "company": "BDX Smart Homes",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Core Engineering",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5948453905?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "d999fb750e71",
    "title": "Graduate Intern,D&T,Validation & Testing",
    "company": "West Pharmaceutical Services",
@@ -4829,6 +5249,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-01",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "33b624075b90",
+   "title": "Junior Recruiter",
+   "company": "LSC - LifeSciences Consultants",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5947929610?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "a1b2e041eaaf",
+   "title": "Junior Accountant",
+   "company": "OLIVER | The Brandtech Group",
+   "location": "Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5947929568?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "dd36b96ed77c",
@@ -5055,6 +5507,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "796671129f89",
+   "title": "Software Engineer, New Grad",
+   "company": "Stripe",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5947104202?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-30",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "462394e821e5",
    "title": "Trainee Junior Engineer",
    "company": "Wabtec",
@@ -5213,6 +5681,54 @@
    "source": "adzuna",
    "posted_at": "2026-10-30",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "1fed0193bcbb",
+   "title": "JUNIOR ENGINEER",
+   "company": "Sansera Engineering Limited",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5945565129?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "fa5997873e55",
+   "title": "Associate",
+   "company": "Wipro",
+   "location": "India, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5945564778?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "e6a5da4601e7",
+   "title": "Junior Mobile App Developer",
+   "company": "TechBrein India",
+   "location": "Kozhikode, Kerala, India",
+   "cities": [
+    "Kochi"
+   ],
+   "role": "Software Engineering",
+   "level": "Early career",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5945564432?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-29",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "41ad70de837f",
@@ -5389,22 +5905,6 @@
    "source": "adzuna",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-23"
-  },
-  {
-   "id": "c4198a77441e",
-   "title": "Software Engineer, New Grad",
-   "company": "Stripe",
-   "location": "Bangalore",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "source": "greenhouse",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-19"
   },
   {
    "id": "3c6ce465ff2a",
@@ -5663,22 +6163,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "cc9b9be5ef48",
-   "title": "Hiring TeleSales Executives",
-   "company": "Unique CompSol Private Limited",
-   "location": "Mumbai, Maharashtra, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942178658?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-21"
-  },
-  {
    "id": "c2b367f0625f",
    "title": "IN_Bosch Rexroth India_Engineer - Testing",
    "company": "Bosch Group",
@@ -5691,54 +6175,6 @@
    "confidence": 0.9,
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157722162",
    "source": "smartrecruiters",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "8c384b4acc53",
-   "title": "Internship For Software Engineers - Freshers",
-   "company": "Ladybird Web Solution Pvt Ltd",
-   "location": "Dharmapuri, Tamil Nadu, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942245108?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "5db9d6875c21",
-   "title": "Associate - Accounts Payable (Fresher)",
-   "company": "METRO Global Solution Center IN",
-   "location": "Pune, Maharashtra, India",
-   "cities": [
-    "Pune"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5942383573?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-26",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "892a000c9837",
-   "title": "Campus-Connect : Student Mentor",
-   "company": "Campus Connect",
-   "location": "Sonipat, Haryana, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5942139562?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
    "posted_at": "2026-10-26",
    "first_seen": "2026-11-18"
   },
@@ -6190,22 +6626,6 @@
    "url": "https://www.mongodb.com/careers/job/?gh_jid=7318466",
    "source": "greenhouse",
    "posted_at": "2026-07-22",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e8a5b9fc6e1a",
-   "title": "Software Engineer, Intern",
-   "company": "Stripe",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-   "source": "greenhouse",
-   "posted_at": "2026-07-10",
    "first_seen": "2026-11-18"
   },
   {
