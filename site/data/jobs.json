@@ -1,7 +1,23 @@
 {
- "updated_at": "2026-11-26T16:15+05:30",
- "count": 416,
+ "updated_at": "2026-11-26T21:12+05:30",
+ "count": 417,
  "jobs": [
+  {
+   "id": "12866b084aba",
+   "title": "Content - Intern",
+   "company": "Groww",
+   "location": "Bengaluru, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5049076101",
+   "source": "greenhouse",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
   {
    "id": "d923e787ac38",
    "title": "Associate, Business Operations",
@@ -63,6 +79,22 @@
    "confidence": 0.7,
    "url": "https://jobs.lever.co/zeta/331526ff-cb2d-4b93-a812-ff37ebb7edc2",
    "source": "lever",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "0948434b4bb2",
+   "title": "Process Associate",
+   "company": "Bosch Group",
+   "location": "bangalore, , India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163855169",
+   "source": "smartrecruiters",
    "posted_at": "2026-11-26",
    "first_seen": "2026-11-26"
   },
@@ -6546,22 +6578,6 @@
    "url": "https://jobs.ashbyhq.com/sarvam/2fd59d81-b766-4f54-85b3-d0eae08dbfc0",
    "source": "ashby",
    "posted_at": "2026-08-20",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "b13daaf5fac8",
-   "title": "Industrial Trainee - Finance & Accounting",
-   "company": "Sigmoid",
-   "location": "Bengaluru, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002",
-   "source": "greenhouse",
-   "posted_at": "2026-08-14",
    "first_seen": "2026-11-18"
   },
   {

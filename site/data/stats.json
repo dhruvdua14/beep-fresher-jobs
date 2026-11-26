@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T16:15+05:30",
+ "updated_at": "2026-11-26T21:12+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,37 +8,36 @@
  },
  "latest": {
   "date": "2026-11-26",
-  "time": "16:15",
-  "fetched": 10259,
-  "india": 2913,
-  "fresher_rules": 871,
-  "exact_dupes": 109,
-  "fuzzy_dupes": 23,
+  "time": "21:12",
+  "fetched": 10262,
+  "india": 2926,
+  "fresher_rules": 874,
+  "exact_dupes": 110,
+  "fuzzy_dupes": 24,
   "rejected_by_llm": 323,
-  "published": 416,
-  "newly_tagged": 44,
-  "from_cache": 695,
-  "llm_calls": 2,
-  "input_tokens": 7881,
-  "output_tokens": 2258,
-  "cost_usd": 0.005357,
+  "published": 417,
+  "newly_tagged": 2,
+  "from_cache": 738,
+  "llm_calls": 1,
+  "input_tokens": 1171,
+  "output_tokens": 118,
+  "cost_usd": 0.00047,
   "model": "gemini-3.1-flash-lite",
   "boards": 80,
   "by_source": {
-   "greenhouse": 7283,
-   "lever": 745,
-   "ashby": 617,
-   "smartrecruiters": 965,
-   "adzuna": 50
+   "greenhouse": 7281,
+   "lever": 753,
+   "ashby": 616,
+   "smartrecruiters": 963
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3683,
-  "input_tokens": 612250,
-  "output_tokens": 158763,
-  "usd_all_time": 0.391207,
-  "usd_per_1000": 0.1062,
-  "tokens_per_post": 209
+  "posts_tagged_all_time": 3685,
+  "input_tokens": 613421,
+  "output_tokens": 158881,
+  "usd_all_time": 0.391677,
+  "usd_per_1000": 0.1063,
+  "tokens_per_post": 210
  },
  "by_role": [
   [
@@ -51,7 +50,7 @@
   ],
   [
    "Finance & Accounting",
-   44
+   43
   ],
   [
    "Other",
@@ -75,7 +74,7 @@
   ],
   [
    "Customer Success & Support",
-   22
+   23
   ],
   [
    "Consulting & Strategy",
@@ -87,7 +86,7 @@
   ],
   [
    "Content & Communications",
-   9
+   10
   ],
   [
    "Data & Analytics",
@@ -109,7 +108,7 @@
   ],
   [
    "Bengaluru",
-   95
+   96
   ],
   [
    "Mumbai",
@@ -183,7 +182,7 @@
   ],
   [
    "Fresher",
-   189
+   190
   ],
   [
    "Early career",
@@ -197,7 +196,7 @@
   ],
   [
    "Bosch Group",
-   7
+   8
   ],
   [
    "Rubrik Job Board",
@@ -259,7 +258,7 @@
   ],
   [
    "smartrecruiters",
-   20
+   21
   ],
   [
    "lever",
@@ -275,30 +274,6 @@
   ]
  ],
  "history": [
-  {
-   "date": "2026-11-18",
-   "time": "08:52",
-   "fetched": 8194,
-   "india": 1750,
-   "fresher_rules": 50,
-   "exact_dupes": 0,
-   "fuzzy_dupes": 1,
-   "rejected_by_llm": 0,
-   "published": 49,
-   "newly_tagged": 0,
-   "from_cache": 0,
-   "llm_calls": 0,
-   "input_tokens": 0,
-   "output_tokens": 0,
-   "cost_usd": 0.0,
-   "boards": 52,
-   "by_source": {
-    "greenhouse": 6397,
-    "lever": 642,
-    "ashby": 492,
-    "smartrecruiters": 663
-   }
-  },
   {
    "date": "2026-11-18",
    "time": "08:54",
@@ -1036,6 +1011,31 @@
     "ashby": 617,
     "smartrecruiters": 965,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "time": "21:12",
+   "fetched": 10262,
+   "india": 2926,
+   "fresher_rules": 874,
+   "exact_dupes": 110,
+   "fuzzy_dupes": 24,
+   "rejected_by_llm": 323,
+   "published": 417,
+   "newly_tagged": 2,
+   "from_cache": 738,
+   "llm_calls": 1,
+   "input_tokens": 1171,
+   "output_tokens": 118,
+   "cost_usd": 0.00047,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 80,
+   "by_source": {
+    "greenhouse": 7281,
+    "lever": 753,
+    "ashby": 616,
+    "smartrecruiters": 963
    }
   }
  ],

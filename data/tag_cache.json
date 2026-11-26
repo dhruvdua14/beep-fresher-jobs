@@ -9226,5 +9226,25 @@
   "confidence": 1.0,
   "model": "gemini-3.1-flash-lite",
   "v": 7
+ },
+ "12866b084aba": {
+  "role": "Content & Communications",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Internship",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "0948434b4bb2": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
  }
 }
