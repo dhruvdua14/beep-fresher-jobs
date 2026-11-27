@@ -9507,5 +9507,45 @@
   "confidence": 0.9,
   "model": "gemini-3.1-flash-lite",
   "v": 7
+ },
+ "b155c326a649": {
+  "role": "Software Engineering",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Fresher",
+  "confidence": 0.95,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "3f97b678418d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Delhi"
+  ],
+  "level": "Not fresher",
+  "confidence": 1.0,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "14dcab834c5d": {
+  "role": "Software Engineering",
+  "cities": [
+   "Chennai"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.9,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
+ },
+ "ae4816a5e76a": {
+  "role": "Customer Success & Support",
+  "cities": [
+   "Bengaluru"
+  ],
+  "level": "Not fresher",
+  "confidence": 0.85,
+  "model": "gemini-3.1-flash-lite",
+  "v": 7
  }
 }

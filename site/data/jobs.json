@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27T16:17+05:30",
- "count": 423,
+ "updated_at": "2026-11-27T21:01+05:30",
+ "count": 422,
  "jobs": [
   {
    "id": "d610474fab2e",
@@ -691,22 +691,6 @@
    "first_seen": "2026-11-21"
   },
   {
-   "id": "9dfc8a2e17f9",
-   "title": "Product User Research, Intern",
-   "company": "Sarvam",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Product",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://jobs.ashbyhq.com/sarvam/0a5bf81d-3370-47e6-88f4-14aa5102ba72",
-   "source": "ashby",
-   "posted_at": "2026-11-20",
-   "first_seen": "2026-11-20"
-  },
-  {
    "id": "148c89ae680c",
    "title": "Junior Product designer – AI Prototyping",
    "company": "Techglora Integrated IT services",
@@ -930,6 +914,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "b155c326a649",
+   "title": "Software Engineer I - Backend  (Kirana Club)",
+   "company": "Meesho",
+   "location": "Bangalore, Karnataka",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Software Engineering",
+   "level": "Fresher",
+   "confidence": 0.95,
+   "url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+   "source": "lever",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "921a7423699b",
@@ -6192,22 +6192,6 @@
    "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
    "source": "greenhouse",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "cbfe1945806a",
-   "title": "Scriptwriter (YouTube)",
-   "company": "Headout",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Content & Communications",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/headout/eda2d2ae-13ca-4b99-8a87-98e4b473f866",
-   "source": "ashby",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
   },

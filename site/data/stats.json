@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T16:17+05:30",
+ "updated_at": "2026-11-27T21:01+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,36 +8,35 @@
  },
  "latest": {
   "date": "2026-11-27",
-  "time": "16:17",
-  "fetched": 10307,
-  "india": 2957,
-  "fresher_rules": 892,
+  "time": "21:01",
+  "fetched": 10297,
+  "india": 2956,
+  "fresher_rules": 891,
   "exact_dupes": 113,
   "fuzzy_dupes": 23,
   "rejected_by_llm": 333,
-  "published": 423,
-  "newly_tagged": 26,
-  "from_cache": 730,
+  "published": 422,
+  "newly_tagged": 4,
+  "from_cache": 751,
   "llm_calls": 1,
-  "input_tokens": 4181,
-  "output_tokens": 1012,
-  "cost_usd": 0.002563,
+  "input_tokens": 1588,
+  "output_tokens": 205,
+  "cost_usd": 0.000705,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7277,
-   "lever": 761,
-   "ashby": 629,
-   "smartrecruiters": 958,
-   "adzuna": 50
+   "greenhouse": 7266,
+   "lever": 764,
+   "ashby": 627,
+   "smartrecruiters": 958
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3711,
-  "input_tokens": 617602,
-  "output_tokens": 159893,
-  "usd_all_time": 0.39424,
-  "usd_per_1000": 0.1062,
+  "posts_tagged_all_time": 3715,
+  "input_tokens": 619190,
+  "output_tokens": 160098,
+  "usd_all_time": 0.394945,
+  "usd_per_1000": 0.1063,
   "tokens_per_post": 210
  },
  "by_role": [
@@ -47,7 +46,7 @@
   ],
   [
    "Software Engineering",
-   49
+   50
   ],
   [
    "Finance & Accounting",
@@ -91,11 +90,11 @@
   ],
   [
    "Content & Communications",
-   10
+   9
   ],
   [
    "Product",
-   6
+   5
   ],
   [
    "AI / ML",
@@ -109,7 +108,7 @@
   ],
   [
    "Bengaluru",
-   96
+   95
   ],
   [
    "Mumbai",
@@ -179,7 +178,7 @@
  "by_level": [
   [
    "Internship",
-   207
+   206
   ],
   [
    "Fresher",
@@ -263,7 +262,7 @@
   ],
   [
    "lever",
-   18
+   19
   ],
   [
    "greenhouse",
@@ -271,35 +270,10 @@
   ],
   [
    "ashby",
-   4
+   2
   ]
  ],
  "history": [
-  {
-   "date": "2026-11-18",
-   "time": "09:00",
-   "fetched": 9115,
-   "india": 2184,
-   "fresher_rules": 519,
-   "exact_dupes": 53,
-   "fuzzy_dupes": 9,
-   "rejected_by_llm": 257,
-   "published": 200,
-   "newly_tagged": 457,
-   "from_cache": 0,
-   "llm_calls": 12,
-   "input_tokens": 43596,
-   "output_tokens": 18842,
-   "cost_usd": 0.039162,
-   "model": "gemini-3.1-flash-lite",
-   "boards": 63,
-   "by_source": {
-    "greenhouse": 6988,
-    "lever": 642,
-    "ashby": 492,
-    "smartrecruiters": 993
-   }
-  },
   {
    "date": "2026-11-18",
    "time": "09:06",
@@ -1039,6 +1013,31 @@
     "ashby": 629,
     "smartrecruiters": 958,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "time": "21:01",
+   "fetched": 10297,
+   "india": 2956,
+   "fresher_rules": 891,
+   "exact_dupes": 113,
+   "fuzzy_dupes": 23,
+   "rejected_by_llm": 333,
+   "published": 422,
+   "newly_tagged": 4,
+   "from_cache": 751,
+   "llm_calls": 1,
+   "input_tokens": 1588,
+   "output_tokens": 205,
+   "cost_usd": 0.000705,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7266,
+    "lever": 764,
+    "ashby": 627,
+    "smartrecruiters": 958
    }
   }
  ],
