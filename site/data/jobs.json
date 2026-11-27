@@ -1,7 +1,39 @@
 {
- "updated_at": "2026-11-26T21:12+05:30",
- "count": 417,
+ "updated_at": "2026-11-27T16:17+05:30",
+ "count": 423,
  "jobs": [
+  {
+   "id": "d610474fab2e",
+   "title": "Research Associate",
+   "company": "NielsenIQ",
+   "location": "Vadodara, GJ, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Data & Analytics",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000164002838",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b3044ed9f941",
+   "title": "Delivery Rider – Immediate Hiring",
+   "company": "Corvi Technologies",
+   "location": "Fraser Town, Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5979097999?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-27"
+  },
   {
    "id": "12866b084aba",
    "title": "Content - Intern",
@@ -691,6 +723,38 @@
    "first_seen": "2026-11-20"
   },
   {
+   "id": "1c8fa843566d",
+   "title": "We Are hiring For office work",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5971860812?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "90ecd4cb863d",
+   "title": "We Are Hiring Billing Executive",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5971849839?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-27"
+  },
+  {
    "id": "a1da183634c0",
    "title": "Junior Engineer",
    "company": "Epiroc",
@@ -866,6 +930,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-19",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "921a7423699b",
+   "title": "We Are Hiring Office Executive",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5970547842?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-18",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "a1e69bd2bc6b",
@@ -1186,6 +1266,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-18",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "4de8a3b7aca2",
+   "title": "Hiring FMCG Sales Executive- Kolkata",
+   "company": "2coms",
+   "location": "Khengrapatti, Kolkata, India",
+   "cities": [
+    "Kolkata"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5968301880?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-17",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "dc7e01b81b14",
@@ -1955,6 +2051,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-14",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "babfa49761b3",
+   "title": "Hiring Telecaller for a company at Pandesara, Surat",
+   "company": "EducoHire",
+   "location": "Pandesara, Surat, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5963565657?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "bba6fdc4b209",
+   "title": "Hiring || German Language Trainer - Odisha",
+   "company": "2coms",
+   "location": "Dhenkanal, Orissa, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Other",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5963566050?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-13",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "a1dfe21d9df3",
@@ -3753,6 +3881,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "e66727695510",
+   "title": "Media Relations & Communications Associate –Fresher",
+   "company": "Harmony United Psychiatric Care",
+   "location": "India, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Content & Communications",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5959666439?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-10",
+   "first_seen": "2026-11-18"
+  },
+  {
    "id": "2aa08514d152",
    "title": "Graduate Trainee Engineer – Sales (Shroff)",
    "company": "nVent",
@@ -3863,6 +4007,22 @@
    "source": "smartrecruiters",
    "posted_at": "2026-11-09",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "672a27c0b455",
+   "title": "We Are Hiring Packing Supervisor",
+   "company": "Global Job Placement",
+   "location": "Morbi, Rajkot, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Operations & Supply Chain",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5958319963?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-08",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "a6d80750763b",
@@ -4345,6 +4505,23 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "fc2f85984cca",
+   "title": "Hiring || Service Engineer (Medical Devices)",
+   "company": "2coms",
+   "location": "Chandni Chowk, North Delhi, India",
+   "cities": [
+    "Delhi",
+    "Gurugram"
+   ],
+   "role": "Core Engineering",
+   "level": "Early career",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5953363525?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "first_seen": "2026-11-27"
+  },
+  {
    "id": "785bec3410ee",
    "title": "Junior Service Desk Engineer",
    "company": "Guidehouse",
@@ -4616,6 +4793,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-04",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "6157588f1ace",
+   "title": "Hiring for Customer Support Executive",
+   "company": "Wroots Global Private Limited",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5952342360?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-04",
+   "first_seen": "2026-11-21"
   },
   {
    "id": "f92ffb6c77f2",
@@ -5073,6 +5266,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-02",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c5f48150ce03",
+   "title": "URGENT HIRING FOR HR RECRUITER",
+   "company": "Hucon Solutions India Private Limited",
+   "location": "Hyderabad, Telangana, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Fresher",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5948509338?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-01",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "cf1892411e01",
@@ -6115,86 +6324,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "bd42782d35a5",
-   "title": "Data Entry Operator",
-   "company": "Tibarumal Gems & Jewels",
-   "location": "Hyderabad, Telangana, India",
-   "cities": [
-    "Hyderabad"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942976340?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "a55bbe1ec661",
-   "title": "Data Entry / Computer Operator",
-   "company": "Sisco Jobs",
-   "location": "Srirangam, Tiruchirappalli, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943126920?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "e66727695510",
-   "title": "Media Relations & Communications Associate –Fresher",
-   "company": "Harmony United Psychiatric Care",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Content & Communications",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942816735?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "99d83fc4f4d0",
-   "title": "Graduate Trainee",
-   "company": "Corporate Stalwarts",
-   "location": "T B Nagar, Ahmedabad, India",
-   "cities": [
-    "Ahmedabad"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5942785596?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "1a1409f81c56",
-   "title": "Graduate Trainee - GISOCC R&D DSIS",
-   "company": "Valeo",
-   "location": "Chennai, Tamil Nadu, India",
-   "cities": [
-    "Chennai"
-   ],
-   "role": "Core Engineering",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943348375?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-27",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c2b367f0625f",
    "title": "IN_Bosch Rexroth India_Engineer - Testing",
    "company": "Bosch Group",
@@ -6565,22 +6694,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "02368608bc33",
-   "title": "GTM & Strategy, Model API",
-   "company": "Sarvam",
-   "location": "Bengaluru",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Consulting & Strategy",
-   "level": "Early career",
-   "confidence": 0.9,
-   "url": "https://jobs.ashbyhq.com/sarvam/2fd59d81-b766-4f54-85b3-d0eae08dbfc0",
-   "source": "ashby",
-   "posted_at": "2026-08-20",
-   "first_seen": "2026-11-18"
-  },
-  {
    "id": "c9b7bef16dce",
    "title": "Support Associate (Pune)",
    "company": "Agoda",
@@ -6658,22 +6771,6 @@
    "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
    "source": "lever",
    "posted_at": "2026-05-01",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "886bf6eb1ce5",
-   "title": "Sales Development Representative",
-   "company": "Datadog",
-   "location": "Bangalore, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Sales & Business Development",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://careers.datadoghq.com/detail/7531575/?gh_jid=7531575",
-   "source": "greenhouse",
-   "posted_at": "2026-01-13",
    "first_seen": "2026-11-18"
   },
   {
