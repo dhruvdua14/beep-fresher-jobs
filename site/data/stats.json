@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T15:46+05:30",
+ "updated_at": "2026-11-28T19:58+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -8,28 +8,27 @@
  },
  "latest": {
   "date": "2026-11-28",
-  "time": "15:46",
-  "fetched": 10319,
-  "india": 2955,
+  "time": "19:58",
+  "fetched": 10318,
+  "india": 2954,
   "fresher_rules": 898,
   "exact_dupes": 111,
   "fuzzy_dupes": 25,
   "rejected_by_llm": 330,
   "published": 432,
-  "newly_tagged": 19,
-  "from_cache": 743,
-  "llm_calls": 1,
-  "input_tokens": 3467,
-  "output_tokens": 1002,
-  "cost_usd": 0.00237,
-  "model": "gemini-3.1-flash-lite",
+  "newly_tagged": 0,
+  "from_cache": 762,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0,
+  "model": null,
   "boards": 81,
   "by_source": {
-   "greenhouse": 7289,
+   "greenhouse": 7288,
    "lever": 764,
    "ashby": 627,
-   "smartrecruiters": 957,
-   "adzuna": 50
+   "smartrecruiters": 957
   }
  },
  "cost": {
@@ -275,32 +274,6 @@
   ]
  ],
  "history": [
-  {
-   "date": "2026-11-18",
-   "time": "09:10",
-   "fetched": 9842,
-   "india": 2450,
-   "fresher_rules": 304,
-   "exact_dupes": 35,
-   "fuzzy_dupes": 3,
-   "rejected_by_llm": 178,
-   "published": 88,
-   "newly_tagged": 61,
-   "from_cache": 205,
-   "llm_calls": 2,
-   "input_tokens": 10034,
-   "output_tokens": 2572,
-   "cost_usd": 0.006366,
-   "model": "gemini-3.1-flash-lite",
-   "boards": 81,
-   "by_source": {
-    "greenhouse": 7310,
-    "lever": 761,
-    "ashby": 678,
-    "smartrecruiters": 993,
-    "adzuna": 100
-   }
-  },
   {
    "date": "2026-11-18",
    "time": "09:13",
@@ -1039,6 +1012,31 @@
     "ashby": 627,
     "smartrecruiters": 957,
     "adzuna": 50
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:58",
+   "fetched": 10318,
+   "india": 2954,
+   "fresher_rules": 898,
+   "exact_dupes": 111,
+   "fuzzy_dupes": 25,
+   "rejected_by_llm": 330,
+   "published": 432,
+   "newly_tagged": 0,
+   "from_cache": 762,
+   "llm_calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "cost_usd": 0.0,
+   "model": null,
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7288,
+    "lever": 764,
+    "ashby": 627,
+    "smartrecruiters": 957
    }
   }
  ],
