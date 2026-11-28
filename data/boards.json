@@ -2,7 +2,7 @@
  "answered": {
   "greenhouse:acko": 0,
   "greenhouse:agoda": 328,
-  "greenhouse:airbnb": 201,
+  "greenhouse:airbnb": 200,
   "greenhouse:airtribe": 0,
   "greenhouse:ajio": 0,
   "greenhouse:almabase": 0,
@@ -14,7 +14,7 @@
   "greenhouse:bewakoof": 0,
   "greenhouse:bhanzu": 0,
   "greenhouse:bharatpe": 0,
-  "greenhouse:binance": 225,
+  "greenhouse:binance": 223,
   "greenhouse:blackbuck": 0,
   "greenhouse:bluestone": 32,
   "greenhouse:boat": 0,
@@ -31,7 +31,7 @@
   "greenhouse:cleartax": 0,
   "greenhouse:cleartrip": 0,
   "greenhouse:clevertap": 0,
-  "greenhouse:cloudflare": 533,
+  "greenhouse:cloudflare": 532,
   "greenhouse:cohesity": 0,
   "greenhouse:coinbase": 256,
   "greenhouse:coindcx": 0,
@@ -44,8 +44,8 @@
   "greenhouse:cuemath": 0,
   "greenhouse:curefit": 0,
   "greenhouse:darwinbox": 0,
-  "greenhouse:databricks": 883,
-  "greenhouse:datadog": 390,
+  "greenhouse:databricks": 889,
+  "greenhouse:datadog": 392,
   "greenhouse:dealshare": 0,
   "greenhouse:deel": 0,
   "greenhouse:deepintent": 22,
@@ -74,7 +74,7 @@
   "greenhouse:freshworks": 0,
   "greenhouse:frontier": 0,
   "greenhouse:games24x7": 0,
-  "greenhouse:gitlab": 243,
+  "greenhouse:gitlab": 244,
   "greenhouse:glance": 21,
   "greenhouse:glean": 0,
   "greenhouse:gojek": 0,
@@ -98,7 +98,7 @@
   "greenhouse:inmobi": 63,
   "greenhouse:innovaccer": 0,
   "greenhouse:insurancedekho": 0,
-  "greenhouse:intercom": 134,
+  "greenhouse:intercom": 135,
   "greenhouse:ixigo": 0,
   "greenhouse:jar": 0,
   "greenhouse:jar-app": 0,
@@ -192,9 +192,9 @@
   "greenhouse:rivigo": 0,
   "greenhouse:rocketlane": 0,
   "greenhouse:rooter": 0,
-  "greenhouse:rubrik": 223,
+  "greenhouse:rubrik": 231,
   "greenhouse:sahaj": 0,
-  "greenhouse:samsara": 292,
+  "greenhouse:samsara": 297,
   "greenhouse:sarvam": 0,
   "greenhouse:sarvam-ai": 0,
   "greenhouse:scaler": 0,
@@ -222,7 +222,7 @@
   "greenhouse:squareyards": 0,
   "greenhouse:stashfin": 0,
   "greenhouse:stockgro": 0,
-  "greenhouse:stripe": 765,
+  "greenhouse:stripe": 771,
   "greenhouse:sugar": 0,
   "greenhouse:sumologic": 26,
   "greenhouse:superjoin": 0,
@@ -234,7 +234,7 @@
   "greenhouse:thoughtworks": 0,
   "greenhouse:tide": 94,
   "greenhouse:tigeranalytics": 0,
-  "greenhouse:toast": 299,
+  "greenhouse:toast": 298,
   "greenhouse:toplyne": 0,
   "greenhouse:toptal": 0,
   "greenhouse:transferwise": 0,
@@ -271,7 +271,7 @@
   "greenhouse:zoho": 0,
   "greenhouse:zomato": 0,
   "greenhouse:zoomcar": 0,
-  "greenhouse:zscaler": 386,
+  "greenhouse:zscaler": 385,
   "greenhouse:zupee": 0,
   "lever:acko": 0,
   "lever:agoda": 0,
@@ -831,7 +831,7 @@
   "smartrecruiters:Experian": 44,
   "smartrecruiters:Abbott": 0,
   "smartrecruiters:Canva": 0,
-  "smartrecruiters:NielsenIQ": 82,
+  "smartrecruiters:NielsenIQ": 81,
   "smartrecruiters:PublicisGroupe": 0,
   "smartrecruiters:Sutherland": 51,
   "smartrecruiters:TaskUs": 0,
@@ -923,16 +923,16 @@
  },
  "listed_per_company": [
   [
+   "adzuna:2coms",
+   10
+  ],
+  [
    "lever:Paytm",
    10
   ],
   [
    "smartrecruiters:Bosch Group",
    8
-  ],
-  [
-   "adzuna:2coms",
-   6
   ],
   [
    "adzuna:Global Job Placement",
@@ -951,8 +951,8 @@
    5
   ],
   [
-   "adzuna:Happiest Resume",
-   5
+   "smartrecruiters:NielsenIQ",
+   4
   ],
   [
    "lever:Hevodata",
@@ -983,7 +983,7 @@
    4
   ],
   [
-   "smartrecruiters:NielsenIQ",
+   "adzuna:Metayb Metayb",
    3
   ],
   [
@@ -1012,6 +1012,10 @@
   ],
   [
    "adzuna:Sid's Farm",
+   3
+  ],
+  [
+   "adzuna:Happiest Resume",
    3
   ],
   [
@@ -1044,6 +1048,10 @@
   ],
   [
    "adzuna:GE HealthCare",
+   2
+  ],
+  [
+   "adzuna:Enveu",
    2
   ],
   [
@@ -1103,11 +1111,11 @@
    2
   ],
   [
-   "adzuna:Turno",
+   "adzuna:Harmony United Psychiatric Care",
    2
   ],
   [
-   "adzuna:Metayb Metayb",
+   "adzuna:Turno",
    2
   ],
   [
@@ -1132,10 +1140,6 @@
   ],
   [
    "adzuna:Ansi ByteCode LLP",
-   2
-  ],
-  [
-   "adzuna:Kuche7",
    2
   ],
   [
@@ -1175,12 +1179,32 @@
    2
   ],
   [
+   "adzuna:Anaxee Digital Runners",
+   2
+  ],
+  [
    "greenhouse:HackerRank Careers",
    2
   ],
   [
    "greenhouse:MongoDB",
    2
+  ],
+  [
+   "adzuna:Cittaa Health",
+   1
+  ],
+  [
+   "adzuna:Delveio Consulting",
+   1
+  ],
+  [
+   "adzuna:AppsForBharat",
+   1
+  ],
+  [
+   "adzuna:ALS",
+   1
   ],
   [
    "adzuna:Corvi Technologies",
@@ -1192,6 +1216,18 @@
   ],
   [
    "lever:Zeta",
+   1
+  ],
+  [
+   "adzuna:Vizmo",
+   1
+  ],
+  [
+   "adzuna:Freight Tiger",
+   1
+  ],
+  [
+   "adzuna:Adaan",
    1
   ],
   [
@@ -1207,6 +1243,10 @@
    1
   ],
   [
+   "adzuna:Lumoslogic",
+   1
+  ],
+  [
    "adzuna:Aveva Drug Delivery Systems",
    1
   ],
@@ -1216,6 +1256,10 @@
   ],
   [
    "adzuna:Textron",
+   1
+  ],
+  [
+   "adzuna:SecurityBoat",
    1
   ],
   [
@@ -1244,6 +1288,10 @@
   ],
   [
    "adzuna:Techglora Integrated IT services",
+   1
+  ],
+  [
+   "adzuna:Vyas Business Consulting Private limited",
    1
   ],
   [
@@ -1627,10 +1675,6 @@
    1
   ],
   [
-   "adzuna:Enveu",
-   1
-  ],
-  [
    "adzuna:Roquette",
    1
   ],
@@ -1695,15 +1739,15 @@
    1
   ],
   [
+   "adzuna:Kuche7",
+   1
+  ],
+  [
    "adzuna:Empower HR Solutions",
    1
   ],
   [
    "adzuna:MasterTech Web Applications",
-   1
-  ],
-  [
-   "adzuna:Harmony United Psychiatric Care",
    1
   ],
   [
@@ -1999,10 +2043,6 @@
    1
   ],
   [
-   "adzuna:Anaxee Digital Runners",
-   1
-  ],
-  [
    "adzuna:Stripe",
    1
   ],
@@ -2076,30 +2116,6 @@
   ],
   [
    "adzuna:Cyber Infrastructure",
-   1
-  ],
-  [
-   "adzuna:Growing Stars Consulting Private Limited",
-   1
-  ],
-  [
-   "adzuna:Cyboard School",
-   1
-  ],
-  [
-   "adzuna:DataCouch",
-   1
-  ],
-  [
-   "adzuna:CDM Smith",
-   1
-  ],
-  [
-   "adzuna:Swiss Beauty Cosmetics Private Limited",
-   1
-  ],
-  [
-   "adzuna:Avery Dennison",
    1
   ],
   [

@@ -1,7 +1,104 @@
 {
- "updated_at": "2026-11-27T21:01+05:30",
- "count": 422,
+ "updated_at": "2026-11-28T15:46+05:30",
+ "count": 432,
  "jobs": [
+  {
+   "id": "50bfd72e6beb",
+   "title": "Jr. Customer Support Analyst",
+   "company": "NielsenIQ",
+   "location": "Pune, MH, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000164125329",
+   "source": "smartrecruiters",
+   "posted_at": "2026-11-28",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "545cc50ce012",
+   "title": "Occupational Therapist (OT) – Fresher / Intern",
+   "company": "Cittaa Health",
+   "location": "New Maruthi Nagar, Hyderabad, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Other",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5980126243?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "b2a7575212ab",
+   "title": "Hiring Freshers for Field Sales",
+   "company": "2coms",
+   "location": "Chandigarh, India, India",
+   "cities": [
+    "Chandigarh",
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5980126235?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "2e102839de18",
+   "title": "Content Writer Intern",
+   "company": "Delveio Consulting",
+   "location": "Mapusa, North Goa, India",
+   "cities": [
+    "Other India"
+   ],
+   "role": "Content & Communications",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5980126258?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "7b48120eef7e",
+   "title": "SEO Intern",
+   "company": "AppsForBharat",
+   "location": "India, India",
+   "cities": [
+    "Remote"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5980918224?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "9759d8e3d467",
+   "title": "Chemist - Fresher",
+   "company": "ALS",
+   "location": "Bangalore, Karnataka, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Core Engineering",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5980690105?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-27",
+   "first_seen": "2026-11-28"
+  },
   {
    "id": "d610474fab2e",
    "title": "Research Associate",
@@ -17,6 +114,22 @@
    "source": "smartrecruiters",
    "posted_at": "2026-11-27",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "cb3ab3e3478c",
+   "title": "CMA Freshers",
+   "company": "Metayb Metayb",
+   "location": "Chennai, Tamil Nadu, India",
+   "cities": [
+    "Chennai"
+   ],
+   "role": "Finance & Accounting",
+   "level": "Fresher",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5979866319?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-26",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "b3044ed9f941",
@@ -145,6 +258,109 @@
    "source": "adzuna",
    "posted_at": "2026-11-26",
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "765fd9404786",
+   "title": "Product Intern",
+   "company": "Vizmo",
+   "location": "Cahmrajendrapet, Bangalore, India",
+   "cities": [
+    "Bengaluru"
+   ],
+   "role": "Product",
+   "level": "Internship",
+   "confidence": 1.0,
+   "url": "https://www.adzuna.in/details/5978681624?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "6252838d859f",
+   "title": "Business Development Trainee- Freshers",
+   "company": "2coms",
+   "location": "Bazargate, Mumbai, India",
+   "cities": [
+    "Mumbai",
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5978681965?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "e39c5c3a476e",
+   "title": "Field Sales Trainee- Freshers",
+   "company": "2coms",
+   "location": "Chandni Chowk, North Delhi, India",
+   "cities": [
+    "Delhi",
+    "Jaipur",
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5978681974?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "94ea9f06abe9",
+   "title": "Hiring Field Sales - Freshers",
+   "company": "2coms",
+   "location": "Richmond Town, Bangalore, India",
+   "cities": [
+    "Bengaluru",
+    "Chennai",
+    "Hyderabad",
+    "Coimbatore",
+    "Other India"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Fresher",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5978681970?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "87817b9f7118",
+   "title": "Telesales Intern",
+   "company": "Freight Tiger",
+   "location": "Navi Mumbai, Maharashtra, India",
+   "cities": [
+    "Mumbai"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5978241946?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "6f3caa171f7c",
+   "title": "Data Processing Intern",
+   "company": "Adaan",
+   "location": "Delhi, India, India",
+   "cities": [
+    "Delhi"
+   ],
+   "role": "Data & Analytics",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5978628759?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-25",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "98be9a0f552a",
@@ -419,6 +635,23 @@
    "first_seen": "2026-11-23"
   },
   {
+   "id": "eee2f45bd956",
+   "title": "Talent Acquisition Intern",
+   "company": "Lumoslogic",
+   "location": "India, India",
+   "cities": [
+    "Remote",
+    "Ahmedabad"
+   ],
+   "role": "HR & Recruiting",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5974085298?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-21",
+   "first_seen": "2026-11-28"
+  },
+  {
    "id": "da6461cdf63f",
    "title": "Junior Executive",
    "company": "Aveva Drug Delivery Systems",
@@ -545,6 +778,38 @@
    "source": "adzuna",
    "posted_at": "2026-11-21",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "bbab83c5f5ae",
+   "title": "Devops Intern",
+   "company": "Enveu",
+   "location": "Noida, Ghaziabad, India",
+   "cities": [
+    "Noida"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5973084883?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "6d8932c49641",
+   "title": "Business Development Intern",
+   "company": "SecurityBoat",
+   "location": "Bavdhan, Pune, India",
+   "cities": [
+    "Pune"
+   ],
+   "role": "Sales & Business Development",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5973147301?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-20",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "a04edca80d66",
@@ -705,6 +970,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-20",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "c2f3bbc01d67",
+   "title": "Digital Marketing Intern",
+   "company": "Vyas Business Consulting Private limited",
+   "location": "Jaipur, Rajasthan, India",
+   "cities": [
+    "Jaipur"
+   ],
+   "role": "Marketing",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5970719323?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-19",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "1c8fa843566d",
@@ -2403,6 +2684,22 @@
    "source": "adzuna",
    "posted_at": "2026-11-13",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "e3a3922370db",
+   "title": "Trainee Executive – Freshers – Customer Support Intern – Voice Process",
+   "company": "Harmony United Psychiatric Care",
+   "location": "Golconda, Hyderabad, India",
+   "cities": [
+    "Hyderabad"
+   ],
+   "role": "Customer Success & Support",
+   "level": "Internship",
+   "confidence": 0.9,
+   "url": "https://www.adzuna.in/details/5962220490?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-11-12",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "a58dfe06f838",
@@ -5492,6 +5789,22 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "be9e039f3e82",
+   "title": "Quality Assurance Intern",
+   "company": "Anaxee Digital Runners",
+   "location": "Indore, Madhya Pradesh, India",
+   "cities": [
+    "Indore"
+   ],
+   "role": "Software Engineering",
+   "level": "Internship",
+   "confidence": 0.8,
+   "url": "https://www.adzuna.in/details/5947779293?utm_medium=api&utm_source=fe7c6c25",
+   "source": "adzuna",
+   "posted_at": "2026-10-31",
+   "first_seen": "2026-11-28"
+  },
+  {
    "id": "33b624075b90",
    "title": "Junior Recruiter",
    "company": "LSC - LifeSciences Consultants",
@@ -6132,54 +6445,6 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": "9342e064ecf7",
-   "title": "Management Trainee (Collections & Dispute Management)",
-   "company": "Growing Stars Consulting Private Limited",
-   "location": "Delhi, India, India",
-   "cities": [
-    "Delhi"
-   ],
-   "role": "Finance & Accounting",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5944444489?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-23"
-  },
-  {
-   "id": "3c6ce465ff2a",
-   "title": "Support Intern",
-   "company": "Cyboard School",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Internship",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943994127?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": "f9dff7d9142b",
-   "title": "Technical Intern",
-   "company": "DataCouch",
-   "location": "Chandigarh, India, India",
-   "cities": [
-    "Chandigarh"
-   ],
-   "role": "Software Engineering",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5944629417?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-19"
-  },
-  {
    "id": "25faa54ef236",
    "title": "AI Researcher Intern",
    "company": "HackerRank Careers",
@@ -6192,102 +6457,6 @@
    "confidence": 0.9,
    "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
    "source": "greenhouse",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "c891bdfb69ba",
-   "title": "Entry Marketing Analyst",
-   "company": "CDM Smith",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Marketing",
-   "level": "Fresher",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5944172332?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "acaa1c84fa57",
-   "title": "Data Entry operator",
-   "company": "Happiest Resume",
-   "location": "Jhajjar, Haryana, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943907316?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "143bfe4bbbc7",
-   "title": "Data Entry operator",
-   "company": "Happiest Resume",
-   "location": "Agra, Uttar Pradesh, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Other",
-   "level": "Fresher",
-   "confidence": 0.9,
-   "url": "https://www.adzuna.in/details/5943907374?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "4e2a54918708",
-   "title": "Junior QC Engineer",
-   "company": "Kuche7",
-   "location": "Bhiwandi, Thane, India",
-   "cities": [
-    "Mumbai"
-   ],
-   "role": "Core Engineering",
-   "level": "Early career",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5943994138?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "bbba80e098d9",
-   "title": "Intern - DMS Operations",
-   "company": "Swiss Beauty Cosmetics Private Limited",
-   "location": "India, India",
-   "cities": [
-    "Other India"
-   ],
-   "role": "Operations & Supply Chain",
-   "level": "Internship",
-   "confidence": 0.8,
-   "url": "https://www.adzuna.in/details/5943994131?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
-   "posted_at": "2026-10-28",
-   "first_seen": "2026-11-18"
-  },
-  {
-   "id": "74d65cc59d09",
-   "title": "Internship - Customer Service (Bangalore)",
-   "company": "Avery Dennison",
-   "location": "Bangalore, Karnataka, India",
-   "cities": [
-    "Bengaluru"
-   ],
-   "role": "Customer Success & Support",
-   "level": "Internship",
-   "confidence": 1.0,
-   "url": "https://www.adzuna.in/details/5944465942?utm_medium=api&utm_source=fe7c6c25",
-   "source": "adzuna",
    "posted_at": "2026-10-28",
    "first_seen": "2026-11-18"
   },

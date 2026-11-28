@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T21:01+05:30",
+ "updated_at": "2026-11-28T15:46+05:30",
  "model": "gemini-3.1-flash-lite",
  "price": {
   "input_per_m": 0.25,
@@ -7,36 +7,37 @@
   "usd_to_inr": 84.0
  },
  "latest": {
-  "date": "2026-11-27",
-  "time": "21:01",
-  "fetched": 10297,
-  "india": 2956,
-  "fresher_rules": 891,
-  "exact_dupes": 113,
-  "fuzzy_dupes": 23,
-  "rejected_by_llm": 333,
-  "published": 422,
-  "newly_tagged": 4,
-  "from_cache": 751,
+  "date": "2026-11-28",
+  "time": "15:46",
+  "fetched": 10319,
+  "india": 2955,
+  "fresher_rules": 898,
+  "exact_dupes": 111,
+  "fuzzy_dupes": 25,
+  "rejected_by_llm": 330,
+  "published": 432,
+  "newly_tagged": 19,
+  "from_cache": 743,
   "llm_calls": 1,
-  "input_tokens": 1588,
-  "output_tokens": 205,
-  "cost_usd": 0.000705,
+  "input_tokens": 3467,
+  "output_tokens": 1002,
+  "cost_usd": 0.00237,
   "model": "gemini-3.1-flash-lite",
   "boards": 81,
   "by_source": {
-   "greenhouse": 7266,
+   "greenhouse": 7289,
    "lever": 764,
    "ashby": 627,
-   "smartrecruiters": 958
+   "smartrecruiters": 957,
+   "adzuna": 50
   }
  },
  "cost": {
-  "posts_tagged_all_time": 3715,
-  "input_tokens": 619190,
-  "output_tokens": 160098,
-  "usd_all_time": 0.394945,
-  "usd_per_1000": 0.1063,
+  "posts_tagged_all_time": 3734,
+  "input_tokens": 622657,
+  "output_tokens": 161100,
+  "usd_all_time": 0.397315,
+  "usd_per_1000": 0.1064,
   "tokens_per_post": 210
  },
  "by_role": [
@@ -46,7 +47,11 @@
   ],
   [
    "Software Engineering",
-   50
+   51
+  ],
+  [
+   "Sales & Business Development",
+   45
   ],
   [
    "Finance & Accounting",
@@ -54,23 +59,19 @@
   ],
   [
    "Operations & Supply Chain",
-   43
+   42
   ],
   [
    "Other",
-   41
+   40
   ],
   [
    "HR & Recruiting",
-   39
-  ],
-  [
-   "Sales & Business Development",
-   39
+   40
   ],
   [
    "Marketing",
-   30
+   31
   ],
   [
    "Customer Success & Support",
@@ -81,20 +82,20 @@
    12
   ],
   [
+   "Data & Analytics",
+   11
+  ],
+  [
    "Consulting & Strategy",
    11
   ],
   [
-   "Data & Analytics",
+   "Content & Communications",
    10
   ],
   [
-   "Content & Communications",
-   9
-  ],
-  [
    "Product",
-   5
+   6
   ],
   [
    "AI / ML",
@@ -104,55 +105,55 @@
  "by_city": [
   [
    "Other India",
-   111
+   112
   ],
   [
    "Bengaluru",
-   95
+   96
   ],
   [
    "Mumbai",
-   40
+   41
   ],
   [
    "Pune",
-   28
+   30
   ],
   [
    "Hyderabad",
-   26
+   29
   ],
   [
    "Remote",
-   23
+   25
   ],
   [
    "Chennai",
-   22
+   24
   ],
   [
    "Noida",
-   20
+   21
+  ],
+  [
+   "Ahmedabad",
+   15
   ],
   [
    "Gurugram",
    14
   ],
   [
-   "Ahmedabad",
-   14
+   "Delhi",
+   11
   ],
   [
-   "Delhi",
+   "Jaipur",
    10
   ],
   [
    "Indore",
-   9
-  ],
-  [
-   "Jaipur",
-   8
+   10
   ],
   [
    "Kolkata",
@@ -164,7 +165,7 @@
   ],
   [
    "Coimbatore",
-   4
+   5
   ],
   [
    "Thiruvananthapuram",
@@ -178,18 +179,22 @@
  "by_level": [
   [
    "Internship",
-   206
+   214
   ],
   [
    "Fresher",
-   195
+   198
   ],
   [
    "Early career",
-   21
+   20
   ]
  ],
  "by_company": [
+  [
+   "2coms",
+   10
+  ],
   [
    "Paytm",
    10
@@ -197,10 +202,6 @@
   [
    "Bosch Group",
    8
-  ],
-  [
-   "2coms",
-   6
   ],
   [
    "Global Job Placement",
@@ -219,8 +220,8 @@
    5
   ],
   [
-   "Happiest Resume",
-   5
+   "NielsenIQ",
+   4
   ],
   [
    "Hevodata",
@@ -254,11 +255,11 @@
  "by_source": [
   [
    "adzuna",
-   365
+   374
   ],
   [
    "smartrecruiters",
-   22
+   23
   ],
   [
    "lever",
@@ -274,32 +275,6 @@
   ]
  ],
  "history": [
-  {
-   "date": "2026-11-18",
-   "time": "09:06",
-   "fetched": 9842,
-   "india": 2451,
-   "fresher_rules": 308,
-   "exact_dupes": 16,
-   "fuzzy_dupes": 6,
-   "rejected_by_llm": 161,
-   "published": 125,
-   "newly_tagged": 286,
-   "from_cache": 0,
-   "llm_calls": 8,
-   "input_tokens": 48665,
-   "output_tokens": 13768,
-   "cost_usd": 0.032818,
-   "model": "gemini-3.1-flash-lite",
-   "boards": 81,
-   "by_source": {
-    "greenhouse": 7310,
-    "lever": 761,
-    "ashby": 678,
-    "smartrecruiters": 993,
-    "adzuna": 100
-   }
-  },
   {
    "date": "2026-11-18",
    "time": "09:10",
@@ -1038,6 +1013,32 @@
     "lever": 764,
     "ashby": 627,
     "smartrecruiters": 958
+   }
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:46",
+   "fetched": 10319,
+   "india": 2955,
+   "fresher_rules": 898,
+   "exact_dupes": 111,
+   "fuzzy_dupes": 25,
+   "rejected_by_llm": 330,
+   "published": 432,
+   "newly_tagged": 19,
+   "from_cache": 743,
+   "llm_calls": 1,
+   "input_tokens": 3467,
+   "output_tokens": 1002,
+   "cost_usd": 0.00237,
+   "model": "gemini-3.1-flash-lite",
+   "boards": 81,
+   "by_source": {
+    "greenhouse": 7289,
+    "lever": 764,
+    "ashby": 627,
+    "smartrecruiters": 957,
+    "adzuna": 50
    }
   }
  ],
